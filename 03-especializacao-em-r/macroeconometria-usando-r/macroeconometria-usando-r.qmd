@@ -1,0 +1,103 @@
+---
+title: '<a href="https://analisemacro.com.br/" target="_blank"><img src="https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png" alt="Logotipo Análise Macro" width="150"></a>  <br>  **Macroeconometria usando R**'
+subtitle: "Programa e informações gerais do curso"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+theme:
+  light: flatly
+---
+
+# Resumo
+
+O curso de Macroeconometria usando R ensina a estimar modelos macroeconômicos com dados reais usando a linguagem R. A proposta é percorrer o ciclo completo da análise: coletar os dados, tratá-los, modelar e interpretar resultados, sempre com foco em variáveis macroeconômicas brasileiras.
+
+O conteúdo parte do modelo novo-keynesiano como pano de fundo e avança pelos métodos econométricos necessários para lidar com séries temporais. São tratados problemas típicos desse tipo de dado, como autocorrelação, heterocedasticidade e endogeneidade, junto com as soluções aplicadas na prática: a matriz de Newey-West, mínimos quadrados em dois estágios e o método dos momentos generalizado. Esses métodos são então usados para estimar relações como a Curva de Phillips, a Curva IS e a função de reação do Banco Central.
+
+O curso é voltado a economistas e analistas que querem ir além da opinião e sustentar conclusões com dados. Os exercícios aplicados usam séries brasileiras reais e mostram como transformar uma pergunta macroeconômica em um modelo estimável no R.
+
+| | |
+|---|---|
+| **Categoria** | Especialização em R |
+| **Carga horária total** | 28 horas |
+| **Horas de vídeo** | 7 horas |
+| **Número de aulas** | 24 |
+| **Nível** | Intermediário a avançado |
+| **Certificado** | Sim, ao concluir o curso |
+
+# Pré-requisitos e Objetivos
+
+## Pré-requisitos
+
+É necessário saber programar na linguagem R. O curso parte do princípio de que o aluno já manipula objetos, escreve funções básicas e importa dados no R, concentrando-se na aplicação dos métodos econométricos e não no ensino da linguagem.
+
+Também ajuda ter familiaridade com conceitos de macroeconomia e de estatística/econometria, como regressão linear e séries temporais.
+
+## O que você será capaz de fazer
+
+- Entender determinantes de oferta, demanda e os efeitos da política econômica a partir da estimação de modelos.
+- Construir modelos causais para medir o impacto de uma variável sobre outra.
+- Estimar relações macroeconômicas clássicas no R, como a Curva de Phillips, a Curva IS e a função de reação do Banco Central.
+- Lidar com problemas comuns de séries temporais, como autocorrelação, heterocedasticidade e endogeneidade.
+- Escrever scripts automatizados para reaplicar os modelos a novos dados.
+
+## Habilidades e ferramentas
+
+- Linguagem R para coleta, tratamento e modelagem de dados macroeconômicos.
+- Regressão linear para séries temporais e correção de erros-padrão com a matriz de Newey-West.
+- Estimação com variáveis instrumentais: mínimos quadrados em dois estágios (TSLS) e método dos momentos generalizado (GMM).
+- Trabalho com séries macroeconômicas brasileiras reais (inflação, juros, câmbio, atividade e expectativas).
+
+# Programa Detalhado
+
+O curso é organizado em seções temáticas, agrupadas em quatro blocos.
+
+**Bloco 1 — Apresentação geral do curso e discussão do estado da arte da macroeconomia através do modelo novo-keynesiano.**
+
+- **Seção 01:** Apresentação do Curso
+- **Seção 02:** O modelo básico novo-keynesiano
+
+**Bloco 2 — Revisão do modelo básico de regressão linear para séries temporais, abordando problemas típicos como autocorrelação, heterocedasticidade e endogeneidade, além de alternativas como a matriz de Newey-West e o uso de variáveis instrumentais.**
+
+- **Seção 03:** Regressão Linear para Séries Temporais
+- **Seção 04:** Mínimos Quadrados em 2 Estágios (TSLS)
+- **Seção 05:** Método dos Momentos Generalizado (GMM)
+
+**Bloco 3 — Estimativas no R de uma Curva de Phillips, uma Curva IS, uma equação da inclinação da Curva de Juros e uma função de reação do Banco Central, com o uso de variáveis instrumentais.**
+
+- **Seção 06:** A Curva de Phillips com restrição de verticalidade estimada com instrumentos
+- **Seção 07:** A Curva IS estimada com instrumentos
+- **Seção 08:** A função de reação do Banco Central estimada com instrumentos
+- **Seção 09:** A Curva do prêmio do swap pré-DI 360 estimada com instrumentos
+
+**Bloco 4 — Exercícios macroeconométricos com variáveis macroeconômicas brasileiras reais, visando relacionar as variáveis e ilustrar o uso do R para análise de dados macroeconômicos.**
+
+- **Seção 10:** Construindo exercícios aplicados de macroeconometria
+- **Seção 11:** Ampliando a série de desemprego da PNAD Contínua
+- **Seção 12:** O IBC-Br é um bom preditor do PIB?
+- **Seção 13:** Meta de Inflação e Expectativas dos Agentes
+- **Seção 14:** Construindo um modelo para a inflação de alimentos
+- **Seção 15:** Estimando a inércia inflacionária
+- **Seção 16:** Estimando o juro neutro para o Brasil
+- **Seção 17:** O Banco Central deve reagir a um choque de preços administrados?
+- **Seção 18:** Medindo o efeito da volatilidade sobre a taxa de câmbio
+- **Seção 19:** Como o Banco Central reage a choques cambiais?
+- **Seção 20:** Usando swaps cambiais para reagir a choques
+- **Seção 21:** Estimando a volatilidade da taxa de câmbio
+- **Seção 22:** Estimando o repasse externo sobre a inflação brasileira
+- **Seção 23:** Ancoragem de Expectativas
+- **Seção 24:** Juro a pessoa física: um modelo explicativo
+- **Seção 25:** A Bolsa é um bom preditor para o PIB?
+
+# Inscrição
+
+A matrícula dá acesso às videoaulas, aos slides e aos códigos para reproduzir as estimações no R, além de certificado ao concluir o curso e suporte para dúvidas sobre o conteúdo.
+
+- 📄 **Página do curso:** <https://analisemacro.com.br/curso/macroeconometria-usando-r/>
+- 🛒 **Matrícula:** <https://aluno.analisemacro.com.br/carrinho/?add-to-cart=137>

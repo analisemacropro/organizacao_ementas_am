@@ -1,0 +1,115 @@
+---
+title: '<a href="https://analisemacro.com.br/" target="_blank"><img src="https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png" alt="Logotipo Análise Macro" width="150"></a>  <br>  **Programação em R para Análise de Dados**'
+subtitle: "Programa e informações gerais do curso"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+theme:
+  light: flatly
+---
+
+# Resumo
+
+A linguagem R é uma das principais ferramentas para coletar, tratar, analisar e apresentar dados. Este curso percorre todo esse processo, da instalação dos programas até a automatização das etapas de coleta, limpeza e visualização, usando o RStudio como ambiente de trabalho e o ecossistema `tidyverse` como base.
+
+O curso foi pensado para quem está começando. Não há pré-requisitos: estudantes e profissionais de mercado sem experiência em programação saem do zero e constroem análises práticas para resolver os desafios do dia a dia com dados. O conteúdo avança de forma gradual, partindo dos fundamentos da linguagem até ferramentas mais avançadas de análise.
+
+Ao final, você terá domínio da linguagem para aplicá-la em estudo, pesquisa e trabalho, automatizando análises e apresentando resultados de forma clara.
+
+| Item | Descrição |
+|---|---|
+| **Categoria** | Básicos de R |
+| **Carga horária total** | 120 horas |
+| **Horas de vídeo** | 30 horas |
+| **Número de aulas** | 49 |
+| **Nível** | Iniciante a avançado |
+| **Certificado** | Sim |
+
+# Pré-requisitos e Objetivos
+
+## Pré-requisitos
+
+Não há pré-requisitos. O curso foi projetado para que pessoas sem experiência em programação e ciência de dados comecem do zero e avancem até o nível avançado.
+
+## O que você será capaz de fazer
+
+- Dominar os fundamentos da linguagem R.
+- Utilizar o ecossistema de pacotes `tidyverse` para manipular dados.
+- Coletar dados de forma automatizada, a partir de arquivos, APIs e páginas web.
+- Tratar e limpar dados de diferentes formatos e estruturas.
+- Realizar análises de forma reprodutível e automatizada.
+- Apresentar resultados com gráficos e elementos de *storytelling*.
+
+## Habilidades e ferramentas
+
+- **Linguagem R**, escrita e organizada em *scripts*.
+- **RStudio** como ambiente de trabalho.
+- **tidyverse** para coleta, tratamento e visualização de dados.
+- **ggplot2** para produção de gráficos.
+- Acesso a fontes de dados via arquivos (.csv, Excel, JSON, XML), APIs, SQL, Google Sheets, Google Drive e Web Scraping.
+
+# Programa Detalhado
+
+## Fundamentos da linguagem
+
+1. Por que usar uma linguagem de programação para analisar dados?
+2. Instalando os programas necessários
+3. Instalando pacotes e entendendo as mensagens no Console
+4. Introdução ao mundo `tidyverse`
+5. Criando `scripts`
+6. Lidando com objetos no R
+7. Estruturas de Dados (data frames, listas, matrizes, vetores)
+8. Operadores lógicos e aritméticos
+9. O operador `pipe`
+10. Funções
+11. Estruturas de repetição e de decisão
+
+## Coleta de dados
+
+12. Introdução à coleta de dados
+13. Trabalhando com arquivos .csv
+14. Trabalhando com arquivos Excel
+15. O que são APIs e como utilizá-las?
+16. Consumindo dados brasileiros
+17. Trabalhando com SQL
+18. Trabalhando com Google Sheets
+19. Trabalhando com Google Drive
+20. Trabalhando com arquivos JSON
+21. Trabalhando com arquivos XML
+22. Exportando dados
+23. Introdução à Web Scraping
+
+## Tratamento de dados
+
+24. Introdução à limpeza de dados
+25. Tratamento de dados textuais
+26. Renomeando colunas
+27. Selecionando colunas
+28. Como criar e alterar colunas
+29. Como aplicar filtros em linhas
+30. Como fazer operações por grupos de dados
+31. Como sumarizar os dados
+32. Formato long vs wide
+33. Como fazer cruzamento de dados
+34. Lidando com datas no R
+35. Identificando e tratando dados faltantes
+36. Como deflacionar uma série
+37. Como fazer ajuste sazonal
+
+## Visualização de dados
+
+38. Introdução à visualização de dados e *storytelling*
+39. Produzindo gráficos com ggplot2
+
+# Inscrição
+
+A matrícula dá acesso às aulas do curso, ao material de apoio e ao suporte para tirar dúvidas. Ao concluir, você recebe o certificado de 120 horas em Programação em R para Análise de Dados.
+
+- 📄 **Página do curso:** <https://analisemacro.com.br/curso/programacao-em-r-para-analise-de-dados/>
+- 🛒 **Matrícula:** <https://aluno.analisemacro.com.br/carrinho/?add-to-cart=45535>

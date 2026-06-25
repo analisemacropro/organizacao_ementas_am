@@ -1,0 +1,92 @@
+---
+title: '<a href="https://analisemacro.com.br/" target="_blank"><img src="https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png" alt="Logotipo Análise Macro" width="150"></a>  <br>  **Modelos Preditivos de Machine Learning usando R**'
+subtitle: "Programa e informações gerais do curso"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+theme:
+  light: flatly
+---
+
+# Resumo
+
+O curso ensina a construir modelos de machine learning em R para prever variáveis macroeconômicas brasileiras, como IPCA, IGP-M, taxa de câmbio, crédito, nível de atividade, desemprego, Selic e variáveis fiscais e externas. O foco é montar um ambiente automático de previsão que vai da coleta dos dados até a apresentação dos resultados, sem depender de planilhas de Excel ou de softwares pagos.
+
+O trabalho é totalmente hands-on. Para cada variável você automatiza a coleta, faz o tratamento dos dados, treina e testa diferentes algoritmos, gera previsões fora da amostra e monta um dashboard em Shiny para visualizar os resultados. Ao longo do curso são aplicados algoritmos como Regressão, LASSO, Bagging, CSR, Random Forest, Redes Neurais, Árvores de Decisão e SVM, entre outros.
+
+O curso é voltado a quem trabalha com análise de variáveis macroeconômicas e quer automatizar esse processo com programação: estudantes de pós-graduação interessados em modelos de previsão, professores de ensino e pesquisa em modelos preditivos e profissionais de mercado que buscam ferramentas avançadas de forecasting.
+
+| Ficha técnica | |
+|---|---|
+| **Categoria** | Especialização em R |
+| **Carga horária total** | 120 horas |
+| **Horas de vídeo** | 30 horas |
+| **Número de aulas** | 27 |
+| **Nível** | Avançado |
+| **Certificado** | Sim |
+
+# Pré-requisitos e Objetivos
+
+## Pré-requisitos
+
+- Saber programar com a linguagem R
+- Estatística aplicada
+- Econometria aplicada
+- Análise de séries temporais
+- Macroeconomia aplicada e análise de conjuntura
+
+## O que você será capaz de fazer
+
+- Implementar na prática modelos de machine learning para previsão de variáveis macroeconômicas
+- Automatizar a coleta e o tratamento das variáveis usadas nos modelos
+- Construir um ambiente automático que cobre coleta, tratamento, modelagem e apresentação dos resultados
+- Treinar e testar diferentes algoritmos e gerar previsões fora da amostra
+- Desenvolver dashboards em Shiny para visualizar as projeções de cada variável
+
+## Habilidades e ferramentas
+
+- **Linguagem:** R
+- **Dashboards:** Shiny
+- **Algoritmos:** Regressão, LASSO, Bagging, CSR, Random Forest, Redes Neurais, Árvores de Decisão, SVM, entre outros
+- **Aplicações:** automatização da coleta de dados, tratamento de séries, treino e teste de modelos, previsão fora da amostra
+
+# Programa Detalhado
+
+- Seção 01 — Apresentação do Curso e Introdução a Modelos Preditivos
+- Seção 02 — Modelos de Previsão para a inflação medida pelo IPCA
+- Seção 03 — Criando um dashboard em Shiny para previsão da inflação (IPCA)
+- Seção 04 — Modelos de Previsão para a Produção Industrial
+- Seção 05 — Dashboard em Shiny para previsão da Produção Industrial
+- Seção 06 — Prevendo os Serviços (PMS)
+- Seção 07 — Dashboard em Shiny para previsão de Serviços
+- Seção 08 — Modelando as Vendas do Comércio (PMC)
+- Seção 09 — Dashboard em Shiny para previsão das Vendas do Comércio
+- Seção 10 — Nowcasting do PIB
+- Seção 11 — Dashboard de Nowcasting do PIB
+- Seção 12 — Modelo de Previsão do Desemprego (PNAD Contínua)
+- Seção 13 — Dashboard de previsão para o desemprego
+- Seção 14 — Modelo de Previsão para Crédito a Pessoa Física
+- Seção 15 — Dashboard de previsão do Crédito a Pessoa Física
+- Seção 16 — Modelo de Previsão para a Taxa Selic
+- Seção 17 — Dashboard de Previsão para a Taxa Selic
+- Seção 18 — Modelo de Previsão para a taxa de câmbio R$/US$
+- Seção 19 — Dashboard de previsão da taxa de câmbio R$/US$
+- Seção 20 — Modelos de Previsão do IGP-M
+- Seção 21 — Dashboard de previsão do IGP-M
+- Seção 22 — Previsão de Variáveis Fiscais Brasileiras
+- Seção 23 — Dashboard de Previsão de Variáveis Fiscais Brasileiras
+- Seção 24 — Previsão de Variáveis Externas
+- Seção 25 — Dashboard de Previsão de Variáveis Externas
+
+# Inscrição
+
+A matrícula dá acesso às aulas em vídeo, aos slides e códigos para download, ao suporte da IA Jobs (disponível 24/7) e ao certificado de conclusão do curso.
+
+- 📄 **Página do curso:** <https://analisemacro.com.br/curso/modelos-preditivos-de-machine-learning/>
+- 🛒 **Matrícula:** <https://aluno.analisemacro.com.br/carrinho/?add-to-cart=32701>

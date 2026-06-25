@@ -1,0 +1,97 @@
+---
+title: '<a href="https://analisemacro.com.br/" target="_blank"><img src="https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png" alt="Logotipo Análise Macro" width="150"></a>  <br>  **Análise de Séries Temporais usando R**'
+subtitle: "Programa e informações gerais do curso"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+theme:
+  light: flatly
+---
+
+# Resumo
+
+O curso é uma introdução aplicada à análise de séries temporais com uso intensivo da linguagem R. A partir de variáveis macroeconômicas reais, ele apresenta as principais ferramentas usadas por acadêmicos e profissionais de mercado para coletar, tratar, modelar e prever dados que evoluem ao longo do tempo.
+
+O conteúdo parte dos primeiros passos com séries temporais e avança até a construção de modelos multivariados. O percurso cobre regressões com séries temporais, modelos univariados como ARMA, ARIMA e SARIMA, e modelos multivariados como VAR, SVAR e VEC, sempre acompanhados de estudos de caso desenvolvidos pela própria Análise Macro.
+
+É indicado para profissionais de mercado em busca de ferramentas analíticas mais sofisticadas, professores e pesquisadores, e estudantes de pós-graduação que pretendam produzir dissertações, teses ou papers usando séries temporais.
+
+| | |
+|---|---|
+| **Categoria** | Especialização em R |
+| **Carga horária total** | 40 horas |
+| **Horas de vídeo** | 10 horas |
+| **Número de aulas** | 30 |
+| **Nível** | Intermediário |
+| **Certificado** | Sim, de conclusão |
+
+# Pré-requisitos e Objetivos
+
+## Pré-requisitos
+
+- Conhecimento da linguagem R
+- Estatística aplicada
+- Econometria aplicada
+
+## O que você será capaz de fazer
+
+- Entender o que é uma série temporal e conduzir a análise exploratória dos dados
+- Estimar regressões envolvendo séries temporais e interpretar seus resultados
+- Construir modelos univariados de previsão com a metodologia Box-Jenkins (ARMA, ARIMA e SARIMA)
+- Aplicar testes de estacionariedade e de causalidade na avaliação das séries
+- Estimar e interpretar modelos multivariados (VAR, SVAR, VEC e VEC estrutural)
+- Trabalhar com cointegração e modelos de correção de erros
+- Coletar, tratar, modelar e apresentar séries temporais em projetos reais de previsão
+
+## Habilidades e ferramentas
+
+- Linguagem R
+- RStudio
+- Processos ARMA, ARIMA e SARIMA
+- Metodologia Box-Jenkins
+- Vetores autorregressivos (VAR e SVAR)
+- Cointegração e Vetor de Correção de Erros (VEC)
+- Testes de causalidade de Granger e procedimento de Toda-Yamamoto
+
+# Programa Detalhado
+
+O curso é composto por 25 seções, organizadas em quatro grandes partes: introdução à séries temporais, regressões envolvendo séries temporais, modelos univariados e modelos multivariados.
+
+1. Seção 01 - Apresentação do Curso
+2. Seção 02 - Características de Séries Temporais
+3. Seção 03 - Regressão de Séries Temporais e Análise Exploratória de Dados
+4. Seção 04 - Estudo de Caso: Estimando uma Curva IS via OLS, TSLS e GMM
+5. Seção 05 - Introdução a Modelos Univariados
+6. Seção 06 - Funções de Autocorrelação
+7. Seção 07 - Processos ARMA
+8. Seção 08 - Testes de Estacionariedade
+9. Seção 09 - Metodologia Box-Jenkins: construindo modelos univariados de previsão
+10. Seção 10 - Estudo de Caso: construindo um modelo SARIMA para a inflação brasileira
+11. Seção 11 - Introdução a Modelos Multivariados
+12. Seção 12 - Vetores Autorregressivos
+13. Seção 13 - Estudo de Caso: usando modelos VAR para previsão
+14. Seção 14 - Modelo VAR Estrutural (SVAR)
+15. Seção 15 - Estudo de Caso: Análise de funções impulso-resposta
+16. Seção 16 - Regressões Espúrias
+17. Seção 17 - O conceito de cointegração e o modelo de correção de erros
+18. Seção 18 - Estudo de Caso: Dívida Bruta e Incerteza Econômica
+19. Seção 19 - A metodologia de Johansen e o Vetor de Correção de Erros (VEC)
+20. Seção 20 - Estudo de Caso: Previsão do Desemprego medido pela PNAD através de um modelo VEC
+21. Seção 21 - VEC Estrutural
+22. Seção 22 - Teste de Causalidade de Granger
+23. Seção 23 - O procedimento de Toda-Yamamoto
+24. Seção 24 - Estudo de Caso: Consumo de Energia Elétrica e Crescimento do PIB
+25. Seção 25 - Estudo de Caso: Uma comparação econométrica entre o CAGED e a PNAD Contínua
+
+# Inscrição
+
+A matrícula dá acesso às aulas em vídeo, aos slides e códigos para download, ao certificado de conclusão e ao suporte para tirar dúvidas com a equipe ao longo do curso.
+
+- 📄 **Página do curso:** <https://analisemacro.com.br/curso/analise-de-series-temporais/>
+- 🛒 **Matrícula:** <https://aluno.analisemacro.com.br/carrinho/?add-to-cart=132>

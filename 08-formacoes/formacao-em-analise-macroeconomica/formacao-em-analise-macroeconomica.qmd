@@ -1,0 +1,137 @@
+---
+title: '<a href="https://analisemacro.com.br/" target="_blank"><img src="https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png" alt="Logotipo Análise Macro" width="150"></a>  <br>  **Formação em Análise Macroeconômica**'
+subtitle: "Programa e informações gerais da formação"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+theme:
+  light: flatly
+---
+
+# Resumo
+
+A Formação em Análise Macroeconômica é uma trilha completa para quem quer pensar como economista, agir como cientista de dados e enxergar como estrategista. Ela reúne, numa sequência ordenada, vários cursos, um workshop e uma imersão que cobrem todo o ciclo da análise econômica — da coleta e tratamento de dados até a modelagem, a previsão e a comunicação dos resultados.
+
+O foco é unir o rigor da teoria econômica ao poder dos dados. Você aprende a dominar políticas monetária e fiscal, ciclos de crescimento, inflação e mercado de trabalho, e a aplicar modelos econométricos, aprendizado de máquina e inteligência artificial à análise macroeconômica real, usando Python e R.
+
+A formação é organizada em blocos que vão do nivelamento técnico ao projeto final. Cada bloco agrega cursos próprios e atividades práticas aplicadas, de modo que o conhecimento se acumula bloco a bloco até o aluno conduzir, sozinho, uma análise macroeconômica do início ao fim.
+
+| Item | Detalhe |
+|---|---|
+| **Categoria** | Formações |
+| **Carga horária total** | 250 horas |
+| **Horas de vídeo** | 120 horas |
+| **Número de aulas** | 145 aulas |
+| **Certificado** | Certificados individuais por curso + certificado final da Formação |
+| **Acesso** | 48 meses de acesso à plataforma e aos conteúdos |
+
+# Pré-requisitos e Objetivos
+
+## Pré-requisitos
+
+Não há pré-requisitos formais para começar pelo Bloco 1, que faz o nivelamento técnico. Os blocos seguintes pressupõem o conteúdo do nivelamento: programação em Python e R, além de noções de estatística, econometria e séries temporais — habilidades construídas dentro da própria trilha.
+
+A formação atende:
+
+- Economistas e analistas de research que desejam elevar o nível técnico, incorporando machine learning e IA à análise macroeconômica;
+- Profissionais do mercado financeiro, consultorias e órgãos públicos que precisam entender o impacto de políticas monetárias, fiscais e setoriais em tempo real;
+- Pesquisadores, professores e estudantes de economia que buscam uma formação completa, integrada e aplicada;
+- Cientistas e analistas de dados que querem aplicar modelos preditivos e inteligência artificial a contextos econômicos reais.
+
+## O que você será capaz de fazer
+
+Ao final da formação, você será capaz de conduzir todo o processo de análise macroeconômica — da coleta e tratamento de dados até a construção de modelos e previsões baseadas em evidências. Na prática, isso significa transformar dados brutos em análises de conjuntura, estimar modelos quantitativos, gerar previsões e automatizar relatórios e apresentações.
+
+## Habilidades e ferramentas
+
+Competências desenvolvidas:
+
+- Domínio dos principais indicadores macroeconômicos e suas inter-relações;
+- Modelagem econométrica e preditiva com Python e R;
+- Fundamentos e aplicação de machine learning e IA generativa;
+- Automação de análises, relatórios e dashboards macroeconômicos;
+- Leitura crítica de conjuntura baseada em evidências e dados em tempo real;
+- Comunicação clara de resultados complexos;
+- Pensamento científico para formular e testar hipóteses econômicas.
+
+Ferramentas utilizadas: Python, R, SQL, Google Colab, Jupyter, Posit (RStudio), Quarto, GitHub e AI Studio.
+
+# Programa Detalhado
+
+A trilha é organizada em seis blocos. Cada bloco agrega cursos, atividades práticas e, em alguns casos, workshops, imersões e mentorias. A ordem abaixo segue a progressão recomendada da formação.
+
+## Bloco 1 – Boas-Vindas e Nivelamento
+
+Apresentação da plataforma, da metodologia AM e da estrutura da formação, com um encontro inicial para definir o plano de estudos. A parte prática ensina a coletar, organizar e analisar dados econômicos reais com SQL, R e Python.
+
+- Boas-Vindas à Plataforma
+- Boas-Vindas à Formação
+- Mentoria inicial com o Cientista-Chefe
+- Como Pensar com Dados
+- SQL para Negócios e Tomada de Decisão
+- Programação em R para Análise de Dados
+- Programação em Python para Análise de Dados
+- SQL para Economia e Finanças
+- Prática: Como Analisar Dados usando SQL, R e Python?
+
+## Bloco 2 – Fundamentos da Análise Macroeconômica
+
+Construção de análises macroeconômicas completas, transformando dados brutos em gráficos, tabelas e relatórios interpretativos. Trabalha indicadores como IPCA, IPCA-15, PIB, PIM-PF, PMS, PMC, IBC-Br e PNAD Contínua trimestral, explorando variações, sazonalidade e tendências.
+
+- Teoria Macroeconômica
+- Análise de Conjuntura
+- Prática: Como Construir Análises Macroeconômicas?
+
+## Bloco 3 – Métodos Quantitativos
+
+Uso de Python e R para desenvolver análises quantitativas macroeconômicas completas: retropolação da taxa de desocupação, NAIRU para o Brasil, sensibilidade do desemprego ao crescimento, impulso de crédito, ancoragem de expectativas, hiato do produto e mensuração de riscos inflacionários com regressão quantílica.
+
+- Estatística para Análise de Dados usando R
+- Estatística para Análise de Dados usando Python
+- Econometria Aplicada em Python
+- Econometria Aplicada em R
+- Modelagem e Previsão usando R
+- Modelagem e Previsão usando Python
+- Prática: Métodos Quantitativos Aplicados à Macroeconomia
+
+## Bloco 4 – Modelagem e Previsão Macroeconômica
+
+Desenvolvimento de previsões econômicas e modelos macroeconométricos avançados com Python e R: nowcasting do PIB, previsão econométrica e com machine learning, modelos de Markov Switching, espaço-estado para inflação, análise de causalidades, decomposição de erros de previsão e modelos de inflação, dívida pública e resultado primário.
+
+- Análise de Séries Temporais usando R
+- Análise de Séries Temporais usando Python
+- Macroeconometria usando R
+- Macroeconometria usando Python
+- Modelos Preditivos de Machine Learning
+- Previsão Macroeconômica usando Python e IA
+- Prática: Previsão e Macroeconometria
+
+## Bloco 5 – Inteligência Artificial Aplicada à Macroeconomia
+
+Extração de valor de dados textuais e aplicação de IA a variáveis macroeconômicas com Python e R: pré-processamento de textos, análise de sentimentos, similaridade, text mining, uso de machine learning e LLMs para interpretar comunicados do FED e do Copom, e topic modeling (LDA) para descobrir os temas dos comunicados.
+
+- Inteligência Artificial para Economistas
+- Workshop: Como Criar um Agente de IA Econometrista
+- Imersão: Econometria vs IA na Previsão Macro
+- Prática: Análise Macroeconômica com NLP e IA
+
+## Bloco 6 – Projeto Final
+
+Automação da produção de relatórios e apresentações de conjuntura com IA, R e Python, da criação de relatórios interativos e painéis dinâmicos à geração automática de textos e gráficos. O bloco encerra a formação com a construção do portfólio e a mentoria final.
+
+- Construção de Portfólio Macroeconômico
+- Mentoria Final
+- Prática: Criando Relatórios Macroeconômicos
+
+# Inscrição
+
+A matrícula dá acesso a toda a trilha da Formação em Análise Macroeconômica — os cursos, o workshop, a imersão, as atividades práticas e as mentorias de todos os blocos —, com 48 meses de acesso à plataforma, certificados individuais por curso e certificado final da formação. Para conhecer os detalhes ou se inscrever, use os links abaixo.
+
+- 📄 **Página da formação:** <https://analisemacro.com.br/formacao/formacao-em-analise-macroeconomica/>
+- 🛒 **Matrícula:** <https://aluno.analisemacro.com.br/carrinho/?add-to-cart=68043>

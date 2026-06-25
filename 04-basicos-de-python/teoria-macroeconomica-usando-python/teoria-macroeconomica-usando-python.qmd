@@ -1,0 +1,93 @@
+---
+title: '<a href="https://analisemacro.com.br/" target="_blank"><img src="https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png" alt="Logotipo Análise Macro" width="150"></a>  <br>  **Teoria Macroeconômica usando Python**'
+subtitle: "Programa e informações gerais do curso"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+theme:
+  light: flatly
+---
+
+# Resumo
+
+Este curso apresenta a teoria macroeconômica do jeito que ela é usada por quem trabalha com economia no dia a dia. Cada conceito é primeiro definido e depois colocado em prática com Python, hoje uma das principais linguagens de programação do mercado.
+
+A ideia é que conceitos que parecem difíceis fiquem mais simples quando você os vê funcionando em dados reais. Você aprende a coletar e tratar variáveis macroeconômicas como PIB, inflação e taxa de juros, vindas de fontes brasileiras e internacionais, e a usar essas séries para entender os modelos que estão por trás delas.
+
+O curso é indicado para quem quer aprender macroeconomia com ferramentas modernas de análise: estudantes, economistas, analistas e profissionais que já programam em Python e querem ligar a teoria à prática.
+
+| Item | Detalhe |
+|------|---------|
+| Categoria | Básicos de Python |
+| Carga horária total | 48 horas |
+| Horas de vídeo | 12 horas |
+| Número de aulas | 18 |
+| Nível | Intermediário |
+| Certificado | Sim, emitido pela Análise Macro |
+
+# Pré-requisitos e Objetivos
+
+## Pré-requisitos
+
+O pré-requisito é saber programar com a linguagem Python. Não é necessário conhecimento prévio de macroeconomia: os conceitos da disciplina são construídos ao longo do curso, do básico ao mais avançado.
+
+## O que você será capaz de fazer
+
+- Entender e dominar os conceitos fundamentais da macroeconomia.
+- Coletar e tratar dados macroeconômicos de fontes brasileiras e internacionais.
+- Analisar as Contas Nacionais Trimestrais a partir dos dados do SIDRA.
+- Medir o ciclo econômico e o hiato do produto com diferentes métodos.
+- Construir e interpretar modelos macroeconômicos de curto e de longo prazo.
+- Aplicar Python para implementar modelos como o de Solow e analisar microdados.
+
+## Habilidades e ferramentas
+
+- Linguagem **Python** para coleta, tratamento e análise de dados macroeconômicos.
+- Deflacionamento de séries e construção de variáveis em termos reais.
+- Acesso e tratamento de dados das Contas Nacionais (SIDRA) e da PNAD Contínua.
+- Estimação do hiato do produto: filtro HP, função de produção, filtro de Kalman e filtro de Hamilton.
+- Datação de ciclos econômicos com o algoritmo de Harding-Pagan.
+- Implementação de modelos macroeconômicos de curto prazo (Curva de Phillips, Curva IS e Regra de Taylor) e de crescimento (modelo de Solow e extensões).
+
+# Programa Detalhado
+
+1. Introdução à Macroeconomia
+2. Projeto de Curso 01 - Deflacionando dados no Python
+3. Contas Nacionais Trimestrais
+4. Projeto de Curso 02 - Análise das Contas Nacionais do SIDRA no Python
+5. A economia no curto prazo: entendendo o ciclo econômico e o hiato do produto
+   - Explicando o modelo macroeconômico básico de três equações
+   - O que é uma Curva de Phillips
+   - O que é uma Curva IS
+   - O que é uma Regra de Taylor
+6. Projeto de Curso 03a - Construindo o hiato do produto no Python
+   - O que é um filtro HP
+   - O método de função de produção
+   - O que é um filtro de Kalman
+   - O filtro de Hamilton
+7. Projeto de Curso 03b - Datação de Ciclos Econômicos com o Algoritmo Harding-Pagan (2002)
+8. A economia no longo prazo: modelo de Solow e suas extensões
+   - Modelo básico de Solow
+   - Modelo com progresso técnico
+   - Modelo com educação
+9. Projeto de Curso 04 - Implementando o modelo de Solow no Python
+10. Economia Intertemporal: a microeconomia por trás da macro
+11. Projeto de Curso 05 - Análise de Microdados da PNAD Contínua
+12. Política Econômica
+    - O que é política econômica
+    - Debate Regra vs. Discrição
+    - A política monetária
+    - A política fiscal
+
+# Inscrição
+
+A matrícula dá acesso às aulas em vídeo, ao material do curso e aos projetos práticos, com suporte da equipe da Análise Macro e certificado de conclusão ao final.
+
+- 📄 **Página do curso:** <https://analisemacro.com.br/curso/teoria-macroeconomica-usando-python/>
+- 🛒 **Matrícula:** <https://aluno.analisemacro.com.br/carrinho/?add-to-cart=54442>

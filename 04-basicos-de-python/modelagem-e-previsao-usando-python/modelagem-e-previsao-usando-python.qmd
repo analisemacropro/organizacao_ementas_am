@@ -1,0 +1,138 @@
+---
+title: '<a href="https://analisemacro.com.br/" target="_blank"><img src="https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png" alt="Logotipo Análise Macro" width="150"></a>  <br>  **Modelagem e Previsão usando Python**'
+subtitle: "Programa e informações gerais do curso"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+theme:
+  light: flatly
+---
+
+# Resumo
+
+Este curso ensina a desenvolver modelos preditivos em Python usando estatística, econometria e aprendizado de máquina. O conteúdo cobre problemas de regressão e de classificação, com aplicações em conjuntos de dados reais.
+
+A abordagem combina teoria e prática. Os modelos são introduzidos e formalizados quando necessário, e em seguida aplicados passo a passo. O curso percorre todo o ciclo de ciência de dados: identificação do problema, coleta de dados, análise exploratória e visualização, modelagem, validação e tomada de decisão.
+
+É indicado para quem quer usar modelos de previsão em desafios do dia a dia. Espera-se familiaridade com programação em Python para análise de dados, além de noções de matemática e estatística.
+
+| Item | Detalhe |
+|---|---|
+| Categoria | Básicos de Python |
+| Carga horária total | 50 horas |
+| Horas de vídeo | 30 horas |
+| Número de aulas | 34 |
+| Nível | Intermediário |
+| Certificado | Sim, emitido pela Análise Macro |
+
+# Pré-requisitos e Objetivos
+
+## Pré-requisitos
+
+Para o melhor aproveitamento, espera-se que o aluno tenha:
+
+- Computador com acesso à internet;
+- Cadastro de conta gratuita no [Posit Cloud](https://posit.cloud/);
+- Cadastro de conta gratuita no [Google](https://www.google.com/);
+- Matemática a nível de cálculo diferencial/integral;
+- Estatística básica;
+- Nível introdutório/intermediário de Python;
+- Domínio de inglês para leitura.
+
+## O que você será capaz de fazer
+
+- Resolver problemas de análise de dados do zero, construindo uma solução que envolve coleta, exploração e modelagem;
+- Aplicar modelos estatísticos, econométricos e de aprendizado de máquina a problemas de regressão e classificação;
+- Validar modelos preditivos a partir do contato com dados reais;
+- Interpretar os resultados e usá-los para tomada de decisão;
+- Reproduzir aplicações e exercícios completos em Python.
+
+## Habilidades e ferramentas
+
+- Linguagem Python para análise e modelagem de dados;
+- Coleta de dados de fontes nacionais (BCB, IBGE, IPEADATA) e internacionais (Banco Mundial, FMI, FRED, OCDE);
+- Análise exploratória e visualização de dados;
+- Modelos de séries temporais: suavização exponencial, ARIMA e Prophet;
+- Modelos de regressão e classificação: regressão linear, regressão logística, Naive Bayes, k-NN, SVM, árvores de decisão e redes neurais;
+- Métodos de ensemble: Bootstrap, Bagging, Random Forests e Boosting;
+- Validação cruzada e avaliação de desempenho de modelos;
+- Ambiente Google Colab para execução dos códigos.
+
+# Programa Detalhado
+
+## Introdução à Modelagem Preditiva
+
+1.  Boas vindas e Apresentação do Curso
+2.  Ciclo de Ciência de Dados
+    a)  Entendendo o Ciclo
+    b)  Análise Descritiva vs. Preditiva
+3.  Estruturas de Dados
+    a)  Série temporal
+    b)  Corte transversal
+4.  Na Prática: Construindo uma Análise de Dados
+
+## Fontes de Dados
+
+1.  Formatos de Dados
+2.  Fontes Nacionais: BCB, IBGE e IPEADATA
+3.  Fontes Internacionais: Banco Mundial, FMI, FRED e OCDE
+
+## Análise Exploratória de Dados e Visualização
+
+1.  Variáveis Quantitativas vs. Qualitativas
+2.  Processo Gerador de Dados
+3.  Sumário de Estatísticas
+4.  Gráfico de Dispersão
+5.  Gráfico de Histograma
+6.  Gráfico de Boxplot
+7.  Gráfico de Linha
+8.  Análise de Correlação
+9.  Análise de Autocorrelação
+10. Estacionariedade
+11. Análise de Séries Temporais
+
+## Problemas Práticos de Modelagem Preditiva
+
+1.  Fluxo de Modelagem e Previsão
+2.  Separação de amostras: treino e teste
+3.  Pré Processamento de Dados
+    a)  Valores extremos
+    b)  Valores ausentes
+4.  Viés e Variância
+
+## Modelos e Aplicações
+
+1.  Regressão Linear
+2.  Suavização exponencial
+3.  ARIMA
+4.  Prophet
+5.  Regressão Logística
+6.  Naive Bayes
+7.  Algoritmos k-NN
+8.  Support Vector Machine (SVM)
+9.  Árvores de Decisão
+10. Redes Neurais
+
+## Validação
+
+1.  Avaliando o desempenho do modelo
+2.  Validação Cruzada
+3.  Aumentando o desempenho do modelo
+    a)  Bootstrap
+    b)  Bagging
+    c)  Random Forests
+    d)  Boosting
+4.  Interpretação de resultados e tomada de decisão
+
+# Inscrição
+
+A matrícula dá acesso às aulas gravadas, às notas de aula em HTML, aos códigos reprodutíveis em Python (`.py` e/ou `.ipynb`), aos dados utilizados em formato `.csv` e às referências de apoio. Ao concluir o curso, você recebe o certificado da Análise Macro, e conta com suporte para dúvidas durante o estudo.
+
+- 📄 **Página do curso:** <https://analisemacro.com.br/curso/modelagem-e-previsao-usando-python/>
+- 🛒 **Matrícula:** <https://aluno.analisemacro.com.br/carrinho/?add-to-cart=53372>

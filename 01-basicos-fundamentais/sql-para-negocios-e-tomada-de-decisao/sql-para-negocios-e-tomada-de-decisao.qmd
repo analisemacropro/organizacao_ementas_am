@@ -1,0 +1,109 @@
+---
+title: '<a href="https://analisemacro.com.br/" target="_blank"><img src="https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png" alt="Logotipo Análise Macro" width="150"></a>  <br>  **SQL para Negócios e Tomada de Decisão**'
+subtitle: "Programa e informações gerais do curso"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+theme:
+  light: flatly
+---
+
+# Resumo
+
+O `Curso de SQL para Negócios e Tomada de Decisão` ensina a dominar o SQL do zero e a usar dados para decidir de forma estratégica em situações reais de negócio. Você entende como bancos de dados funcionam, como extrair e analisar informações e como transformar consultas em indicadores para marketing, finanças e operações.
+
+É um curso para iniciantes absolutos: não exige conhecimento prévio de SQL nem de análise de dados. Ao longo do caminho, o SQL é integrado a Python e a ferramentas analíticas modernas, incluindo o uso de IA generativa aplicada à análise.
+
+| | |
+|---|---|
+| **Categoria** | Básicos fundamentais |
+| **Carga horária total** | 30 horas |
+| **Horas de vídeo** | 20 horas |
+| **Número de aulas** | 18 aulas |
+| **Nível** | Iniciante (sem pré-requisitos) |
+| **Certificado** | Sim, emitido pela Análise Macro |
+
+# Pré-requisitos e Objetivos
+
+## Pré-requisitos
+
+Nenhum. O curso foi projetado para iniciantes absolutos em SQL e análise de dados.
+
+## O que você será capaz de fazer
+
+Ao final do curso, você será capaz de:
+
+- Modelar bancos de dados relacionais e compreender sua estrutura lógica.
+- Escrever consultas SQL do zero para extrair, transformar e analisar dados.
+- Construir relatórios e indicadores de negócio diretamente a partir do banco de dados.
+- Tomar decisões baseadas em evidências e dados reais.
+- Integrar o SQL com Python e ferramentas analíticas modernas.
+
+## Habilidades e ferramentas
+
+**Habilidades:** modelagem de dados relacionais (chaves primárias e estrangeiras), construção de consultas para negócios, funções de agregação, filtros e *joins*, criação de indicadores e relatórios analíticos, integração SQL + Python (`sqlite3`, `pandas`, `sqlalchemy`) e aplicação em casos reais de marketing, finanças e operações.
+
+**Ferramentas:** SQLite e PostgreSQL, Google Colab (para executar SQL com Python), `pandas`, `SQLAlchemy` e `matplotlib`, bases de dados reais em CSV, e IA generativa aplicada à análise SQL.
+
+# Programa Detalhado
+
+## Módulo 1 — O poder dos dados nos negócios
+
+Compreenda o papel do SQL nas organizações modernas e como ele se tornou a linguagem universal da análise de dados. Aprenda a navegar em bancos de dados e a entender como consultas simples geram insights estratégicos.
+
+- Aula 01 — Introdução ao SQL e seu papel nos negócios.
+- Aula 02 — Entendendo bancos de dados relacionais.
+- Aula 03 — Configurando o ambiente de trabalho: instalando SQLite, PostgreSQL e PgAdmin.
+
+## Módulo 2 — Modelagem de dados e estrutura relacional
+
+Aprenda o que são tabelas, registros, chaves e relacionamentos, e como modelar um banco de dados que represente uma operação real de negócio.
+
+- Aula 04 — Entidades, atributos e relacionamentos.
+- Aula 05 — Chaves primárias e estrangeiras.
+- Aula 06 — Criando seu primeiro banco de dados relacional.
+
+## Módulo 3 — Consultas SQL do zero
+
+Extraia informações diretamente do banco, explorando as instruções `SELECT`, `WHERE`, `ORDER BY` e funções básicas de agregação.
+
+- Aula 07 — Estrutura básica de uma consulta.
+- Aula 08 — Filtrando e ordenando resultados.
+- Aula 09 — Funções de agregação e agrupamentos.
+
+## Módulo 4 — Relacionando tabelas e fazendo análises
+
+Realize junções entre tabelas (`JOIN`) e explore dados de diferentes origens. Veja como calcular indicadores como receita total, ticket médio e churn diretamente em SQL.
+
+- Aula 10 — Tipos de `JOIN` e boas práticas.
+- Aula 11 — Indicadores de negócio com SQL.
+- Aula 12 — Casos práticos: marketing, finanças e operações.
+
+## Módulo 5 — Subconsultas, CTEs e análises avançadas
+
+Explore consultas mais complexas com subconsultas, *Common Table Expressions* e funções de janela para responder perguntas estratégicas de negócio.
+
+- Aula 13 — Subconsultas e CTEs.
+- Aula 14 — Funções de janela e ranking de resultados.
+- Aula 15 — Construindo análises complexas.
+
+## Módulo 6 — Projeto final: da modelagem à tomada de decisão
+
+Coloque tudo em prática construindo um projeto completo de análise SQL — da modelagem à decisão. Você recebe um caso real (empresa fictícia) e responde perguntas de negócio com consultas e relatórios.
+
+- Aula 16 — Desenvolvimento do projeto final.
+- Aula 17 — Análises e indicadores de decisão.
+- Aula 18 — Apresentação dos resultados e portfólio.
+
+# Inscrição
+
+A matrícula inclui 24 meses de acesso completo à plataforma e aos conteúdos, certificado da Análise Macro e suporte individual com os professores e com a IA.
+
+- 📄 **Página do curso:** <https://aluno.analisemacro.com.br/cursos/sql-para-negocios-e-tomada-de-decisao/>
+- 🛒 **Matrícula:** <https://aluno.analisemacro.com.br/carrinho/?add-to-cart=68594>

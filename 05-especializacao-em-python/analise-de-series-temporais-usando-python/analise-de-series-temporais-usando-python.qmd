@@ -1,0 +1,97 @@
+---
+title: |
+  ![](https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png){width=150}
+
+  **Análise de Séries Temporais usando Python**
+subtitle: "Programa e informações gerais do curso"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+    theme:
+      light: flatly
+---
+
+# Resumo
+
+Tudo acontece em algum ponto no tempo. Por isso, dominar técnicas de análise de séries temporais é essencial em ciência de dados: muitos problemas reais envolvem dados que se observam em sequência e cujo comportamento depende do passado. Este curso ensina, na prática e com Python, a investigar padrões, características e comportamentos de séries temporais, implementando diferentes modelos para descrever os dados, produzir previsões e analisar relações entre variáveis.
+
+O curso foi pensado para quem precisa lidar com séries temporais nos desafios do dia a dia, como prever a demanda de um produto que segue um padrão sazonal ou avaliar o efeito de choques externos sobre variáveis econômicas. Ao longo das aulas, a teoria é apresentada junto a estudos de caso aplicados, sempre conduzidos em Python, partindo dos conceitos fundamentais até modelos univariados e multivariados de previsão.
+
+Ao final, você receberá o certificado da Análise Macro de Análise de Séries Temporais usando Python.
+
+| Categoria | Informação |
+|---|---|
+| Carga horária total | 30 horas |
+| Horas de vídeo | 20 horas |
+| Número de aulas | 25 |
+| Nível | Intermediário/Avançado |
+| Certificado | Sim, emitido pela Análise Macro |
+
+# Pré-requisitos e Objetivos
+
+## Pré-requisitos
+
+Para acompanhar o curso com aproveitamento, é recomendável ter base nos seguintes temas:
+
+- Programação em Python
+- Estatística Aplicada
+- Econometria Aplicada
+
+## O que você será capaz de fazer
+
+Ao concluir o curso, você estará apto a:
+
+- Analisar séries temporais de diferentes naturezas, identificando padrões, sazonalidade e características relevantes dos dados.
+- Construir modelos univariados de previsão, aplicando a metodologia Box-Jenkins e modelos da família ARIMA/SARIMA.
+- Desenvolver modelos multivariados, como vetores autorregressivos (VAR), VAR estrutural (SVAR) e modelos de correção de erros (VEC/VECM).
+- Testar estacionariedade, cointegração e causalidade entre variáveis para fundamentar a escolha do modelo.
+- Produzir previsões e interpretar os resultados, incluindo a análise de funções impulso-resposta.
+
+## Habilidades e ferramentas
+
+- Python como linguagem de análise e modelagem de séries temporais.
+- Jupyter Notebook como ambiente de trabalho para desenvolvimento e documentação das análises.
+- Técnicas de análise exploratória, modelagem econométrica e previsão aplicadas a dados reais.
+
+# Programa Detalhado
+
+O curso é composto por 25 aulas, que combinam fundamentos teóricos com estudos de caso aplicados:
+
+- Aula 01: Apresentação do Curso
+- Aula 02: Características de Séries Temporais
+- Aula 03: Regressão de Séries Temporais e Análise Exploratória de Dados
+- Aula 04: Estudo de Caso - Estimando uma Curva IS via OLS, TSLS e GMM
+- Aula 05: Introdução a Modelos Univariados
+- Aula 06: Funções de Autocorrelação
+- Aula 07: Processos ARMA
+- Aula 08: Testes de Estacionariedade
+- Aula 09: Metodologia Box-Jenkins - construindo modelos univariados de previsão
+- Aula 10: Estudo de Caso - construindo um modelo SARIMA para a inflação brasileira
+- Aula 11: Introdução a Modelos Multivariados
+- Aula 12: Vetores Autorregressivos
+- Aula 13: Estudo de Caso - usando modelos VAR para previsão
+- Aula 14: Modelo VAR Estrutural (SVAR)
+- Aula 15: Estudo de Caso - Análise de funções impulso-resposta
+- Aula 16: Regressões Espúrias
+- Aula 17: O conceito de cointegração e o modelo de correção de erros
+- Aula 18: Estudo de Caso - Dívida Bruta e Incerteza Econômica
+- Aula 19: A metodologia de Johansen e o Vetor de Correção de Erros (VEC)
+- Aula 20: Estimando um VECM
+- Aula 21: Estudo de Caso - Previsão do Desemprego medido pela PNAD através de um modelo VEC
+- Aula 22: Teste de Causalidade de Granger
+- Aula 23: O procedimento de Toda-Yamamoto
+- Aula 24: Estudo de Caso - Consumo de Energia Elétrica e Crescimento do PIB
+- Aula 25: Estudo de Caso - Uma comparação econométrica entre o CAGED e a PNAD Contínua
+
+# Inscrição
+
+A matrícula dá acesso às 25 aulas do curso, com 20 horas de videoaulas e materiais de apoio para acompanhar os estudos de caso em Python. Ao concluir, você recebe o certificado da Análise Macro de Análise de Séries Temporais usando Python.
+
+- 📄 **Página do curso:** <https://analisemacro.com.br/curso/analise-de-series-temporais-usando-python/>
+- 🛒 **Matrícula:** <https://aluno.analisemacro.com.br/carrinho/?add-to-cart=63407>

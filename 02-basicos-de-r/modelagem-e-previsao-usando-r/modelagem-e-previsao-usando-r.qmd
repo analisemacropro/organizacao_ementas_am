@@ -1,0 +1,134 @@
+---
+title: '<a href="https://analisemacro.com.br/" target="_blank"><img src="https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png" alt="Logotipo Análise Macro" width="150"></a>  <br>  **Modelagem e Previsão usando R**'
+subtitle: "Programa e informações gerais do curso"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+theme:
+  light: flatly
+---
+
+# Resumo
+
+O curso de Modelagem e Previsão usando R capacita você a construir modelos preditivos com estatística, econometria e aprendizado de máquina. O foco está em problemas de regressão e classificação, sempre com aplicação na linguagem R sobre dados reais.
+
+O conteúdo percorre todo o ciclo de ciência de dados: identificação do problema, coleta de dados, análise exploratória, visualização, modelagem, validação e tomada de decisão. A abordagem combina teoria e prática — os modelos são introduzidos e formalizados quando necessário, e em seguida aplicados em conjuntos de dados concretos.
+
+O curso é indicado para quem deseja aplicar modelos de previsão em desafios profissionais, em especial economistas e analistas do mercado financeiro. Ao final, você estará apto a resolver um problema de análise de dados do zero, construindo a solução que vai da coleta à modelagem, e a validar esses modelos por meio de métricas de avaliação.
+
+| Ficha técnica | |
+|---|---|
+| **Categoria** | Básicos de R |
+| **Carga horária total** | 50 horas |
+| **Horas de vídeo** | 30 horas |
+| **Número de aulas** | 34 |
+| **Nível** | Intermediário |
+| **Certificado** | Sim |
+
+# Pré-requisitos e Objetivos
+
+## Pré-requisitos
+
+Para o melhor aproveitamento, espera-se que você atenda aos seguintes requisitos:
+
+- Computador com acesso à internet;
+- Cadastro de conta gratuita no [Posit Cloud](https://posit.cloud/);
+- Matemática a nível de cálculo diferencial/integral;
+- Estatística básica;
+- Nível introdutório/intermediário de R;
+- Domínio de inglês para leitura.
+
+## O que você será capaz de fazer
+
+- Resolver um problema de análise de dados do zero, construindo uma solução que envolve coleta, exploração e modelagem;
+- Percorrer todo o ciclo de ciência de dados, da identificação do problema à tomada de decisão;
+- Aplicar modelos de regressão e de classificação a dados reais com R;
+- Validar modelos preditivos por meio de métricas de avaliação e validação cruzada;
+- Interpretar os resultados dos modelos para apoiar decisões.
+
+## Habilidades e ferramentas
+
+- Linguagem R para análise de dados e modelagem;
+- Coleta de dados de fontes nacionais (BCB, IBGE, IPEADATA) e internacionais (Banco Mundial, FMI, FRED, OCDE);
+- Análise exploratória e visualização de dados;
+- Modelos estatísticos, econométricos e de aprendizado de máquina;
+- Técnicas de pré-processamento, validação e ajuste de desempenho de modelos.
+
+# Programa Detalhado
+
+## Introdução à Modelagem Preditiva
+
+1. Boas vindas e Apresentação do Curso
+2. Ciclo de Ciência de Dados
+   a) Entendendo o Ciclo
+   b) Análise Descritiva vs. Preditiva
+3. Estruturas de Dados
+   a) Série temporal
+   b) Corte transversal
+4. Na Prática: Construindo uma Análise de Dados
+
+## Fontes de Dados
+
+1. Formatos de Dados
+2. Fontes Nacionais: BCB, IBGE e IPEADATA
+3. Fontes Internacionais: Banco Mundial, FMI, FRED e OCDE
+
+## Análise Exploratória de Dados e Visualização
+
+1. Variáveis Quantitativas vs. Qualitativas
+2. Processo Gerador de Dados
+3. Sumário de Estatísticas
+4. Gráfico de Dispersão
+5. Gráfico de Histograma
+6. Gráfico de Boxplot
+7. Gráfico de Linha
+8. Análise de Correlação
+9. Análise de Autocorrelação
+10. Estacionariedade
+11. Análise de Séries Temporais
+
+## Problemas Práticos de Modelagem Preditiva
+
+1. Fluxo de Modelagem e Previsão
+2. Separação de amostras: treino e teste
+3. Pré Processamento de Dados
+   a) Valores extremos
+   b) Valores ausentes
+4. Viés e Variância
+
+## Modelos e Aplicações
+
+1. Regressão Linear
+2. Suavização exponencial
+3. ARIMA
+4. Prophet
+5. Regressão Logística
+6. Naive Bayes
+7. Algoritmos k-NN
+8. Support Vector Machine (SVM)
+9. Árvores de Decisão
+10. Redes Neurais
+
+## Validação
+
+1. Avaliando o desempenho do modelo
+2. Validação Cruzada
+3. Aumentando o desempenho do modelo
+   a) Bootstrap
+   b) Bagging
+   c) Random Forests
+   d) Boosting
+4. Interpretação de resultados e tomada de decisão
+
+# Inscrição
+
+A matrícula dá acesso às videoaulas gravadas, às notas de aula em HTML, aos códigos reprodutíveis em R (`.r` e/ou `.qmd`), aos dados utilizados em formato `.csv` e às referências bibliográficas. Inclui também o certificado de conclusão e o suporte para tirar dúvidas ao longo do curso.
+
+- 📄 **Página do curso:** <https://analisemacro.com.br/curso/modelagem-e-previsao-usando-r/>
+- 🛒 **Matrícula:** <https://aluno.analisemacro.com.br/carrinho/?add-to-cart=53370>

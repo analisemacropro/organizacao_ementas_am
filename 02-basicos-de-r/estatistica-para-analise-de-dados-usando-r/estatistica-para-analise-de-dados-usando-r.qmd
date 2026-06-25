@@ -1,0 +1,78 @@
+---
+title: |
+  ![](https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png){width=150}
+
+  **Estatística para Análise de Dados usando R**
+subtitle: "Programa e informações gerais do curso"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+    theme:
+      light: flatly
+---
+
+# Resumo
+
+O curso **Estatística para Análise de Dados usando R** apresenta as técnicas e os modelos estatísticos modernos necessários para realizar análise exploratória de dados de forma profissional. A proposta é levar o trabalho de análise de dados a um nível mais avançado, partindo da organização e descrição dos dados até a aplicação de inferência estatística e modelos para extrair conclusões a partir de amostras.
+
+O conteúdo é voltado para quem deseja realizar análise de dados com abordagem profissional, incluindo economistas e analistas de instituições financeiras. Ao longo das aulas, o aluno percorre desde os tipos de dados (univariados, bivariados e multivariados) e sua visualização até temas como distribuições de probabilidade, intervalos de confiança, testes de significância, regressão linear e análise de variância. As implementações são feitas principalmente na linguagem R, com referências ao Python, e o uso de bibliotecas de visualização como ggplot2 e matplotlib.
+
+| Categoria | Informação |
+|---|---|
+| Carga horária total | 32 horas |
+| Horas de vídeo | 8 horas |
+| Número de aulas | 18 |
+| Nível | Intermediário |
+| Certificado | Sim, com carga horária de 32 horas |
+
+# Pré-requisitos e Objetivos
+
+## Pré-requisitos
+
+Saber programar com a linguagem R é essencial para acompanhar o curso. O material parte do princípio de que o aluno já tem familiaridade com a sintaxe básica do R, permitindo focar nos conceitos estatísticos e em sua aplicação prática.
+
+## O que você será capaz de fazer
+
+- Realizar a exploração de dados de forma estruturada, organizando e descrevendo conjuntos univariados, bivariados e multivariados.
+- Produzir visualizações estatísticas para investigar relações e padrões nos dados.
+- Aplicar inferência estatística para tirar conclusões sobre uma população a partir de amostras.
+- Construir e interpretar intervalos de confiança e testes de significância.
+- Estimar e interpretar modelos estatísticos, como regressão linear e análise de variância.
+
+## Habilidades e ferramentas
+
+- **R**: linguagem principal utilizada nas implementações ao longo do curso.
+- **Python**: utilizado como referência em estruturas de dados e visualização.
+- **ggplot2**: biblioteca de visualização de dados no R.
+- **matplotlib**: biblioteca de visualização de dados no Python.
+
+# Programa Detalhado
+
+O conteúdo é organizado nas seções temáticas abaixo, distribuídas ao longo das aulas do curso.
+
+- **Aula 01 – Preparando o ambiente**
+- **Aula 02 – Dados Univariados:** vetores, estatísticas descritivas e dados categóricos
+- **Aula 03 – Dados Bivariados:** amostras independentes, estruturas de dados no R/Python e dados emparelhados
+- **Aula 04 – Dados Multivariados:** data frames, aplicando funções sobre dados e dados externos
+- **Aula 05 – Gráficos Multivariados:** gráficos básicos, ggplot2 e matplotlib
+- **Aula 06 – População:** variáveis aleatórias discretas e diferentes tipos de distribuição
+- **Aula 07 – Inferência Estatística**
+- **Aula 08 – Intervalos de Confiança**
+- **Aula 09 – Testes de Significância**
+- **Aula 10 – Qualidade do Ajuste**
+- **Aula 11 – Regressão Linear**
+- **Aula 12 – Análise de Variância**
+- **Aula 13 – Extensões:** modelos lineares generalizados e modelos não lineares
+
+# Inscrição
+
+A matrícula dá acesso às aulas do curso, ao material de apoio e ao certificado de conclusão, com carga horária total de 32 horas. O conteúdo permite acompanhar todo o percurso, da exploração de dados à aplicação de modelos estatísticos usando R.
+
+- 📄 **Página do curso:** <https://analisemacro.com.br/curso/estatistica-para-analise-de-dados-usando-r/>
+- 🛒 **Matrícula:** <https://aluno.analisemacro.com.br/carrinho/?add-to-cart=53313>

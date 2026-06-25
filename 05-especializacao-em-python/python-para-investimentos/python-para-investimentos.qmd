@@ -1,0 +1,93 @@
+---
+title: '<a href="https://analisemacro.com.br/" target="_blank"><img src="https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png" alt="Logotipo Análise Macro" width="150"></a>  <br>  **Python para Investimentos**'
+subtitle: "Programa e informações gerais do curso"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+theme:
+  light: flatly
+---
+
+# Resumo
+
+O curso *Python para Investimentos* ensina a linguagem Python com foco no mercado financeiro, partindo do zero. Começa pelos fundamentos da linguagem e avança até projetos aplicados, em que cada problema do dia a dia de investimentos é resolvido com código.
+
+A estrutura segue dois blocos. No primeiro, você aprende a programar em Python e a usar as principais bibliotecas de análise de dados. No segundo, aplica esse conhecimento em projetos completos, que percorrem todo o ciclo de trabalho: coleta e tratamento de dados, análise, modelagem e comunicação dos resultados.
+
+É indicado para quem deseja entrar no mercado financeiro e para profissionais que querem atualizar seus conhecimentos com Python. Ao final, você terá scripts prontos para tarefas como construir carteiras, estimar betas, medir volatilidade, montar a estrutura a termo de juros e integrar análises ao MetaTrader.
+
+| Item | Descrição |
+|------|-----------|
+| Categoria | Especialização em Python |
+| Carga horária total | 80 horas |
+| Horas de vídeo | 20 horas |
+| Número de aulas | 25 |
+| Nível | Iniciante a avançado |
+| Certificado | Sim, emitido pela Análise Macro |
+
+# Pré-requisitos e Objetivos
+
+## Pré-requisitos
+
+Não é necessário conhecimento prévio de programação, pois o curso parte do zero. Para quem quiser aprofundar a base antes ou em paralelo, a Análise Macro recomenda os cursos *Programação em Python para Análise de Dados*, *Teoria Macroeconômica usando Python*, *Análise de Conjuntura usando Python* e *Estatística para Análise de Dados usando Python*.
+
+## O que você será capaz de fazer
+
+- Programar em Python do zero, com domínio das estruturas de dados e do controle de fluxo.
+- Importar dados de APIs, planilhas Excel, PDFs e arquivos proprietários.
+- Visualizar dados e comunicar resultados de análises.
+- Aplicar modelos estatísticos e de machine learning a problemas de investimento.
+- Construir carteiras de investimentos, estimar o beta de mercado e medir volatilidade.
+- Montar a estrutura a termo da taxa de juros e calcular juro real e juro neutro.
+- Desenvolver estratégias como pair trading, médias móveis e indicadores fundamentalistas.
+- Integrar análises feitas em Python com a plataforma MetaTrader.
+
+## Habilidades e ferramentas
+
+- **Linguagem:** Python.
+- **Ambiente:** Google Colab.
+- **Manipulação de dados:** estruturas de dados (vetores, listas, matrizes e dataframes) e importação a partir de APIs, Excel, PDFs e arquivos proprietários.
+- **Visualização:** seaborn e matplotlib.
+- **Modelagem:** regressão linear, ARIMA, dados em painel e scikit-learn.
+- **Finanças:** pyfolio para análise de portfólio e integração com o MetaTrader.
+
+# Programa Detalhado
+
+1. Preparando o ambiente: tudo o que você precisa para começar no Python
+2. Estruturas de Dados: vetores, listas, matrizes e dataframes
+3. Importação de Dados: APIs, planilhas Excel, PDFs e arquivos proprietários
+4. Visualização de Dados com seaborn e matplotlib
+5. Ambientes Controlados: criando funções, if-else, while loop, for loop, break e continue
+6. Análise Exploratória de Dados Macroeconômicos: transformações de séries temporais, defasagens, diferenciação, médias móveis, deflacionamento de séries, curvas de Phillips, curvas de juros e convergência de renda
+7. Análise Exploratória de Microdados: exemplos com DATASUS, censos e auxílio emergencial
+8. Modelos: regressão linear, ARIMA, Dados em Painel e Scikit-Learn
+9. Comunicando Resultados
+10. Projeto de Curso: Gráficos para Análises e Operações no Python
+11. Projeto de Curso: Python e Finanças: relação de risco e retorno
+12. Projeto de Curso: DataReader e Análises com Yahoo! Finance
+13. Projeto de Curso: Regressões Lineares no Python
+14. Projeto de Curso: Estimando o Beta de Mercado no Python
+15. Projeto de Curso: Seleção de Fatores via Machine Learning
+16. Projeto de Curso: Construindo o juro real e o juro neutro em Python
+17. Projeto de Curso: Estrutura a Termo da Taxa de Juros em Python
+18. Projeto de Curso: Construindo uma carteira de investimentos em Python
+19. Projeto de Curso: Criando medidas de volatilidade no Python
+20. Projeto de Curso: Cointegração e Pair Trading no Python
+21. Projeto de Curso: Análise de Portfólio com pyfolio
+22. Projeto de Curso: Filtro de Kalman e Beta de Mercado
+23. Projeto de Curso: Médias Móveis Simples para Trading com o Python
+24. Projeto de Curso: Criando indicadores fundamentalistas com Python
+25. Projeto de Curso: Integração com a plataforma MetaTrader
+
+# Inscrição
+
+A matrícula dá acesso às aulas gravadas, aos materiais e aos scripts dos projetos, com suporte para dúvidas e certificado de conclusão emitido pela Análise Macro ao final do curso.
+
+- 📄 **Página do curso:** <https://analisemacro.com.br/curso/python-para-investimentos/>
+- 🛒 **Matrícula:** <https://aluno.analisemacro.com.br/carrinho/?add-to-cart=41694>

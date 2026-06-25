@@ -1,0 +1,98 @@
+---
+title: '<a href="https://analisemacro.com.br/" target="_blank"><img src="https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png" alt="Logotipo Análise Macro" width="150"></a>  <br>  **Formação Analista de Pesquisa Quantitativa**'
+subtitle: "Programa e informações gerais da formação"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+theme:
+  light: flatly
+---
+
+# Resumo
+
+A `Formação Analista de Pesquisa Quantitativa` forma um analista quantitativo completo, da migração do Excel para Python, R e SQL até a construção de modelos e o uso de Inteligência Artificial. O caminho vai dos fundamentos de dados e estatística à modelagem e previsão, com foco em conduzir pesquisas quantitativas do início ao fim — da formulação de hipóteses à apresentação de resultados baseados em evidências.
+
+A formação reúne cursos, workshops e imersões ao vivo em uma trilha única, encerrada com a construção de um portfólio de Data Science. É voltada a pesquisadores, acadêmicos, analistas, consultores, profissionais de empresas e estudantes de graduação e pós-graduação que querem dominar métodos estatísticos, programação e IA aplicada.
+
+| | |
+|---|---|
+| **Categoria** | Formações |
+| **Carga horária total** | 300 horas |
+| **Horas de vídeo** | 110 horas |
+| **Número de aulas** | 145 aulas |
+| **Conteúdo** | Mais de 200 horas de conteúdo, somando cursos, workshops e imersões |
+| **Certificado** | 16 certificados individuais + 1 certificado final da formação |
+| **Acesso** | 48 meses |
+
+# Pré-requisitos e Objetivos
+
+## Pré-requisitos
+
+A formação não exige pré-requisitos para começar: a trilha parte dos fundamentos de dados e programação. Os cursos mais avançados pressupõem o que é ensinado nos blocos iniciais (programar em Python, Estatística, Econometria e Séries Temporais).
+
+## O que você será capaz de fazer
+
+Ao concluir a formação, você será capaz de:
+
+- Formular hipóteses e transformá-las em modelos mensuráveis.
+- Coletar, limpar e organizar bases de dados reais.
+- Aplicar técnicas estatísticas, econométricas e de machine learning.
+- Construir relatórios e dashboards automatizados.
+- Integrar Python e Inteligência Artificial nas análises.
+- Atuar como referência em pesquisa quantitativa aplicada.
+
+## Habilidades e ferramentas
+
+A trilha desenvolve as três linguagens centrais do analista quantitativo — **Python**, **R** e **SQL** — e as integra a técnicas de estatística, econometria, séries temporais, machine learning e IA generativa, culminando na construção de um portfólio de Data Science.
+
+# Programa Detalhado
+
+A formação é organizada em seis blocos, percorridos em sequência.
+
+## Bloco 1 — Boas-Vindas
+
+- Boas-Vindas à Plataforma Análise Macro
+
+## Bloco 2 — Começando em Análise de Dados e Programação
+
+- Fundamentos de Análise de Dados
+- Workshop ao vivo: Como migrar do Excel para o Python de forma definitiva
+- Programação em Python para Análise de Dados
+- Programação em R para Análise de Dados
+- SQL para Economia e Finanças
+
+## Bloco 3 — Estatística e Econometria
+
+- Estatística para Análise de Dados usando Python e R
+- Econometria Aplicada usando Python e R
+
+## Bloco 4 — Modelagem e Previsão
+
+- Modelagem e Previsão usando Python e R
+- Análise de Séries Temporais usando Python e R
+
+## Bloco 5 — Inteligência Artificial
+
+- Inteligência Artificial para Todos
+- Inteligência Artificial para Análise de Dados usando Python
+- Inteligência Artificial para Economistas
+- Imersão: Como Criar um Agente de IA Econometrista
+
+## Bloco 6 — Mão na Massa
+
+- Construção de Portfólio de Data Science
+- Boas-Vindas ao Clube AM: o repositório de Códigos da AM
+- Clube AM
+
+# Inscrição
+
+A matrícula dá acesso a todos os cursos, workshops e imersões da trilha por 48 meses, aos certificados individuais de cada curso, ao certificado final da formação e ao suporte com os professores e a IA.
+
+- 📄 **Página da formação:** <https://analisemacro.com.br/formacao/formacao-analista-de-pesquisa-quantitativa/>
+- 🛒 **Matrícula:** <https://aluno.analisemacro.com.br/carrinho/?add-to-cart=67974>

@@ -1,0 +1,77 @@
+---
+title: '<a href="https://analisemacro.com.br/" target="_blank"><img src="https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png" alt="Logotipo Análise Macro" width="150"></a>  <br>  **Análise de Demonstrativos Financeiros usando Python**'
+subtitle: "Programa e informações gerais do curso"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+theme:
+  light: flatly
+---
+
+# Resumo
+
+Este curso ensina a analisar a saúde financeira de empresas brasileiras a partir dos demonstrativos financeiros padronizados (DFP), usando Python para automatizar todo o fluxo: coleta, tratamento, análise e apresentação dos dados contábeis.
+
+O ponto de partida são as fontes públicas, como a B3 e a CVM. A partir delas, você monta scripts que baixam balanço patrimonial, demonstração de resultados e fluxo de caixa, organizam essas informações e calculam indicadores que medem liquidez, endividamento, eficiência e crescimento. O resultado dessa análise é consolidado em um dashboard interativo que se atualiza sozinho.
+
+O curso é voltado a quem precisa avaliar empresas pelos números e quer trocar a planilha manual por um processo programado e reproduzível. É necessário saber programar em Python antes de começar, já que o foco está na aplicação contábil e financeira da linguagem.
+
+| | |
+|---|---|
+| **Categoria** | Especialização em Python |
+| **Carga horária total** | 22 horas |
+| **Horas de vídeo** | 5,5 horas |
+| **Número de aulas** | 28 |
+| **Nível** | Intermediário/Avançado |
+| **Certificado** | Sim, de conclusão, expedido pela Análise Macro |
+
+# Pré-requisitos e Objetivos
+
+## Pré-requisitos
+
+É necessário saber programar em Python. O curso aplica a linguagem à coleta e análise de dados contábeis, então a familiaridade prévia com a sintaxe e com a manipulação de dados é assumida desde a primeira aula.
+
+## O que você será capaz de fazer
+
+- Coletar dados de demonstrativos financeiros de fontes públicas como B3 e CVM de forma automatizada.
+- Tratar e limpar os dados contábeis com scripts em Python, deixando-os prontos para análise.
+- Analisar balanço patrimonial, demonstração de resultados e fluxo de caixa, identificando tendências ao longo do tempo e comparando empresas.
+- Construir indicadores contábeis de liquidez, endividamento, eficiência e crescimento.
+- Apresentar os indicadores e demonstrativos em um dashboard interativo.
+- Automatizar a atualização do dashboard com GitHub Actions e GitHub Pages.
+
+## Habilidades e ferramentas
+
+- **Python** como linguagem central para coleta, tratamento e análise dos dados.
+- **B3 e CVM** como fontes dos dados contábeis e financeiros.
+- **Google Colab** como ambiente de desenvolvimento.
+- **GitHub Actions e GitHub Pages** para automatizar a atualização e a publicação do dashboard.
+
+# Programa Detalhado
+
+1. **Apresentação do Curso e Análise de Balanços e Demonstrações Contábeis** – Introdução à importância da análise de balanços e sua estrutura nas empresas.
+2. **Coletando e Analisando Dados do Balanço Patrimonial** – Aprendizado sobre a coleta e análise de dados de balanço a partir das principais fontes disponíveis.
+3. **Coletando e Analisando Dados da Demonstração de Resultados** – Coleta e análise dos dados da demonstração de resultado de exercício.
+4. **Coletando e Analisando Dados da Demonstração de Fluxo de Caixa** – Coleta e análise dos dados da demonstração de fluxo de caixa.
+5. **Estrutura e Análise Horizontal e Vertical das Contas Contábeis** – Funcionamento e padrão das contas contábeis nas demonstrações financeiras.
+6. **Indicadores Contábeis** – Criação e análise de indicadores a partir das contas contábeis.
+7. **Indicadores de Liquidez** – Desenvolvimento e interpretação dos indicadores de liquidez.
+8. **Indicadores de Endividamento** – Construção e análise dos indicadores de endividamento.
+9. **Indicadores de Eficiência** – Análise dos indicadores de eficiência operacional.
+10. **Indicadores de Crescimento** – Avaliação dos indicadores de crescimento das empresas.
+11. **Construção de Dashboard de Indicadores e Demonstrativos** – Desenvolvimento de um dashboard para visualização de indicadores financeiros e demonstrativos.
+12. **Automatizando o Dashboard com GitHub Actions e GitHub Pages** – Configuração de automação para atualização do dashboard.
+13. **Valuation de Empresas**
+
+# Inscrição
+
+A matrícula dá acesso às aulas e ao material do curso, com certificado de conclusão ao final e suporte para dúvidas durante os estudos.
+
+- 📄 **Página do curso:** <https://analisemacro.com.br/curso/analise-de-demonstrativos-financeiros-usando-python/>
+- 🛒 **Matrícula:** <https://aluno.analisemacro.com.br/carrinho/?add-to-cart=46335>

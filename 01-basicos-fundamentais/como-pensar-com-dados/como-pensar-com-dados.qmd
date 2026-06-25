@@ -1,0 +1,118 @@
+---
+title: '<a href="https://analisemacro.com.br/" target="_blank"><img src="https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png" alt="Logotipo Análise Macro" width="150"></a>  <br>  **Como Pensar com Dados**'
+subtitle: "Programa e informações gerais do curso"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+theme:
+  light: flatly
+---
+
+# Resumo
+
+Como Pensar com Dados ensina o raciocínio analítico por trás de um projeto de dados, do entendimento do problema até a comunicação dos resultados. O fio condutor é o ciclo CRISP-DM, uma das metodologias mais usadas por empresas e centros de pesquisa para estruturar análises. Você aprende a transformar uma pergunta em hipótese, a hipótese em evidência e a evidência em decisão.
+
+A parte prática usa Python diretamente no navegador, pelo Google Colab, sem precisar instalar nada. Você trabalha com bases reais em formatos como CSV e XLSX, passando por coleta, limpeza, análise exploratória, uma introdução à modelagem e a construção de um projeto completo. O foco não está em matemática pesada, e sim em entender a lógica de cada etapa e saber quando aplicá-la.
+
+O curso é indicado para quem quer desenvolver o pensamento analítico e estruturar análises a partir de problemas reais, em áreas como marketing, finanças, operações e políticas públicas. Serve também como base para quem pretende seguir em ciência e engenharia de dados.
+
+| | |
+|---|---|
+| **Categoria** | Básicos fundamentais |
+| **Carga horária total** | 30 horas |
+| **Horas de vídeo** | 20 horas |
+| **Número de aulas** | 15 |
+| **Nível** | Introdutório |
+| **Certificado** | Sim, emitido pela Análise Macro |
+
+# Pré-requisitos e Objetivos
+
+## Pré-requisitos
+
+- Conhecimentos básicos de informática.
+
+Não é necessário ter experiência prévia com programação ou estatística. O curso parte do raciocínio analítico e apresenta o Python na medida em que ele é usado.
+
+## O que você será capaz de fazer
+
+Ao final do curso, você será capaz de:
+
+- Planejar e executar análises de dados completas, estruturadas pelo ciclo CRISP-DM.
+- Formular hipóteses e validar evidências com base em dados reais.
+- Realizar análises exploratórias e construir narrativas visuais a partir de evidências.
+- Extrair e transformar dados para apoiar decisões em áreas como marketing, finanças, operações e políticas públicas.
+- Desenvolver o pensamento analítico necessário para projetos de ciência e engenharia de dados.
+
+## Habilidades e ferramentas
+
+Habilidades desenvolvidas no curso:
+
+- Pensamento analítico e resolução de problemas com dados.
+- Compreensão e aplicação prática do ciclo CRISP-DM.
+- Coleta e preparação de dados (data mining).
+- Análise exploratória e visualização de dados.
+- Estruturação de relatórios e storytelling com dados.
+- Introdução à modelagem e avaliação de resultados.
+
+Ferramentas utilizadas:
+
+- Python (pandas, numpy, matplotlib, seaborn, scikit-learn).
+- Google Colab.
+- Planilhas e bases de dados reais (CSV, XLSX).
+- ChatGPT e IA generativa aplicada à análise de dados.
+
+# Programa Detalhado
+
+## Módulo 1 – O Pensamento Analítico e o Ciclo CRISP-DM
+
+Introdução ao pensamento analítico, a base da ciência de dados, e ao método CRISP-DM (Cross-Industry Standard Process for Data Mining), usado para estruturar projetos de dados. Aqui você aprende a definir um problema analítico, formular hipóteses e transformar perguntas em planos de ação. Sem código nesta etapa: o objetivo é aprender a pensar como um analista de dados.
+
+- Aula 01 - O que é análise de dados e por que ela é essencial em qualquer área.
+- Aula 02 - Etapas do ciclo CRISP-DM: da definição do problema à comunicação dos resultados.
+- Aula 03 - Casos reais e exemplos práticos.
+
+## Módulo 2 – Coleta e Preparação dos Dados (Data Mining)
+
+Parte prática de coleta e tratamento de dados usando Python no navegador, pelo Google Colab. Você trabalha com bases em formatos como CSV e XLSX, aprendendo a importá-las, inspecioná-las e prepará-las para análise. Bibliotecas utilizadas: pandas, para manipulação e limpeza; numpy, para cálculos numéricos e operações com arrays; os e requests, para buscar e organizar dados de fontes externas. Ao final, você cria seu próprio dataset limpo e pronto para análise.
+
+- Aula 04 - Fontes de dados e formatos mais comuns.
+- Aula 05 - Processos de extração e limpeza de dados.
+- Aula 06 - Criação de bases analíticas para projetos.
+
+## Módulo 3 – Análise Exploratória de Dados (EDA)
+
+Com os dados prontos, você passa a explorar padrões, tendências e relações, transformando tabelas em insights visuais. Ferramentas usadas: matplotlib e seaborn, para gráficos e visualizações; pandas profiling, para relatórios automáticos de exploração; ChatGPT e IA generativa, para apoiar a interpretação dos resultados. Você aprende a fazer perguntas aos dados — relações entre variáveis, perfil médio dos clientes, padrões sazonais — e constrói seu primeiro relatório analítico completo.
+
+- Aula 07 - Estatísticas descritivas e visualização de padrões.
+- Aula 08 - Gráficos, correlações e insights exploratórios.
+- Aula 09 - Ferramentas e boas práticas.
+
+## Módulo 4 – Modelagem e Interpretação
+
+Introdução prática à modelagem de dados, a etapa em que a análise vira previsão ou classificação. Bibliotecas utilizadas: scikit-learn, para modelos simples como regressões lineares e árvores de decisão; numpy e pandas, para preparação das variáveis. O foco é entender a lógica por trás dos modelos — como aprendem, como avaliá-los e como comunicar resultados. Você constrói uma mini-análise preditiva, interpretando métricas como erro médio e acurácia.
+
+- Aula 10 - Conceitos básicos de modelagem e predição.
+- Aula 11 - Avaliação e comunicação de resultados.
+- Aula 12 - Como construir histórias com dados.
+
+## Módulo 5 – Projeto Final: Da Pergunta à Resposta Analítica
+
+Encerramento com um projeto completo, do zero, a partir de um conjunto de dados real (vendas, marketing, economia, finanças, saúde ou educação). Você percorre novamente todas as etapas do ciclo CRISP-DM: entender o problema, coletar e preparar os dados, explorar padrões e hipóteses, construir um modelo simples, interpretar e comunicar resultados. O resultado é seu primeiro projeto de portfólio.
+
+- Aula 13 - Desenvolvimento de um projeto completo baseado em um conjunto de dados real.
+- Aula 14 - Aplicação de todas as etapas do ciclo CRISP-DM.
+- Aula 15 - Entrega e apresentação dos resultados.
+- Aula 16 - Como colocar o projeto no GitHub.
+
+# Inscrição
+
+A matrícula dá acesso às videoaulas, aos slides e códigos usados em cada seção para download e reprodução, ao suporte individual com professores e à emissão do certificado da Análise Macro ao concluir o curso.
+
+- 📄 **Página do curso:** <https://aluno.analisemacro.com.br/cursos/como-pensar-com-dados/>
+- 🛒 **Matrícula:** <https://aluno.analisemacro.com.br/carrinho/?add-to-cart=41854>

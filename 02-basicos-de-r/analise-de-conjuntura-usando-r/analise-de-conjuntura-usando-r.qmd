@@ -1,0 +1,85 @@
+---
+title: '<a href="https://analisemacro.com.br/" target="_blank"><img src="https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png" alt="Logotipo Análise Macro" width="150"></a>  <br>  **Análise de Conjuntura usando R**'
+subtitle: "Programa e informações gerais do curso"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+theme:
+  light: flatly
+---
+
+# Resumo
+
+O curso ensina a coletar, tratar e apresentar variáveis macroeconômicas usando a linguagem R. A ideia é cobrir a parte prática que costuma ficar de fora dos cursos de graduação: como buscar os dados na fonte, como limpá-los e como transformá-los em análise útil.
+
+Você vai trabalhar com mais de 40 variáveis macroeconômicas acompanhadas por quem precisa entender o ritmo da economia brasileira e mundial. Os dados vêm de fontes como Banco Central, IPEADATA, SIDRA/IBGE, Ministério da Economia, FMI, OCDE e SICONFI, entre outras. Ao longo do caminho, você aprende a lidar com problemas típicos dessas séries, como dados faltantes, sazonalidade, defasagens, diferenciação e ajuste pela inflação.
+
+O curso é voltado para quem precisa analisar conjuntura no dia a dia e quer automatizar esse trabalho. Ao final, você reúne coleta, tratamento e apresentação dos dados em scripts de R e entrega o resultado em relatórios, apresentações e dashboards.
+
+| Ficha técnica | |
+|---|---|
+| **Categoria** | Básicos de R |
+| **Carga horária total** | 68 horas |
+| **Horas de vídeo** | 17 horas |
+| **Número de aulas** | 25 |
+| **Nível** | Intermediário |
+| **Certificado** | Sim |
+
+# Pré-requisitos e Objetivos
+
+## Pré-requisitos
+
+- Conhecimentos básicos de programação em R
+- Conhecimentos básicos de Macroeconomia
+
+É desejável conhecer os principais pacotes de R voltados à análise de dados e reconhecer conceitos macroeconômicos básicos.
+
+## O que você será capaz de fazer
+
+- Coletar dados macroeconômicos em fontes como Banco Central, IPEADATA, SIDRA/IBGE, Ministério da Economia, FMI, OCDE e SICONFI.
+- Tratar séries econômicas, lidando com dados faltantes, sazonalidade, defasagens, diferenciação e ajuste pela inflação.
+- Analisar os principais indicadores de atividade, inflação, crédito, política monetária e contas públicas.
+- Construir relatórios, apresentações e dashboards que automatizem todo o processo de análise.
+
+## Habilidades e ferramentas
+
+- Linguagem R e RStudio
+- Coleta automatizada de dados de APIs e fontes oficiais
+- Tratamento de séries temporais macroeconômicas
+- Análise desagregada da inflação (classificações, difusão e núcleos)
+- Produção de relatórios e dashboards
+
+# Programa Detalhado
+
+1. Apresentação do Curso
+2. Fundamentos Estatísticos necessários para trabalhar com dados macroeconômicos
+3. Coletando dados macroeconômicos com R
+4. Coleta e tratamento de dados do PIB com R
+5. Coleta e tratamento de dados das Vendas do Comércio com R
+6. Coleta e tratamento de dados da Pesquisa Mensal de Serviços com R
+7. Coleta e tratamento da Produção Industrial com R
+8. Coleta e tratamento de dados da PNAD Contínua com R
+9. Coleta e tratamento de dados do CAGED com R
+10. Análise da Inflação no Brasil
+11. Desvendando o IPCA: classificações, difusão e núcleos
+12. Análise de dados de inflação com R
+13. Análise do mercado de crédito com R
+14. A política monetária no Brasil: Copom, mercado de reservas e a taxa Selic
+15. Análise do boletim Focus com R
+16. Coleta e tratamento de dados fiscais com R
+17. Coleta e tratamento de dados de economia internacional com R
+18. Criando relatórios personalizados
+19. Produção de Dashboards
+
+# Inscrição
+
+A matrícula dá acesso às aulas gravadas, aos materiais de apoio e ao certificado de conclusão, além do suporte da equipe da Análise Macro para tirar dúvidas durante o curso.
+
+- 📄 **Página do curso:** <https://analisemacro.com.br/curso/analise-de-conjuntura-usando-r/>
+- 🛒 **Matrícula:** <https://aluno.analisemacro.com.br/carrinho/?add-to-cart=54446>

@@ -1,0 +1,93 @@
+---
+title: '<a href="https://analisemacro.com.br/" target="_blank"><img src="https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png" alt="Logotipo Análise Macro" width="150"></a>  <br>  **Formação Analista de Dados em Python**'
+subtitle: "Programa e informações gerais da formação"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+theme:
+  light: flatly
+---
+
+# Resumo
+
+A Formação Analista de Dados em Python é uma trilha que reúne vários cursos, workshops e imersões num único percurso de aprendizado. A proposta é ser a porta de entrada para quem quer automatizar as tarefas rotineiras e repetitivas do dia a dia e dar conta do volume cada vez maior de bases de dados. Em vez de cursos soltos, a formação organiza o conteúdo em blocos que vão do básico aos projetos reais, conduzindo o aluno do primeiro contato com a programação até a entrega de análises completas.
+
+A trilha cobre Python aplicado a dados, estatística, econometria, modelagem e previsão, além de produção de relatórios e dashboards automáticos e uso de inteligência artificial. O encadeamento dos blocos é proposital: você aprende os fundamentos, depois modela e prevê, em seguida comunica os resultados e, por fim, aplica tudo em projetos práticos que podem compor o seu portfólio.
+
+É indicada para estudantes de graduação e pós-graduação que precisam usar análise de dados e para profissionais de mercado que hoje trabalham com Excel e querem automatizar suas rotinas. Ao final, o aluno sai capaz de resolver problemas reais de dados com Python e se posicionar como referência em análise de dados na sua organização.
+
+| Ficha técnica | |
+|---|---|
+| **Categoria** | Formações |
+| **Carga horária total** | 210 horas |
+| **Horas de vídeo** | 75 horas |
+| **Número de aulas** | 113 aulas |
+| **Certificado** | Certificado individual por curso da trilha + certificado da formação |
+| **Acesso** | 48 meses |
+
+# Pré-requisitos e Objetivos
+
+## Pré-requisitos
+
+Não há pré-requisito para ingressar na formação: o início é pensado para quem está partindo do zero. À medida que a trilha avança, os cursos passam a assumir conhecimento prévio em programação em Python, estatística, econometria e séries temporais em Python — conteúdos que são justamente construídos nos blocos iniciais.
+
+## O que você será capaz de fazer
+
+- Automatizar tarefas rotineiras e repetitivas de análise de dados com Python.
+- Aplicar modelos clássicos de estatística e econometria a bases de dados reais.
+- Construir modelos de modelagem e previsão em Python.
+- Produzir relatórios e dashboards automáticos para comunicar resultados.
+- Usar inteligência artificial em projetos de análise de dados.
+- Desenvolver projetos práticos que compõem um portfólio de Data Science.
+
+## Habilidades e ferramentas
+
+- Análise de Dados
+- Programação em Python
+- Estatística e Econometria
+- Modelagem e Previsão
+- Produção de Relatórios Automatizados
+- Dashboards em Python
+- Conhecimentos de Inteligência Artificial
+- Projetos práticos para o portfólio
+
+# Programa Detalhado
+
+A formação está organizada em quatro blocos, percorridos na ordem abaixo. Cada bloco agrega os cursos, workshops e imersões que o compõem.
+
+## Bloco 1 – Cursos Básicos
+
+- Fundamentos de Análise de Dados
+- Programação em Python para Análise de Dados
+- Inteligência Artificial para Todos
+
+## Bloco 2 – Cursos de Modelagem e Previsão
+
+- Estatística para Análise de Dados usando Python
+- Modelagem e Previsão usando o Python
+
+## Bloco 3 – Cursos de Data Storytelling
+
+- Produção de Dashboards Automáticos usando Python
+- Produção de Relatórios Automáticos usando Python
+
+## Bloco 4 – Projetos Reais
+
+- Construção de Portfólio de Data Science
+- Imersão: Como Criar um Agente de IA Econometrista
+- Workshop: Como Analisar as Atas do Copom com IA e Python
+- Imersão IA com Python: como prever a inflação no Brasil
+- Workshop: Como Prever a Taxa Selic com IA e Python
+
+# Inscrição
+
+A matrícula dá acesso à trilha completa da formação: todos os cursos, workshops e imersões dos quatro blocos, com certificado individual a cada curso concluído e o certificado da formação ao final, além do acesso aos conteúdos pelo período informado na ficha técnica. Para conhecer todos os detalhes ou efetuar a matrícula, use os links abaixo.
+
+- 📄 **Página da formação:** <https://analisemacro.com.br/formacao/analista-de-dados-em-python/>
+- 🛒 **Matrícula:** <https://aluno.analisemacro.com.br/carrinho/?add-to-cart=54311>

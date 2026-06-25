@@ -1,0 +1,102 @@
+---
+title: '<a href="https://analisemacro.com.br/" target="_blank"><img src="https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png" alt="Logotipo Análise Macro" width="150"></a>  <br>  **Macroeconometria usando Python**'
+subtitle: "Programa e informações gerais do curso"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+theme:
+  light: flatly
+---
+
+# Resumo
+
+Macroeconometria usando Python ensina a estimar modelos macroeconômicos a partir de dados reais. O curso cobre o ciclo completo da análise: coleta e tratamento dos dados, especificação do modelo, estimação e interpretação dos resultados. O foco está em séries macroeconômicas brasileiras.
+
+A primeira parte revisa a regressão linear aplicada a séries temporais e trata dos problemas que aparecem nesse contexto, como autocorrelação, heterocedasticidade e endogeneidade. Em seguida, o curso aplica esses métodos para estimar relações centrais da teoria macroeconômica: a Curva de Phillips, a Curva IS, a função de reação do Banco Central e a inclinação da curva de juros. A última parte é dedicada a exercícios aplicados com variáveis macroeconômicas brasileiras, em que cada seção parte de uma pergunta de pesquisa e a responde com um modelo.
+
+O curso é voltado a economistas e profissionais que querem aprofundar suas análises macroeconômicas com modelagem prática. Todo o material é desenvolvido em Python, com exercícios que reproduzem cada etapa do trabalho.
+
+| Item | Descrição |
+|---|---|
+| **Categoria** | Especialização em Python |
+| **Carga horária total** | 28 horas |
+| **Horas de vídeo** | 7 horas |
+| **Número de aulas** | 24 |
+| **Nível** | Intermediário |
+| **Certificado** | Sim, emitido pela Análise Macro ao final do curso |
+
+# Pré-requisitos e Objetivos
+
+## Pré-requisitos
+
+O pré-requisito é saber programar em Python. É recomendável também ter familiaridade com conceitos básicos de macroeconomia e de estatística, já que o curso aplica esses conceitos na estimação dos modelos.
+
+## O que você será capaz de fazer
+
+- Entender os determinantes da oferta, da demanda e o efeito da política econômica sobre a economia por meio da estimação prática de modelos.
+- Construir modelos causais que verificam o impacto de uma mudança em uma variável sobre outra.
+- Escrever scripts completos e automáticos para estimação de modelos macroeconômicos.
+- Lidar com os principais problemas práticos da estimação, como autocorrelação, heterocedasticidade e endogeneidade.
+- Estimar relações macroeconômicas clássicas, como a Curva de Phillips, a Curva IS e a função de reação do Banco Central.
+
+## Habilidades e ferramentas
+
+- Python como linguagem para coleta, tratamento e modelagem de dados.
+- Google Colab como ambiente de execução.
+- Regressão linear para séries temporais e correção de seus problemas típicos (Matriz de Newey-West, variáveis instrumentais).
+- Mínimos Quadrados em 2 Estágios (TSLS) e Método dos Momentos Generalizado (GMM).
+- Trabalho com séries macroeconômicas brasileiras reais.
+
+# Programa Detalhado
+
+O curso é organizado em seções temáticas, agrupadas em quatro blocos.
+
+**Bloco 1 — Apresentação e o modelo novo-keynesiano**
+
+- **Seção 01:** Apresentação do Curso
+- **Seção 02:** O modelo básico novo-keynesiano
+
+**Bloco 2 — Regressão para séries temporais e métodos de estimação**
+
+- **Seção 03:** Regressão Linear para Séries Temporais
+- **Seção 04:** Mínimos Quadrados em 2 Estágios (TSLS)
+- **Seção 05:** Método dos Momentos Generalizado (GMM)
+
+**Bloco 3 — Estimação de relações macroeconômicas com instrumentos**
+
+- **Seção 06:** A Curva de Phillips com restrição de verticalidade estimada com instrumentos
+- **Seção 07:** A Curva IS estimada com instrumentos
+- **Seção 08:** A função de reação do Banco Central estimada com instrumentos
+- **Seção 09:** A Curva do prêmio do swap pré-DI 360 estimada com instrumentos
+
+**Bloco 4 — Exercícios aplicados com dados brasileiros**
+
+- **Seção 10:** Construindo exercícios aplicados de macroeconometria
+- **Seção 11:** Ampliando a série de desemprego da PNAD Contínua
+- **Seção 12:** O IBC-Br é um bom preditor do PIB?
+- **Seção 13:** Meta de Inflação e Expectativas dos Agentes
+- **Seção 14:** Construindo um modelo para a inflação de alimentos
+- **Seção 15:** Estimando a inércia inflacionária
+- **Seção 16:** Estimando o juro neutro para o Brasil
+- **Seção 17:** O Banco Central deve reagir a um choque de preços administrados?
+- **Seção 18:** Medindo o efeito da volatilidade sobre a taxa de câmbio
+- **Seção 19:** Como o Banco Central reage a choques cambiais?
+- **Seção 20:** Usando swaps cambiais para reagir a choques
+- **Seção 21:** Estimando a volatilidade da taxa de câmbio
+- **Seção 22:** Estimando o repasse externo sobre a inflação brasileira
+- **Seção 23:** Ancoragem de Expectativas
+- **Seção 24:** Juro a pessoa física: um modelo explicativo
+- **Seção 25:** A Bolsa é um bom preditor para o PIB?
+
+# Inscrição
+
+A matrícula dá acesso ao curso completo, com as videoaulas e os materiais de apoio para reproduzir cada exercício em Python. Inclui certificado emitido pela Análise Macro ao final do curso e suporte para dúvidas sobre o conteúdo.
+
+- 📄 **Página do curso:** <https://analisemacro.com.br/curso/macroeconometria-usando-python/>
+- 🛒 **Matrícula:** <https://aluno.analisemacro.com.br/carrinho/?add-to-cart=54436>

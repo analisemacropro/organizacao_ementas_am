@@ -1,0 +1,88 @@
+---
+title: '<a href="https://analisemacro.com.br/" target="_blank"><img src="https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png" alt="Logotipo Análise Macro" width="150"></a>  <br>  **Análise de Conjuntura usando Python**'
+subtitle: "Programa e informações gerais do curso"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+theme:
+  light: flatly
+---
+
+# Resumo
+
+O curso ensina a coletar, tratar e apresentar as principais variáveis macroeconômicas usando Python. O foco está na rotina prática de quem acompanha a economia brasileira e mundial: buscar os dados na fonte, resolver os problemas típicos das séries econômicas e transformar tudo em relatórios, apresentações e dashboards.
+
+São trabalhadas mais de 40 variáveis macroeconômicas, com coleta automatizada a partir de fontes como Banco Central, IPEADATA, SIDRA/IBGE, Ministério da Economia, FMI, OCDE e SICONFI. O conteúdo cobre desde a coleta até o tratamento de problemas comuns das séries, como dados faltantes, sazonalidade, defasagens, diferenciação e inflação.
+
+O curso é voltado a quem precisa analisar variáveis macroeconômicas no dia a dia e quer fazer isso com uma stack moderna de programação. Ao final, o aluno une conhecimento de programação, macroeconomia e análise de séries econômicas para entregar análises quantitativas a clientes ou gestores.
+
+| Ficha técnica | |
+|---|---|
+| **Categoria** | Básicos de Python |
+| **Carga horária total** | 68 horas |
+| **Horas de vídeo** | 17 horas |
+| **Número de aulas** | 27 |
+| **Nível** | Intermediário |
+| **Certificado** | Sim, certificado da Análise Macro ao concluir o curso |
+
+# Pré-requisitos e Objetivos
+
+## Pré-requisitos
+
+- Conhecimentos básicos de programação com a linguagem Python
+- Conhecimentos básicos de Macroeconomia
+
+É desejável que o aluno já conheça os principais pacotes e bibliotecas de Python voltados à análise de dados e que saiba reconhecer conceitos macroeconômicos básicos.
+
+## O que você será capaz de fazer
+
+- Coletar dados macroeconômicos de fontes como Banco Central, IPEADATA, SIDRA/IBGE, Ministério da Economia, FMI, OCDE e SICONFI
+- Tratar problemas típicos de séries econômicas, como dados faltantes, sazonalidade, defasagens, diferenciação e inflação
+- Analisar indicadores de atividade, inflação, crédito, política monetária, contas fiscais e economia internacional
+- Automatizar a coleta e o tratamento de mais de 40 variáveis macroeconômicas com scripts em Python
+- Criar relatórios e apresentações personalizados a partir dos dados
+- Construir dashboards interativos para visualização e acompanhamento das variáveis
+
+## Habilidades e ferramentas
+
+- Python como linguagem principal de análise
+- Pandas para manipulação e tratamento de dados
+- Matplotlib e Plotly para visualização de séries
+- Coleta automatizada de dados a partir de APIs e fontes oficiais
+- Tratamento de séries temporais macroeconômicas
+- Produção de relatórios, apresentações e dashboards
+
+# Programa Detalhado
+
+1. Apresentação do Curso
+2. Fundamentos Estatísticos necessários para trabalhar com dados macroeconômicos
+3. Coletando dados macroeconômicos com Python
+4. Coleta e tratamento de dados do PIB com Python
+5. Coleta e tratamento de dados das Vendas do Comércio com Python
+6. Coleta e tratamento de dados da Pesquisa Mensal de Serviços com Python
+7. Coleta e tratamento da Produção Industrial com Python
+8. Coleta e tratamento de dados da PNAD Contínua com Python
+9. Coleta e tratamento de dados do CAGED com Python
+10. Análise da Inflação no Brasil
+11. Desvendando o IPCA: classificações, difusão e núcleos
+12. Análise de dados de inflação com Python
+13. Análise do mercado de crédito com Python
+14. A política monetária no Brasil: Copom, mercado de reservas e a taxa Selic
+15. Análise do boletim Focus com Python
+16. Coleta e tratamento de dados fiscais com Python
+17. Coleta e tratamento de dados de economia internacional com Python
+18. Criando relatórios personalizados
+19. Produção de Dashboards
+
+# Inscrição
+
+A matrícula dá acesso ao curso completo, com aulas em vídeo, materiais de apoio, suporte para dúvidas e certificado da Análise Macro ao concluir.
+
+- 📄 **Página do curso:** <https://analisemacro.com.br/curso/analise-de-conjuntura-usando-python/>
+- 🛒 **Matrícula:** <https://aluno.analisemacro.com.br/carrinho/?add-to-cart=54434>

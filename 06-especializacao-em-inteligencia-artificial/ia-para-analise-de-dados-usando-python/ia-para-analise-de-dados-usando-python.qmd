@@ -1,0 +1,81 @@
+---
+title: '<a href="https://analisemacro.com.br/" target="_blank"><img src="https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png" alt="Logotipo Análise Macro" width="150"></a>  <br>  **IA para Análise de Dados usando Python**'
+subtitle: "Programa e informações gerais do curso"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+theme:
+  light: flatly
+---
+
+# Resumo
+
+O curso ensina a usar Inteligência Artificial e Machine Learning na análise de dados econômicos e financeiros com Python. O ponto de partida são os fundamentos de engenharia de prompt e o uso de ferramentas como Google AI Studio e Gemini. A partir daí, o conteúdo avança para aplicações em otimização de portfólios, previsões econômicas, análise de séries temporais e análise de sentimento.
+
+A abordagem é prática. Cada tema é trabalhado com código em Python sobre problemas concretos, como prever retornos de ações, identificar crises financeiras, projetar o consumo de energia ou avaliar o tom da política monetária. O objetivo é que o aluno saia capaz de desenvolver, treinar e aplicar modelos de IA e Machine Learning no próprio trabalho.
+
+O curso é voltado a economistas, analistas financeiros e cientistas de dados que já programam em Python e querem incorporar IA e Machine Learning ao seu fluxo de análise.
+
+| Item | Detalhe |
+|---|---|
+| Categoria | Especialização em Inteligência Artificial |
+| Carga horária total | 30 horas |
+| Horas de vídeo | 20 horas |
+| Número de aulas | 17 |
+| Nível | Intermediário |
+| Certificado | Sim, de conclusão |
+
+# Pré-requisitos e Objetivos
+
+## Pré-requisitos
+
+É necessário conhecimento prévio em programação Python para acompanhar o conteúdo. As aulas usam Python como ferramenta principal de implementação, com apoio do Google Colab.
+
+## O que você será capaz de fazer
+
+- Aplicar técnicas de engenharia de prompt para obter resultados úteis de modelos de IA.
+- Usar ferramentas como Google AI Studio e Gemini em tarefas de análise de dados.
+- Desenvolver, treinar e implementar modelos de IA e Machine Learning em Python.
+- Aplicar Machine Learning a problemas econômicos e financeiros, como previsão de retornos, otimização de portfólios e projeção de séries temporais.
+- Analisar texto com IA, incluindo relatórios de gestores e o tom da política monetária.
+- Automatizar a geração de relatórios com apoio de IA.
+
+## Habilidades e ferramentas
+
+- **Linguagem:** Python
+- **Ambiente:** Google Colab
+- **Ferramentas de IA:** Google AI Studio, Google Gemini, TimeGPT
+- **Áreas de aplicação:** engenharia de prompt, otimização de portfólios, previsão econômica, análise de séries temporais, análise de sentimento e geração automática de relatórios
+
+# Programa Detalhado
+
+1. Introdução à Inteligência Artificial e Engenharia de Prompt
+2. Utilização do Google AI Studio e do Gemini
+3. Fundamentos de Prompt Engineering para Inteligência Artificial
+4. Aplicação de IA na análise de dados econômicos com Python
+5. Uso da IA e Machine Learning na otimização de portfólios de investimentos
+6. Desenvolvimento de estratégias de investimentos com Machine Learning em Python
+7. Previsões econômicas na era da IA utilizando Machine Learning
+8. Análise macroeconômica com IA e Machine Learning em Python
+9. Previsão de retornos de ações com Machine Learning em Python
+10. TimeGPT e previsão automática com IA em Python
+11. Identificação de crises financeiras com Machine Learning em Python
+12. Previsão do consumo de energia no Brasil utilizando Machine Learning em Python
+13. Análise de relatórios de gestores usando IA e técnicas de Machine Learning em Python
+14. Previsão de múltiplas séries temporais com Machine Learning em Python
+15. Análise do tom da política monetária (Hawkish ou Dovish) com IA e Machine Learning em Python
+16. Avaliação do sentimento da política monetária com IA e Machine Learning em Python
+17. Criação de relatórios automáticos utilizando IA e técnicas de Machine Learning em Python
+
+# Inscrição
+
+A matrícula dá acesso às 17 aulas em vídeo, aos slides e códigos para download, ao suporte para tirar dúvidas e ao certificado de conclusão. O conteúdo fica disponível para acompanhamento no seu ritmo.
+
+- 📄 **Página do curso:** <https://analisemacro.com.br/curso/inteligencia-artificial-para-analise-de-dados-usando-python/>
+- 🛒 **Matrícula:** <https://aluno.analisemacro.com.br/carrinho/?add-to-cart=61356>

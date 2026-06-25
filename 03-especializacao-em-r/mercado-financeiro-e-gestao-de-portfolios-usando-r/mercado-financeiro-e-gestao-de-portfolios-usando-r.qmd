@@ -1,0 +1,112 @@
+---
+title: '<a href="https://analisemacro.com.br/" target="_blank"><img src="https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png" alt="Logotipo Análise Macro" width="150"></a>  <br>  **Mercado Financeiro e Gestão de Portfólios usando R**'
+subtitle: "Programa e informações gerais do curso"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+theme:
+  light: flatly
+---
+
+# Resumo
+
+O mercado financeiro trabalha o tempo todo com bases de dados. Quem atua na área precisa coletar, tratar e analisar esses dados com agilidade, e a linguagem R é uma das ferramentas mais usadas para isso.
+
+Este curso une uma introdução ao mercado financeiro com as principais técnicas de gestão de portfólios, sempre aplicadas no R. Você aprende desde os fundamentos sobre produtos e instituições financeiras até a construção e a administração de uma carteira de investimentos, passando por risco, retorno e os modelos clássicos de seleção de ativos.
+
+O conteúdo é dividido em dois blocos. No primeiro, você estuda os mercados financeiros, o risco e o retorno dos ativos e a teoria de portfólios. No segundo, um módulo de Projetos reúne códigos práticos para colocar a teoria em uso, incluindo a construção de aplicações em Shiny. É indicado para quem deseja entrar no mercado financeiro ou para profissionais que querem atualizar seus conhecimentos com o uso do R.
+
+| Item | Detalhe |
+|------|---------|
+| Categoria | Especialização em R |
+| Carga horária total | 44 horas |
+| Horas de vídeo | 11 horas |
+| Número de aulas | 24 |
+| Nível | Intermediário |
+| Certificado | Sim, emitido pela Análise Macro |
+
+# Pré-requisitos e Objetivos
+
+## Pré-requisitos
+
+É recomendável ter conhecimento prévio de programação em R. Quem já passou pelos cursos introdutórios da trilha de R chega bem preparado para acompanhar as análises e os códigos do curso.
+
+## O que você será capaz de fazer
+
+- Coletar dados financeiros diretamente no R.
+- Compreender as características e os principais produtos do mercado financeiro.
+- Medir risco e retorno de ativos e de carteiras.
+- Construir e gerenciar portfólios de investimentos.
+- Aplicar os modelos clássicos de seleção de carteira, como a Teoria de Markowitz, o CAPM e o modelo Fama-French.
+- Desenvolver dashboards e aplicações em Shiny sobre gestão de portfólios.
+
+## Habilidades e ferramentas
+
+- Linguagem R para análise de dados financeiros.
+- Coleta e tratamento de dados de mercado.
+- Fundamentos estatísticos aplicados a finanças.
+- Cálculo de risco, retorno e índices de desempenho.
+- Teoria de portfólios e modelos de precificação de ativos.
+- Desenvolvimento de aplicações interativas com Shiny.
+
+# Programa Detalhado
+
+O conteúdo está organizado em dois blocos: o curso de Mercado Financeiro e Gestão de Portfólios e um módulo de Projetos.
+
+## Curso de Mercado Financeiro e Gestão de Portfólios
+
+- Seção 01 - Apresentação do Curso
+- Seção 02 - Fundamentos Estatísticos
+- Seção 03 - Coleta de dados financeiros com o R
+- Seção 04 - Mercados Financeiros
+  - Sistema Financeiro Nacional
+  - Mercado Monetário
+  - Extra: como calcular o Juro Real e Juro Neutro?
+  - Mercado de Crédito
+  - Mercado de Capitais
+  - Mercado Cambial
+- Seção 05 - Juros
+  - Juros e Estrutura a Termo da Taxa de Juros
+- Seção 06 - Riscos financeiros
+- Seção 07 - Produtos financeiros
+- Seção 08 - Mercado de Renda Fixa
+- Seção 09 - Mercado de Ações
+- Seção 10 - Risco vs. Retorno
+  - Gestão de Carteiras
+  - O que é Risco?
+  - Retornos Individuais
+  - Relação de Risco/Retorno
+- Seção 11 - Retorno Esperado e Risco de uma Carteira de Investimentos
+- Seção 12 - Seleção de Carteira e Teoria de Markowitz
+- Seção 13 - Índice de Sharpe
+- Seção 14 - Capital Asset Pricing Model (CAPM)
+  - Como funciona o CAPM?
+  - Estimando o Beta com o R
+  - Análise de Betas do Mercado Acionário Brasileiro
+- Seção 15 - Modelo Fama-French
+- Extra: Estudo de Eventos no R
+
+## Projetos
+
+- Projeto 01 - Transformando preços em retornos
+- Projeto 02 - Construindo um Shiny App para Retornos de Portfólios
+- Projeto 03 - Construindo um Shiny App para Desvio-Padrão
+- Projeto 04 - Construindo um Shiny App para assimetria e curtose de retornos
+- Projeto 05 - Shiny App para índice sharpe
+- Projeto 06 - Shiny App para CAPM Beta
+- Projeto 07 - Construindo um Shiny App para o modelo Fama-French
+- Projeto 08 - Contribuição do ativo para o desvio padrão do portfólio
+- Projeto 09 - Simulação de Monte Carlo
+
+# Inscrição
+
+A matrícula dá acesso às videoaulas, ao material de apoio e aos códigos do curso, com certificado de conclusão emitido pela Análise Macro e suporte para dúvidas durante os estudos.
+
+- 📄 **Página do curso:** <https://analisemacro.com.br/curso/mercado-financeiro-e-gestao-de-portfolios/>
+- 🛒 **Matrícula:** <https://aluno.analisemacro.com.br/carrinho/?add-to-cart=22478>

@@ -1,0 +1,188 @@
+---
+title: '<a href="https://analisemacro.com.br/" target="_blank"><img src="https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png" alt="Logotipo Análise Macro" width="150"></a>  <br>  **Produção de Relatórios Automáticos usando R**'
+subtitle: "Programa e informações gerais do curso"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+theme:
+  light: flatly
+---
+
+# Resumo
+
+Este curso ensina a criar relatórios e apresentações do zero com a linguagem R. A proposta é prática: você percorre todas as etapas do ciclo de análise de dados, da extração dos dados ao documento final compilado, usando o Quarto como ferramenta central de publicação.
+
+O conteúdo é voltado para quem já programa em R e quer centralizar a análise e a comunicação dos resultados em um único fluxo de trabalho. Em vez de montar relatórios manualmente a cada atualização, você aprende a construir documentos reproduzíveis que podem ser gerados de novo sempre que os dados mudam.
+
+A última parte do curso trata de automatização. Com Git, GitHub e GitHub Actions, você configura um fluxo que executa o código, renderiza o relatório e atualiza o repositório sem intervenção manual, em um horário definido ou a cada alteração do projeto.
+
+| | |
+|---|---|
+| **Categoria** | Especialização em R |
+| **Carga horária total** | 30 horas |
+| **Horas de vídeo** | 20 horas |
+| **Número de aulas** | 19 |
+| **Nível** | Intermediário/Avançado |
+| **Certificado** | Sim, emitido pela Análise Macro ao final do curso |
+
+# Pré-requisitos e Objetivos
+
+## Pré-requisitos
+
+Para o melhor aproveitamento, é esperado que o interessado cumpra os seguintes requisitos:
+
+- Computador com acesso à internet;
+- Cadastro de conta gratuita no [Posit Cloud](https://posit.cloud/);
+- Cadastro de conta gratuita no [GitHub](https://github.com/);
+- Nível introdutório/intermediário de R;
+- Noções básicas de controle de versão Git;
+- Domínio de inglês para leitura.
+
+## O que você será capaz de fazer
+
+- Construir relatórios reproduzíveis e automáticos com a linguagem R;
+- Identificar as ferramentas adequadas para produção de relatórios e apresentações;
+- Produzir relatórios e apresentações do zero, da extração dos dados à compilação;
+- Automatizar a geração e o envio de relatórios e apresentações.
+
+## Habilidades e ferramentas
+
+- **R**: extração de dados, computação e geração dos resultados;
+- **Quarto**: produção de relatórios, apresentações e outros formatos de publicação;
+- **revealjs**: formato de apresentações dentro do Quarto;
+- **Posit Cloud**: ambiente de programação na nuvem;
+- **Git e GitHub**: controle de versão e repositório do projeto;
+- **GitHub Actions**: automatização do fluxo de execução e renderização.
+
+# Programa Detalhado
+
+## Primeiros Passos
+
+1. Boas vindas e apresentação do curso
+2. Relatórios no ciclo de análise de dados
+    a) O que são relatórios?
+    b) Quando produzir relatórios?
+3. Como produzir relatórios do zero?
+    a) Definição de objetivos
+    b) Identificação de fontes de dados
+    c) Seleção de métricas e variáveis
+    d) Desenvolvimento de layout e estrutura
+    e) Produção textual e de visualizações de dados
+    f) Compilação e publicação
+4. Quais ferramentas usar para produção de relatórios?
+    a) [Quarto](https://quarto.org/): relatórios, apresentações e mais
+    b) R: dados e computação
+    c) [Posit Cloud](https://posit.cloud/): ambiente de programação
+5. Preparando o ambiente de programação Posit Cloud
+    a) Limites e custos de serviço
+    b) Conta de usuário
+    c) Criação de projeto
+    d) Configuração do RStudio
+    e) Instalação de pacotes
+6. Projetos de curso de relatórios e apresentações
+    a) O que utilizaremos como inspiração para produzir no curso?
+        - Projeto de curso 1: Relatório de Análise da Inflação
+        - Projeto de curso 2: Apresentação sobre DataViz
+    b) O que não aprenderemos no curso?
+        - Visualização de dados e *data storytelling* avançados
+        - HTML intermediário/avançado
+        - CSS/SCSS
+
+## Produzindo Relatórios
+
+1. Guia de primeiros passos usando o Quarto
+    a) Quais são os formatos disponíveis?
+    b) Como criar um documento?
+    c) O que pode ser colocado em um documento?
+    d) Qual é a estrutura do documento?
+    e) Quais são os modos de edição disponíveis?
+    f) Como renderizar um documento?
+    g) O que é gerado após a renderização?
+    h) Qual é o fluxo de trabalho de produção de documentos?
+    i) Onde obter informações técnicas?
+2. Como formatar o *layout* do relatório?
+    a) Como é a estrutura de um documento?
+    b) O que é YAML e para que é usado?
+    c) Quais são as opções de *layouts* disponíveis?
+    d) Como ajustar as larguras do *layout*?
+    e) Como personalizar componentes do *layout*?
+        - Como funciona o sistema [Bootstrap CSS Grid](https://getbootstrap.com/docs/5.2/layout/css-grid/)?
+        - Como criar colunas no documento?
+        - Como alterar o preenchimento de conteúdo na tela?
+3. Como formatar o conteúdo do relatório?
+    a) Como editar as informações do cabeçalho?
+    b) Como editar o texto do relatório?
+    c) Como inserir código no relatório?
+    d) Como inserir gráficos no relatório?
+    e) Como inserir tabelas no relatório?
+    f) Como controlar os blocos de códigos do relatório?
+    g) Como inserir uma tabela de índice?
+    h) Como usar temas padronizados no relatório?
+    i) Onde encontrar outras opções de formatação?
+    j) Extra: como converter um documento HTML para PDF?
+
+## Produzindo Apresentações
+
+1. Como criar apresentações com o Quarto?
+    a) Quais são os formatos disponíveis?
+    b) Definindo um formato para usar no curso: [revealjs](https://revealjs.com/)
+2. Como formatar o *layout* da apresentação?
+    a) Como slides são definidos?
+    b) Como criar um *layout* de colunas?
+    c) Como definir o tamanho da apresentação?
+3. Como formatar o conteúdo da apresentação?
+    a) Como formatar o slide principal?
+    b) Como inserir nota de rodapé e logotipo?
+    c) Como revelar listas incrementalmente?
+    d) Como controlar o preenchimento do conteúdo no slide?
+    e) Como criar abas de navegação no slide?
+    f) Como formatar a cor de fundo do slide?
+    g) Como numerar os slides da apresentação?
+    h) Como exibir uma barra de progresso nos slides?
+    i) Como usar transições entre slides?
+    j) Como usar animações no conteúdo automaticamente?
+    k) Como usar temas padronizados na apresentação?
+    l) Extra: como converter uma apresentação HTML para PDF?
+
+## Projetos de Curso de Relatório e Apresentação
+
+- Projeto de curso 1: Relatório de Análise da Inflação
+- Projeto de curso 2: Apresentação sobre DataViz
+
+## Automatização
+
+1. Como funciona a automatização de um código?
+2. Qual é o maior desafio para automatização de um código?
+3. Quais ferramentas podem ser usadas para automatização?
+    a) Git
+    b) GitHub
+    c) GitHub Actions
+4. Automatizando um projeto de curso de relatório do curso
+    a) Como gerenciar dependências do projeto?
+    b) Conceito de repositório local e remoto
+    c) Como criar um repositório no GitHub?
+    d) Como adicionar arquivos do projeto no repositório?
+    e) Como adicionar um *workflow* de automatização?
+        - Estrutura de pastas/arquivos
+        - Disparo de execução
+        - Sistema operacional de execução
+        - Etapas iniciais do *workflow*
+        - Etapas de preparação de ambiente de programação
+        - Etapas de extração, transformação e carga de dados
+        - Etapa de renderização
+        - Etapa de atualização do repositório
+        - Etapas finais do *workflow*
+5. Monitoramento, erros e manutenção
+
+# Inscrição
+
+A matrícula dá acesso às aulas gravadas, às notas de aula em HTML, aos códigos reprodutíveis de R, aos dados utilizados, às referências bibliográficas e aos projetos para o portfólio. Ao final do curso, você recebe o certificado da Análise Macro.
+
+- 📄 **Página do curso:** <https://analisemacro.com.br/curso/producao-de-relatorios-automaticos-usando-r/>
+- 🛒 **Matrícula:** <https://aluno.analisemacro.com.br/carrinho/?add-to-cart=53317>

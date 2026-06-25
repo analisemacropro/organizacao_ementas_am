@@ -1,0 +1,80 @@
+---
+title: '<a href="https://analisemacro.com.br/" target="_blank"><img src="https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png" alt="Logotipo Análise Macro" width="150"></a>  <br>  **Avaliação de Políticas Públicas usando R**'
+subtitle: "Programa e informações gerais do curso"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+theme:
+  light: flatly
+---
+
+# Resumo
+
+Este curso ensina a avaliar o impacto de políticas públicas e projetos sociais a partir de dados, e não de opiniões. A ideia central é medir o benefício real que uma intervenção gera para a sociedade, usando métodos econométricos de avaliação de impacto aplicados na linguagem R.
+
+Ao longo das aulas você percorre o ciclo completo de uma avaliação: coletar, tratar, analisar e interpretar os dados que sustentam a conclusão sobre o efeito de uma política. Cada método é apresentado primeiro pela base teórica e depois reproduzido em código R sobre estudos de caso reais, o que torna a aplicação direta e replicável no seu próprio trabalho.
+
+O conteúdo é voltado a quem quer analisar dados como os profissionais da área fazem, partindo do problema de inferência causal até o cálculo do retorno econômico de uma intervenção.
+
+| Item | Detalhe |
+|---|---|
+| Categoria | Especialização em R |
+| Carga horária total | 20 horas |
+| Horas de vídeo | 5 horas |
+| Número de aulas | 9 |
+| Nível | Avançado |
+| Certificado | Sim, emitido pela Análise Macro |
+
+# Pré-requisitos e Objetivos
+
+## Pré-requisitos
+
+- Saber programar na linguagem R.
+- Estatística aplicada.
+- Econometria aplicada.
+
+## O que você será capaz de fazer
+
+- Entender o problema de inferência causal e o porquê de uma política precisar ser avaliada por evidências.
+- Construir e interpretar o modelo de resultados potenciais para estimar o efeito de uma intervenção.
+- Aplicar os principais métodos de avaliação de impacto: aleatorização, diferenças em diferenças, controle sintético, pareamento, variáveis instrumentais e regressão descontínua.
+- Reproduzir avaliações reais de políticas públicas em R, do tratamento dos dados à estimativa do efeito.
+- Calcular o retorno econômico de uma política a partir do impacto estimado.
+
+## Habilidades e ferramentas
+
+- Linguagem R e ambiente RStudio.
+- Métodos estatísticos e econométricos de avaliação de impacto.
+- Avaliação de impacto baseada em dados e evidências.
+
+# Programa Detalhado
+
+1. **Seção 1** - Apresentação do Curso
+2. **Seção 2** - Introdução à Avaliação de Impacto: construindo políticas públicas baseadas em evidências
+3. **Seção 3** - Modelo de Resultados Potenciais: como prever o resultado potencial de uma política pública
+4. **Seção 4** - Método de Aleatorização
+   - Estudo de Caso: Replicando o experimento STAR para o Piauí
+5. **Seção 5** - Diferenças em Diferenças e Controle Sintético
+   - Estudo de Caso: Impacto na redução do ICMS
+   - Estudo de Caso: Lei Anti-fumo na Califórnia
+6. **Seção 6** - Pareamento
+   - Estudo de Caso: Pareamento usando o Metrô em São Paulo
+7. **Seção 7** - Variáveis Instrumentais
+   - Estudo de Caso: Crime e gastos com segurança pública
+8. **Seção 8** - Regressão Descontínua
+   - Estudo de Caso: Efeito do consumo de álcool
+9. **Seção 9** - Cálculo do Retorno Econômico
+   - Estudo de Caso: Avaliando o impacto econômico da política "Mãe Paranaense"
+
+# Inscrição
+
+A matrícula dá acesso às aulas gravadas, aos códigos e materiais usados nos estudos de caso, ao suporte para dúvidas e ao certificado de conclusão emitido pela Análise Macro.
+
+- 📄 **Página do curso:** <https://analisemacro.com.br/curso/avaliacao-de-politicas-publicas/>
+- 🛒 **Matrícula:** <https://aluno.analisemacro.com.br/carrinho/?add-to-cart=31301>

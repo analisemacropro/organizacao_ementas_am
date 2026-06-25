@@ -1,0 +1,82 @@
+---
+title: |
+  ![](https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png){width=150}
+
+  **Econometria Aplicada usando Python**
+subtitle: "Programa e informações gerais do curso"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+    theme:
+      light: flatly
+---
+
+# Resumo
+
+O curso **Econometria Aplicada usando Python** ensina a usar modelos econométricos para resolver problemas reais do dia a dia. O foco está na construção de modelos de regressão com Python, partindo da preparação do ambiente de trabalho até a estimação, a inferência e o tratamento dos principais problemas que aparecem quando aplicamos esses modelos a dados reais.
+
+Ao longo das aulas, o aluno aprende a construir modelos de regressão linear simples e múltipla, a interpretar seus resultados e a lidar com situações comuns na prática, como heterocedasticidade, questões de especificação e problemas nos dados. A proposta é unir a base teórica da econometria à aplicação concreta em Python, de modo que cada conceito seja exercitado sobre dados.
+
+O conteúdo é indicado para quem deseja aplicar econometria nos próprios desafios cotidianos e construir modelos práticos com dados reais. Por exigir conhecimentos prévios de programação em Python e de estatística, o curso tem nível intermediário.
+
+| Categoria | Detalhe |
+|---|---|
+| Carga horária total | 16 horas |
+| Horas de vídeo | 4 horas |
+| Número de aulas | 9 aulas |
+| Nível | Intermediário |
+| Certificado | Certificado da Análise Macro em "Econometria Aplicada usando Python" |
+
+# Pré-requisitos e Objetivos
+
+## Pré-requisitos
+
+Para acompanhar o curso com aproveitamento, recomenda-se ter concluído (ou dominar o conteúdo de):
+
+- Programação em Python para Análise de Dados
+- Estatística para Análise de Dados usando Python
+
+## O que você será capaz de fazer
+
+- Preparar o ambiente de trabalho em Python para análises econométricas.
+- Construir e interpretar modelos de regressão linear simples.
+- Estimar e interpretar modelos de regressão linear múltipla.
+- Conduzir inferência sobre os parâmetros estimados em uma regressão múltipla.
+- Compreender as propriedades assintóticas do estimador de mínimos quadrados ordinários (OLS).
+- Identificar e tratar problemas comuns de regressão, como heterocedasticidade.
+- Avaliar questões de especificação do modelo e lidar com problemas nos dados.
+
+## Habilidades e ferramentas
+
+- Linguagem Python aplicada à econometria.
+- Modelos de regressão linear simples e múltipla.
+- Estimação por mínimos quadrados ordinários (OLS) e sua interpretação.
+- Inferência estatística aplicada a modelos de regressão.
+- Diagnóstico e correção de heterocedasticidade.
+- Avaliação de especificação de modelos e tratamento de problemas de dados.
+
+# Programa Detalhado
+
+O conteúdo é organizado nas seções temáticas abaixo, distribuídas ao longo das aulas do curso.
+
+- Aula 01 - Preparando o ambiente
+- Aula 02 - Regressão linear simples
+- Aula 03 - Regressão linear múltipla: estimação
+- Aula 04 - Regressão linear múltipla: inferência
+- Aula 05 - Regressão linear múltipla: OLS assintótico
+- Aula 06 - Regressão linear múltipla: outros problemas
+- Aula 07 - Heterocedasticidade
+- Aula 08 - Mais em especificações e problemas de dados
+
+# Inscrição
+
+A matrícula dá acesso às aulas em vídeo, ao material de apoio e aos códigos em Python utilizados no curso, além do certificado da Análise Macro ao final. Para conhecer todos os detalhes ou efetuar a inscrição, utilize os links abaixo.
+
+- 📄 **Página do curso:** <https://analisemacro.com.br/curso/econometria-aplicada-usando-python/>
+- 🛒 **Matrícula:** <https://aluno.analisemacro.com.br/carrinho/?add-to-cart=53368>

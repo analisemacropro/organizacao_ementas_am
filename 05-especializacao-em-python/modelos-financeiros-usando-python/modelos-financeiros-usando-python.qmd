@@ -1,0 +1,78 @@
+---
+title: '<a href="https://analisemacro.com.br/" target="_blank"><img src="https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png" alt="Logotipo Análise Macro" width="150"></a>  <br>  **Modelos Financeiros usando Python**'
+subtitle: "Programa e informações gerais do curso"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+theme:
+  light: flatly
+---
+
+# Resumo
+
+Séries financeiras têm propriedades próprias que pedem modelos específicos: retornos com caudas pesadas, volatilidade que muda ao longo do tempo e relações entre ativos que se movem em conjunto. Este curso ensina a tratar esses dados e a construir modelos aplicáveis à análise de ativos usando Python.
+
+O percurso cobre todo o ciclo de análise: coleta, tratamento, visualização e modelagem. Começa pela introdução aos dados financeiros e suas propriedades, passa por modelos univariados e multivariados, aprofunda os modelos de volatilidade (ARCH e GARCH) e suas aplicações em previsão e gestão de risco, e fecha com o uso de fatores macroeconômicos sobre os retornos de ações. Os exemplos usam dados reais do contexto brasileiro.
+
+O curso é voltado para quem já programa em Python e quer aplicar modelos financeiros como os profissionais da área fazem, com apoio de Estatística e Econometria.
+
+| | |
+|---|---|
+| **Categoria** | Especialização em Python |
+| **Carga horária total** | 20 horas |
+| **Horas de vídeo** | 5 horas |
+| **Número de aulas** | 23 |
+| **Nível** | Intermediário |
+| **Certificado** | Sim |
+
+# Pré-requisitos e Objetivos
+
+## Pré-requisitos
+
+- Saber programar em Python.
+- Conhecimentos básicos de Estatística e Econometria aplicada.
+
+## O que você será capaz de fazer
+
+- Entender as características peculiares das séries financeiras.
+- Construir e aplicar modelos univariados no Python.
+- Construir e aplicar modelos multivariados no Python.
+- Construir e aplicar modelos de volatilidade de ativos.
+- Usar modelos de volatilidade em previsão e gestão de risco (VaR, covariância, beta e otimização de portfólio).
+- Construir e aplicar modelos de fatores macroeconômicos.
+
+## Habilidades e ferramentas
+
+- Linguagem Python para análise de séries financeiras.
+- Jupyter Notebook para desenvolvimento e documentação das análises.
+- Modelos univariados e multivariados (VAR, SVAR, Cointegração, VECM).
+- Modelos de volatilidade (ARCH e GARCH) e suas aplicações.
+- Coleta, tratamento e visualização de dados financeiros.
+
+# Programa Detalhado
+
+- **Aula 01** - Apresentação do Curso
+- **Aula 02** - Introdução aos dados financeiros e suas propriedades
+- **Aula 03** - Modelos Lineares Univariados aplicados a séries financeiras
+- **Aula 04** - Modelos Multivariados aplicados a séries financeiras (VAR, SVAR)
+- **Aula 05** - Modelos Multivariados aplicados a séries financeiras (Cointegração, VECM)
+- **Aula 06** - Volatilidade de Ativos e Modelos de Volatilidade (Desvio padrão, ARCH e GARCH)
+- **Aula 07** - Aplicações de Modelos de Volatilidade: Previsão
+- **Aula 08** - Aplicações de Modelos de Volatilidade: VaR Dinâmico usando GARCH
+- **Aula 09** - Aplicações de Modelos de Volatilidade: Covariância Dinâmica usando GARCH
+- **Aula 10** - Aplicações de Modelos de Volatilidade: Beta Dinâmico usando GARCH
+- **Aula 11** - Aplicações de Modelos de Volatilidade: Otimização de Portfólio usando GARCH
+- **Aula 12** - Fatores Macroeconômicos: investigando o efeito de surpresas de variáveis macroeconômicas em retornos de ações
+
+# Inscrição
+
+A matrícula dá acesso às aulas gravadas, ao material do curso e aos dados usados nos exemplos, além de certificado de conclusão e suporte para dúvidas durante os estudos.
+
+- 📄 **Página do curso:** <https://analisemacro.com.br/curso/modelos-financeiros-usando-python/>
+- 🛒 **Matrícula:** <https://aluno.analisemacro.com.br/carrinho/?add-to-cart=55319>

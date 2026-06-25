@@ -1,0 +1,91 @@
+---
+title: '<a href="https://analisemacro.com.br/" target="_blank"><img src="https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png" alt="Logotipo Análise Macro" width="150"></a>  <br>  **Teoria Macroeconômica usando R**'
+subtitle: "Programa e informações gerais do curso"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+theme:
+  light: flatly
+---
+
+# Resumo
+
+O curso apresenta a teoria macroeconômica do jeito que ela é usada por quem trabalha com economia no dia a dia. Cada conceito é primeiro definido e depois levado à prática no R, uma das principais linguagens de programação do mercado.
+
+A ideia é tornar o aprendizado de temas que parecem difíceis mais simples e intuitivo. As seções explicativas tratam dos conceitos-chave da disciplina e se intercalam com projetos práticos, em que você coleta dados, escreve código e reproduz análises de macroeconomia aplicada.
+
+O conteúdo cobre os agregados macroeconômicos, a análise das contas nacionais trimestrais, as formas de medir o ciclo econômico, a construção de um modelo macroeconômico de curto prazo, os modelos de crescimento de longo prazo, os fundamentos microeconômicos da macro e o papel da política econômica. É indicado para quem já tem familiaridade com R e quer aplicar a linguagem ao estudo da macroeconomia.
+
+| Ficha técnica | |
+|---|---|
+| **Categoria** | Básicos de R |
+| **Carga horária total** | 56 horas |
+| **Horas de vídeo** | 14 horas |
+| **Número de aulas** | 20 |
+| **Nível** | Intermediário |
+| **Certificado** | Sim, de conclusão |
+
+# Pré-requisitos e Objetivos
+
+## Pré-requisitos
+
+- Familiaridade com a linguagem R, incluindo a manipulação básica de dados.
+- Não é exigida experiência prévia em macroeconomia teórica; os conceitos são apresentados desde a base.
+
+## O que você será capaz de fazer
+
+- Entender e dominar os conceitos fundamentais da macroeconomia.
+- Coletar e tratar dados macroeconômicos de fontes brasileiras e internacionais no R.
+- Construir e interpretar medidas de ciclo econômico e de hiato do produto.
+- Implementar modelos macroeconômicos em código, como o modelo de três equações e o modelo de Solow.
+- Aplicar os exemplos e projetos do curso para seguir estudando por conta própria.
+
+## Habilidades e ferramentas
+
+- **Linguagem:** R.
+- **Ambiente:** RStudio.
+- **Dados:** contas nacionais trimestrais, SIDRA, microdados da PNAD Contínua.
+- **Técnicas:** deflacionamento de séries, filtro HP, função de produção, filtro de Kalman, filtro de Hamilton e datação de ciclos com o algoritmo Harding-Pagan.
+
+# Programa Detalhado
+
+1. Introdução à Macroeconomia
+2. Projeto de Curso 01 - Deflacionando dados no R
+3. Contas Nacionais Trimestrais
+4. Projeto de Curso 02 - Análise das Contas Nacionais do SIDRA no R
+5. A economia no curto prazo: entendendo o ciclo econômico e o hiato do produto
+   - Explicando o modelo macroeconômico básico de três equações
+   - O que é uma Curva de Phillips
+   - O que é uma Curva IS
+   - O que é uma Regra de Taylor
+6. Projeto de Curso 03a - Construindo o hiato do produto no R
+   - O que é um filtro HP
+   - O método de função de produção
+   - O que é um filtro de Kalman
+   - [O filtro de Hamilton](https://www.nber.org/system/files/working_papers/w23429/w23429.pdf)
+7. Projeto de Curso 03b - Datação de Ciclos Econômicos com o Algoritmo [Harding-Pagan (2002)](https://cran.r-project.org/web/packages/neverhpfilter/vignettes/Reproducing-Hamilton.html)
+8. A economia no longo prazo: modelo de Solow e suas extensões
+   - Modelo básico de Solow
+   - Modelo com progresso técnico
+   - Modelo com educação
+9. Projeto de Curso 04 - Implementando o modelo do Solow no R
+10. Economia Intertemporal: a microeconomia por trás da macro
+11. Projeto de Curso 05 - Análise de Microdados da PNAD Contínua
+12. Política Econômica
+    - O que é política econômica
+    - Debate Regra vs. Discrição
+    - A política monetária
+    - A política fiscal
+
+# Inscrição
+
+A matrícula dá acesso às aulas em vídeo, ao material do curso e aos códigos dos projetos práticos, com suporte para dúvidas e certificado de conclusão ao final.
+
+- 📄 **Página do curso:** <https://analisemacro.com.br/curso/teoria-macroeconomica-usando-r/>
+- 🛒 **Matrícula:** <https://aluno.analisemacro.com.br/carrinho/?add-to-cart=54444>

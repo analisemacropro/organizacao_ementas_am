@@ -1,0 +1,106 @@
+---
+title: '<a href="https://analisemacro.com.br/" target="_blank"><img src="https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png" alt="Logotipo Análise Macro" width="150"></a>  <br>  **Programação em Python para Análise de Dados**'
+subtitle: "Programa e informações gerais do curso"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+theme:
+  light: flatly
+---
+
+# Resumo
+
+Este curso ensina Python para quem precisa coletar, tratar, analisar e apresentar dados, partindo do zero. Não é necessário ter experiência prévia em programação: começamos pela instalação de programas e pacotes e avançamos até as ferramentas que a linguagem oferece para o dia a dia de análise de dados.
+
+O percurso cobre todo o fluxo de trabalho com dados. Você aprende a importar dados de arquivos, APIs, bancos SQL e páginas da web; a limpar e transformar essas bases com pandas e numpy; e a resumir os resultados em tabelas e gráficos que comunicam uma análise.
+
+É um curso voltado a estudantes de graduação e pós-graduação e a profissionais de mercado — economistas, analistas e profissionais de instituições financeiras — que querem usar Python como ferramenta de trabalho em estudo, pesquisa e análise de dados.
+
+| | |
+|---|---|
+| **Categoria** | Básicos de Python |
+| **Carga horária total** | 120 horas |
+| **Horas de vídeo** | 30 horas |
+| **Número de aulas** | 49 |
+| **Nível** | Introdutório |
+| **Certificado** | Sim, de conclusão |
+
+# Pré-requisitos e Objetivos
+
+## Pré-requisitos
+
+Não há pré-requisitos. O curso parte do zero, sem exigir conhecimento prévio de programação ou de Python.
+
+## O que você será capaz de fazer
+
+Ao final do curso, você será capaz de:
+
+- Escrever scripts em Python e trabalhar com os principais tipos de objetos e estruturas de dados da linguagem.
+- Coletar dados de arquivos (.csv, Excel, JSON, XML), APIs, bancos SQL, Google Sheets, Google Drive e páginas da web (web scraping).
+- Limpar e tratar diferentes tipos de dados, incluindo texto, datas e valores faltantes.
+- Transformar bases com pandas: renomear e selecionar colunas, filtrar linhas, criar variáveis, agrupar e sumarizar dados.
+- Aplicar operações comuns em análise econômica, como deflacionar séries e fazer ajuste sazonal.
+- Visualizar dados e apresentar resultados com gráficos e storytelling.
+
+## Habilidades e ferramentas
+
+- **Linguagem:** Python.
+- **Bibliotecas de análise de dados:** pandas e numpy.
+- **Ambiente de trabalho:** Google Colab e IDEs.
+- **Coleta de dados:** APIs, SQL, Google Sheets, Google Drive, web scraping e arquivos em diferentes formatos (.csv, Excel, JSON, XML).
+- **Tratamento e visualização:** limpeza de dados, manipulação de tabelas, agrupamento, sumarização e produção de gráficos.
+
+# Programa Detalhado
+
+1. Por que usar uma linguagem de programação para analisar dados?
+2. Escolhendo uma IDE e trabalhando com o Google Colab
+3. Instalando pacotes e entendendo as mensagens
+4. Introdução ao pandas e numpy
+5. Criando scripts
+6. Lidando com objetos no Python
+7. Estruturas de Dados (data frames, listas, matrizes, vetores)
+8. Operadores lógicos
+9. Operadores aritméticos
+10. Funções
+11. Estruturas de repetição e de decisão
+12. Introdução à coleta de dados
+13. Trabalhando com arquivos .csv
+14. Trabalhando com arquivos Excel
+15. O que são APIs e como utilizá-las?
+16. Consumindo dados brasileiros
+17. Trabalhando com SQL
+18. Trabalhando com Google Sheets
+19. Trabalhando com Google Drive
+20. Trabalhando com arquivos JSON
+21. Trabalhando com arquivos XML
+22. Exportando dados
+23. Introdução à Web Scraping
+24. Introdução à limpeza de dados
+25. Tratamento de dados textuais
+26. Renomeando colunas
+27. Selecionando colunas
+28. Como criar e alterar colunas
+29. Como aplicar filtros em linhas
+30. Como fazer operações por grupos de dados
+31. Como sumarizar os dados
+32. Formato long vs wide
+33. Como fazer cruzamento de dados
+34. Lidando com datas no Python
+35. Identificando e tratando dados faltantes
+36. Como deflacionar uma série
+37. Como fazer ajuste sazonal
+38. Introdução à visualização de dados e storytelling
+39. Produzindo gráficos
+
+# Inscrição
+
+A matrícula dá acesso às aulas em vídeo e aos materiais do curso, ao suporte para tirar dúvidas e ao certificado de conclusão. O conteúdo é estudado no seu ritmo, do início ao fim.
+
+- 📄 **Página do curso:** <https://analisemacro.com.br/curso/programacao-em-python-para-analise-de-dados/>
+- 🛒 **Matrícula:** <https://aluno.analisemacro.com.br/carrinho/?add-to-cart=45864>

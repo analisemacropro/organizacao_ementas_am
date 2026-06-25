@@ -1,0 +1,148 @@
+---
+title: '<a href="https://analisemacro.com.br/" target="_blank"><img src="https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png" alt="Logotipo Análise Macro" width="150"></a>  <br>  **Fundamentos de Engenharia de Dados**'
+subtitle: "Programa e informações gerais do curso"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+theme:
+  light: flatly
+---
+
+# Resumo
+
+Fundamentos de Engenharia de Dados ensina a colocar dados, análises e modelos em produção. Em vez de atualizar planilhas e rodar scripts à mão, você aprende a construir pipelines automatizados que coletam, transformam, armazenam e entregam dados prontos para decisão, de forma reprodutível e organizada.
+
+O curso é prático e progressivo. Ao longo das aulas, você constrói um pipeline completo de dados econômicos e financeiros, da coleta em APIs públicas até a entrega automatizada em bases prontas para análise. Cada módulo combina conceito, código funcionando e aplicação imediata no seu ambiente, usando Python, SQL e Apache Airflow.
+
+É indicado para quem já trabalha com análise ou ciência de dados e quer dar o próximo passo: transformar notebooks e relatórios em sistemas que rodam sozinhos. Ao final, você terá montado o seu próprio Data Lake Automatizado de Dados Econômicos e Financeiros, que pode servir de base para dashboards, modelos e análises reais.
+
+| Ficha técnica | |
+|---|---|
+| **Categoria** | Especialização em Python |
+| **Carga horária total** | 40 horas |
+| **Horas de vídeo** | 30 horas |
+| **Número de aulas** | 24 aulas |
+| **Nível** | Intermediário |
+| **Certificado** | Sim, certificado oficial da Análise Macro |
+
+# Pré-requisitos e Objetivos
+
+## Pré-requisitos
+
+- Noções básicas de Python e SQL, o suficiente para entender scripts e consultas simples.
+- Familiaridade com análise de dados ou ciência de dados em ferramentas como planilhas, notebooks ou dashboards.
+- Vontade de aprender a automatizar e escalar o que hoje é feito manualmente.
+- As instalações de programas e bibliotecas necessárias são feitas ao longo do curso.
+
+## O que você será capaz de fazer
+
+Ao final do curso, você será capaz de:
+
+- Projetar e construir pipelines de dados completos, da coleta à entrega.
+- Automatizar fluxos de dados que antes dependiam de execução manual em planilhas ou notebooks.
+- Coletar dados de APIs, bancos e arquivos externos, integrando múltiplas fontes em um único sistema.
+- Transformar, limpar e armazenar dados em bases relacionais e estruturas analíticas bem definidas.
+- Agendar e orquestrar tarefas com Apache Airflow, garantindo que tudo rode automaticamente.
+- Gerenciar versões e histórico de código com Git e GitHub, aplicando boas práticas de engenharia.
+- Documentar, monitorar e validar a qualidade dos seus dados, criando pipelines confiáveis e reprodutíveis.
+- Disponibilizar dados prontos para consumo, alimentando dashboards, relatórios e modelos de machine learning.
+- Pensar como um engenheiro de dados, entendendo não apenas como analisar, mas como fazer a análise acontecer todos os dias.
+
+## Habilidades e ferramentas
+
+Habilidades desenvolvidas no curso:
+
+- **Pensamento de engenharia de dados:** compreender o ciclo completo, da coleta à entrega, e projetar sistemas que funcionam sozinhos.
+- **Automação e orquestração de processos:** criar fluxos de dados que rodam automaticamente com Apache Airflow.
+- **Coleta e integração de fontes:** extrair dados de APIs, arquivos e bancos, consolidando tudo em um pipeline único e reprodutível.
+- **Modelagem e armazenamento:** estruturar dados em modelos relacionais e analíticos (dimensão, fato, séries temporais).
+- **Transformação e limpeza de dados:** aplicar técnicas de manipulação e padronização com Python e SQL.
+- **Versionamento e boas práticas de engenharia:** usar Git e GitHub para documentar e controlar o histórico do pipeline.
+- **Monitoramento e confiabilidade:** testar, validar e acompanhar a execução dos pipelines com logs e alertas.
+- **Reprodutibilidade e escalabilidade:** levar pipelines a ambientes de produção e garantir que continuem rodando sem intervenção manual.
+
+Ferramentas utilizadas:
+
+- **Python** para coletar, transformar e automatizar dados com bibliotecas como `pandas`, `requests`, `os` e `datetime`.
+- **SQL (PostgreSQL e SQLite)** para modelar, armazenar e consultar dados de forma estruturada.
+- **Apache Airflow** para orquestrar, agendar e monitorar pipelines automatizados.
+- **Git e GitHub** para versionar código, documentar processos e manter histórico de execução.
+- **VS Code Web e Google Colab** para executar códigos e testes diretamente no navegador, sem necessidade de instalação.
+- **APIs públicas e datasets reais** como Bacen, IBGE, FRED e B3, aplicados em projetos práticos.
+- Conceitualmente, você também entenderá como pipelines são levados a produção em ambientes reprodutíveis e escaláveis, usando containers e integrações automatizadas.
+
+# Programa Detalhado
+
+## Módulo 1 – A cabeça de um Engenheiro de Dados
+
+Este módulo abre o curso com a mudança de mentalidade que separa engenheiros de outros profissionais da área de dados. Você entenderá o ciclo de vida da informação, da coleta à entrega, e por que a automação é o pilar da análise moderna.
+
+- Aula 01 - O que é Engenharia de Dados e por que ela é o alicerce da ciência de dados moderna.
+- Aula 02 - Do notebook à produção: como transformar análises em sistemas que rodam sozinhos.
+- Aula 03 - Arquiteturas de dados: Data Warehouse, Data Lake e Lakehouse.
+- Aula 04 - Como planejar o seu primeiro pipeline de dados.
+
+**Projeto:** criação do esqueleto da Bloomberg aberta. Você vai estruturar a base do seu Data Lake Econômico-Financeiro, definindo as camadas *raw*, *silver* e *gold*, e preparando o ambiente (pastas, banco e scripts iniciais) que sustentará toda a coleta e automação de dados ao longo do curso.
+
+## Módulo 2 – Modelagem e Estruturação da Informação
+
+Você aprenderá a representar o mundo em dados. Vamos trabalhar com modelagem relacional e dimensional, construindo bases organizadas e consistentes, preparadas para alimentar qualquer tipo de análise.
+
+- Aula 05 - Modelagem de dados: tabelas de fatos e dimensões na prática.
+- Aula 06 - Armazenamento eficiente: SQL, CSV e Parquet.
+- Aula 07 - Como criar o seu primeiro banco relacional com SQLite ou PostgreSQL.
+- Aula 08 - Como estruturar dados para análises e dashboards.
+
+**Projeto:** construção da camada bruta e modelagem do Data Lake. Você criará o primeiro banco relacional do projeto e modelará tabelas como `dim_indicador`, `dim_fonte` e `fact_valores`. Ao final, seu sistema estará pronto para receber dados de múltiplas fontes e armazená-los de forma consistente e escalável.
+
+## Módulo 3 – Coleta e Integração de Fontes de Dados
+
+Aqui o curso se torna prático. Você vai aprender a integrar diferentes fontes — APIs, arquivos e bancos — e consolidar tudo em pipelines limpos e confiáveis.
+
+- Aula 09 - Ingestão de dados com Python: APIs, requests e logging.
+- Aula 10 - Coletando e unindo fontes de dados públicas (econômicas e de mercado).
+- Aula 11 - Limpeza e transformação com pandas.
+- Aula 12 - Salvando dados prontos para uso em SQL e Parquet.
+
+**Projeto:** primeira coleta de dados da sua Bloomberg aberta. Você construirá pipelines de ingestão que acessam dados reais de APIs públicas — como Bacen, IBGE, FRED e B3 — e armazenam essas informações na camada *raw*. Em seguida, aplicará transformações com pandas para consolidar e padronizar os dados na camada *silver*, deixando tudo pronto para uso analítico.
+
+## Módulo 4 – Automação e Orquestração de Pipelines
+
+Você vai transformar seu pipeline em um sistema que funciona por conta própria. Aprenderá a orquestrar tarefas, criar agendamentos automáticos e lidar com falhas e dependências.
+
+- Aula 13 - Introdução ao Apache Airflow e ao conceito de DAG.
+- Aula 14 - Agendamento e monitoramento de pipelines automatizados.
+- Aula 15 - Logs, erros e boas práticas de orquestração.
+- Aula 16 - Montando um pipeline que roda sozinho, todos os dias.
+
+**Projeto:** pipeline automatizado de atualização diária. Você criará uma DAG no Apache Airflow que coleta, transforma e armazena os dados de forma automática, atualizando indicadores como PIB, inflação, juros e câmbio todos os dias. Ao final deste módulo, sua Bloomberg aberta será um sistema vivo, com pipelines que rodam e se atualizam sozinhos.
+
+## Módulo 5 – Qualidade, Governança e Disponibilização dos Dados
+
+Com o pipeline rodando, é hora de garantir qualidade, rastreabilidade e entrega. Você vai aprender a testar, documentar e disponibilizar dados para diferentes consumidores: analistas, cientistas e gestores.
+
+- Aula 17 - Testes básicos de integridade e consistência de dados.
+- Aula 18 - Versionamento e controle de histórico com Git e GitHub.
+- Aula 19 - Como servir dados para dashboards, APIs e modelos.
+- Aula 20 - Como estruturar seu portfólio de engenharia de dados.
+
+## Módulo 6 – Projeto Final: O Sistema de Dados em Produção
+
+Chegou a hora de integrar tudo. Você aplicará os conceitos aprendidos para construir um pipeline completo e automatizado, com ingestão, transformação, armazenamento e entrega de dados reais. O contexto será econômico-financeiro, mas a estrutura e as ferramentas poderão ser aplicadas a qualquer área de dados.
+
+- Projeto 05: Atualização em Produção.
+- Projeto 06: Entrega da sua Bloomberg automatizada.
+- Aula 21: Síntese e fechamento do curso.
+
+# Inscrição
+
+A matrícula dá acesso completo à plataforma e a todo o conteúdo do curso, incluindo videoaulas, notebooks e scripts comentados, templates de arquitetura e documentação, e datasets reais de fontes públicas. Você conta ainda com o certificado oficial da Análise Macro ao concluir as aulas e projetos, além de suporte individual para tirar dúvidas ao longo do curso.
+
+- 📄 **Página do curso:** <https://analisemacro.com.br/cursos/fundamentos-de-engenharia-de-dados/>
+- 🛒 **Matrícula:** <https://aluno.analisemacro.com.br/carrinho/?add-to-cart=68593>

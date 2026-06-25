@@ -1,0 +1,177 @@
+---
+title: '<a href="https://analisemacro.com.br/" target="_blank"><img src="https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png" alt="Logotipo Análise Macro" width="150"></a>  <br>  **Produção de Dashboards Automáticos usando R**'
+subtitle: "Programa e informações gerais do curso"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+theme:
+  light: flatly
+---
+
+# Resumo
+
+Este curso ensina a criar dashboards estáticas e interativas do zero com a linguagem R. Ele é totalmente prático e percorre todo o caminho: da extração dos dados, passando pelo desenvolvimento da dashboard, até a publicação e a automatização da atualização.
+
+O conteúdo é indicado para quem quer tornar relatórios e análises mais interativos, substituindo soluções feitas em ferramentas como PowerPoint ou Power BI por dashboards reproduzíveis e atualizados de forma automática. Ao longo do curso você desenvolve dois projetos aplicados, que servem como portfólio de análise de dados.
+
+O programa é dividido em seis partes. As três primeiras alfabetizam o aluno na produção de dashboards, e as três últimas focam em aplicações completas: projetos, publicação online e automatização.
+
+| Ficha técnica | |
+|---|---|
+| **Categoria** | Especialização em R |
+| **Carga horária total** | 40 horas |
+| **Horas de vídeo** | 20 horas |
+| **Número de aulas** | 25 |
+| **Nível** | Introdutório/Intermediário |
+| **Certificado** | Sim |
+
+# Pré-requisitos e Objetivos
+
+## Pré-requisitos
+
+Para o melhor aproveitamento, espera-se que o aluno cumpra os seguintes requisitos:
+
+- Computador com acesso à internet;
+- Cadastro de conta gratuita no [GitHub](https://github.com/);
+- Cadastro de conta gratuita no [Shinyapps.io](https://www.shinyapps.io/);
+- Nível introdutório/intermediário de R;
+- Noções básicas de controle de versão Git;
+- Domínio de inglês para leitura.
+
+## O que você será capaz de fazer
+
+- Criar dashboards estáticas em R;
+- Criar dashboards dinâmicas (interativas) em R;
+- Personalizar a aparência e os elementos das suas dashboards;
+- Publicar e manter as dashboards online;
+- Automatizar a atualização das dashboards com Git, GitHub e GitHub Actions.
+
+## Habilidades e ferramentas
+
+- Linguagem R aplicada à produção de dashboards;
+- Frameworks em R: flexdashboard e shiny;
+- Programação reativa para elementos interativos;
+- Controle de versão com Git e GitHub;
+- Ambiente de programação no GitHub Codespaces com VS Code;
+- Publicação no Shinyapps.io e no GitHub Pages;
+- Automatização de workflows com GitHub Actions.
+
+# Programa Detalhado
+
+## Primeiros Passos
+
+1. Boas vindas e apresentação do curso
+2. Dashboards no ciclo de análise de dados
+    a) O que são dashboards?
+    b) Quando produzir dashboards?
+3. Como produzir dashboards do zero?
+    a) Definição de objetivos
+    b) Identificação de fontes de dados
+    c) Seleção de métricas e variáveis
+    d) Desenvolvimento de layout e estrutura
+    e) Produção de visualizações de dados
+    f) Publicação e testes
+4. Quais ferramentas usar para produção de dashboards?
+    a) Tipos de dashboards: estática e dinâmica
+    b) *Frameworks* em R: shiny
+    c) Escolhendo um *framework* para usar no curso: flexdashboard/shiny
+5. Preparando o ambiente de programação
+    a) GitHub Codespaces: R e VS Code
+        - Limites e custos de serviço
+        - Conta de usuário
+        - Criação de repositório
+        - Acesso e configuração do VS Code
+6. Projetos de Curso de dashboards
+    a) O que utilizaremos como inspiração para produzir no curso?
+        - Projeto de Curso 1: Dashboard de Análise da Inflação
+        - Projeto de Curso 2: Dashboard de Economia Internacional
+    b) O que não aprenderemos no curso?
+        - Visualização de dados e *data storytelling* avançados
+        - HTML intermediário/avançado
+        - CSS/SCSS
+
+## Produzindo Dashboards Estáticas
+
+1. Qual é a estrutura de uma dashboard estática?
+2. Quais são os elementos da interface do usuário?
+    a) Painel de barra de navegação
+    b) Painel de barra lateral
+    c) Painel principal
+    d) Colunas e linhas
+3. Como rodar e visualizar a dashboard?
+4. Como inserir visualizações de dados?
+    a) Gráficos
+    b) Tabelas
+5. Personalizações básicas
+
+## Produzindo Dashboards Dinâmicas
+
+1. Qual é a estrutura de uma dashboard dinâmica?
+    a) *Front-end*: interface do usuário
+    b) *Back-end*: lógica do servidor
+2. Por que dashboards usam programação reativa?
+    a) O que é programação imperativa?
+    b) O que é programação reativa?
+3. Como adicionar elementos interativos?
+    a) Controles de *input*
+    b) Controles de *output*
+4. Definindo a dinâmica da dashboard
+    a) Como definir a lógica do servidor?
+    b) Como acessar valores de *inputs*?
+    c) Como definir a reatividade de *outputs*?
+
+## Projetos de Curso de Dashboards
+
+- Projeto de Curso 1: Dashboard de Análise da Inflação
+- Projeto de Curso 2: Dashboard de Economia Internacional
+
+## Publicação de Dashboards
+
+1. O que é o *deploy* de uma dashboard?
+2. Opções e serviços disponíveis
+    a) Shinyapps.io
+    b) GitHub Pages
+3. *Deploy* de uma dashboard no Shinyapps.io
+    a) Conta de usuário
+    b) Instalação de pacotes
+    c) Configuração de projeto e *token*
+    d) Processo de publicação
+    e) Testes, erros e soluções comuns
+
+## Automatização
+
+1. Como funciona a automatização de um código?
+2. Qual é o maior desafio para automatização de um código?
+3. Quais ferramentas podem ser usadas para automatização?
+    a) Git
+    b) GitHub
+    c) GitHub Actions
+4. Automatizando um projeto de curso de dashboard
+    a) Como gerenciar dependências do projeto?
+    b) Conceito de repositório local e remoto
+    c) Como criar um repositório no GitHub?
+    d) Como adicionar arquivos do projeto no repositório?
+    e) Como adicionar um *workflow* de automatização?
+        - Estrutura de pastas/arquivos
+        - Disparo de execução
+        - Sistema operacional de execução
+        - Etapas iniciais do *workflow*
+        - Etapas de preparação de ambiente de programação
+        - Etapas de extração, transformação e carga de dados
+        - Etapa de publicação
+        - Etapa de atualização do repositório
+        - Etapas finais do *workflow*
+5. Monitoramento, erros e manutenção
+
+# Inscrição
+
+A matrícula dá acesso ao curso completo com notas de aula em HTML, vídeo aulas gravadas, códigos reprodutíveis em R, dados utilizados nos exemplos, referências bibliográficas e os projetos para compor o portfólio. Inclui também o certificado de conclusão e o suporte da equipe da Análise Macro.
+
+- 📄 **Página do curso:** <https://analisemacro.com.br/curso/producao-de-dashboards-automaticos-usando-r/>
+- 🛒 **Matrícula:** <https://aluno.analisemacro.com.br/carrinho/?add-to-cart=53321>

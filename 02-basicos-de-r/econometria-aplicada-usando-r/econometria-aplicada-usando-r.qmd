@@ -1,0 +1,84 @@
+---
+title: |
+  ![](https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png){width=150}
+
+  **Econometria Aplicada usando R**
+subtitle: "Programa e informações gerais do curso"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+    theme:
+      light: flatly
+---
+
+# Resumo
+
+O curso **Econometria Aplicada usando R** ensina a construir modelos de regressão e aplicá-los sobre dados reais do dia a dia. A partir da linguagem R, você percorre o caminho que vai da regressão linear simples à regressão linear múltipla, aprendendo a estimar parâmetros, interpretar resultados e lidar com os problemas que aparecem quando se trabalha com dados econômicos e financeiros.
+
+O conteúdo é voltado para quem já tem familiaridade com programação em R e com estatística e quer dar o passo seguinte: usar a econometria como ferramenta prática para resolver problemas de análise. Ao longo das aulas, além de estimar modelos, você aprende a reconhecer questões como heterocedasticidade e dificuldades de especificação, entendendo o que elas significam e como tratá-las.
+
+| Categoria | Informação |
+|---|---|
+| Carga horária total | 20 horas |
+| Horas de vídeo | 5 horas |
+| Número de aulas | 12 |
+| Nível | Intermediário |
+| Certificado | Sim, com carga horária de 20 horas |
+
+# Pré-requisitos e Objetivos
+
+## Pré-requisitos
+
+Para acompanhar o curso com proveito, é recomendável ter concluído ou ter conhecimento equivalente aos cursos:
+
+- Programação em R para Análise de Dados
+- Estatística para Análise de Dados usando R
+
+Em outras palavras, você precisa estar confortável com a sintaxe da linguagem R e com noções básicas de estatística antes de começar.
+
+## O que você será capaz de fazer
+
+Ao final do curso, você será capaz de:
+
+- Estimar e interpretar uma regressão linear simples
+- Estimar e interpretar uma regressão linear múltipla, tanto na etapa de estimação quanto na de inferência
+- Aplicar os resultados assintóticos do estimador de mínimos quadrados ordinários (OLS)
+- Identificar e tratar a heterocedasticidade nos modelos
+- Reconhecer problemas de especificação e de dados, ajustando os modelos de forma adequada
+
+## Habilidades e ferramentas
+
+O curso é desenvolvido com a linguagem R no ambiente RStudio. As principais habilidades trabalhadas são:
+
+- Construção de modelos de regressão aplicados a dados reais
+- Estimação e inferência em modelos lineares
+- Diagnóstico de problemas comuns em modelos econométricos
+- Interpretação econômica dos resultados das regressões
+
+**Ferramentas utilizadas:** R e RStudio.
+
+# Programa Detalhado
+
+O conteúdo é organizado nas seções temáticas abaixo, distribuídas ao longo das aulas do curso.
+
+- **Aula 01 - Preparando o ambiente**
+- **Aula 02 - Regressão linear simples**
+- **Aula 03 - Regressão linear múltipla: estimação**
+- **Aula 04 - Regressão linear múltipla: inferência**
+- **Aula 05 - Regressão linear múltipla: OLS assintótico**
+- **Aula 06 - Regressão linear múltipla: outros problemas**
+- **Aula 07 - Heterocedasticidade**
+- **Aula 08 - Mais em especificações e problemas de dados**
+
+# Inscrição
+
+A matrícula dá acesso ao conteúdo completo do curso, incluindo as videoaulas, o material de apoio e o certificado de conclusão com carga horária de 20 horas. Os links abaixo levam à página do curso e à página de matrícula.
+
+- 📄 **Página do curso:** <https://analisemacro.com.br/curso/econometria-aplicada-usando-r/>
+- 🛒 **Matrícula:** <https://aluno.analisemacro.com.br/carrinho/?add-to-cart=53366>

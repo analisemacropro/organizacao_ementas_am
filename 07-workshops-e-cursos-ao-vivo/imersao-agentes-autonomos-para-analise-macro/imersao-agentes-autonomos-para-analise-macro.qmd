@@ -1,0 +1,120 @@
+---
+title: |
+  ![](https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png){width=150}
+
+  **Imersão Agentes Autônomos para Análise Macro**
+subtitle: "Programa e informações gerais do curso"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+    theme:
+      light: flatly
+---
+
+# Resumo
+
+A **Imersão Agentes Autônomos para Análise Macro** ensina a construir sistemas multi-agente que coletam dados, executam análises e entregam relatórios prontos de forma autônoma. A proposta é avançar do uso individual de agentes de IA para sistemas coordenados, em que vários agentes especializados trabalham em conjunto, operando de forma contínua e sem intervenção humana constante.
+
+Ao longo dos encontros, o participante aprende a orquestrar múltiplos agentes que se comunicam entre si, compartilham contexto e dividem tarefas: uns coletam dados, outros analisam e outros redigem os resultados. O foco prático está em problemas reais de análise macroeconômica e de mercado financeiro, como o monitoramento da inflação brasileira e a geração automatizada de análises de mercado.
+
+A imersão é voltada a economistas e analistas que já automatizaram tarefas com IA, profissionais de mercado financeiro que precisam escalar análises, cientistas de dados interessados em monitoramento autônomo e egressos da Imersão Claude Code prontos para o próximo passo.
+
+| | |
+|----------------------|---------------------------------------------|
+| **Categoria**        | Workshops e Cursos Ao Vivo                  |
+| **Modalidade**       | Imersão 100% ao vivo, com 5 encontros       |
+| Encontros            | 30/06, 07/07, 14/07, 21/07 e 28/07/2026 (20h às 22h) |
+| Carga horária total  | 10 horas                                    |
+| Horas de vídeo       | —                                           |
+| Número de aulas      | 5 encontros ao vivo                         |
+| Acesso ao material   | Gravações e material por 12 meses           |
+| Nível                | Intermediário a avançado                    |
+| Certificado          | —                                           |
+
+# Pré-requisitos e Objetivos
+
+## Pré-requisitos
+
+- **Obrigatório:** familiaridade básica com programação.
+- **Recomendado (não obrigatório):**
+  - Ter realizado a Imersão Claude Code.
+  - Conhecimento de Python básico.
+  - Acesso a ferramentas de IA (Anthropic, OpenAI ou similar).
+
+## O que você será capaz de fazer
+
+Ao concluir a imersão, você estará apto a:
+
+- Desenhar arquiteturas multi-agente (supervisor, hierárquico, descentralizado, blackboard).
+- Coordenar agentes especializados que trabalham em conjunto.
+- Construir tools customizadas para conectar agentes a dados e serviços.
+- Implementar memória persistente e contexto compartilhado entre agentes.
+- Orquestrar pipelines fim-a-fim que rodam sem intervenção manual.
+- Colocar sistemas em produção e monitorá-los.
+- Adaptar as arquiteturas aprendidas para diferentes domínios de análise.
+
+## Habilidades e ferramentas
+
+- **Linguagem e ambiente:** Python; setup em Mac, Linux e Windows com Claude Code + Python.
+- **Agentes e orquestração:** Claude Code, Claude Agent SDK, Crew AI, LangGraph.
+- **Tools e coleta de dados:** Bash, Read, Write, WebFetch e tools customizadas; APIs do BCB, IBGE e FRED; scraping.
+- **Modelos:** Opus, Sonnet, Haiku, GPT e modelos open-source para diferentes papéis.
+- **Produção e agendamento:** Cron, Prefect e Airflow; monitoramento, alertas, controle de custo de APIs, versionamento e guardrails.
+
+# Programa Detalhado
+
+## Dia 1 — Anatomia de um Sistema Multi-Agente (30/06/2026, 20h às 22h)
+
+- O que é um agente autônomo.
+- Padrões de arquitetura: supervisor, hierárquico, descentralizado, blackboard.
+- Loop agêntico: percepção → planejamento → ação → reflexão.
+- Tools: as mãos do agente — Bash, Read, Write, WebFetch, customizadas.
+- Memória: short-term, long-term e contexto compartilhado.
+- Modelos para cada papel: Opus, Sonnet, Haiku, GPT e open-source.
+- Setup de ambiente (Mac, Linux, Windows) com Claude Code + Python.
+
+## Dia 2 — Construindo seu Primeiro Agente Especialista (07/07/2026, 20h às 22h)
+
+- Estrutura de projeto agêntico: pastas, contratos, testes.
+- Tools customizadas (APIs do BCB, IBGE, FRED; scraping).
+- Validação automática.
+- Memória de longo prazo.
+- Tratamento de erros.
+- Debug e logs.
+
+## Dia 3 — Orquestração: Vários Agentes Trabalhando Juntos (14/07/2026, 20h às 22h)
+
+- Padrões de orquestração: supervisor central vs. mensagens diretas.
+- Handoff entre agentes.
+- Memória compartilhada vs. por agente.
+- Conflito de informação.
+- Frameworks: Claude Agent SDK, Crew AI, LangGraph.
+- Time de agentes: coleta + análise + redação.
+
+## Dia 4 — Pipelines Fim-a-Fim em Produção (21/07/2026, 20h às 22h)
+
+- Agendamento: cron, Prefect, Airflow.
+- Monitoramento de sistema.
+- Alertas inteligentes.
+- Controle de custo de APIs.
+- Versionamento de prompts e tools.
+- Segurança e guardrails.
+
+## Dia 5 — Projetos Reais (28/07/2026, 20h às 22h)
+
+- **Sistema 1:** time de agentes que monitora a inflação brasileira (coleta IPCA + IGP-M + núcleos do BCB, analisa tendência e redige relatório semanal).
+- **Sistema 2:** time de agentes para análise de mercado financeiro (coleta cotações + indicadores macro, roda regressões e modelos preditivos e gera dashboard automatizado com narrativa em texto).
+- Adaptação para outros domínios.
+
+# Inscrição
+
+A matrícula dá acesso aos 5 encontros ao vivo da imersão, com as gravações e o material de apoio disponíveis por 12 meses. As aulas são conduzidas em tempo real, com foco em projetos reais de análise macroeconômica e de mercado financeiro.
+
+- 📄 **Página do curso:** <https://analisemacro.com.br/imersao/agentes-autonomos-para-analise-macro/>
+- 🛒 **Matrícula:** <https://aluno.analisemacro.com.br/carrinho/?add-to-cart=71182>

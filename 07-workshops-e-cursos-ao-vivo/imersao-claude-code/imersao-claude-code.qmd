@@ -1,0 +1,126 @@
+---
+title: '<a href="https://analisemacro.com.br/" target="_blank"><img src="https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png" alt="Logotipo Análise Macro" width="150"></a>  <br>  **Imersão Claude Code**'
+subtitle: "Programa e informações gerais do curso"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+theme:
+  light: flatly
+---
+
+# Resumo
+
+A Imersão Claude Code é um curso ao vivo voltado para quem trabalha com economia e finanças e quer usar inteligência artificial de forma prática no dia a dia. A proposta não é estudar IA na teoria, e sim construir com ela: criar agentes, automatizar análises de dados econômicos e montar pipelines que rodam sozinhos.
+
+São cinco encontros ao vivo entre maio e junho de 2026, partindo do zero até o uso completo do Claude Code aplicado a problemas reais de análise econômica e financeira. Ao longo dos encontros você configura o ambiente, escreve e depura código com apoio da IA, coleta dados por APIs e scraping, constrói agentes que geram insights e leva projetos do notebook à produção.
+
+O público inclui economistas que querem sair da teoria, analistas que querem automatizar tarefas, profissionais de mercado financeiro, cientistas de dados com foco em economia e também contadores e administradores que desejam aplicar IA na sua operação. Todos os encontros ficam gravados para revisão por 12 meses.
+
+| Item | Detalhe |
+|---|---|
+| Categoria | Workshops e Cursos Ao Vivo |
+| Carga horária total | — |
+| Horas de vídeo | — |
+| Número de aulas | 5 encontros ao vivo |
+| Nível | Iniciante a intermediário |
+| Certificado | Sim |
+
+# Pré-requisitos e Objetivos
+
+## Pré-requisitos
+
+Você não precisa ser especialista em programação ou inteligência artificial para participar.
+
+- Familiaridade com computador e ambiente digital
+- Ter o Python instalado (há orientação para isso)
+- Conta em ferramentas de IA (também há orientação para isso)
+
+## O que você será capaz de fazer
+
+- Criar agentes inteligentes com IA aplicados à análise econômica e financeira
+- Automatizar análises econômicas que hoje são feitas manualmente
+- Construir pipelines de dados que coletam, organizam e processam informações
+- Gerar relatórios automaticamente
+- Integrar Python, IA e dados reais em um fluxo de trabalho único
+
+## Habilidades e ferramentas
+
+- Claude Code e o conceito de loop agêntico (como o agente pensa, planeja e executa)
+- LLMs na prática e comparação entre Claude, GPT e Gemini
+- Prompting como linguagem de programação
+- Tools do Claude Code: Bash, Read, Write e WebFetch
+- Context window: como funciona e como preservá-la
+- Python para coleta de dados (APIs e scraping), organização de datasets e análise exploratória
+- Debug com apoio de IA
+- Automação de tarefas, pipelines de dados e introdução à orquestração
+
+# Programa Detalhado
+
+A imersão tem cinco encontros ao vivo, com gravação disponível por 12 meses.
+
+## Dia 1 — Claude Code na prática (26/05, 20h às 22h)
+
+Boas-vindas, visão geral da imersão e montagem do ambiente necessário para rodar os códigos com o Claude Code. Você sai do zero e já começa a praticar.
+
+- O que são LLMs na prática
+- Claude vs GPT vs Gemini
+- Prompting como linguagem de programação
+- Limitações reais
+- Por que usar o Claude Code
+- Definindo o loop agêntico: como o agente pensa, planeja e executa
+- Tools: Bash, Read, Write, WebFetch
+- Como a context window funciona e como preservá-la
+- Modelos disponíveis e quando usar cada um
+- Setup completo: Mac, Linux e Windows
+
+## Dia 2 — Dados Econômicos + IA (02/06, 20h às 22h)
+
+A imersão entra no contexto de dados econômicos.
+
+- Estrutura de projetos com IA
+- Geração de código
+- Debug com IA
+- Scripts econômicos
+- Coleta de dados (APIs e scraping)
+- Organização de datasets
+- Integração com Python
+- Análise exploratória automatizada
+
+## Dia 3 — Como construir Agentes (09/06, 20h às 22h)
+
+Com a base pronta, o foco passa a ser construir agentes que interagem com o ambiente e geram insights para problemas de análise de dados.
+
+- O que é um agente
+- Arquitetura (tools, memória, contexto)
+- Agentes para análise econômica e financeira
+- Geração de insights
+
+## Dia 4 — Automação e pipelines (16/06, 20h às 22h)
+
+Momento de colocar em produção, criando pipelines de dados que trabalham por você.
+
+- Do notebook à produção
+- Automação de tarefas
+- Pipelines de dados
+- Introdução à orquestração
+
+## Dia 5 — Projetos Reais (23/06, 20h às 22h)
+
+Construção de projetos reais e 100% práticos para o portfólio.
+
+- Agente que analisa a inflação brasileira
+- Sistema de criação de relatórios automáticos
+- Pipeline para criação de painel macroeconômico
+
+# Inscrição
+
+A matrícula dá acesso aos cinco encontros ao vivo, às gravações e ao material por 12 meses, além do código disponível para reaproveitar. A imersão é 100% prática, com espaço para tirar dúvidas ao longo dos encontros, e inclui certificado.
+
+- 📄 **Página do curso:** <https://analisemacro.com.br/imersao/claude-code-para-economistas/>
+- 🛒 **Matrícula:** <https://aluno.analisemacro.com.br/carrinho/?add-to-cart=70813>

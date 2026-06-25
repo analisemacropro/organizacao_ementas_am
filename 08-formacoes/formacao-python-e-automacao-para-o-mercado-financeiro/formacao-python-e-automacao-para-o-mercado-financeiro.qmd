@@ -1,0 +1,115 @@
+---
+title: '<a href="https://analisemacro.com.br/" target="_blank"><img src="https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png" alt="Logotipo Análise Macro" width="150"></a>  <br>  **Formação Python e Automação para o Mercado Financeiro**'
+subtitle: "Programa e informações gerais da formação"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+theme:
+  light: flatly
+---
+
+# Resumo
+
+A Formação Python e Automação para o Mercado Financeiro é uma trilha completa que reúne vários cursos, workshops e práticas para levar você do zero ao nível profissional na construção de soluções financeiras baseadas em dados e automação. O objetivo é dominar Python e as principais ferramentas para coletar, tratar, modelar e visualizar dados financeiros em tempo real, conectando programação, finanças e inteligência artificial em um mesmo conjunto de habilidades.
+
+Por ser uma formação, ela agrega cursos independentes em uma sequência pensada para construir competência de forma cumulativa. Você começa pelos fundamentos de Python e análise de dados, avança para a coleta e automação de dados financeiros, passa pela modelagem e pelo backtesting de modelos do mercado, e termina na automação inteligente de relatórios e dashboards que se atualizam sozinhos. Cada bloco entrega uma automação real, funcional e replicável no seu trabalho.
+
+A trilha foi pensada para quem quer deixar de depender de planilhas e ferramentas prontas e aprender a construir o próprio ecossistema de análise financeira automatizada. É indicada para economistas, analistas e assessores financeiros, profissionais de gestoras, corretoras e bancos, cientistas e analistas de dados, e estudantes de economia, finanças e engenharia que desejam dar o próximo passo rumo ao mercado quantitativo.
+
+| Item | Detalhe |
+|---|---|
+| Categoria | Formações |
+| Carga horária total | 220 horas |
+| Horas de vídeo | 70 horas |
+| Número de aulas | 139 aulas |
+| Certificado | Certificados individuais dos cursos + certificado final da formação |
+| Acesso | 48 meses |
+
+# Pré-requisitos e Objetivos
+
+## Pré-requisitos
+
+A formação não exige pré-requisitos para começar: a trilha parte dos fundamentos de Python e avança de forma progressiva. Vale observar que a emissão de alguns certificados pode requerer conhecimento prévio em Python, Estatística, Econometria e Séries Temporais, conteúdos que também são trabalhados ao longo do programa.
+
+## O que você será capaz de fazer
+
+Ao final da formação, você será capaz de criar seu próprio ecossistema de análise financeira automatizada, do zero ao nível profissional. Na prática, isso significa:
+
+- Coletar e atualizar dados financeiros e econômicos via APIs e web scraping;
+- Tratar, consolidar e analisar grandes volumes de dados e séries temporais;
+- Construir modelos estatísticos e preditivos aplicados ao mercado financeiro;
+- Aplicar machine learning e IA generativa à análise financeira e macroeconômica;
+- Gerar relatórios e dashboards dinâmicos que se atualizam automaticamente;
+- Montar pipelines financeiros completos, eliminando tarefas manuais.
+
+## Habilidades e ferramentas
+
+Competências desenvolvidas ao longo da trilha:
+
+- Programação e automação com Python aplicada a finanças;
+- Coleta, limpeza e análise automatizada de dados de mercado;
+- Modelagem estatística e preditiva de séries financeiras;
+- Construção de relatórios e dashboards dinâmicos;
+- Implementação de agentes e fluxos com IA generativa;
+- Criação de pipelines financeiros totalmente automatizados.
+
+Ferramentas utilizadas: Python, pandas, NumPy, Matplotlib, Plotly, Google Colab, VS Code, Jupyter, Quarto, GitHub e Google AI Studio.
+
+# Programa Detalhado
+
+A trilha está organizada em cinco blocos, percorridos na ordem abaixo. Cada bloco reúne os cursos, workshops e práticas que o compõem.
+
+## Bloco 1 — Boas-Vindas e Integração
+
+Apresentação à plataforma, à metodologia AM e à estrutura da formação, com um encontro inicial para definir o plano de estudos e as metas de aprendizado.
+
+- Boas-Vindas à Plataforma
+- Boas-Vindas à Formação
+- Mentoria Inicial com o Cientista-Chefe
+
+## Bloco 2 — Fundamentos de Python e Análise de Dados
+
+Base de programação em Python e de raciocínio analítico para construir pipelines que vão da coleta do dado até relatórios e dashboards automáticos.
+
+- Como Pensar com Dados
+- SQL para Negócios e Tomada de Decisão
+- Programação em Python para Análise de Dados
+- Workshop: Como Migrar do Excel para o Python no Mercado Financeiro
+
+## Bloco 3 — Coleta e Automação de Dados Financeiros
+
+Extração e automação de dados financeiros e econômicos a partir de fontes públicas e APIs, substituindo o Excel por processos escaláveis em Python.
+
+- Web Scraping e APIs de Dados Financeiros
+- Automação de Coleta e Análise de Dados
+
+## Bloco 4 — Modelagem de Dados Financeiros
+
+Estruturação, teste e automação de modelos do mercado financeiro, com machine learning e econometria aplicados a problemas reais como precificação de opções, previsão de volatilidade, VaR e modelagem de retornos, além de IA aplicada à análise financeira e macroeconômica.
+
+- Modelagem e Previsão usando Python
+- Modelos Financeiros usando Python
+- Prática: Modelagem de Dados Financeiros
+- Prática: IA Aplicada a Dados Financeiros
+
+## Bloco 5 — Automação Inteligente e Relatórios em Tempo Real
+
+Automação da criação de relatórios contábeis, econômicos e financeiros com Python, IA e dashboards interativos que se atualizam sozinhos com novos dados.
+
+- Automação de Relatórios e Dashboards com Python e Quarto
+- GitHub Actions e Rotinas Automáticas de Atualização
+- Workshop: Construindo um Painel Financeiro Automatizado com IA
+- Prática: Relatórios Inteligentes com IA e Python
+
+# Inscrição
+
+A matrícula dá acesso à trilha completa, com todos os cursos, workshops e práticas dos cinco blocos, materiais e códigos das aulas, certificados individuais dos cursos e certificado final da formação, além do acompanhamento com suporte e mentorias ao longo do programa. Para se inscrever, utilize os links abaixo.
+
+- 📄 **Página da formação:** <https://analisemacro.com.br/formacao/formacao-python-e-automacao-para-o-mercado-financeiro/>
+- 🛒 **Matrícula:** <https://aluno.analisemacro.com.br/carrinho/?add-to-cart=68044>

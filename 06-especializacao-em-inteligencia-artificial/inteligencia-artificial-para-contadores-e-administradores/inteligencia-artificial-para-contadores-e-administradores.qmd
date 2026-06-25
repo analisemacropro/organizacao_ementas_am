@@ -1,0 +1,96 @@
+---
+title: '<a href="https://analisemacro.com.br/" target="_blank"><img src="https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png" alt="Logotipo Análise Macro" width="150"></a>  <br>  **Inteligência Artificial para Contadores e Administradores**'
+subtitle: "Programa e informações gerais do curso"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+theme:
+  light: flatly
+---
+
+# Resumo
+
+Este curso ensina como aplicar inteligência artificial no trabalho de contadores e administradores. O foco está nas tarefas do dia a dia de quem lida com dados financeiros e contábeis: gerar relatórios, analisar dados e automatizar atividades repetitivas.
+
+O conteúdo cobre os fundamentos da IA, da IA generativa e dos modelos de linguagem de grande escala (LLMs), e mostra como usar essas tecnologias na prática. O caminho vai das ferramentas no-code, que não exigem programação, até aplicações em Python para quem quer construir soluções próprias.
+
+O curso é dividido em três etapas. A primeira apresenta os conceitos introdutórios de IA. A segunda trata da aplicação e dos princípios de uso da IA em negócios. A terceira reúne estudos de caso para quem deseja aplicar IA com Python em problemas reais, usando a API do Google Gemini.
+
+| | |
+|---|---|
+| **Categoria** | Especialização em Inteligência Artificial |
+| **Carga horária total** | 30 horas |
+| **Horas de vídeo** | 20 horas |
+| **Número de aulas** | 20 |
+| **Nível** | Introdutório a intermediário |
+| **Certificado** | Sim, emitido pela Análise Macro ao final do curso |
+
+# Pré-requisitos e Objetivos
+
+## Pré-requisitos
+
+Não há pré-requisitos para as duas primeiras seções do curso. Para a terceira seção, é necessário conhecimento prévio de Python, já que os estudos de caso envolvem programação com a API do Google Gemini.
+
+## O que você será capaz de fazer
+
+Ao concluir o curso, você estará apto a aplicar técnicas de inteligência artificial para otimizar processos com dados financeiros e contábeis. O foco está em três frentes: geração de relatórios, análise de dados e automação de tarefas.
+
+Você desenvolverá a habilidade de usar ferramentas de IA para produzir informações relevantes e estratégicas, apoiando a tomada de decisões com práticas atuais aplicadas ao setor contábil e administrativo.
+
+## Habilidades e ferramentas
+
+Habilidades que você vai desenvolver:
+
+- Compreensão dos conceitos fundamentais de inteligência artificial e IA generativa
+- Domínio da engenharia de prompt, aplicada a cenários contábeis e administrativos
+- Uso prático de IA para resumir e gerar relatórios contábeis, criar dashboards e desenvolver soluções interativas
+
+Ferramentas utilizadas:
+
+- Python (terceira seção)
+- Shiny
+- Google AI Studio
+- Chatbots de IA (ChatGPT, Gemini, Meta AI, Claude AI)
+
+# Programa Detalhado
+
+O curso aborda conceitos básicos, introduz tecnologias, modelos e ferramentas, e demonstra a aplicação prática em vários exemplos e temas de interesse. O programa está organizado em três módulos.
+
+## Introdução
+
+- Apresentação do curso
+- Introdução à IA
+- Introdução à IA Generativa
+- Introdução à LLMs
+
+## Implementando IA para negócios
+
+- Aplicações e casos de uso para negócios
+- Estratégias usando IA
+- Como implementar soluções de IA para negócios?
+- Privacidade de dados e ética
+- Introdução à ferramentas
+- Engenharia de Prompt
+- Alucinações
+
+## Estudos de Casos com Python
+
+- Como usar a API do Google Gemini
+- Fontes e Coleta de Dados de Empresas
+- Exemplo prático: Sumarizando Dados Contábeis com IA
+- Exemplo prático: Sumarizando Relatórios Contábeis com IA
+- Exemplo prático: Criando Relatórios Contábeis Interativos com Shiny
+- Exemplo prático: Dashboard Sentimento Contábil
+
+# Inscrição
+
+A matrícula dá acesso às videoaulas do curso, ao material de apoio e aos exemplos de código para replicar. Inclui também o suporte para tirar dúvidas em um chat exclusivo do aluno e o certificado de conclusão da Análise Macro, com 30 horas de carga horária.
+
+- 📄 **Página do curso:** <https://analisemacro.com.br/curso/inteligencia-artificial-para-contadores-e-administradores/>
+- 🛒 **Matrícula:** <https://aluno.analisemacro.com.br/carrinho/?add-to-cart=63405>

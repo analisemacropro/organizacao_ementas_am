@@ -1,0 +1,79 @@
+---
+title: '<a href="https://analisemacro.com.br/" target="_blank"><img src="https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png" alt="Logotipo Análise Macro" width="150"></a>  <br>  **Análise de Demonstrativos Financeiros usando R**'
+subtitle: "Programa e informações gerais do curso"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+theme:
+  light: flatly
+---
+
+# Resumo
+
+O curso ensina a coletar, tratar, analisar e apresentar os dados contábeis e financeiros de empresas brasileiras usando a linguagem R. O ponto de partida são os demonstrativos financeiros padronizados (DFP) divulgados por fontes públicas como a B3 e a CVM, que são lidos diretamente pelo R em vez de copiados à mão de planilhas ou relatórios.
+
+A partir desses dados, você monta scripts que limpam as bases, organizam o balanço patrimonial, a demonstração de resultados e a demonstração de fluxo de caixa, e constroem indicadores contábeis para acompanhar a evolução de cada empresa no tempo e comparar empresas entre si. No fim, esse trabalho é reunido em um dashboard interativo que se atualiza sozinho, com automação por GitHub Actions e publicação em ShinyApps.
+
+O curso é indicado para quem quer analisar demonstrações contábeis e financeiras com apoio de programação, automatizando etapas que costumam ser feitas manualmente. Espera-se cerca de 1 hora de estudo por dia ao longo de aproximadamente 2 meses para concluir o conteúdo.
+
+| Ficha técnica | |
+|---|---|
+| **Categoria** | Especialização em R |
+| **Carga horária total** | 22 horas |
+| **Horas de vídeo** | 5,5 horas |
+| **Número de aulas** | 28 |
+| **Nível** | Intermediário a avançado |
+| **Certificado** | Sim, ao concluir o curso |
+
+# Pré-requisitos e Objetivos
+
+## Pré-requisitos
+
+É necessário conhecimento prévio de R, no nível do curso *Programação em R para Análise de Dados*. Você deve estar confortável com os comandos básicos da linguagem, manipulação de tabelas e leitura de dados antes de começar.
+
+## O que você será capaz de fazer
+
+- Coletar de forma automatizada os dados contábeis e financeiros de empresas a partir de fontes como B3 e CVM.
+- Escrever scripts em R para limpar e organizar as bases de demonstrativos.
+- Analisar o balanço patrimonial, a demonstração de resultados e a demonstração de fluxo de caixa.
+- Aplicar análise horizontal e vertical para acompanhar a evolução das contas no tempo.
+- Construir e interpretar indicadores de liquidez, endividamento, eficiência e crescimento.
+- Reunir os indicadores e demonstrativos em um dashboard interativo.
+- Automatizar a atualização do dashboard com GitHub Actions e GitHub Pages.
+
+## Habilidades e ferramentas
+
+- Linguagem R para coleta, tratamento e análise de dados financeiros.
+- Leitura de dados de fontes públicas como B3 e CVM.
+- Construção de indicadores contábeis a partir das contas das demonstrações.
+- Criação de dashboard interativo com publicação em ShinyApps.
+- Automação de rotinas com GitHub Actions e GitHub Pages.
+
+# Programa Detalhado
+
+1. **Apresentação do Curso e Análise de Balanços e Demonstrações Contábeis** – Introdução à importância da análise de balanços e sua estrutura nas empresas.
+2. **Coletando e Analisando Dados do Balanço Patrimonial** – Aprendizado sobre a coleta e análise de dados de balanço a partir das principais fontes disponíveis.
+3. **Coletando e Analisando Dados da Demonstração de Resultados** – Coleta e análise dos dados da demonstração de resultado de exercício.
+4. **Coletando e Analisando Dados da Demonstração de Fluxo de Caixa** – Coleta e análise dos dados da demonstração de fluxo de caixa.
+5. **Estrutura e Análise Horizontal e Vertical das Contas Contábeis** – Funcionamento e padrão das contas contábeis nas demonstrações financeiras.
+6. **Indicadores Contábeis** – Criação e análise de indicadores a partir das contas contábeis.
+7. **Indicadores de Liquidez** – Desenvolvimento e interpretação dos indicadores de liquidez.
+8. **Indicadores de Endividamento** – Construção e análise dos indicadores de endividamento.
+9. **Indicadores de Eficiência** – Análise dos indicadores de eficiência operacional.
+10. **Indicadores de Crescimento** – Avaliação dos indicadores de crescimento das empresas.
+11. **Construção de Dashboard de Indicadores e Demonstrativos** – Desenvolvimento de um dashboard para visualização de indicadores financeiros e demonstrativos.
+12. **Automatizando o Dashboard com GitHub Actions e GitHub Pages** – Configuração de automação para atualização do dashboard.
+13. **Valuation de Empresas** – Aplicação das análises e indicadores na avaliação de empresas.
+
+# Inscrição
+
+A matrícula dá acesso às aulas gravadas e ao material do curso, com certificado ao concluir e suporte para tirar dúvidas durante os estudos.
+
+- 📄 **Página do curso:** https://analisemacro.com.br/curso/analise-de-demonstrativos-financeiros-usando-r/
+- 🛒 **Matrícula:** https://aluno.analisemacro.com.br/carrinho/?add-to-cart=54448

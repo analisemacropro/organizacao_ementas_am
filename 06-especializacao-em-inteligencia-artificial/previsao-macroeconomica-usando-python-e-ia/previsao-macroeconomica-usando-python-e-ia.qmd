@@ -1,0 +1,78 @@
+---
+title: '<a href="https://analisemacro.com.br/" target="_blank"><img src="https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png" alt="Logotipo Análise Macro" width="150"></a>  <br>  **Previsão Macroeconômica usando Python e IA**'
+subtitle: "Programa e informações gerais do curso"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+theme:
+  light: flatly
+---
+
+# Resumo
+
+Este curso ensina a construir previsões para as principais variáveis macroeconômicas do Brasil — IPCA, câmbio, PIB e SELIC — usando Python. O percurso combina estatística, econometria e aprendizado de máquina com modelos de linguagem (LLM), que representam o estado da arte em Inteligência Artificial aplicada à análise de dados.
+
+O conteúdo parte da coleta e organização de dados econômicos e financeiros, passa pela introdução à IA e à engenharia de prompt, e chega à construção de modelos preditivos avaliados por erro de previsão. Ao final, você reúne tudo em uma dashboard interativa que apresenta as previsões de forma automatizada.
+
+É um curso avançado, voltado a quem já programa em Python e tem base em estatística, econometria e séries temporais, e quer trabalhar com dados como fazem os especialistas da área.
+
+| Item | Descrição |
+|---|---|
+| **Categoria** | Especialização em Inteligência Artificial |
+| **Carga horária total** | 40 horas |
+| **Horas de vídeo** | 20 horas |
+| **Número de aulas** | 9 |
+| **Nível** | Avançado |
+| **Certificado** | Sim |
+
+# Pré-requisitos e Objetivos
+
+## Pré-requisitos
+
+- Saber programar em Python
+- Conhecer Estatística
+- Conhecer Econometria
+- Conhecer Séries Temporais em Python
+
+## O que você será capaz de fazer
+
+- Aplicar modelos estatísticos a dados econômicos e financeiros
+- Trabalhar com Inteligência Artificial e engenharia de prompt
+- Integrar modelos de IA com Python
+- Coletar e organizar dados econômicos e financeiros
+- Construir e avaliar o erro de modelos preditivos tradicionais e de IA
+- Prever variáveis macroeconômicas como IPCA, câmbio, PIB e SELIC
+- Reunir as previsões em uma dashboard interativa
+
+## Habilidades e ferramentas
+
+- Python
+- Google Colab
+- Google AI Studio
+- Modelos de linguagem (LLM) aplicados à previsão
+- Estatística, econometria e aprendizado de máquina para séries temporais
+
+# Programa Detalhado
+
+1. Boas-vindas e Apresentação do Curso
+2. Introdução à IA e Engenharia de Prompt
+3. Construindo uma Base de Dados Macroeconômica
+4. Fluxo de Trabalho para Modelos Preditivos
+5. Modelo Preditivo para o IPCA
+6. Modelo Preditivo para o Câmbio
+7. Modelo Preditivo para o PIB
+8. Modelo Preditivo para a SELIC
+9. Construindo uma Dashboard Interativa
+
+# Inscrição
+
+A matrícula dá acesso às videoaulas e ao material do curso, ao certificado de conclusão com a carga horária registrada e ao suporte para dúvidas durante o aprendizado.
+
+- 📄 **Página do curso:** <https://analisemacro.com.br/curso/previsao-macroeconomica-usando-python-e-ia/>
+- 🛒 **Matrícula:** <https://aluno.analisemacro.com.br/carrinho/?add-to-cart=60889>

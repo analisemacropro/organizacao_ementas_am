@@ -1,0 +1,82 @@
+---
+title: |
+  ![](https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png){width=150}
+
+  **Estatística para Análise de Dados usando Python**
+subtitle: "Programa e informações gerais do curso"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+    theme:
+      light: flatly
+---
+
+# Resumo
+
+A análise de dados feita do jeito certo passa, necessariamente, pela estatística. Sem esse alicerce, gráficos e tabelas viram apenas descrições superficiais, sem capacidade de sustentar conclusões. Este curso apresenta a estatística aplicada à análise de dados com Python, partindo da exploração de dados univariados até modelos como regressão linear e análise de variância, sempre com foco na prática e na interpretação dos resultados.
+
+O conteúdo é voltado para quem quer realizar análise de dados como os profissionais da área fazem: descrevendo, visualizando e, principalmente, extraindo inferências válidas a partir de amostras. Ao longo das aulas, você percorre as etapas que vão da estatística descritiva à inferência estatística, aprendendo a construir intervalos de confiança, conduzir testes de significância e ajustar modelos estatísticos para responder perguntas sobre os dados.
+
+O curso é indicado para quem já programa em Python e deseja adicionar uma base sólida de estatística ao seu trabalho com dados, usando ferramentas modernas e uma abordagem orientada à aplicação.
+
+| Categoria | Informação |
+|---|---|
+| Carga horária total | 20 horas |
+| Horas de vídeo | 5 horas |
+| Número de aulas | 14 |
+| Nível | Intermediário |
+| Certificado | Sim, emitido pela Análise Macro |
+
+# Pré-requisitos e Objetivos
+
+## Pré-requisitos
+
+- Saber programar com a linguagem Python.
+
+## O que você será capaz de fazer
+
+- Realizar a exploração de dados de forma estruturada, cobrindo dados univariados, bivariados e multivariados.
+- Construir e interpretar gráficos para investigar relações entre variáveis.
+- Trabalhar com variáveis aleatórias e diferentes tipos de distribuição de probabilidade.
+- Aplicar inferência estatística para tirar conclusões a partir de amostras.
+- Construir intervalos de confiança e conduzir testes de significância.
+- Avaliar a qualidade do ajuste e estimar modelos estatísticos, como regressão linear e análise de variância.
+- Estender a análise para modelos lineares generalizados e modelos não lineares.
+
+## Habilidades e ferramentas
+
+- **Python**: linguagem utilizada em todas as etapas da análise.
+- **Jupyter**: ambiente para escrever, executar e documentar as análises de forma interativa.
+- **Estatística aplicada**: estatística descritiva, inferência estatística, intervalos de confiança, testes de significância e modelagem.
+- **Visualização de dados**: construção de gráficos para análise exploratória.
+
+# Programa Detalhado
+
+O conteúdo é organizado nas seções temáticas abaixo, distribuídas ao longo das aulas do curso.
+
+- **Aula 01 – Preparando o ambiente**
+- **Aula 02 – Dados Univariados:** vetores, estatísticas descritivas e dados categóricos
+- **Aula 03 – Dados Bivariados:** amostras independentes, estruturas de dados no Python e dados emparelhados
+- **Aula 04 – Dados Multivariados:** data frames, aplicando funções sobre dados e dados externos
+- **Aula 05 – Gráficos Multivariados:** gráficos básicos com matplotlib e seaborn
+- **Aula 06 – População:** variáveis aleatórias discretas e diferentes tipos de distribuição
+- **Aula 07 – Inferência Estatística**
+- **Aula 08 – Intervalos de Confiança**
+- **Aula 09 – Testes de Significância**
+- **Aula 10 – Qualidade do Ajuste**
+- **Aula 11 – Regressão Linear**
+- **Aula 12 – Análise de Variância**
+- **Aula 13 – Extensões:** modelos lineares generalizados e modelos não lineares
+
+# Inscrição
+
+A matrícula dá acesso às videoaulas, ao material do curso e aos exemplos práticos em Python, além do certificado de conclusão emitido pela Análise Macro. O conteúdo fica disponível para acompanhar no seu ritmo, permitindo revisar cada tema sempre que precisar.
+
+- 📄 **Página do curso:** <https://analisemacro.com.br/curso/estatistica-para-analise-de-dados-usando-python/>
+- 🛒 **Matrícula:** <https://aluno.analisemacro.com.br/carrinho/?add-to-cart=53315>

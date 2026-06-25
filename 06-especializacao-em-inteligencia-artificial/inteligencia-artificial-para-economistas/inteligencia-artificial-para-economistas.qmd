@@ -1,0 +1,83 @@
+---
+title: |
+  ![](https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png){width=150}
+
+  **Inteligência Artificial para Economistas**
+subtitle: "Programa e informações gerais do curso"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+    theme:
+      light: flatly
+---
+
+# Resumo
+
+O interesse pela Inteligência Artificial (IA) cresceu rapidamente nos últimos anos e trouxe novas soluções e ganhos de produtividade para diversas profissões. Para o economista, esse movimento abre aplicações práticas que percorrem todo o fluxo de trabalho: da coleta de indicadores econômicos à análise, à modelagem e à apresentação dos resultados.
+
+O curso **Inteligência Artificial para Economistas** tem como propósito central desenvolver Agentes de IA capazes de auxiliar o economista nas suas atividades do dia a dia. Ao longo das aulas, você entende os conceitos por trás de modelos de linguagem e agentes, conhece os frameworks atuais para construí-los e, na prática, constrói agentes voltados a tarefas econômicas, como coletar dados, analisar, estimar modelos e visualizar resultados.
+
+É um curso de nível intermediário: parte do princípio de que você já programa em Python e tem familiaridade com Economia, e a partir daí aprofunda o uso de IA aplicada à rotina do economista.
+
+| Categoria | Informação |
+|---|---|
+| Carga horária total | 30 horas |
+| Horas de vídeo | 20 horas |
+| Número de aulas | 30 |
+| Nível | Intermediário |
+| Certificado | Sim, de conclusão |
+
+# Pré-requisitos e Objetivos
+
+## Pré-requisitos
+
+- Saber programar em linguagem Python.
+- Ter familiaridade com Economia.
+
+## O que você será capaz de fazer
+
+- Criar múltiplos Agentes de IA voltados a tarefas do economista.
+- Usar frameworks modernos para construir sistemas de IA.
+- Desenvolver prompts efetivos para LLMs e SLMs.
+- Preparar dados para uso por modelos de IA, incluindo bases vetoriais (vector databases).
+- Aplicar agentes de IA em todo o fluxo de trabalho econômico: coleta, análise, econometria e visualização de dados.
+
+## Habilidades e ferramentas
+
+- Conceitos de IA aplicada: AI agents, LLMs, SLMs, AI tools e o ciclo de funcionamento de agentes.
+- Frameworks para construção de agentes, com destaque para **LlamaIndex** e **LangGraph**.
+- Preparação de dados para IA com **vector databases**.
+- Programação em **Python** como base para implementar os agentes.
+
+# Programa Detalhado
+
+O conteúdo é organizado nas seções temáticas abaixo, distribuídas ao longo das aulas do curso.
+
+- **Aula 01** – Apresentação do Curso
+- **Aula 02** – O que são AI agents?
+- **Aula 03** – O que são LLMs?
+- **Aula 04** – O que são SLMs?
+- **Aula 05** – O que são AI Tools?
+- **Aula 06** – O que é o ciclo de AI Agents?
+- **Aula 07** – Como preparar dados para usar na IA (Vector Databases)
+- **Aula 08** – Como criar um AI Agent?
+- **Aula 09** – Frameworks para criar AI Agents
+- **Aula 10** – Introdução ao LlamaIndex
+- **Aula 11** – Introdução ao LangGraph
+- **Aula 12** – Como criar um AI Agent coletor de dados?
+- **Aula 13** – Como criar um AI Agent analista de dados?
+- **Aula 14** – Como criar um AI Agent econometrista?
+- **Aula 15** – Como criar um AI Agent visualizador de dados?
+
+# Inscrição
+
+A matrícula dá acesso às aulas em vídeo, ao material de apoio e aos exemplos práticos do curso, além do certificado de conclusão. O conteúdo é apresentado de forma aplicada, com agentes de IA construídos passo a passo para tarefas do economista.
+
+- 📄 **Página do curso:** <https://analisemacro.com.br/curso/inteligencia-artificial-para-economistas/>
+- 🛒 **Matrícula:** <https://aluno.analisemacro.com.br/carrinho/?add-to-cart=66414>

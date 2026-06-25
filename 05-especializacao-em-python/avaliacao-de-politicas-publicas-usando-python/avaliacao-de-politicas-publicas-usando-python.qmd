@@ -1,0 +1,79 @@
+---
+title: '<a href="https://analisemacro.com.br/" target="_blank"><img src="https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png" alt="Logotipo Análise Macro" width="150"></a>  <br>  **Avaliação de Políticas Públicas usando Python**'
+subtitle: "Programa e informações gerais do curso"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+theme:
+  light: flatly
+---
+
+# Resumo
+
+Este curso ensina a medir o impacto real de políticas públicas e projetos sociais a partir de dados, e não de opiniões. A pergunta central é direta: a política funcionou? Para respondê-la, você aprende os principais métodos de avaliação de impacto e os aplica em Python sobre casos reais.
+
+O caminho vai da fundamentação teórica ao código. Cada método é apresentado com a intuição por trás dele e, em seguida, replicado em Python com estudos de caso brasileiros e internacionais. Assim você entende quando usar cada técnica, quais hipóteses ela exige e como interpretar os resultados.
+
+É um curso voltado para quem precisa avaliar programas e projetos com base em evidências: analistas, pesquisadores e profissionais que trabalham com dados de políticas públicas e querem ir além da estatística descritiva.
+
+| Item | Descrição |
+|---|---|
+| **Categoria** | Especialização em Python |
+| **Carga horária total** | 40 horas |
+| **Horas de vídeo** | 20 horas |
+| **Número de aulas** | 16 |
+| **Nível** | Intermediário |
+| **Certificado** | Sim, com carga horária de 40 horas |
+
+# Pré-requisitos e Objetivos
+
+## Pré-requisitos
+
+- Conhecimento de programação em Python.
+- Noções básicas de econometria.
+
+## O que você será capaz de fazer
+
+- Avaliar políticas públicas e projetos sociais com base em evidências, não em opiniões.
+- Aplicar os principais métodos estatísticos e econométricos de avaliação de impacto.
+- Escolher o método adequado a cada situação, reconhecendo suas hipóteses e limitações.
+- Replicar análises de impacto em Python a partir de casos reais.
+- Calcular e interpretar o retorno econômico de uma política pública.
+
+## Habilidades e ferramentas
+
+- **Python** como linguagem para tratamento, análise e avaliação de dados.
+- **Google Colab** como ambiente de execução.
+- Métodos de avaliação de impacto: modelo de resultados potenciais, aleatorização, diferenças em diferenças, controle sintético, pareamento, variáveis instrumentais e regressão descontínua.
+
+# Programa Detalhado
+
+1. **Seção 1** - Apresentação do Curso
+2. **Seção 2** - Introdução à Avaliação de Impacto: construindo políticas públicas baseadas em evidências
+3. **Seção 3** - Modelo de Resultados Potenciais: como prever o resultado potencial de uma política pública
+4. **Seção 4** - Método de Aleatorização
+   - Estudo de Caso: Replicando o experimento STAR para o Piauí
+5. **Seção 5** - Diferenças em Diferenças e Controle Sintético
+   - Estudo de Caso: Impacto na redução do ICMS
+   - Estudo de Caso: Lei Antifumo na Califórnia
+6. **Seção 6** - Pareamento
+   - Estudo de Caso: Pareamento usando o Metrô em São Paulo
+7. **Seção 7** - Variáveis Instrumentais
+   - Estudo de Caso: Crime e gastos com segurança pública
+8. **Seção 8** - Regressão Descontínua
+   - Estudo de Caso: Efeito do consumo de álcool
+9. **Seção 9** - Cálculo do Retorno Econômico
+   - Estudo de Caso: Avaliando o impacto econômico da política "Mãe Paranaense"
+
+# Inscrição
+
+A matrícula dá acesso ao curso completo, com as videoaulas, os códigos em Python e os estudos de caso para acompanhar e replicar as análises. Inclui certificado de conclusão com carga horária de 40 horas e suporte para esclarecer dúvidas ao longo dos estudos.
+
+- 📄 **Página do curso:** <https://analisemacro.com.br/curso/avaliacao-de-politicas-publicas-usando-python/>
+- 🛒 **Matrícula:** <https://aluno.analisemacro.com.br/carrinho/?add-to-cart=57288>

@@ -1,0 +1,92 @@
+---
+title: '<a href="https://analisemacro.com.br/" target="_blank"><img src="https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png" alt="Logotipo Análise Macro" width="150"></a>  <br>  **Formação Como Pensar com Dados**'
+subtitle: "Programa e informações gerais da formação"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+theme:
+  light: flatly
+---
+
+# Resumo
+
+A Formação Como Pensar com Dados é uma trilha completa que parte do zero e leva você até as competências mais procuradas no mercado de dados. Trabalhar com dados para construir análises e tomar decisões deixou de ser um diferencial: hoje é o mínimo que se espera de um bom profissional. A formação reúne, em uma sequência de seis blocos, os fundamentos da análise de dados e o domínio das principais ferramentas usadas no dia a dia das empresas.
+
+Ao longo da trilha você aprende a transformar perguntas em evidências e evidências em decisões. Começa pela mentalidade analítica e pelo ciclo completo de análise de dados, passa por SQL e Python, entra em engenharia de dados e inteligência artificial, e termina construindo dashboards no Power BI e aplicações em Streamlit. Cada bloco rende um certificado próprio, o que permite acompanhar o progresso e demonstrar competências específicas.
+
+A formação é voltada para quem quer adquirir uma base sólida e prática, com foco em formar analistas capazes de fazer diferença nas organizações, e não apenas operadores de ferramentas. O aprendizado é 100% prático, pensado para deixar você pronto para o mercado de trabalho.
+
+| Item | Descrição |
+|---|---|
+| **Categoria** | Formações |
+| **Carga horária total** | 150 horas |
+| **Horas de vídeo** | 60 horas |
+| **Número de aulas** | 70 aulas |
+| **Certificado** | 6 certificados, um a cada bloco concluído |
+| **Acesso** | 48 meses, com suporte individual direto na plataforma de ensino |
+
+# Pré-requisitos e Objetivos
+
+## Pré-requisitos
+
+Não há pré-requisitos. A formação parte do zero, inclusive na parte de programação, e é adequada para quem nunca escreveu uma linha de código. Os cursos de Python e SQL foram pensados para iniciar do básico quem nunca programou.
+
+## O que você será capaz de fazer
+
+Ao final da formação, você estará apto a:
+
+- Formular problemas e resolvê-los com base em dados;
+- Consultar e organizar dados com SQL;
+- Construir scripts que automatizam tarefas com Python;
+- Compreender o papel cada vez mais necessário da engenharia de dados;
+- Criar aplicações analíticas com Streamlit e dashboards com Power BI.
+
+## Habilidades e ferramentas
+
+- **Pensamento analítico:** formular problemas e estruturar análises com o ciclo CRISP-DM.
+- **SQL:** consultar, organizar e extrair informações de bancos de dados para apoiar decisões.
+- **Python:** coletar, tratar e apresentar dados por meio de scripts.
+- **Engenharia de dados:** construir pipelines para gerar, armazenar e transformar dados em escala.
+- **Inteligência artificial:** aplicar ferramentas de IA no dia a dia, com abordagem prática e no code.
+- **Visualização e aplicações:** Power BI para dashboards e Streamlit para aplicações analíticas.
+
+# Programa Detalhado
+
+A formação é uma trilha organizada em seis blocos, cada um equivalente a um curso, na ordem abaixo. Cada bloco concluído rende um certificado.
+
+## Bloco 1 — Como Pensar com Dados
+
+Apresenta a lente de um analista: transformar perguntas em evidências e evidências em decisões. Você aprende o ciclo completo de análise de dados, da coleta à interpretação, usando Python diretamente no navegador, sem precisar instalar nada. Ao final, você consegue planejar e executar análises completas, estruturadas segundo o ciclo CRISP-DM.
+
+## Bloco 2 — SQL para Negócios e Tomada de Decisão
+
+Domínio do SQL do zero para usar dados na tomada de decisões estratégicas em negócios reais. Você entende como os bancos de dados funcionam, como extrair e analisar informações e como transformar consultas em insights para marketing, finanças e operações.
+
+## Bloco 3 — Python para Análise de Dados
+
+Curso completo de Python voltado para quem nunca programou. Você aprende a construir scripts que coletam, tratam e apresentam resultados, com foco em começar a usar Python no dia a dia e abrir as portas do mercado de dados.
+
+## Bloco 4 — Fundamentos de Engenharia de Dados
+
+Análise de dados em escala. Você aprende a construir pipelines de dados, automatizando a geração, o armazenamento e a transformação de dados, conhecimento prático cada vez mais valorizado no mercado.
+
+## Bloco 5 — Inteligência Artificial
+
+Introdução aos conceitos básicos de inteligência artificial e às ferramentas práticas e no code para aplicar IA no dia a dia, por meio de exemplos temáticos.
+
+## Bloco 6 — Visualização e Aplicações Analíticas
+
+Construção de dashboards com Power BI, um dos softwares proprietários mais usados no mercado corporativo, e de aplicações em Streamlit, unificando pipelines com Python.
+
+# Inscrição
+
+A matrícula dá acesso à trilha completa dos seis blocos da formação, com 48 meses de acesso, suporte individual direto na plataforma de ensino e 6 certificados, um a cada bloco concluído. O conteúdo é liberado de forma imediata após a matrícula.
+
+- 📄 **Página da formação:** [https://analisemacro.com.br/formacao/formacao-como-pensar-com-dados/](https://analisemacro.com.br/formacao/formacao-como-pensar-com-dados/)
+- 🛒 **Matrícula:** [https://aluno.analisemacro.com.br/carrinho/?add-to-cart=69027](https://aluno.analisemacro.com.br/carrinho/?add-to-cart=69027)

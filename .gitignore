@@ -1,0 +1,13 @@
+# Planilha de controle interno (preços, links de compra, nº de alunos) — não publicar
+Organizacao_Cursos_AM.csv
+
+# Cursos fora da planilha (descontinuados)
+fora-da-planilha/
+
+# Caches do Quarto
+.quarto/
+*_cache/
+
+# Sistema
+.DS_Store
+Thumbs.db

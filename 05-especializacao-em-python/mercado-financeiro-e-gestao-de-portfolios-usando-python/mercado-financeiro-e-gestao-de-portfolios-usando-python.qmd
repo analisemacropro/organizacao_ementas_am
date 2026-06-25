@@ -1,0 +1,108 @@
+---
+title: '<a href="https://analisemacro.com.br/" target="_blank"><img src="https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png" alt="Logotipo Análise Macro" width="150"></a>  <br>  **Mercado Financeiro e Gestão de Portfólios usando Python**'
+subtitle: "Programa e informações gerais do curso"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+theme:
+  light: flatly
+---
+
+# Resumo
+
+O mercado financeiro trabalha com grandes volumes de dados, e quem atua na área precisa dominar ferramentas de análise para tomar decisões. Este curso une uma introdução ao mercado financeiro com as principais técnicas de gestão de portfólio, sempre apoiado no uso do Python.
+
+Você começa pelos fundamentos: como funcionam os produtos e as instituições financeiras, o que é risco e retorno de um ativo, e como coletar dados financeiros com Python. A partir daí, avança para a construção e a administração de carteiras, passando por teoria de Markowitz, índice de Sharpe, CAPM e o modelo Fama-French. O curso fecha com um bloco de projetos práticos, com códigos prontos para montar aplicações em Shiny.
+
+O conteúdo é voltado a quem quer entrar no mercado financeiro ou a profissionais da área que desejam atualizar seus conhecimentos usando Python.
+
+| Item | Detalhe |
+|------|---------|
+| Categoria | Especialização em Python |
+| Carga horária total | 44 horas |
+| Horas de vídeo | 11 horas |
+| Número de aulas | 24 |
+| Nível | Intermediário |
+| Certificado | Sim, certificado da Análise Macro |
+
+# Pré-requisitos e Objetivos
+
+## Pré-requisitos
+
+O pré-requisito para acompanhar o curso é saber programar com a linguagem Python.
+
+## O que você será capaz de fazer
+
+- Coletar dados financeiros usando Python.
+- Entender o que a ciência de dados exige no contexto dos mercados financeiros.
+- Construir e administrar carteiras de investimento.
+- Aplicar técnicas de gestão de portfólio, como a teoria de Markowitz, o índice de Sharpe, o CAPM e o modelo Fama-French.
+- Criar dashboards que cobrem os principais aspectos da gestão de portfólios.
+
+## Habilidades e ferramentas
+
+- Python como linguagem principal de análise.
+- Coleta e tratamento de dados financeiros.
+- Análise estatística aplicada a risco e retorno.
+- Shiny App para construção de painéis interativos.
+- Simulação de Monte Carlo aplicada a portfólios.
+
+# Programa Detalhado
+
+## Curso de Mercado Financeiro e Gestão de Portfólios
+
+- Seção 01 - Apresentação do Curso
+- Seção 02 - Fundamentos Estatísticos
+- Seção 03 - Coleta de dados financeiros com o Python
+- Seção 04 - Mercados Financeiros
+  - Sistema Financeiro Nacional
+  - Mercado Monetário
+  - Extra: como calcular o Juro Real e Juro Neutro?
+  - Mercado de Crédito
+  - Mercado de Capitais
+  - Mercado Cambial
+- Seção 05 - Juros
+  - Juros e Estrutura a Termo da Taxa de Juros
+- Seção 06 - Riscos financeiros
+- Seção 07 - Produtos financeiros
+- Seção 08 - Mercado de Renda Fixa
+- Seção 09 - Mercado de Ações
+- Seção 10 - Risco vs. Retorno
+  - Gestão de Carteiras
+  - O que é Risco?
+  - Retornos Individuais
+  - Relação de Risco/Retorno
+- Seção 11 - Retorno Esperado e Risco de uma Carteira de Investimentos
+- Seção 12 - Seleção de Carteira e Teoria de Markowitz
+- Seção 13 - Índice de Sharpe
+- Seção 14 - Capital Asset Pricing Model (CAPM)
+  - Como funciona o CAPM?
+  - Estimando o Beta com o Python
+  - Análise de Betas do Mercado Acionário Brasileiro
+- Seção 15 - Modelo Fama-French
+- Extra: Estudo de Eventos no Python
+
+## Projetos
+
+- Projeto 01 - Transformando preços em retornos
+- Projeto 02 - Construindo um Shiny App para Retornos de Portfólios
+- Projeto 03 - Construindo um Shiny App para Desvio-Padrão
+- Projeto 04 - Construindo um Shiny App para assimetria e curtose de retornos
+- Projeto 05 - Shiny App para índice Sharpe
+- Projeto 06 - Shiny App para CAPM Beta
+- Projeto 07 - Construindo um Shiny App para o modelo Fama-French
+- Projeto 08 - Contribuição do ativo para o desvio padrão do portfólio
+- Projeto 09 - Simulação de Monte Carlo
+
+# Inscrição
+
+A matrícula dá acesso às aulas em vídeo, ao material do curso e aos códigos dos projetos práticos, além do certificado de conclusão emitido pela Análise Macro e do suporte para tirar dúvidas durante os estudos.
+
+- 📄 **Página do curso:** <https://analisemacro.com.br/curso/mercado-financeiro-e-gestao-de-portfolios-usando-python/>
+- 🛒 **Matrícula:** <https://aluno.analisemacro.com.br/carrinho/?add-to-cart=54438>

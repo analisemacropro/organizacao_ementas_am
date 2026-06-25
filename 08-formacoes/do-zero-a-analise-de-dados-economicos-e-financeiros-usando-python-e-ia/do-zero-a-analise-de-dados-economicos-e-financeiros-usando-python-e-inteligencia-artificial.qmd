@@ -1,0 +1,127 @@
+---
+title: '<a href="https://analisemacro.com.br/" target="_blank"><img src="https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png" alt="Logotipo Análise Macro" width="150"></a>  <br>  **Do Zero à Análise de Dados Econômicos e Financeiros usando Python e Inteligência Artificial**'
+subtitle: "Programa e informações gerais da formação"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+theme:
+  light: flatly
+---
+
+# Resumo
+
+A formação **Do Zero à Análise de Dados Econômicos e Financeiros usando Python e Inteligência Artificial** é uma trilha completa que reúne vários cursos em uma única jornada de aprendizado. O objetivo é levar o aluno do zero ao domínio de todo o ciclo de análise de dados: identificar o problema, coletar, tratar, modelar e apresentar dados econômicos e financeiros usando a linguagem Python e modelos de inteligência artificial.
+
+A trilha é organizada em blocos que seguem uma progressão natural. Começa pelos fundamentos da ciência de dados e pelas ferramentas básicas (Python e SQL), avança para a coleta e o tratamento de dados macroeconômicos e financeiros das principais bases do Brasil e do mundo, aprofunda em estatística, econometria, modelagem e previsão, e termina na apresentação automatizada de resultados em dashboards e relatórios. Há ainda um bloco de cursos de especialização em mercado financeiro, macroeconomia aplicada, avaliação de impacto e inteligência artificial.
+
+É indicada para profissionais de mercado e estudantes que querem se tornar referência em análise de dados na sua empresa, asset, corretora, consultoria, gestora de recursos, instituição de ensino ou equivalente. Por agregar cursos clássicos de estatística e econometria junto a machine learning e inteligência artificial, prepara o aluno para automatizar o processo de análise com uma das linguagens de programação mais usadas no mercado.
+
+| Item | Descrição |
+|---|---|
+| **Categoria** | Formações |
+| **Carga horária total** | 658 horas |
+| **Horas de vídeo** | 214,5 horas |
+| **Número de aulas** | 366 aulas |
+| **Certificado** | Sim — certificados individuais de cada curso da trilha, mais o certificado da formação completa |
+| **Acesso** | 48 meses |
+
+# Pré-requisitos e Objetivos
+
+## Pré-requisitos
+
+Esta formação não tem pré-requisitos. O conteúdo parte do zero, então não é preciso ter experiência prévia em programação, estatística ou econometria para começar.
+
+## O que você será capaz de fazer
+
+Ao final da trilha, espera-se que o aluno se torne uma referência em análise de dados na sua organização. Isso significa conhecer e aplicar as principais ferramentas de automatização do processo de análise de dados, combinando modelos clássicos de estatística e econometria com machine learning e inteligência artificial, tudo com uso intensivo de Python. O aluno passa a conduzir o ciclo completo: coletar dados automaticamente, tratar, modelar, prever e apresentar resultados em relatórios e dashboards.
+
+## Habilidades e ferramentas
+
+Habilidades desenvolvidas ao longo da trilha:
+
+- Dominar os fundamentos da ciência de dados
+- Coletar dados automaticamente com Python
+- Armazenar informações em SQL
+- Criar relatórios automáticos
+- Construir dashboards automáticos
+- Coletar dados econômicos e financeiros das principais bases
+- Aprender estatística e modelagem
+- Aplicar modelos estatísticos a dados econômicos e financeiros
+- Entender os principais conceitos de inteligência artificial
+- Compreender o processo de engenharia de prompt
+- Integrar modelos de inteligência artificial com Python
+- Avaliar erros de modelos tradicionais e de inteligência artificial
+
+Ferramentas utilizadas:
+
+- Google Colab
+- Python
+- Jupyter
+- AI Studio
+- Posit
+- Quarto
+
+# Programa Detalhado
+
+A formação é uma trilha organizada em seis blocos. Cada bloco agrupa cursos que se complementam, seguindo a ordem natural do ciclo de análise de dados — dos fundamentos até a especialização.
+
+## Bloco 1 — Cursos Básicos
+
+Aqui o aluno adquire os fundamentos do ciclo de análise de dados, da identificação do problema à coleta, tratamento, modelagem e apresentação. Também aprende duas ferramentas centrais para construir esse ciclo: o Python e a linguagem SQL.
+
+- Como Pensar com Dados
+- SQL para Negócios e Tomada de Decisão
+- Programação em Python para Análise de Dados
+- SQL para Economia e Finanças
+
+## Bloco 2 — Formação Prática com Dados Econômicos e Financeiros
+
+Nesta parte o aluno aprende a coletar e tratar dados econômicos e financeiros das principais bases do país e do mundo. São exemplos práticos e mão na massa sobre como coletar inflação, taxa de juros, PIB, produção industrial e mais de 40 indicadores, por meio de APIs e bibliotecas específicas de Python.
+
+- Teoria Macroeconômica com Python
+- Análise de Conjuntura usando Python
+
+## Bloco 3 — Modelagem e Previsão
+
+Bloco voltado ao aprofundamento em métodos quantitativos aplicando Python. Revisita estatística descritiva, inferência estatística e modelagem. O aluno entende o que é um modelo e as simplificações envolvidas, aprende a interpretar modelos descritivos e preditivos e a construir métricas de avaliação para comparar diferentes tipos de modelos — base para previsões acuradas em séries temporais e em estruturas de corte transversal.
+
+- Estatística para Análise de Dados usando Python
+- Econometria Aplicada usando Python
+- Modelagem e Previsão usando o Python
+
+## Bloco 4 — Data Storytelling
+
+Depois de coletar, tratar e modelar, chega a hora de apresentar os resultados em relatórios e dashboards. Nestes cursos o aluno aprende a construir esses materiais e também a automatizar todo o processo de coleta, tratamento, modelagem e apresentação usando Python e ferramentas como o GitHub Actions — uma habilidade rara no mercado de análise de dados econômicos e financeiros.
+
+- Produção de Dashboards Automáticos usando Python
+- Produção de Relatórios Automáticos usando Python
+
+## Bloco 5 — Cursos de Especialização
+
+Com o ciclo básico dominado, o aluno parte para a especialização em cursos diretos ao ponto nas áreas de mercado financeiro, macroeconomia aplicada, avaliação de impacto e inteligência artificial, aprendendo a construir modelos de fronteira com dados econômicos e financeiros.
+
+- Python para Investimentos
+- Mercado Financeiro e Gestão de Portfólios usando Python
+- Análise de Demonstrativos Financeiros usando Python
+- Modelos Financeiros usando Python
+- Macroeconometria usando Python
+- Avaliação de Políticas Públicas usando Python
+- Inteligência Artificial para Análise de Dados usando Python
+- Previsão Macroeconômica usando Python e Inteligência Artificial
+
+## Bloco 6 — Mão na Massa: portfólio de dados com o Clube AM
+
+Após os cinco blocos de cursos, o aluno conta com acesso ao Clube AM, o repositório com mais de 520 exercícios de análise de dados — sendo mais de 300 deles feitos exclusivamente em Python. Cada exercício traz videoaula explicativa, scripts e material de apoio para o aluno se inspirar e construir um portfólio de dados com exemplos reais do dia a dia.
+
+# Inscrição
+
+A matrícula dá acesso a toda a trilha de cursos da formação, com aulas em vídeo passo a passo, materiais de apoio e exercícios práticos. Inclui ainda o acesso ao Clube AM e seus mais de 520 exercícios, os certificados individuais de cada curso e o certificado da formação completa, com acesso aos conteúdos por 48 meses. Para se inscrever, use os links abaixo.
+
+- 📄 **Página da formação:** <https://analisemacro.com.br/formacao/do-zero-a-analise-de-dados-economicos-e-financeiros-usando-python-e-inteligencia-artificial/>
+- 🛒 **Matrícula:** <https://aluno.analisemacro.com.br/carrinho/?add-to-cart=55081>

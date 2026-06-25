@@ -1,0 +1,108 @@
+---
+title: '<a href="https://analisemacro.com.br/" target="_blank"><img src="https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png" alt="Logotipo Análise Macro" width="150"></a>  <br>  **Inteligência Artificial para Todos**'
+subtitle: "Programa e informações gerais do curso"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+theme:
+  light: flatly
+---
+
+# Resumo
+
+O interesse pela Inteligência Artificial cresceu rápido nos últimos anos, mas ainda há muita confusão sobre o que o termo significa e quais ferramentas já estão disponíveis para uso. Este curso introduz o aluno aos conceitos básicos de IA e mostra como aplicá-los no dia a dia com ferramentas práticas, em sua maioria *no code*.
+
+A proposta é dar uma visão geral da área e, ao mesmo tempo, mão na massa. Você passa pelos conceitos fundamentais (ciência de dados, machine learning, deep learning, NLP, LLMs e IA generativa) e depois vê esses conceitos em uso através de exemplos temáticos, de engenharia de prompt e chatbots a aplicações em Economia, Finanças, Contabilidade, Marketing e Gestão Pública.
+
+O curso foi pensado para pessoas que querem incorporar IA ao trabalho sem precisar programar. Não há pré-requisitos: começa pelos fundamentos e avança até as aplicações práticas.
+
+| | |
+|---|---|
+| **Categoria** | Especialização em Inteligência Artificial |
+| **Carga horária total** | 30 horas |
+| **Horas de vídeo** | 20 horas |
+| **Número de aulas** | 30 aulas |
+| **Nível** | Iniciante |
+| **Certificado** | Sim, emitido pela Análise Macro ao concluir o curso |
+
+# Pré-requisitos e Objetivos
+
+## Pré-requisitos
+
+Não há pré-requisitos. O curso parte dos conceitos básicos e é adequado para quem nunca teve contato formal com Inteligência Artificial.
+
+## O que você será capaz de fazer
+
+Ao concluir o curso, você será capaz de integrar as ferramentas de Inteligência Artificial ao seu dia a dia profissional e acompanhar o que vem sendo tratado na área de forma atualizada.
+
+- Ter uma visão global sobre Inteligência Artificial e suas ramificações.
+- Entender quais são as técnicas de IA e suas aplicações.
+- Reproduzir exemplos práticos de uso de IA com ferramentas *no code*.
+
+## Habilidades e ferramentas
+
+O curso desenvolve a leitura crítica dos conceitos de IA e a aplicação prática deles em tarefas do cotidiano: engenharia de prompt, uso de chatbots, reconhecimento de voz, análise de dados, automação, detecção de fraude e processamento de imagens.
+
+Ferramentas usadas ao longo das aulas:
+
+- ChatGPT
+- Gemini
+- Google Sheets
+- Outras ferramentas *no code* apresentadas ao longo do curso
+
+# Programa Detalhado
+
+## Introdução
+
+1. Introdução à IA
+2. Evolução da IA
+3. Aplicações e casos de uso
+4. Carreiras profissionais em IA
+5. Habilidades e formação em IA
+
+## Entendendo conceitos
+
+1. Introdução à ciência de dados
+2. Introdução às técnicas de IA
+3. Introdução a Aprendizado Supervisionado e Não Supervisionado
+4. Introdução a Machine Learning (ML)
+5. Introdução a Big Data
+6. Introdução a Deep Learning (DL)
+7. Introdução a Processamento de Linguagem Natural (NLP)
+8. Introdução a LLMs
+9. Introdução à IA Generativa
+10. Introdução a ferramentas: no code vs. full code
+
+## IA na prática
+
+1. AI Agents
+2. Engenharia de prompt
+3. Chatbots
+4. Reconhecimento de voz
+5. Análise de dados
+6. Automação e Robótica
+7. Detecção de fraude
+8. Processamento de imagens
+9. Aplicações em Economia
+10. Aplicações em Finanças
+11. Aplicações em Contabilidade
+12. Aplicações em Marketing
+13. Aplicações em Gestão Pública
+
+## Problemas e considerações éticas
+
+1. Alucinações
+2. Privacidade de dados
+
+# Inscrição
+
+A matrícula dá acesso às videoaulas do curso, aos exemplos práticos para reproduzir, ao certificado da Análise Macro após a conclusão e ao suporte para tirar dúvidas em um chat exclusivo do aluno.
+
+- 📄 **Página do curso:** <https://analisemacro.com.br/curso/inteligencia-artificial-para-todos/>
+- 🛒 **Matrícula:** <https://aluno.analisemacro.com.br/carrinho/?add-to-cart=63401>
