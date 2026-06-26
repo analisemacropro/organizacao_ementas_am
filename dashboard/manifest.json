@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "locale": "pt_BR",
+  "metadata": {
+    "appmode": "python-shiny",
+    "entrypoint": "app"
+  },
+  "python": {
+    "version": "3.11.9",
+    "package_manager": {
+      "name": "pip",
+      "version": "24.0",
+      "package_file": "requirements.txt"
+    }
+  },
+  "files": {
+    "app.py": {
+      "checksum": "6229156fc6d383d6ca526666a17a0bce"
+    },
+    "logica.py": {
+      "checksum": "111e90acbad8331bc74a204db3336109"
+    },
+    "relacao.py": {
+      "checksum": "b150eebda8f3e7ed2294bf77cdcb8eca"
+    },
+    "requirements.txt": {
+      "checksum": "47a1b21afda399a30b556abb468c7fef"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+# Configuração do Posit Publisher para o Dashboard de Inscritos — Análise Macro
+# Documentação: https://docs.posit.co/connect/user/publisher/
+# Schema oficial do arquivo de configuração:
+'$schema' = 'https://cdn.posit.co/publisher/schemas/posit-publishing-schema-v3.json'
+
+# Tipo de conteúdo: app Shiny for Python
+type = 'python-shiny'
+
+# Ponto de entrada (o objeto `app` está em app.py)
+entrypoint = 'app.py'
+
+# Título exibido no Posit Connect
+title = 'Dashboard de Inscritos — Análise Macro'
+description = 'Total de inscritos por curso e formação a partir do export de pedidos (WooCommerce).'
+
+# Arquivos que compõem o deploy (apenas o app; nenhum dado de cliente)
+files = [
+    'app.py',
+    'logica.py',
+    'relacao.py',
+    'requirements.txt',
+    '.python-version',
+]
+
+[python]
+# Versão do Python no servidor. NÃO usar 3.14 (muito nova p/ o Connect).
+version = '3.11.9'
+# As dependências vêm do requirements.txt
+package_manager = 'pip'
+package_file = 'requirements.txt'

@@ -8,6 +8,20 @@ fora-da-planilha/
 .quarto/
 *_cache/
 
+# Dados de clientes — NUNCA versionar (export de pedidos do WooCommerce)
+orders-*.csv
+
+# Python (dashboard)
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
 # Sistema
 .DS_Store
 Thumbs.db
+
+# Exports gerados pelo dashboard
+inscritos_analise_macro_*.csv
+inscritos_analise_macro_*.xlsx
