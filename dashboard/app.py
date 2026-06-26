@@ -17,6 +17,7 @@ import pandas as pd
 from shiny import App, reactive, render, ui
 
 import logica
+from logica import CORTE_ANOS_MAX
 from relacao import CATEGORIA, JANELAS
 
 CATEGORIAS = ["Todas"] + sorted(set(CATEGORIA.values()))
@@ -172,17 +173,19 @@ app_ui = ui.page_sidebar(
                      "O app lê apenas; nada é alterado no arquivo."),
         ui.hr(),
         ui.input_date("hoje", "2. Data de referência (hoje):", value=date.today()),
-        ui.help_text("Base para as janelas de validade. Pedidos anteriores ao "
-                     "limite de cada tipo já expiraram e não contam."),
+        ui.help_text(f"Base para os cortes de data. Pedidos com mais de "
+                     f"{CORTE_ANOS_MAX} anos são SEMPRE descartados (regra fixa)."),
         ui.input_switch(
             "janela",
-            "Aplicar janelas de validade",
+            "Aplicar janelas de validade por tipo",
             value=True,
         ),
         ui.help_text(
-            f"Curso: últimos {JANELAS['curso']} meses · "
+            f"Quando ligado, mantém só matrículas ativas por tipo — "
+            f"Curso: {JANELAS['curso']} meses · "
             f"Formação: {JANELAS['formacao']} meses · "
-            f"AM Black: {JANELAS['amblack']} meses."
+            f"AM Black: {JANELAS['amblack']} meses. "
+            f"(O corte de {CORTE_ANOS_MAX} anos vale sempre, mesmo com isto desligado.)"
         ),
         ui.hr(),
         ui.h5("Filtros da tabela", class_="am-titulo"),

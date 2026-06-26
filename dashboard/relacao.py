@@ -313,3 +313,10 @@ ALIASES = {
     "Do Zero à Análise de Dados com a Linguagem R": "Do Zero à Análise de Dados Econômicos e Financeiros usando a Linguagem R",
     "Do Zero à Análise de Dados com a Linguagem R ": "Do Zero à Análise de Dados Econômicos e Financeiros usando a Linguagem R",
 }
+
+# Auto-alias: todo nome canônico da planilha mapeia para si mesmo.
+# Garante que, se o export trouxer o nome EXATO de um curso/formação, ele conte
+# (sem depender de o nome estar listado manualmente acima). Não sobrescreve
+# aliases já definidos.
+for _nome in NOMES:
+    ALIASES.setdefault(_nome, _nome)

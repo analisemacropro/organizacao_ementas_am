@@ -24,6 +24,10 @@ COL_NOME = "Nome do item"
 COL_DATA = "Data do pedido"
 COL_QTD = "Quantidade (- reembolso)"
 
+# Corte rígido de antiguidade: pedidos com mais de 4 anos são SEMPRE descartados
+# (dados antigos demais, sem valor). Não é configurável no app.
+CORTE_ANOS_MAX = 4
+
 _FORMATOS_DATA = ("%d/%m/%Y %H:%M", "%d/%m/%Y", "%Y-%m-%d %H:%M:%S", "%Y-%m-%d")
 
 
@@ -60,7 +64,12 @@ def calcular(df: pd.DataFrame, hoje: datetime | None = None,
     ----------
     df : DataFrame do CSV de pedidos.
     hoje : data de referência para as janelas (default = agora).
-    aplicar_janela : se False, ignora as janelas (conta tudo) — útil p/ auditoria.
+    aplicar_janela : se False, ignora as janelas POR TIPO (curso 24m / formação 48m
+        / AM Black 12m). Se True, cada pedido precisa estar dentro da janela do seu tipo.
+
+    Corte rígido de antiguidade: pedidos com mais de CORTE_ANOS_MAX anos (a partir
+        de `hoje`) são SEMPRE descartados, independentemente de tudo — são dados
+        antigos demais para terem qualquer valor. Não é configurável.
 
     Retorna
     -------
@@ -97,6 +106,8 @@ def calcular(df: pd.DataFrame, hoje: datetime | None = None,
         if datas:
             data_min, data_max = min(datas), max(datas)
 
+    corte_rigido = hoje - relativedelta(years=CORTE_ANOS_MAX)
+
     for _, row in df.iterrows():
         nome = str(row[COL_NOME]).strip()
         alvo = ALIASES.get(nome)
@@ -105,10 +116,17 @@ def calcular(df: pd.DataFrame, hoje: datetime | None = None,
             continue
         q = _parse_qtd(row[COL_QTD]) if tem_qtd else 1
         tp = _tipo(alvo)
-        if aplicar_janela and tem_data:
+
+        if tem_data:
             d = _parse_data(row[COL_DATA])
-            if d is None or d < hoje - relativedelta(months=JANELAS[tp]):
+            # Corte rígido: mais de 4 anos é SEMPRE descartado (e sem data válida
+            # também, pois não dá para garantir que está dentro do prazo).
+            if d is None or d < corte_rigido:
                 continue
+            # Janela por tipo (curso 24m / formação 48m / AM Black 12m), opcional.
+            if aplicar_janela and d < hoje - relativedelta(months=JANELAS[tp]):
+                continue
+
         if alvo == AM_BLACK:
             am_black += q
         else:

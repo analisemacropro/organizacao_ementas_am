@@ -18,13 +18,14 @@ Abra **http://127.0.0.1:8000** no navegador, clique em **Procurar** e envie o CS
 
 1. **Só pedidos com status "Concluído"** entram.
 2. **Matching:** cada *Nome do item* do export é mapeado para um curso/formação da planilha via `ALIASES` (cobre variações históricas de nome). **Nome sem correspondência é ignorado** (livros, combos, kits, workshops avulsos, Clube AM, etc.). A aba **"Itens ignorados"** mostra o que não casou.
-3. **Janelas de validade** (a partir da data de referência, padrão = hoje):
+3. **Corte rígido de antiguidade (sempre ativo):** pedidos com **mais de 4 anos** (a partir da data de referência) são **sempre descartados** — dados antigos demais, sem valor. Não é configurável.
+4. **Janelas de validade por tipo** (opcional, controlado pelo switch no painel):
    - Curso: últimos **24 meses** · Formação: **48 meses** · AM Black: **12 meses**.
-   - Pedido fora da janela do seu tipo não conta (já expirou).
-4. **Propagação:**
+   - Quando ligado, mantém só as matrículas ainda ativas (dentro da janela do tipo). O corte de 4 anos continua valendo mesmo com o switch desligado.
+5. **Propagação:**
    - **Formação** → +1 em cada **curso que ela contém**.
    - **AM Black** (assinatura que dá acesso a tudo) → +1 em **todos** os cursos e formações.
-5. Métrica = **inscrições/matrículas**, não pessoas únicas (1 aluno na formação + 1 no curso = 2).
+6. Métrica = **inscrições/matrículas**, não pessoas únicas (1 aluno na formação + 1 no curso = 2).
 
 ## Publicar no Posit (Connect / Cloud) via GitHub
 
