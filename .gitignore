@@ -4,6 +4,10 @@ Organizacao_Cursos_AM.csv
 # Cursos fora da planilha (descontinuados)
 fora-da-planilha/
 
+# Material-fonte dos workshops (notebooks, ebooks, dados, .env com chaves) —
+# não publicar; o repo só leva as ementas renderizadas em 07-...
+Workshops Ativos/
+
 # Caches do Quarto
 .quarto/
 *_cache/

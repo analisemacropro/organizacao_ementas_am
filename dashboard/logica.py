@@ -16,6 +16,7 @@ from dateutil.relativedelta import relativedelta
 
 from relacao import (
     NOMES, CATEGORIA, FORMACOES, FORMACAO_CURSOS, ALIASES, AM_BLACK, JANELAS,
+    WORKSHOPS,
 )
 
 # Nomes das colunas no export do WooCommerce
@@ -54,6 +55,8 @@ def _tipo(alvo: str) -> str:
         return "amblack"
     if alvo in FORMACOES:
         return "formacao"
+    if alvo in WORKSHOPS:
+        return "workshop"
     return "curso"
 
 
@@ -148,7 +151,12 @@ def calcular(df: pd.DataFrame, hoje: datetime | None = None,
     tabela = pd.DataFrame({
         "Nome": NOMES,
         "Categoria": [CATEGORIA[n] for n in NOMES],
-        "Tipo": ["Formação" if n in FORMACOES else "Curso" for n in NOMES],
+        "Tipo": [
+            "Formação" if n in FORMACOES
+            else "Workshop" if n in WORKSHOPS
+            else "Curso"
+            for n in NOMES
+        ],
         "Inscritos_diretos": [direto[n] for n in NOMES],
         "Inscritos_total": [total[n] for n in NOMES],
     }).sort_values("Inscritos_total", ascending=False, ignore_index=True)

@@ -1,0 +1,72 @@
+---
+title: '<a href="https://analisemacro.com.br/" target="_blank"><img src="https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png" alt="Logotipo Análise Macro" width="150"></a>  <br>  **Como Migrar do Excel para o Python**'
+subtitle: "Programa e informações gerais do workshop"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+    embed-resources: true
+theme:
+  light: flatly
+---
+
+
+# Resumo
+
+Segundo a pesquisa *State of Data Science*, da Anaconda, profissionais de dados gastam cerca de 38% do tempo apenas preparando os dados — antes mesmo de analisá-los. Boa parte desse tempo se perde em trabalho manual e repetitivo de planilha: baixar arquivos, copiar e colar, refazer a mesma tabela dinâmica todo mês.
+
+Este workshop mostra, com um caso prático e dados reais, como trocar esse trabalho manual do Excel por um processo automatizado em Python — mais rápido, reprodutível e que qualquer colega consegue rodar de novo sem refazer tudo à mão.
+
+# Para quem é
+
+- Usuários de Excel/VBA que querem ganhar produtividade com Python.
+- Analistas que repetem o mesmo processo de planilha toda semana ou todo mês.
+- Quem quer entender, na prática, quando o Python compensa mais que a planilha.
+
+# Excel ou Python?
+
+O Excel é ótimo para explorar dados rapidamente e para tarefas pontuais. Mas quando o processo precisa ser **repetido**, **auditado** ou **reproduzido por outra pessoa**, a planilha começa a cobrar seu preço: passos manuais, versões divergentes, fórmulas escondidas. O Python resolve isso transformando o processo em código: escrito uma vez, roda sempre igual.
+
+# O projeto: automatizar a coleta e o tratamento de dados do IPCA
+
+Em vez de slides teóricos, o workshop resolve um problema real de ponta a ponta:
+
+- **O problema:** os dados do IPCA por subitem chegam em arquivos de Excel (`.xls`) espalhados no site do IBGE, num formato pouco amigável para análise.
+- **A solução:** um script em Python que baixa o arquivo automaticamente, extrai, lê a planilha, trata o formato e entrega os dados prontos para análise e visualização.
+
+Tudo isso rodando no **Google Colab**, sem instalar nada no computador.
+
+# O que você vai aprender
+
+- Por que o Python se tornou mais produtivo que Excel/VBA para dados que se repetem.
+- O **ciclo de análise de dados**: da coleta à entrega do resultado.
+- Baixar arquivos automaticamente da web (sem download manual).
+- Ler planilhas de Excel (`.xls`/`.xlsx`) direto no Python com **pandas**.
+- Fazer no Python o que se faz no Excel — só que em um comando: tabela dinâmica (`pivot`/`melt`), consolidar várias planilhas, filtrar e agregar.
+- Construir gráficos com **plotnine** (a gramática de gráficos do `ggplot2`).
+- Exportar o resultado de volta para Excel, quando necessário.
+
+# Ferramentas e bibliotecas
+
+- **Python** e **Google Colab** (ambiente gratuito, sem instalação).
+- **pandas** — leitura de Excel, tratamento e transformação dos dados.
+- **plotnine** — visualização de dados.
+- **urllib** (biblioteca padrão) — download automático de arquivos.
+- **xlrd** — leitura de arquivos `.xls` (Excel antigo).
+
+# Material do workshop
+
+- Slides da apresentação.
+- Notebook do projeto (coleta e tratamento automatizados do IPCA por subitem).
+- E-book *Do Zero à Análise de Dados Econômicos e Financeiros usando Python*.
+
+# Inscrição
+
+Este é um workshop já realizado; o material integra o acervo da Análise Macro e fica disponível para os alunos.
+
+- 🛒 **Matrícula:** <https://aluno.analisemacro.com.br/carrinho/?add-to-cart=59576>

@@ -15,7 +15,7 @@ ainda não foi mapeado.
 AM_BLACK = "__AM_BLACK__"
 
 # Janelas de validade da matrícula, em meses, a partir da data de referência.
-JANELAS = {"curso": 24, "formacao": 48, "amblack": 12}
+JANELAS = {"curso": 24, "formacao": 48, "amblack": 12, "workshop": 12}
 
 # ---------------------------------------------------------------------------
 # Os 46 itens da planilha: (nome, categoria)
@@ -58,8 +58,19 @@ CURSOS = [
     ("Inteligência Artificial para Todos", "Especialização em Inteligência Artificial"),
     ("Inteligência Artificial para Contadores e Administradores", "Especialização em Inteligência Artificial"),
     ("Inteligência Artificial para Economistas", "Especialização em Inteligência Artificial"),
-    ("Imersão Claude Code", "Workshops e Cursos Ao Vivo"),
-    ("Imersão Agentes Autônomos para Análise Macro", "Workshops e Cursos Ao Vivo"),
+    ("Imersão Claude Code", "Especialização em Inteligência Artificial"),
+    ("Imersão Agentes Autônomos para Análise Macro", "Especialização em Inteligência Artificial"),
+    # Workshops (produtos individuais; categoria = Conjunto de Cursos correspondente)
+    ("Workshop - Como Migrar do Excel para o Python", "Básicos de Python"),
+    ("Workshop - Do Zero à Análise de Dados Econômicos e Financeiros usando Python", "Básicos de Python"),
+    ("Workshop - Como Prever a Inflação do Brasil com IA e Python", "Especialização em Inteligência Artificial"),
+    ("Workshop - Como Prever o PIB do Brasil com IA e Python", "Especialização em Inteligência Artificial"),
+    ("Workshop - Como Prever a Taxa Selic com IA e Python", "Especialização em Inteligência Artificial"),
+    ("Workshop - Como Analisar as Atas do COPOM com IA e Python", "Especialização em Inteligência Artificial"),
+    ("Workshop - Como Construir um Painel de Previsões Macroeconômicas em Python", "Especialização em Python"),
+    ("Workshop - Modelo de Pequeno Porte do Banco Central com R", "Especialização em R"),
+    ("Workshop - Como Construir sua Própria Bloomberg com Python", "Especialização em Python"),
+    ("Workshop - Como Tratar a Sazonalidade em Séries Econômicas do Brasil", "Especialização em Python"),
     ("Formação Como Pensar com Dados", "Formações"),
     ("Formação Analista de Pesquisa Quantitativa", "Formações"),
     ("Formação em Análise Macroeconômica", "Formações"),
@@ -71,6 +82,21 @@ CURSOS = [
 
 CATEGORIA = {nome: cat for nome, cat in CURSOS}
 NOMES = [nome for nome, _ in CURSOS]
+
+# Workshops: produtos individuais com janela de 12 meses (igual AM Black).
+# Contam 1 acesso por compra; não propagam para outros itens.
+WORKSHOPS = {
+    "Workshop - Como Migrar do Excel para o Python",
+    "Workshop - Do Zero à Análise de Dados Econômicos e Financeiros usando Python",
+    "Workshop - Como Prever a Inflação do Brasil com IA e Python",
+    "Workshop - Como Prever o PIB do Brasil com IA e Python",
+    "Workshop - Como Prever a Taxa Selic com IA e Python",
+    "Workshop - Como Analisar as Atas do COPOM com IA e Python",
+    "Workshop - Como Construir um Painel de Previsões Macroeconômicas em Python",
+    "Workshop - Modelo de Pequeno Porte do Banco Central com R",
+    "Workshop - Como Construir sua Própria Bloomberg com Python",
+    "Workshop - Como Tratar a Sazonalidade em Séries Econômicas do Brasil",
+}
 
 # ---------------------------------------------------------------------------
 # Relação formação -> cursos que ela contém (nomes iguais aos de CURSOS).
@@ -287,6 +313,42 @@ ALIASES = {
     # OBS: "Imersão Como Criar um Agente de IA Econometrista", "Imersão Econometria
     # vs. IA na Previsão Macro" e "Imersão IA com Python" NÃO são produtos da
     # planilha -> ficam ignorados de propósito.
+
+    # Workshops (nome no export WooCommerce -> nome canônico na planilha)
+    "Workshop - Como migrar do Excel Para O Python": "Workshop - Como Migrar do Excel para o Python",
+    "Workshop - Como Migrar do Excel para o Python": "Workshop - Como Migrar do Excel para o Python",
+    "Workshop - Do Zero À Análise de Dados Econômicos e Financeiros com Python": "Workshop - Do Zero à Análise de Dados Econômicos e Financeiros usando Python",
+    "Workshop - Do Zero à Análise de Dados Econômicos e Financeiros usando Python": "Workshop - Do Zero à Análise de Dados Econômicos e Financeiros usando Python",
+    "Workshop - Como Prever A Inflação Do Brasil Com Inteligência Artificial E Python": "Workshop - Como Prever a Inflação do Brasil com IA e Python",
+    "Workshop - Como Prever a Inflação do Brasil com IA e Python": "Workshop - Como Prever a Inflação do Brasil com IA e Python",
+    "Workshop - Como Prever o PIB do Brasil usando IA e Python?": "Workshop - Como Prever o PIB do Brasil com IA e Python",
+    "Workshop - Como Prever o PIB do Brasil com IA e Python": "Workshop - Como Prever o PIB do Brasil com IA e Python",
+    "Workshop - Como Prever a Taxa Selic com IA e Python": "Workshop - Como Prever a Taxa Selic com IA e Python",
+    "Workshop - Como Analisar as Atas do Copom com IA e Python": "Workshop - Como Analisar as Atas do COPOM com IA e Python",
+    "Workshop - Como Analisar as Atas do COPOM com IA e Python": "Workshop - Como Analisar as Atas do COPOM com IA e Python",
+    "Workshop - Como Construir um Painel de Previsões Macroeconômicas em Python?": "Workshop - Como Construir um Painel de Previsões Macroeconômicas em Python",
+    "Workshop - Como Construir um Painel de Previsões Macroeconômicas em Python": "Workshop - Como Construir um Painel de Previsões Macroeconômicas em Python",
+    "Workshop Modelo de Pequeno Porte do Banco Central": "Workshop - Modelo de Pequeno Porte do Banco Central com R",
+    "Workshop - Modelo de Pequeno Porte do Banco Central com R": "Workshop - Modelo de Pequeno Porte do Banco Central com R",
+    "Workshop Como Construir sua própria Bloomberg": "Workshop - Como Construir sua Própria Bloomberg com Python",
+    "Workshop - Como Construir sua Própria Bloomberg com Python": "Workshop - Como Construir sua Própria Bloomberg com Python",
+    "Workshop Como tratar Sazonalidade no Brasil": "Workshop - Como Tratar a Sazonalidade em Séries Econômicas do Brasil",
+    "Workshop - Como Tratar a Sazonalidade em Séries Econômicas do Brasil": "Workshop - Como Tratar a Sazonalidade em Séries Econômicas do Brasil",
+
+    # Workshops: variações de nome REAIS que aparecem no export WooCommerce
+    "Workshop Ao Vivo Do Zero à Análise de Dados Econômicos e Financeiros usando Python": "Workshop - Do Zero à Análise de Dados Econômicos e Financeiros usando Python",
+    "Workshop Como Prever o PIB do Brasil com IA e Python": "Workshop - Como Prever o PIB do Brasil com IA e Python",
+    "Workshop Como Construir um Painel de Previsões Macroeconômicas em Python": "Workshop - Como Construir um Painel de Previsões Macroeconômicas em Python",
+    "Workshop Ao Vivo Como Prever A inflação do Brasil Com IA": "Workshop - Como Prever a Inflação do Brasil com IA e Python",
+    "Workshop Como Prever A inflação do Brasil Com IA": "Workshop - Como Prever a Inflação do Brasil com IA e Python",
+    "Workshop Ao Vivo Prevendo a inflação com inteligência artificial no Brasil": "Workshop - Como Prever a Inflação do Brasil com IA e Python",
+    "Workshop: Como Tratar Sazonalidade no Brasil": "Workshop - Como Tratar a Sazonalidade em Séries Econômicas do Brasil",
+    "Workshop Como Prever a Taxa Selic com IA e Python": "Workshop - Como Prever a Taxa Selic com IA e Python",
+    "Workshop Como Construir sua Própria Bloomberg": "Workshop - Como Construir sua Própria Bloomberg com Python",
+    "Workshop Como Analisar as Atas do COPOM com IA e Python": "Workshop - Como Analisar as Atas do COPOM com IA e Python",
+    "Workshop Ao Vivo Como Migrar do Excel para o Python": "Workshop - Como Migrar do Excel para o Python",
+    "Workshop Ao Vivo Como Migrar do Excel para o Python de forma definitiva": "Workshop - Como Migrar do Excel para o Python",
+    "Curso Modelo de Pequeno Porte BCB": "Workshop - Modelo de Pequeno Porte do Banco Central com R",
 
     # Formações (nomes históricos -> formação atual da planilha)
     "Formação Como Pensar com Dados": "Formação Como Pensar com Dados",

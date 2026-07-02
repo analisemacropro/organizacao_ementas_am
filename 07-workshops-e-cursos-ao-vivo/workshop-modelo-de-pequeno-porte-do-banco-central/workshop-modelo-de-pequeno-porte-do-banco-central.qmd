@@ -1,0 +1,76 @@
+---
+title: '<a href="https://analisemacro.com.br/" target="_blank"><img src="https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png" alt="Logotipo Análise Macro" width="150"></a>  <br>  **Modelo de Pequeno Porte do Banco Central com R**'
+subtitle: "Programa e informações gerais do workshop"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+    embed-resources: true
+theme:
+  light: flatly
+---
+
+
+# Resumo
+
+O Modelo de Pequeno Porte (MPP) é uma das ferramentas que o Banco Central do Brasil usa para avaliar como mudanças na economia afetam a inflação. É um modelo **semiestrutural**: tem poucas equações, inspiradas diretamente na teoria econômica, que descrevem as relações essenciais entre juros, atividade, câmbio, expectativas e preços.
+
+Neste workshop você entende o que é o MPP, explora cada uma de suas equações e — o principal — **estima o modelo com a linguagem R**, reproduzindo a lógica usada pela autoridade monetária e pelo mercado.
+
+# Para quem é
+
+- Economistas e analistas que querem entender como o Banco Central pensa a inflação.
+- Quem trabalha com modelagem macroeconômica e quer aprender modelos semiestruturais.
+- Usuários de R que querem estimar sistemas de equações simultâneas na prática.
+
+# As equações do modelo
+
+O MPP organiza a economia em torno de quatro relações fundamentais:
+
+- **Curva de Phillips** — liga a inflação ao hiato do produto, às expectativas e a choques (câmbio, commodities, clima).
+- **Curva IS** — descreve a demanda agregada: como o hiato do produto responde à taxa de juros real e a outros fatores.
+- **Regra de Taylor** — descreve como o Banco Central define a taxa de juros em resposta à inflação e à atividade.
+- **Expectativas de inflação** — como os agentes formam suas previsões de inflação.
+
+# O que você vai aprender
+
+- O que são modelos semiestruturais de poucas equações e por que são tão usados.
+- A estrutura e a intuição econômica de cada equação (Phillips, IS, Taylor, expectativas).
+- Diferentes abordagens para modelar as expectativas de inflação.
+- Coletar dados macroeconômicos brasileiros de várias fontes oficiais (BCB, IBGE, FRED, entre outras).
+- Tratar e construir as variáveis do modelo (ajuste sazonal, hiato do produto, dummies climáticas, etc.).
+- Estimar um **sistema de equações simultâneas** em R por variáveis instrumentais.
+- Gerar previsões estocásticas e construir o **fan chart** (gráfico de leque) da inflação.
+- Interpretar os coeficientes e os resultados do modelo.
+
+# Base teórica
+
+O workshop se apoia na especificação do MPP publicada pelo Banco Central no boxe do Relatório de Inflação de junho de 2024, que atualiza os modelos semiestruturais de pequeno porte (documento de referência incluído no material).
+
+# Ferramentas e pacotes
+
+- **R** — linguagem de análise.
+- **bimets** — estimação e simulação de sistemas de equações (a peça central).
+- **rbcb**, **sidrar**, **fredr** — coleta de dados de BCB, IBGE e FRED.
+- **seasonal** (X-13ARIMA-SEATS) — ajuste sazonal.
+- **forecast**, **mFilter**, **tidyverse** — modelagem, filtros e tratamento de dados.
+
+> Algumas fontes de dados (FRED) exigem uma chave de API gratuita, e o ajuste sazonal usa o X-13ARIMA-SEATS. O material inclui um snapshot dos dados já processados (`macro_data.rds`) para reproduzir o modelo sem depender de todas as coletas ao vivo.
+
+# Material do workshop
+
+- **Documento-resumo** — as equações do modelo (versão teórica curta).
+- **Modelo em R** — os scripts de coleta, tratamento e estimação, mais o guia com o código.
+- **Slides** — a apresentação do workshop.
+- **Referência do Banco Central** — o boxe do Relatório de Inflação com a especificação oficial.
+
+# Inscrição
+
+Este é um workshop já realizado; o material integra o acervo da Análise Macro e fica disponível para os alunos.
+
+- 🛒 **Matrícula:** <https://aluno.analisemacro.com.br/carrinho/?add-to-cart=65542>

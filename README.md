@@ -27,7 +27,7 @@ O ponto de partida foi simples: o catálogo da Análise Macro cresceu ao longo d
 └── dashboard/                    → app de inscritos (Shiny for Python)
 ```
 
-Cada curso fica em sua própria pasta, com a ementa em Quarto (`.qmd`) e a versão renderizada (`.html`). São **46 ementas** no total, distribuídas em 8 categorias.
+Cada curso fica em sua própria pasta, com a ementa em Quarto (`.qmd`) e a versão renderizada (`.html`). São **56 ementas** no total (46 cursos e formações + 10 workshops), distribuídas em 8 categorias.
 
 ## As ementas
 
@@ -85,8 +85,22 @@ Cada ementa segue o mesmo padrão: cabeçalho com a identidade da Análise Macro
 - [inteligencia-artificial-para-economistas](https://analisemacropro.github.io/organizacao_ementas_am/06-especializacao-em-inteligencia-artificial/inteligencia-artificial-para-economistas/inteligencia-artificial-para-economistas.html)
 
 #### Workshops e Cursos Ao Vivo
+
+*Imersões:*
 - [imersao-claude-code](https://analisemacropro.github.io/organizacao_ementas_am/07-workshops-e-cursos-ao-vivo/imersao-claude-code/imersao-claude-code.html)
 - [imersao-agentes-autonomos-para-analise-macro](https://analisemacropro.github.io/organizacao_ementas_am/07-workshops-e-cursos-ao-vivo/imersao-agentes-autonomos-para-analise-macro/imersao-agentes-autonomos-para-analise-macro.html)
+
+*Workshops:*
+- [workshop-como-migrar-do-excel-para-o-python](https://analisemacropro.github.io/organizacao_ementas_am/07-workshops-e-cursos-ao-vivo/workshop-como-migrar-do-excel-para-o-python/workshop-como-migrar-do-excel-para-o-python.html)
+- [workshop-do-zero-a-analise-de-dados-usando-python](https://analisemacropro.github.io/organizacao_ementas_am/07-workshops-e-cursos-ao-vivo/workshop-do-zero-a-analise-de-dados-usando-python/workshop-do-zero-a-analise-de-dados-usando-python.html)
+- [workshop-como-prever-a-inflacao-com-ia-e-python](https://analisemacropro.github.io/organizacao_ementas_am/07-workshops-e-cursos-ao-vivo/workshop-como-prever-a-inflacao-com-ia-e-python/workshop-como-prever-a-inflacao-com-ia-e-python.html)
+- [workshop-como-prever-o-pib-com-ia-e-python](https://analisemacropro.github.io/organizacao_ementas_am/07-workshops-e-cursos-ao-vivo/workshop-como-prever-o-pib-com-ia-e-python/workshop-como-prever-o-pib-com-ia-e-python.html)
+- [workshop-como-prever-a-selic-com-ia-e-python](https://analisemacropro.github.io/organizacao_ementas_am/07-workshops-e-cursos-ao-vivo/workshop-como-prever-a-selic-com-ia-e-python/workshop-como-prever-a-selic-com-ia-e-python.html)
+- [workshop-como-analisar-as-atas-do-copom-com-ia-e-python](https://analisemacropro.github.io/organizacao_ementas_am/07-workshops-e-cursos-ao-vivo/workshop-como-analisar-as-atas-do-copom-com-ia-e-python/workshop-como-analisar-as-atas-do-copom-com-ia-e-python.html)
+- [workshop-como-construir-um-painel-de-previsoes-macroeconomicas](https://analisemacropro.github.io/organizacao_ementas_am/07-workshops-e-cursos-ao-vivo/workshop-como-construir-um-painel-de-previsoes-macroeconomicas/workshop-como-construir-um-painel-de-previsoes-macroeconomicas.html)
+- [workshop-modelo-de-pequeno-porte-do-banco-central](https://analisemacropro.github.io/organizacao_ementas_am/07-workshops-e-cursos-ao-vivo/workshop-modelo-de-pequeno-porte-do-banco-central/workshop-modelo-de-pequeno-porte-do-banco-central.html)
+- [workshop-como-construir-sua-propria-bloomberg](https://analisemacropro.github.io/organizacao_ementas_am/07-workshops-e-cursos-ao-vivo/workshop-como-construir-sua-propria-bloomberg/workshop-como-construir-sua-propria-bloomberg.html)
+- [workshop-como-tratar-a-sazonalidade-no-brasil](https://analisemacropro.github.io/organizacao_ementas_am/07-workshops-e-cursos-ao-vivo/workshop-como-tratar-a-sazonalidade-no-brasil/workshop-como-tratar-a-sazonalidade-no-brasil.html)
 
 #### Formações
 - [formacao-como-pensar-com-dados](https://analisemacropro.github.io/organizacao_ementas_am/08-formacoes/formacao-como-pensar-com-dados/formacao-como-pensar-com-dados.html)

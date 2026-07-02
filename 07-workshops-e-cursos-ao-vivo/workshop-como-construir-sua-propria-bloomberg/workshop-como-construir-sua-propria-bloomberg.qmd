@@ -1,0 +1,72 @@
+---
+title: '<a href="https://analisemacro.com.br/" target="_blank"><img src="https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png" alt="Logotipo Análise Macro" width="150"></a>  <br>  **Como Construir sua Própria Bloomberg com Python**'
+subtitle: "Programa e informações gerais do workshop"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+    embed-resources: true
+theme:
+  light: flatly
+---
+
+
+# Resumo
+
+Um terminal Bloomberg custa dezenas de milhares de dólares por ano. Mas a ideia por trás dele — coletar dados de mercado automaticamente, organizá-los e consultá-los de forma rápida — pode ser reproduzida com ferramentas gratuitas e algumas dezenas de linhas de Python.
+
+Neste workshop, você constrói um mini "terminal" próprio: um pipeline de dados que baixa cotações de ações da bolsa brasileira, trata os dados, guarda tudo em um banco de dados e permite consultas — a base de qualquer sistema de análise de mercado.
+
+# Para quem é
+
+- Quem quer entender, na prática, como funciona um pipeline de dados de mercado.
+- Analistas e investidores que querem automatizar a coleta de cotações.
+- Quem quer aprender os fundamentos de engenharia de dados (ETL) com um caso real.
+
+# O que você vai construir
+
+Um **pipeline ETL** (Extract, Transform, Load) completo para dados de ações, organizado na arquitetura **medalhão** (bronze → prata → ouro):
+
+1. **Extract (bronze):** baixa as cotações diárias de uma ação (ex.: PETR4) de uma API de mercado e salva os dados brutos em JSON.
+2. **Transform (prata):** limpa e padroniza os dados, convertendo para um CSV organizado.
+3. **Load (ouro):** carrega os dados em um banco de dados **SQLite**, num modelo estrela (tabelas de dimensão e de fatos).
+4. **Query:** consulta o banco para extrair análises — maiores volumes, preços de fechamento, estatísticas.
+
+# O que você vai aprender
+
+- Consumir dados de uma **API de mercado financeiro** (Alpha Vantage) em Python.
+- Estruturar um pipeline de dados na arquitetura medalhão (raw / silver / gold).
+- Fazer a etapa de **Extract**: baixar e salvar dados brutos com segurança.
+- Fazer a etapa de **Transform**: limpar, tipar e padronizar os dados com pandas.
+- Fazer a etapa de **Load**: modelar e carregar os dados em um banco **SQLite** (esquema estrela).
+- **Consultar** o banco com SQL para gerar análises de mercado.
+- Orquestrar todas as etapas em um único comando e pensar em automação (cron, agendadores).
+- Gerenciar chaves de API com segurança usando variáveis de ambiente (`.env`).
+
+# Ferramentas e bibliotecas
+
+- **Python**.
+- **requests** — consumo da API de mercado.
+- **pandas** — tratamento dos dados.
+- **SQLite** — banco de dados local (biblioteca padrão do Python).
+- **python-dotenv** — gerenciamento de chaves de API.
+- **Alpha Vantage** — API de dados de mercado (chave gratuita).
+
+> Para coletar dados novos, é necessária uma chave gratuita da API Alpha Vantage. O projeto já inclui um arquivo de exemplo com dados brutos, para testar o pipeline sem chave.
+
+# Material do workshop
+
+- Slides da apresentação.
+- Projeto completo do pipeline ETL (`etl-acoes-b3/`): scripts de extract, transform, load e query, mais o orquestrador.
+- Arquivo de exemplo de dados brutos para rodar o pipeline sem depender da API.
+
+# Inscrição
+
+Este é um workshop já realizado; o material integra o acervo da Análise Macro e fica disponível para os alunos.
+
+- 🛒 **Matrícula:** <https://aluno.analisemacro.com.br/carrinho/?add-to-cart=69268>

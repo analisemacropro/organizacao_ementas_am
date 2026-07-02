@@ -1,0 +1,78 @@
+---
+title: '<a href="https://analisemacro.com.br/" target="_blank"><img src="https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png" alt="Logotipo Análise Macro" width="150"></a>  <br>  **Como Construir um Painel de Previsões Macroeconômicas em Python**'
+subtitle: "Programa e informações gerais do workshop"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+    embed-resources: true
+theme:
+  light: flatly
+---
+
+
+# Resumo
+
+Dashboards são a forma mais prática de exibir, monitorar e analisar dados. Quando conectadas a um processo automatizado, elas deixam de ser uma foto estática e passam a mostrar previsões macroeconômicas sempre atualizadas, sem trabalho manual.
+
+Neste workshop você constrói, de ponta a ponta, um **painel automatizado de previsões macroeconômicas** para os principais indicadores do país — inflação (IPCA), PIB, Selic e Câmbio. O sistema coleta os dados, gera as previsões, salva os resultados e os apresenta em uma dashboard interativa — e tudo isso roda sozinho, de forma agendada.
+
+# Para quem é
+
+- Economistas e analistas que querem transformar suas análises em produtos automatizados.
+- Quem quer aprender a construir e publicar dashboards em Python.
+- Quem quer entender como montar um sistema completo de análise preditiva, da coleta ao deploy.
+
+# O que você vai construir
+
+Um sistema de previsão macroeconômica com quatro partes:
+
+1. **Coleta automática** de dados de várias fontes oficiais (Banco Central, IBGE, IPEA, FRED).
+2. **Tratamento e organização** das séries em diferentes frequências (diária, mensal, trimestral, anual).
+3. **Modelagem preditiva** de IPCA, PIB, Selic e Câmbio, combinando machine learning e IA generativa.
+4. **Dashboard interativa** que apresenta as previsões, construída com Shiny for Python.
+
+# O que você vai aprender
+
+- Coletar dados de múltiplas fontes via API em uma rotina única de ETL.
+- Tratar e disponibilizar séries em diferentes frequências, salvando em formato eficiente (Parquet).
+- Construir modelos de previsão com **skforecast** e **scikit-learn**.
+- Usar o **Google Gemini** para gerar previsões com IA generativa.
+- Criar uma **dashboard interativa** com Shiny for Python.
+- Gerenciar as dependências do projeto com Poetry.
+- Fazer o **deploy** da dashboard e **automatizar** a rotina com GitHub Actions (agendamento por cron).
+
+# Ferramentas e bibliotecas
+
+- **Python**, **Shiny for Python** (dashboard), **Poetry** (dependências), **GitHub Actions** (automação).
+- **pandas**, **pyarrow**/**fastparquet** — coleta, tratamento e armazenamento.
+- **skforecast** + **scikit-learn** + **statsmodels** — modelos de previsão.
+- **google-genai** — API do Google Gemini (IA generativa).
+- **plotnine** + **shinyswatch** + **faicons** — visualização e interface.
+
+> Para gerar novas previsões com IA, é necessária uma chave gratuita da API do Gemini. A dashboard já vem com previsões pré-geradas para visualização imediata.
+
+# Material do workshop
+
+- **Guia completo** do workshop (passo a passo, do ETL ao deploy).
+- **Projeto do painel** (`painel-previsao-macro/`): pipeline de coleta, tratamento, modelagem, a dashboard Shiny e as automações do GitHub Actions.
+
+# Bônus incluídos
+
+Este workshop acompanha o material de outros workshops da Análise Macro, que aprofundam cada indicador previsto no painel:
+
+- **Do Zero à Análise de Dados Econômicos e Financeiros usando Python** — a base para quem está começando.
+- **Como Prever a Inflação do Brasil com IA e Python** — foco no IPCA.
+- **Como Prever o PIB do Brasil com IA e Python** — foco no PIB.
+- **Como Prever a Taxa Selic com IA e Python** — foco na Selic.
+
+# Inscrição
+
+Este é um workshop já realizado; o material integra o acervo da Análise Macro e fica disponível para os alunos.
+
+- 🛒 **Matrícula:** <https://aluno.analisemacro.com.br/carrinho/?add-to-cart=65646>

@@ -1,0 +1,54 @@
+---
+title: '<a href="https://analisemacro.com.br/" target="_blank"><img src="https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png" alt="Logotipo Análise Macro" width="150"></a>  <br>  **Como Tratar a Sazonalidade em Séries Econômicas do Brasil**'
+subtitle: "Programa e informações gerais do workshop"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+    embed-resources: true
+theme:
+  light: flatly
+---
+
+
+# Resumo
+
+Boa parte dos indicadores econômicos brasileiros — vendas no varejo, produção industrial, emprego, PIB, arrecadação — carrega um padrão que se repete todo ano: mais atividade no fim do ano, menos em janeiro, picos em datas específicas. Esse é o **componente sazonal**. Quando ele não é tratado, comparar um mês com o anterior leva a conclusões erradas: uma queda em janeiro pode ser só o calendário, não um sinal de desaceleração da economia.
+
+Neste workshop mostramos, na prática, como identificar e remover a sazonalidade de séries temporais econômicas, para que a leitura mês a mês reflita o que de fato está acontecendo com a atividade — e não o efeito previsível do calendário.
+
+# O que é sazonalidade e por que ajustar
+
+- **O que é:** um padrão que se repete em intervalos fixos (mensal, trimestral) ao longo dos anos.
+- **Por que atrapalha:** encobre a tendência e o ciclo econômico, que são o que interessa para análise e decisão.
+- **O que resolve:** o ajuste sazonal separa a série em componentes (tendência-ciclo, sazonal, irregular) e devolve a série "dessazonalizada", em que a variação marginal (mês contra mês) passa a ser comparável.
+
+# O que você vai aprender
+
+- A diferença entre série **observada**, **dessazonalizada** e **tendência-ciclo**, e quando usar cada uma.
+- Como coletar séries econômicas brasileiras direto das fontes oficiais (IBGE, Banco Central, Ipeadata).
+- Como aplicar o **X-13ARIMA-SEATS** — o método de ajuste sazonal usado por institutos oficiais como o IBGE e o próprio Census Bureau dos EUA.
+- Como avaliar a qualidade do ajuste: diagnósticos de sazonalidade residual, efeitos de calendário (dias úteis, feriados móveis como Carnaval e Páscoa) e outliers.
+- Como interpretar corretamente a variação marginal (mês contra mês) versus a variação interanual (mesmo mês do ano anterior).
+- Como visualizar os componentes da série para comunicar os resultados com clareza.
+
+# Aplicações práticas
+
+- Ler a produção industrial e as vendas no varejo sem o ruído do calendário.
+- Acompanhar o mercado de trabalho (emprego, desemprego) na margem.
+- Preparar séries para modelagem e previsão, evitando que o modelo confunda sazonalidade com tendência.
+
+# Ferramentas
+
+Ambiente de análise de dados com uso do método **X-13ARIMA-SEATS** para ajuste sazonal, aplicado a séries econômicas brasileiras coletadas das fontes oficiais (IBGE/SIDRA, Banco Central/SGS, Ipeadata).
+
+# Inscrição
+
+Este é um workshop já realizado; o material integra o acervo da Análise Macro e fica disponível para os alunos.
+
+- 🛒 **Matrícula:** <https://aluno.analisemacro.com.br/carrinho/?add-to-cart=69766>

@@ -1,0 +1,87 @@
+---
+title: '<a href="https://analisemacro.com.br/" target="_blank"><img src="https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png" alt="Logotipo Análise Macro" width="150"></a>  <br>  **Como Analisar as Atas do COPOM com IA e Python**'
+subtitle: "Programa e informações gerais do workshop"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+    embed-resources: true
+theme:
+  light: flatly
+---
+
+
+# Resumo
+
+As atas do Comitê de Política Monetária (COPOM) do Banco Central são documentos centrais para o mercado financeiro. A partir delas é possível ler o cenário de atividade, crédito, ambiente externo e preços — e, sobretudo, antecipar as próximas decisões de juros, o que afeta diretamente o retorno de ativos e o custo do crédito.
+
+Com o avanço da Inteligência Artificial, interpretar essas atas em termos quantitativos deixou de ser curiosidade acadêmica e virou ferramenta prática. Bancos, gestoras e traders usam técnicas de Processamento de Linguagem Natural (NLP) para transformar texto em indicadores.
+
+Neste workshop você aprende a fazer isso na prática: usar NLP e IA para criar índices de sentimento das atas do COPOM ao longo do tempo, classificar o tom da política monetária (*hawkish* ou *dovish*) e extrair os principais insights desses documentos — tudo em Python.
+
+# Para quem é
+
+- Profissionais do mercado financeiro que acompanham a política monetária.
+- Economistas e analistas que querem quantificar dados textuais.
+- Quem quer aprender mineração de texto e análise de sentimentos aplicadas à economia.
+
+# O que você vai aprender
+
+- Os conceitos de mineração de texto e sua relação com a IA.
+- Onde encontrar dados textuais de economia e finanças.
+- Manipular textos (*strings*) e usar expressões regulares (*regex*) no Python.
+- Pré-processar dados textuais (tokenização, *stemming*, *lemmatization*, *stopwords*).
+- Extrair informação de textos com técnicas de frequência de termos.
+- Aplicar *machine learning* a dados textuais (classificação).
+- Construir um **índice de sentimento** das atas do COPOM.
+- Medir **similaridade** entre documentos.
+- Classificar o tom da política monetária (*hawkish* ou *dovish*) com IA generativa.
+- Criar um assistente de IA para ler e resumir comunicados de política monetária.
+
+# Estrutura do material
+
+**Aula principal — Analisar o sentimento das atas do COPOM**
+Construção de um índice de sentimento das atas ao longo do tempo, usando dicionários especializados (Loughran-McDonald) e mineração de texto.
+
+**Mini-curso de Análise de Sentimentos com IA e Python** (8 módulos):
+
+1. O que é mineração de textos e sua relação com IA
+2. Onde encontrar dados e ferramentas para *text mining*
+3. Introdução a dados textuais no Python (*strings* e *regex*)
+4. Pré-processamento de dados textuais
+5. Técnicas de extração de informação
+6. Técnicas de *machine learning* para mineração de textos
+7. Análise de sentimentos no Python
+8. Análise de similaridade entre documentos
+
+**Aulas complementares de IA generativa:**
+
+- *Hawkish* ou *dovish*? Classificando o tom da política monetária com o Google Gemini.
+- Como usar IA para ler as atas do FED — construindo um assistente de IA com dashboard.
+
+# Ferramentas e bibliotecas
+
+- **Python** e **Google Colab**.
+- **pandas**, **plotnine** — tratamento e visualização.
+- **re**, **nltk** — manipulação e pré-processamento de texto.
+- **scikit-learn** — *machine learning* aplicado a texto.
+- **pysentiment2** — dicionários de sentimento (Loughran-McDonald).
+- **LangChain** + **google-genai** — leitura de PDFs e IA generativa (Google Gemini).
+- **Shiny for Python** + **Plotly** — dashboard do assistente de IA.
+
+> As aulas de IA generativa exigem uma chave gratuita da API do Google Gemini.
+
+# Bônus incluído
+
+Este workshop acompanha o workshop **Do Zero à Análise de Dados Econômicos e Financeiros usando Python** (pasta `bonus/`), a base para quem está começando, além do e-book de mesmo nome.
+
+# Inscrição
+
+Este é um workshop já realizado; o material integra o acervo da Análise Macro e fica disponível para os alunos.
+
+- 🛒 **Matrícula:** <https://aluno.analisemacro.com.br/carrinho/?add-to-cart=64139>

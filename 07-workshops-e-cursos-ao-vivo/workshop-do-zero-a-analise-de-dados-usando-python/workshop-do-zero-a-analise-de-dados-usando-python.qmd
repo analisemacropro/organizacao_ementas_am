@@ -1,0 +1,78 @@
+---
+title: '<a href="https://analisemacro.com.br/" target="_blank"><img src="https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png" alt="Logotipo Análise Macro" width="150"></a>  <br>  **Do Zero à Análise de Dados Econômicos e Financeiros usando Python**'
+subtitle: "Programa e informações gerais do workshop"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+    embed-resources: true
+theme:
+  light: flatly
+---
+
+
+# Resumo
+
+Se você trabalha com economia ou finanças e ainda não programa, este é o ponto de partida. O workshop parte literalmente do zero — do primeiro `print("Olá, mundo!")` — e chega, no mesmo dia, a um projeto real: coletar a inflação brasileira direto da fonte oficial, tratar os dados, visualizar e estimar um modelo de previsão.
+
+A proposta é mostrar que análise de dados com Python não exige uma longa jornada teórica antes de produzir algo útil. Você aprende os fundamentos na medida em que resolve um problema concreto, de ponta a ponta.
+
+# Para quem é
+
+- Economistas, analistas e profissionais de finanças que querem sair do Excel e começar a programar.
+- Quem nunca escreveu uma linha de código e quer um primeiro contato guiado.
+- Quem já conhece o básico e quer ver o ciclo completo de análise de dados aplicado a um caso econômico real.
+
+# O ciclo de análise de dados
+
+O fio condutor do workshop é o **ciclo de análise de dados** — o roteiro que todo projeto percorre:
+
+1. **Pergunta** — o que queremos responder (qual será a inflação nos próximos meses?).
+2. **Coleta** — buscar os dados na fonte (IBGE, via API do SIDRA).
+3. **Tratamento** — limpar, organizar e dar forma aos dados.
+4. **Exploração** — estatísticas descritivas e gráficos para entender a série.
+5. **Modelagem** — estimar um modelo estatístico de previsão.
+6. **Validação** — medir o quão boa é a previsão.
+
+# O que você vai aprender
+
+- Os primeiros comandos de Python e por que a linguagem virou padrão em análise de dados.
+- Trabalhar com os objetos fundamentais do **pandas** (Series e DataFrame).
+- Coletar dados econômicos direto da **API do SIDRA/IBGE**, sem download manual.
+- Tratar séries temporais: renomear colunas, converter datas, filtrar períodos.
+- Calcular estatísticas descritivas (média, mediana, desvio-padrão, percentis).
+- Construir gráficos com **plotnine** (a gramática de gráficos do `ggplot2` no Python).
+- Entender e estimar modelos de séries temporais: **AR, MA, ARIMA e SARIMA**.
+- Prever o IPCA e **avaliar a qualidade da previsão** separando treino e teste (RMSE).
+- Rodar tudo no **Google Colab**, sem instalar nada no computador.
+
+# Projeto final: prever a inflação (IPCA)
+
+O caso prático do workshop é a previsão do IPCA, o índice oficial de inflação do Brasil. Você constrói a rotina completa: coleta a série histórica do IBGE, trata os dados, visualiza, estima um modelo SARIMA sazonal e mede o erro de previsão comparando o que o modelo previu com o que de fato aconteceu.
+
+# Ferramentas e bibliotecas
+
+- **Python** e **Google Colab** (ambiente gratuito, sem instalação).
+- **pandas** — manipulação de dados.
+- **sidrapy** — coleta de dados do SIDRA/IBGE.
+- **plotnine** — visualização de dados.
+- **pmdarima** / **statsmodels** — modelagem de séries temporais (ARIMA/SARIMA).
+- **scikit-learn** — avaliação de modelos (erro de previsão).
+
+# Material do workshop
+
+- Slides da apresentação.
+- Notebook principal (hands-on completo, do "Olá, mundo" à previsão).
+- Notebook complementar com foco na previsão do IPCA.
+- E-book *Do Zero à Análise de Dados Econômicos e Financeiros usando Python*.
+
+# Inscrição
+
+Este é um workshop já realizado; o material integra o acervo da Análise Macro e fica disponível para os alunos.
+
+- 🛒 **Matrícula:** <https://aluno.analisemacro.com.br/carrinho/?add-to-cart=58896>

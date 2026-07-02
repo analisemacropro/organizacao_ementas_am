@@ -184,6 +184,7 @@ app_ui = ui.page_sidebar(
             f"Quando ligado, mantém só matrículas ativas por tipo — "
             f"Curso: {JANELAS['curso']} meses · "
             f"Formação: {JANELAS['formacao']} meses · "
+            f"Workshop: {JANELAS['workshop']} meses · "
             f"AM Black: {JANELAS['amblack']} meses. "
             f"(O corte de {CORTE_ANOS_MAX} anos vale sempre, mesmo com isto desligado.)"
         ),
@@ -191,7 +192,8 @@ app_ui = ui.page_sidebar(
         ui.h5("Filtros da tabela", class_="am-titulo"),
         ui.input_radio_buttons(
             "tipo", "3. Mostrar:",
-            {"tudo": "Tudo", "Curso": "Só cursos", "Formação": "Só formações"},
+            {"tudo": "Tudo", "Curso": "Só cursos", "Formação": "Só formações",
+             "Workshop": "Só workshops"},
         ),
         ui.input_select("categoria", "4. Categoria:", choices=CATEGORIAS),
         width=360,
@@ -325,7 +327,7 @@ def server(input, output, session):
                          "Inscritos_diretos", "Inscritos_total"]
             )
         t = r["tabela"]
-        if input.tipo() in ("Curso", "Formação"):
+        if input.tipo() in ("Curso", "Formação", "Workshop"):
             t = t[t["Tipo"] == input.tipo()]
         if input.categoria() != "Todas":
             t = t[t["Categoria"] == input.categoria()]

@@ -1,0 +1,74 @@
+---
+title: '<a href="https://analisemacro.com.br/" target="_blank"><img src="https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png" alt="Logotipo Análise Macro" width="150"></a>  <br>  **Como Prever a Inflação do Brasil com IA e Python**'
+subtitle: "Programa e informações gerais do workshop"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+    embed-resources: true
+theme:
+  light: flatly
+---
+
+
+# Resumo
+
+A inflação mede o poder de compra da moeda ao longo do tempo — e prever seu comportamento é parte do dia a dia de quem trabalha com economia e finanças. No Brasil, o indicador de referência é o IPCA, calculado pelo IBGE e usado pelo Banco Central para conduzir a política monetária.
+
+Este workshop mostra, do zero e na prática, como prever a inflação medida pelo IPCA combinando duas abordagens: os modelos estatísticos tradicionais de séries temporais e os modelos de **Inteligência Artificial generativa** (Google Gemini). No fim, as duas previsões são comparadas com o que de fato aconteceu — os robôs venceram também na previsão econômica?
+
+# Para quem é
+
+- Economistas e analistas que precisam prever a inflação no trabalho.
+- Quem quer entender, com um caso real, como aplicar IA generativa em previsão econômica.
+- Quem quer aprender o fluxo completo de um projeto de previsão em Python.
+
+# O desafio: prever o IPCA
+
+- **O problema:** consumidores, empresas e governos precisam de expectativas sobre o poder de compra da moeda no futuro para planejar compras, investimentos e orçamentos.
+- **O contexto:** a inflação sofre influência de reajustes passados, choques, expectativas e outros fatores. O IPCA é o índice de referência, divulgado pelo IBGE.
+- **A solução:** automatizar a coleta, o tratamento, a modelagem e a previsão do IPCA em Python, comparando estatística clássica e Inteligência Artificial.
+
+# O que você vai aprender
+
+- Coletar e tratar a série histórica do IPCA em Python.
+- Estimar um modelo econométrico de séries temporais (**ARIMA**) para previsão.
+- Usar a **IA generativa do Google Gemini** para gerar previsões a partir dos dados históricos.
+- Escrever **prompts** que alimentam um modelo de IA com dados quantitativos.
+- Comparar as previsões dos dois métodos com os valores realizados.
+- Avaliar a qualidade das previsões com métricas de erro.
+- Visualizar previsões e erros para comunicar os resultados.
+
+# As duas abordagens comparadas
+
+| Abordagem | Como funciona |
+|---|---|
+| **Econometria (ARIMA)** | Modelo estatístico de séries temporais, estimado automaticamente a partir do histórico. |
+| **IA (Google Gemini)** | Modelo de linguagem que recebe os dados históricos e um prompt, e devolve a previsão. |
+
+# Ferramentas e bibliotecas
+
+- **Python** e **Google Colab**.
+- **pandas** — coleta e tratamento dos dados.
+- **pmdarima** / **statsmodels** — modelo ARIMA.
+- **google-genai** — API do Google Gemini (IA generativa).
+
+> Para reproduzir a parte de IA, é necessária uma chave gratuita da API do Gemini.
+
+# Material do workshop
+
+- Slides da apresentação.
+- Notebook do projeto (coleta, ARIMA, Gemini e comparação).
+- Base de dados histórica do IPCA.
+- E-book *Do Zero à Análise de Dados Econômicos e Financeiros usando Python*.
+
+# Inscrição
+
+Este é um workshop já realizado; o material integra o acervo da Análise Macro e fica disponível para os alunos.
+
+- 🛒 **Matrícula:** <https://aluno.analisemacro.com.br/carrinho/?add-to-cart=60506>

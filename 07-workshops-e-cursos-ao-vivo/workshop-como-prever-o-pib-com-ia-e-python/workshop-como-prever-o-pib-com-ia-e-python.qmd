@@ -1,0 +1,75 @@
+---
+title: '<a href="https://analisemacro.com.br/" target="_blank"><img src="https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png" alt="Logotipo Análise Macro" width="150"></a>  <br>  **Como Prever o PIB do Brasil com IA e Python**'
+subtitle: "Programa e informações gerais do workshop"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+    embed-resources: true
+theme:
+  light: flatly
+---
+
+
+# Resumo
+
+O Produto Interno Bruto (PIB) é a soma de todos os bens e serviços finais produzidos no país e o principal termômetro da atividade econômica. Antecipar seu comportamento é essencial para decisões de investimento, política pública e planejamento de negócios.
+
+Este workshop mostra, do zero e na prática, como prever o crescimento do PIB brasileiro combinando duas abordagens: os modelos estatísticos tradicionais de séries temporais e os modelos de **Inteligência Artificial generativa** (Google Gemini). No fim, as duas previsões são comparadas com os dados realizados.
+
+# Para quem é
+
+- Economistas e analistas que acompanham a atividade econômica.
+- Quem quer entender, com um caso real, como aplicar IA generativa em previsão macroeconômica.
+- Quem quer aprender o fluxo completo de um projeto de previsão em Python.
+
+# O desafio: prever o PIB
+
+- **O problema:** antecipar o ritmo de crescimento da economia brasileira.
+- **O contexto:** o PIB é divulgado trimestralmente pelo IBGE, em variação percentual acumulada em quatro trimestres. É uma série mais curta e de menor frequência que a inflação ou os juros, o que traz desafios próprios de modelagem.
+- **A solução:** construir, passo a passo, um script em Python que coleta os dados, estima modelos e compara os resultados.
+
+# O que você vai aprender
+
+- Coletar e tratar a série histórica trimestral do PIB em Python.
+- Estimar um modelo econométrico de séries temporais (**ARIMA**) para previsão.
+- Usar a **IA generativa do Google Gemini** para gerar previsões a partir dos dados históricos.
+- Escrever **prompts** que alimentam um modelo de IA com dados quantitativos.
+- Comparar as previsões dos dois métodos com os valores realizados.
+- Avaliar a qualidade das previsões com métricas de erro.
+- Visualizar previsões e erros para comunicar os resultados.
+
+# As duas abordagens comparadas
+
+| Abordagem | Como funciona |
+|---|---|
+| **Econometria (ARIMA)** | Modelo estatístico de séries temporais, estimado automaticamente a partir do histórico. |
+| **IA (Google Gemini)** | Modelo de linguagem que recebe os dados históricos e um prompt, e devolve a previsão. |
+
+# Ferramentas e bibliotecas
+
+- **Python** e **Google Colab**.
+- **pandas** — coleta e tratamento dos dados.
+- **pmdarima** / **statsmodels** — modelo ARIMA.
+- **google-genai** — API do Google Gemini (IA generativa).
+
+> Para reproduzir a parte de IA, é necessária uma chave gratuita da API do Gemini.
+
+# Material do workshop
+
+- Slides da apresentação.
+- Notebook do projeto (coleta, ARIMA, Gemini e comparação).
+- Prompt de IA usado no workshop.
+- Base de dados histórica do PIB.
+- E-book *Do Zero à Análise de Dados Econômicos e Financeiros usando Python*.
+
+# Inscrição
+
+Este é um workshop já realizado; o material integra o acervo da Análise Macro e fica disponível para os alunos.
+
+- 🛒 **Matrícula:** <https://aluno.analisemacro.com.br/carrinho/?add-to-cart=61651>
