@@ -56,25 +56,29 @@ Cada um dos cinco blocos gera **um certificado individual**, emitido na própria
 ::: {.callout-important}
 ## Certificado da formação
 
-🔗 **[https://aluno.analisemacro.com.br/grupos/formacao-como-pensar-com-dados/](https://aluno.analisemacro.com.br/grupos/formacao-como-pensar-com-dados/)**
+🔗 **[Acessar a página da formação e gerar meu certificado](https://aluno.analisemacro.com.br/grupos/formacao-como-pensar-com-dados/){target="_blank"}**
 
 É nesse endereço que o certificado da formação completa é emitido — não na página de um curso isolado. Para o certificado ficar disponível, **é necessário concluir pelo menos 1 curso da formação e marcá-lo como concluído** na plataforma. Sem marcar a conclusão, o sistema não gera o certificado, então não esqueça desse passo em cada bloco que você finalizar.
+
+O link abre em uma nova aba, para você não perder esta página.
 :::
 
 ::: {.callout-warning}
-## Marcar como concluído é o que registra sua progressão
+## Marque esta aula como concluída antes de clicar no link
 
-Vale reforçar: a plataforma só reconhece um bloco como finalizado — e libera o certificado correspondente — quando você **marca cada aula como concluída** ao longo do curso. Se você chegou até esta página sem ter feito essa marcação em algum bloco, volte e confirme antes de seguir para os próximos passos abaixo.
+Antes de acessar o link acima, **marque esta aula como concluída** no botão da plataforma, logo abaixo desta página. A plataforma só reconhece um bloco como finalizado — e libera o certificado correspondente — quando cada aula está marcada como concluída.
+
+Se você clicar no link do certificado sem ter feito essa marcação, a página da formação vai abrir, mas o certificado ainda não estará disponível para emissão. O mesmo vale para os blocos anteriores: se ficou alguma aula sem marcar em algum deles, volte e confirme antes de seguir.
 :::
 
 # Seus próximos passos
 
-1. **Confira se marcou cada um dos 5 cursos como concluído** na plataforma. Sem essa marcação, o certificado não é emitido — mesmo que você já tenha assistido a todas as aulas.
-2. **Acesse a página de grupo da formação** ([link acima](https://aluno.analisemacro.com.br/grupos/formacao-como-pensar-com-dados/)) e gere o seu certificado consolidado.
+1. **Marque esta aula e cada um dos 5 cursos como concluídos** na plataforma. Sem essa marcação, o certificado não é emitido — mesmo que você já tenha assistido a todas as aulas.
+2. **Acesse a página de grupo da formação** ([link acima](https://aluno.analisemacro.com.br/grupos/formacao-como-pensar-com-dados/){target="_blank"}) e gere o seu certificado consolidado.
 3. **Compartilhe sua conquista.** Veja como logo abaixo — é uma forma simples de mostrar ao mercado (e à sua rede) o que você construiu.
 4. **Agende uma conversa com o Vitor Wilher.** Se você quer discutir carreira, tirar dúvidas sobre os próximos passos ou entender como aplicar o que aprendeu na sua situação específica, marque um horário:
 
-   🔗 **[https://calendly.com/analisemacro/reuniao](https://calendly.com/analisemacro/reuniao)**
+   🔗 **[https://calendly.com/analisemacro/reuniao](https://calendly.com/analisemacro/reuniao){target="_blank"}**
 
 5. **Continue evoluindo.** Explore as demais formações e cursos de especialização da Análise Macro para aprofundar exatamente a área que mais despertou seu interesse ao longo da trilha.
 
