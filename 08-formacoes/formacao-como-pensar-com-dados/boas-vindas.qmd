@@ -1,0 +1,97 @@
+---
+title: '<a href="https://analisemacro.com.br/" target="_blank"><img src="https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png" alt="Logotipo Análise Macro" width="150"></a>  <br>  **Bem-vindo(a) à Formação Como Pensar com Dados**'
+subtitle: "Seu ponto de partida na trilha"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+theme:
+  light: flatly
+---
+
+# Seja muito bem-vindo(a)!
+
+Parabéns por dar esse passo. Você está prestes a percorrer uma trilha completa, pensada do zero, que vai te dar a base analítica e as ferramentas técnicas mais procuradas hoje no mercado de dados. Não importa se você nunca escreveu uma linha de código ou se já teve algum contato com análise: esta formação foi desenhada para te levar, passo a passo, até um novo patamar profissional.
+
+Ao final dos cinco blocos, você não vai apenas conhecer ferramentas isoladas. Você vai pensar como um analista de dados: saber formular a pergunta certa, buscar e organizar a informação, tratar e transformar dados brutos em evidência, e transformar essa evidência em decisão. É exatamente essa combinação — raciocínio analítico mais domínio técnico — que abre as portas para posições como:
+
+- **Analista de Dados**
+- **Analista de Business Intelligence (BI)**
+- **Analista Financeiro orientado a dados**
+- **Analista de Operações, Marketing ou FP&A**
+- **Assistente/Analista Jr. de Engenharia de Dados**
+- **Consultor(a) de dados**
+- Profissional que aplica **IA no dia a dia** em Economia, Finanças, Contabilidade, Marketing ou Gestão Pública
+
+Guarde essa lista. Vamos voltar a ela — com mais detalhes sobre o que cada posição espera de você — na página de conclusão da formação, depois que você tiver percorrido os cinco blocos.
+
+# Como a formação está organizada
+
+A trilha é dividida em **cinco blocos**, cada um equivalente a um curso completo, com sequência lógica: cada bloco usa o que você aprendeu no anterior. Ao concluir um bloco, você recebe **um certificado próprio** — ou seja, você sai da formação com **5 certificados**, um a cada etapa vencida.
+
+| Item | Descrição |
+|---|---|
+| **Blocos** | 5 |
+| **Carga horária total** | 250 horas |
+| **Horas de vídeo** | 120 horas |
+| **Número de aulas** | 136 aulas |
+| **Certificados** | 5, um a cada bloco concluído |
+
+::: {.callout-note}
+## Como funciona cada bloco
+
+Dentro de cada bloco você encontra **aulas teóricas** (os conceitos e o raciocínio por trás de cada ferramenta) combinadas com **aulas hands-on**, em que você coloca a mão no código e reproduz cada etapa junto com o professor.
+
+Além das aulas, cada bloco traz **exercícios de fixação** e **projetos práticos**. Os projetos vêm com **gabarito**, mas não são entregáveis — a ideia não é que você envie uma tarefa para correção, e sim que você refaça o projeto por conta própria, comparando com o gabarito ao final, para consolidar de verdade a sua capacidade analítica. Quanto mais você praticar antes de olhar a resposta, mais essa etapa vai render.
+:::
+
+# Os 5 blocos da formação
+
+## Bloco 1 — Como Pensar com Dados
+
+**30 h totais · 20 h de vídeo · 15 aulas**
+
+O ponto de partida: a lente de um analista de dados. Você aprende o ciclo completo de análise — da coleta à interpretação — estruturado pelo CRISP-DM, praticando direto no navegador em Python, sem precisar instalar nada. Ao final deste bloco, você já é capaz de planejar e executar uma análise de dados completa e estruturada.
+
+## Bloco 2 — SQL para Negócios e Tomada de Decisão
+
+**30 h totais · 20 h de vídeo · 18 aulas**
+
+Domínio de SQL do zero, com foco em decisões reais de negócio. Você entende como bancos de dados relacionais funcionam, modela suas próprias tabelas, escreve consultas para extrair e cruzar informações, e aprende a transformar esse resultado em indicadores de marketing, finanças e operações. O bloco já conecta o SQL a Python.
+
+## Bloco 3 — Python para Análise de Dados
+
+**120 h totais · 30 h de vídeo · 49 aulas**
+
+O bloco mais extenso da trilha, pensado para quem nunca programou. Você aprende a estruturar scripts em Python e a percorrer todo o fluxo de um analista: coletar dados de arquivos, APIs, bancos SQL, Google Sheets e páginas da web; tratar e limpar essas bases com pandas e numpy; e apresentar os resultados em tabelas e gráficos que comunicam a análise.
+
+## Bloco 4 — Fundamentos de Engenharia de Dados
+
+**40 h totais · 30 h de vídeo · 24 aulas**
+
+Aqui você sai da análise pontual e aprende a colocar dados em produção. Em vez de rodar scripts manualmente, você constrói um pipeline automatizado — do Data Lake em camadas raw/silver/gold à orquestração com Apache Airflow — coletando dados reais de APIs públicas como Bacen, IBGE, FRED e B3, e versionando tudo com Git e GitHub.
+
+## Bloco 5 — Inteligência Artificial
+
+**30 h totais · 20 h de vídeo · 30 aulas**
+
+Fechando a trilha, uma introdução sólida e prática à IA. Você entende os conceitos fundamentais — ciência de dados, machine learning, deep learning, NLP, LLMs e IA generativa — e vê tudo isso aplicado em exemplos reais de Economia, Finanças, Contabilidade, Marketing e Gestão Pública, majoritariamente com ferramentas *no code* como ChatGPT e Gemini.
+
+# Antes de começar
+
+Não há pré-requisitos para iniciar a formação — ela foi pensada para partir do zero, inclusive na parte de programação. Siga os blocos na ordem apresentada: a sequência foi desenhada para que cada etapa aproveite o que você aprendeu na anterior.
+
+Você tem acesso de longo prazo à plataforma e suporte individual direto por lá, então não tenha pressa. O objetivo aqui não é passar pelo conteúdo — é aprender de verdade, praticando cada projeto por conta própria antes de olhar o gabarito.
+
+::: {.callout-warning}
+## Marque cada aula como concluída
+
+Para a plataforma registrar sua progressão em cada curso — e, no fim, liberar seus certificados — é essencial que você **marque cada aula como concluída** conforme avança. Sem essa marcação, o sistema não reconhece o curso como finalizado, mesmo que você já tenha assistido a todo o conteúdo. Crie o hábito de marcar a aula assim que terminar, bloco a bloco.
+:::
+
+Bons estudos, e conte com a gente ao longo de toda a jornada!

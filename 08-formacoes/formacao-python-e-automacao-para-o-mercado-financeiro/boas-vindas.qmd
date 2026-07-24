@@ -1,0 +1,111 @@
+---
+title: '<a href="https://analisemacro.com.br/" target="_blank"><img src="https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png" alt="Logotipo Análise Macro" width="150"></a>  <br>  **Bem-vindo(a) à Formação Python e Automação para o Mercado Financeiro**'
+subtitle: "Seu ponto de partida na trilha"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+theme:
+  light: flatly
+---
+
+# Seja muito bem-vindo(a)!
+
+Parabéns por dar esse passo. Você está prestes a percorrer uma trilha completa que vai te levar do zero ao nível profissional na construção de soluções financeiras baseadas em dados e automação. Não importa se você nunca escreveu uma linha de código: esta formação foi desenhada para te tirar da dependência de planilhas e ferramentas prontas e te colocar no controle do seu próprio ecossistema de análise financeira automatizada.
+
+Ao final dos cinco blocos, você vai dominar Python para coletar, tratar, modelar e visualizar dados financeiros em tempo real, conectando programação, finanças e Inteligência Artificial em um mesmo conjunto de habilidades. É exatamente essa combinação — automação mais modelagem financeira — que abre as portas para posições como:
+
+- **Analista Quantitativo (Quant) Jr.**
+- **Analista de Mercado Financeiro com foco em automação**
+- **Assessor(a) de Investimentos orientado(a) a dados**
+- **Analista de Gestora, Corretora ou Banco**
+- **Desenvolvedor(a) de soluções financeiras em Python**
+- **Consultor(a) financeiro(a) quantitativo(a)**
+
+Guarde essa lista. Vamos voltar a ela — com mais detalhes sobre o que cada posição espera de você — na página de conclusão da formação, depois que você tiver percorrido os cinco blocos.
+
+# Como a formação está organizada
+
+A trilha é dividida em **cinco blocos**, percorridos em sequência: cada bloco reúne os cursos, workshops e práticas que o compõem, e usa o que você aprendeu no bloco anterior. Cada curso concluído gera **certificado individual**, e ao final você também recebe o **certificado da formação**.
+
+| Item | Descrição |
+|---|---|
+| **Blocos** | 5 |
+| **Carga horária total** | 220 horas |
+| **Horas de vídeo** | 70 horas |
+| **Número de aulas** | 139 aulas |
+| **Certificado** | Certificados individuais dos cursos + certificado final da formação |
+| **Acesso** | 48 meses |
+
+::: {.callout-note}
+## Como funciona cada bloco
+
+Dentro de cada bloco você encontra **aulas teóricas** (os conceitos e o raciocínio por trás de cada ferramenta) combinadas com **aulas hands-on**, em que você coloca a mão no código e reproduz cada etapa junto com o professor.
+
+Além das aulas, os cursos trazem **exercícios de fixação** e **projetos práticos**, incluindo blocos de "Prática" dedicados a consolidar o que foi visto com dados financeiros reais. Os projetos vêm com **gabarito**, mas não são entregáveis — a ideia não é que você envie uma tarefa para correção, e sim que você refaça o projeto por conta própria, comparando com o gabarito ao final, para consolidar de verdade a sua capacidade analítica. Quanto mais você praticar antes de olhar a resposta, mais essa etapa vai render.
+
+Alguns blocos também reúnem **mentorias com o Cientista-Chefe** e **workshops ao vivo** — atividades que complementam os cursos com um formato mais direto e aplicado ao mercado financeiro.
+:::
+
+# Os 5 blocos da formação
+
+## Bloco 1 — Boas-Vindas e Integração
+
+Apresentação à plataforma, à metodologia AM e à estrutura da formação, com um encontro inicial para definir o seu plano de estudos e as metas de aprendizado.
+
+- Boas-Vindas à Plataforma
+- Boas-Vindas à Formação
+- Mentoria Inicial com o Cientista-Chefe
+
+## Bloco 2 — Fundamentos de Python e Análise de Dados
+
+Base de programação em Python e de raciocínio analítico para construir pipelines que vão da coleta do dado até relatórios e dashboards automáticos — incluindo um workshop dedicado a quem ainda depende do Excel no mercado financeiro.
+
+- Como Pensar com Dados
+- SQL para Negócios e Tomada de Decisão
+- Programação em Python para Análise de Dados
+- Workshop: Como Migrar do Excel para o Python no Mercado Financeiro
+
+## Bloco 3 — Coleta e Automação de Dados Financeiros
+
+Extração e automação de dados financeiros e econômicos a partir de fontes públicas e APIs, substituindo o Excel por processos escaláveis em Python.
+
+- Web Scraping e APIs de Dados Financeiros
+- Automação de Coleta e Análise de Dados
+
+## Bloco 4 — Modelagem de Dados Financeiros
+
+Estruturação, teste e automação de modelos do mercado financeiro, com machine learning e econometria aplicados a problemas reais como precificação de opções, previsão de volatilidade, VaR e modelagem de retornos, além de IA aplicada à análise financeira e macroeconômica.
+
+- Modelagem e Previsão usando Python
+- Modelos Financeiros usando Python
+- Prática: Modelagem de Dados Financeiros
+- Prática: IA Aplicada a Dados Financeiros
+
+## Bloco 5 — Automação Inteligente e Relatórios em Tempo Real
+
+O bloco final: automação da criação de relatórios contábeis, econômicos e financeiros com Python, IA e dashboards interativos que se atualizam sozinhos com novos dados.
+
+- Automação de Relatórios e Dashboards com Python e Quarto
+- GitHub Actions e Rotinas Automáticas de Atualização
+- Workshop: Construindo um Painel Financeiro Automatizado com IA
+- Prática: Relatórios Inteligentes com IA e Python
+
+# Antes de começar
+
+Não há pré-requisitos para iniciar a formação — a trilha parte dos fundamentos de Python e avança de forma progressiva. Vale observar que a emissão de alguns certificados pode exigir conhecimento prévio em Python, estatística, econometria e séries temporais — conteúdos que também são trabalhados ao longo do programa. Siga a ordem dos blocos apresentada: a sequência foi pensada para que cada etapa aproveite o que você aprendeu na anterior.
+
+Você tem 48 meses de acesso à plataforma, então não tenha pressa. O objetivo aqui não é passar pelo conteúdo — é aprender de verdade, praticando cada projeto por conta própria antes de olhar o gabarito.
+
+::: {.callout-warning}
+## Marque cada aula como concluída
+
+Para a plataforma registrar sua progressão em cada curso — e, no fim, liberar seus certificados — é essencial que você **marque cada aula como concluída** conforme avança. Sem essa marcação, o sistema não reconhece o curso como finalizado, mesmo que você já tenha assistido a todo o conteúdo. Crie o hábito de marcar a aula assim que terminar, bloco a bloco.
+:::
+
+Bons estudos, e conte com a gente ao longo de toda a jornada!

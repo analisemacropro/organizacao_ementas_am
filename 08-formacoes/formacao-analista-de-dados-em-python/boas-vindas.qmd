@@ -1,0 +1,101 @@
+---
+title: '<a href="https://analisemacro.com.br/" target="_blank"><img src="https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png" alt="Logotipo Análise Macro" width="150"></a>  <br>  **Bem-vindo(a) à Formação Analista de Dados em Python**'
+subtitle: "Seu ponto de partida na trilha"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+theme:
+  light: flatly
+---
+
+# Seja muito bem-vindo(a)!
+
+Parabéns por dar esse passo. Você está prestes a percorrer uma trilha completa, pensada para te tirar da dependência de planilhas manuais e te colocar no controle da automação de dados com Python. Não importa se você nunca escreveu uma linha de código: esta formação foi desenhada para te levar, bloco a bloco, do primeiro contato com a programação até a entrega de análises completas e automatizadas.
+
+Ao final dos quatro blocos, você não vai apenas conhecer ferramentas isoladas. Você vai ser capaz de automatizar tarefas rotineiras e repetitivas, aplicar estatística e econometria a bases de dados reais, construir modelos de previsão, produzir relatórios e dashboards que se atualizam sozinhos, e usar Inteligência Artificial nesse fluxo inteiro. É exatamente essa combinação — automação mais capacidade analítica — que abre as portas para posições como:
+
+- **Analista de Dados em Python**
+- **Analista de Data Science / Cientista de Dados Jr.**
+- **Analista de Automação e BI**
+- **Analista Financeiro ou de Operações orientado a dados**
+- **Consultor(a) de dados**
+- Profissional que se torna **referência em análise de dados** dentro da própria organização
+
+Guarde essa lista. Vamos voltar a ela — com mais detalhes sobre o que cada posição espera de você — na página de conclusão da formação, depois que você tiver percorrido os quatro blocos.
+
+# Como a formação está organizada
+
+A trilha é dividida em **quatro blocos**, percorridos em sequência: cada bloco reúne os cursos, workshops e imersões que o compõem, e usa o que você aprendeu no bloco anterior. Cada curso concluído gera **certificado individual**, e ao final você também recebe o **certificado da formação**.
+
+| Item | Descrição |
+|---|---|
+| **Blocos** | 4 |
+| **Carga horária total** | 210 horas |
+| **Horas de vídeo** | 75 horas |
+| **Número de aulas** | 113 aulas |
+| **Certificado** | Certificado individual por curso da trilha + certificado da formação |
+| **Acesso** | 48 meses |
+
+::: {.callout-note}
+## Como funciona cada bloco
+
+Dentro de cada bloco você encontra **aulas teóricas** (os conceitos e o raciocínio por trás de cada ferramenta) combinadas com **aulas hands-on**, em que você coloca a mão no código e reproduz cada etapa junto com o professor.
+
+Além das aulas, os cursos trazem **exercícios de fixação** e **projetos práticos**. Os projetos vêm com **gabarito**, mas não são entregáveis — a ideia não é que você envie uma tarefa para correção, e sim que você refaça o projeto por conta própria, comparando com o gabarito ao final, para consolidar de verdade a sua capacidade analítica. Quanto mais você praticar antes de olhar a resposta, mais essa etapa vai render.
+
+Alguns blocos também reúnem **workshops e imersões ao vivo** (ou já gravados), que funcionam como aplicações práticas do que você aprendeu nos cursos — um formato mais intensivo, focado em um problema real do início ao fim.
+:::
+
+# Os 4 blocos da formação
+
+## Bloco 1 — Cursos Básicos
+
+Fundamentos de análise de dados, o primeiro contato com Python aplicado a dados e uma introdução prática à Inteligência Artificial. Este bloco te dá a base para tudo que vem depois.
+
+- Fundamentos de Análise de Dados
+- Programação em Python para Análise de Dados
+- Inteligência Artificial para Todos
+
+## Bloco 2 — Cursos de Modelagem e Previsão
+
+Você aprende a aplicar estatística a bases reais e a construir modelos de previsão em Python, transformando dados históricos em projeções úteis para decisão.
+
+- Estatística para Análise de Dados usando Python
+- Modelagem e Previsão usando o Python
+
+## Bloco 3 — Cursos de Data Storytelling
+
+Comunicar bem uma análise é parte do trabalho. Aqui você aprende a produzir dashboards e relatórios automáticos, que se atualizam sozinhos e comunicam resultados sem esforço manual repetido.
+
+- Produção de Dashboards Automáticos usando Python
+- Produção de Relatórios Automáticos usando Python
+
+## Bloco 4 — Projetos Reais
+
+O bloco final, onde tudo se junta em projetos práticos que podem compor o seu portfólio. Você constrói um portfólio de Data Science e aplica o que aprendeu em workshops e imersões voltados a problemas reais de economia e mercado financeiro com IA.
+
+- Construção de Portfólio de Data Science
+- Imersão: Como Criar um Agente de IA Econometrista
+- Workshop: Como Analisar as Atas do Copom com IA e Python
+- Imersão IA com Python: como prever a inflação no Brasil
+- Workshop: Como Prever a Taxa Selic com IA e Python
+
+# Antes de começar
+
+Não há pré-requisitos para iniciar a formação — o começo é pensado para quem está partindo do zero. À medida que a trilha avança, os cursos passam a assumir o que foi construído nos blocos anteriores (programação em Python, estatística, econometria e séries temporais), então siga a ordem apresentada.
+
+Você tem 48 meses de acesso à plataforma, então não tenha pressa. O objetivo aqui não é passar pelo conteúdo — é aprender de verdade, praticando cada projeto por conta própria antes de olhar o gabarito.
+
+::: {.callout-warning}
+## Marque cada aula como concluída
+
+Para a plataforma registrar sua progressão em cada curso — e, no fim, liberar seus certificados — é essencial que você **marque cada aula como concluída** conforme avança. Sem essa marcação, o sistema não reconhece o curso como finalizado, mesmo que você já tenha assistido a todo o conteúdo. Crie o hábito de marcar a aula assim que terminar, bloco a bloco.
+:::
+
+Bons estudos, e conte com a gente ao longo de toda a jornada!

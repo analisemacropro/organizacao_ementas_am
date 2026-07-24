@@ -1,0 +1,116 @@
+---
+title: '<a href="https://analisemacro.com.br/" target="_blank"><img src="https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png" alt="Logotipo Análise Macro" width="150"></a>  <br>  **Bem-vindo(a) à Formação Analista de Pesquisa Quantitativa**'
+subtitle: "Seu ponto de partida na trilha"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+theme:
+  light: flatly
+---
+
+# Seja muito bem-vindo(a)!
+
+Parabéns por dar esse passo. Você está prestes a percorrer a trilha mais completa da Análise Macro para formar um analista quantitativo: da migração do Excel para Python, R e SQL até a construção de modelos e o uso de Inteligência Artificial. Não importa se você nunca escreveu uma linha de código: esta formação foi desenhada para te levar, bloco a bloco, dos fundamentos até a condução de uma pesquisa quantitativa completa, da formulação da hipótese à apresentação de resultados baseados em evidências.
+
+Ao final dos seis blocos, você vai dominar as três linguagens centrais do analista quantitativo — **Python**, **R** e **SQL** — e vai saber integrá-las a estatística, econometria, séries temporais, machine learning e IA generativa. É exatamente essa combinação de amplitude de ferramentas mais rigor metodológico que abre as portas para posições como:
+
+- **Analista de Pesquisa Quantitativa**
+- **Analista/Cientista de Dados**
+- **Economista com foco em modelagem e previsão**
+- **Analista de Research (mercado financeiro ou consultorias)**
+- **Pesquisador(a) acadêmico(a) aplicado(a)**
+- **Consultor(a) quantitativo(a)**
+
+Guarde essa lista. Vamos voltar a ela — com mais detalhes sobre o que cada posição espera de você — na página de conclusão da formação, depois que você tiver percorrido os seis blocos.
+
+# Como a formação está organizada
+
+A trilha é dividida em **seis blocos**, percorridos em sequência: cada bloco reúne os cursos, workshops e imersões que o compõem, e usa o que você aprendeu no bloco anterior. Cada curso concluído gera **certificado individual**, e ao final você também recebe o **certificado da formação**.
+
+| Item | Descrição |
+|---|---|
+| **Blocos** | 6 |
+| **Carga horária total** | 300 horas |
+| **Horas de vídeo** | 110 horas |
+| **Número de aulas** | 145 aulas |
+| **Certificado** | 16 certificados individuais + 1 certificado final da formação |
+| **Acesso** | 48 meses |
+
+::: {.callout-note}
+## Como funciona cada bloco
+
+Dentro de cada bloco você encontra **aulas teóricas** (os conceitos e o raciocínio por trás de cada ferramenta) combinadas com **aulas hands-on**, em que você coloca a mão no código e reproduz cada etapa junto com o professor.
+
+Além das aulas, os cursos trazem **exercícios de fixação** e **projetos práticos**. Os projetos vêm com **gabarito**, mas não são entregáveis — a ideia não é que você envie uma tarefa para correção, e sim que você refaça o projeto por conta própria, comparando com o gabarito ao final, para consolidar de verdade a sua capacidade analítica. Quanto mais você praticar antes de olhar a resposta, mais essa etapa vai render.
+
+Alguns blocos também reúnem **mentorias, workshops ao vivo e o acesso ao Clube AM** (repositório de códigos da AM) — atividades que complementam os cursos, mas não têm carga horária de vídeo contabilizada da mesma forma que uma aula gravada.
+:::
+
+# Os 6 blocos da formação
+
+## Bloco 1 — Boas-Vindas
+
+Sua porta de entrada na plataforma: como ela funciona, onde encontrar cada recurso e como organizar seus estudos ao longo da trilha.
+
+- Boas-Vindas à Plataforma Análise Macro
+
+## Bloco 2 — Começando em Análise de Dados e Programação
+
+A base de tudo: raciocínio analítico e as três linguagens da trilha — Python, R e SQL — aplicadas à análise de dados, incluindo um workshop para quem ainda depende do Excel.
+
+- Fundamentos de Análise de Dados
+- Workshop ao vivo: Como migrar do Excel para o Python de forma definitiva
+- Programação em Python para Análise de Dados
+- Programação em R para Análise de Dados
+- SQL para Economia e Finanças
+
+## Bloco 3 — Estatística e Econometria
+
+Domínio dos métodos estatísticos e econométricos fundamentais, aplicados tanto em Python quanto em R, para você conduzir análises quantitativas com rigor.
+
+- Estatística para Análise de Dados usando Python e R
+- Econometria Aplicada usando Python e R
+
+## Bloco 4 — Modelagem e Previsão
+
+Você aprende a construir modelos preditivos e a trabalhar com séries temporais, transformando dados históricos em projeções confiáveis, sempre nas duas linguagens da trilha.
+
+- Modelagem e Previsão usando Python e R
+- Análise de Séries Temporais usando Python e R
+
+## Bloco 5 — Inteligência Artificial
+
+Da introdução conceitual à aplicação prática de IA em análise de dados e economia, incluindo uma imersão para você criar seu próprio agente de IA econometrista.
+
+- Inteligência Artificial para Todos
+- Inteligência Artificial para Análise de Dados usando Python
+- Inteligência Artificial para Economistas
+- Imersão: Como Criar um Agente de IA Econometrista
+
+## Bloco 6 — Mão na Massa
+
+O fechamento da trilha: construção do seu portfólio de Data Science e acesso ao Clube AM, o repositório de códigos da Análise Macro, para você continuar praticando muito além da formação.
+
+- Construção de Portfólio de Data Science
+- Boas-Vindas ao Clube AM: o repositório de Códigos da AM
+- Clube AM
+
+# Antes de começar
+
+Não há pré-requisitos para iniciar a formação — o começo é pensado para quem está partindo do zero. À medida que a trilha avança, os cursos passam a assumir o que foi construído nos blocos anteriores (programação em Python e R, estatística, econometria e séries temporais), então siga a ordem apresentada.
+
+Você tem 48 meses de acesso à plataforma, então não tenha pressa. O objetivo aqui não é passar pelo conteúdo — é aprender de verdade, praticando cada projeto por conta própria antes de olhar o gabarito.
+
+::: {.callout-warning}
+## Marque cada aula como concluída
+
+Para a plataforma registrar sua progressão em cada curso — e, no fim, liberar seus certificados — é essencial que você **marque cada aula como concluída** conforme avança. Sem essa marcação, o sistema não reconhece o curso como finalizado, mesmo que você já tenha assistido a todo o conteúdo. Crie o hábito de marcar a aula assim que terminar, bloco a bloco.
+:::
+
+Bons estudos, e conte com a gente ao longo de toda a jornada!

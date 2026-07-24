@@ -1,0 +1,96 @@
+---
+title: '<a href="https://analisemacro.com.br/" target="_blank"><img src="https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png" alt="Logotipo Análise Macro" width="150"></a>  <br>  **Conclusão da Formação Como Pensar com Dados**'
+subtitle: "Você chegou até aqui — e agora?"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+theme:
+  light: flatly
+---
+
+# Parabéns por chegar até aqui!
+
+Se você está lendo esta página, é porque percorreu os cinco blocos da Formação Como Pensar com Dados — e isso não é pouco. Você saiu de um ponto de partida (que talvez fosse nunca ter escrito uma linha de código) e construiu, aula após aula, projeto após projeto, uma base analítica e técnica completa. Isso é resultado de disciplina e prática real, e o mercado valoriza exatamente esse tipo de trajetória.
+
+Vale reconhecer o caminho: você aprendeu a **pensar como um analista**, estruturando problemas com o ciclo CRISP-DM. Aprendeu a **falar a língua dos bancos de dados** com SQL. Aprendeu **Python** para automatizar a coleta, o tratamento e a apresentação de dados. Deu o salto para **engenharia de dados**, construindo pipelines que rodam sozinhos. E fechou a trilha entendendo como aplicar **Inteligência Artificial** no dia a dia, com ferramentas que já estão disponíveis para você usar hoje.
+
+## O que ainda vale a pena aprofundar
+
+A formação te deu a base sólida e completa — mas ela é só o começo da sua trajetória em dados. Alguns caminhos naturais para continuar evoluindo:
+
+- **Visualização e dashboards** em ferramentas como Power BI, para comunicar suas análises de forma visual e executiva.
+- **Estatística e modelos preditivos**, para ir além da análise descritiva e passar a projetar cenários.
+- **Especializações setoriais** (mercado financeiro, macroeconomia, demonstrativos financeiros) para aplicar tudo o que você aprendeu num domínio específico.
+- **Aprofundamento em IA aplicada**, incorporando LLMs e automações mais sofisticadas ao seu fluxo de trabalho.
+
+Continue praticando com dados reais, revisitando os projetos dos cinco blocos sempre que quiser refrescar um conceito, e buscando aplicar o que aprendeu no seu trabalho ou nos seus estudos desde já.
+
+# Onde você pode atuar com essa formação
+
+Lá na página de boas-vindas, listamos os cargos e áreas que essa formação te prepara para buscar. Agora que você concluiu a trilha, veja o que aprendeu em cada bloco se traduz, na prática, para cada uma dessas posições:
+
+**Analista de Dados** — Você domina o ciclo completo de uma análise (Bloco 1), sabe extrair e cruzar informações com SQL (Bloco 2) e sabe automatizar coleta, tratamento e apresentação com Python (Bloco 3). É exatamente esse o dia a dia de um analista de dados: transformar uma pergunta de negócio em uma resposta baseada em evidência.
+
+**Analista de Business Intelligence (BI)** — A base de SQL e modelagem relacional (Bloco 2), somada ao raciocínio analítico do Bloco 1, é o alicerce de qualquer função de BI: construir indicadores confiáveis e consultas que sustentam decisões recorrentes da empresa.
+
+**Analista Financeiro orientado a dados** — Com Python (Bloco 3) e SQL (Bloco 2) você automatiza planilhas manuais, cruza bases financeiras e ganha velocidade na apuração de indicadores — habilidade cada vez mais exigida em áreas financeiras que ainda dependem de processos manuais.
+
+**Analista de Operações, Marketing ou FP&A** — Os módulos de SQL para negócios (Bloco 2) foram desenhados justamente com casos de marketing, finanças e operações. Você já sai da formação sabendo transformar consultas em indicadores para essas áreas.
+
+**Assistente/Analista Jr. de Engenharia de Dados** — O Bloco 4 te deu experiência prática construindo pipelines automatizados, com Airflow, Git e APIs públicas. Isso te credencia a participar de squads de dados em posições júnior, apoiando a construção e manutenção de pipelines.
+
+**Consultor(a) de dados** — A combinação dos cinco blocos — pensar o problema, extrair com SQL, tratar com Python, estruturar em pipelines e aplicar IA — é a caixa de ferramentas de quem presta consultoria analítica para terceiros.
+
+**Profissional que aplica IA no dia a dia (Economia, Finanças, Contabilidade, Marketing, Gestão Pública)** — O Bloco 5 te deu ferramentas *no code* prontas para usar amanhã, em qualquer área em que você já atue, aumentando sua produtividade sem precisar programar.
+
+# Seus certificados
+
+Cada um dos cinco blocos gera **um certificado individual**, emitido na própria página do curso correspondente dentro da plataforma. Já a **Formação Como Pensar com Dados** completa tem seu próprio certificado consolidado, gerado em um local específico:
+
+::: {.callout-important}
+## Certificado da formação
+
+🔗 **[https://aluno.analisemacro.com.br/grupos/formacao-como-pensar-com-dados/](https://aluno.analisemacro.com.br/grupos/formacao-como-pensar-com-dados/)**
+
+É nesse endereço que o certificado da formação completa é emitido — não na página de um curso isolado. Para o certificado ficar disponível, **é necessário concluir pelo menos 1 curso da formação e marcá-lo como concluído** na plataforma. Sem marcar a conclusão, o sistema não gera o certificado, então não esqueça desse passo em cada bloco que você finalizar.
+:::
+
+::: {.callout-warning}
+## Marcar como concluído é o que registra sua progressão
+
+Vale reforçar: a plataforma só reconhece um bloco como finalizado — e libera o certificado correspondente — quando você **marca cada aula como concluída** ao longo do curso. Se você chegou até esta página sem ter feito essa marcação em algum bloco, volte e confirme antes de seguir para os próximos passos abaixo.
+:::
+
+# Seus próximos passos
+
+1. **Confira se marcou cada um dos 5 cursos como concluído** na plataforma. Sem essa marcação, o certificado não é emitido — mesmo que você já tenha assistido a todas as aulas.
+2. **Acesse a página de grupo da formação** ([link acima](https://aluno.analisemacro.com.br/grupos/formacao-como-pensar-com-dados/)) e gere o seu certificado consolidado.
+3. **Compartilhe sua conquista.** Veja como logo abaixo — é uma forma simples de mostrar ao mercado (e à sua rede) o que você construiu.
+4. **Agende uma conversa com o Vitor Wilher.** Se você quer discutir carreira, tirar dúvidas sobre os próximos passos ou entender como aplicar o que aprendeu na sua situação específica, marque um horário:
+
+   🔗 **[https://calendly.com/analisemacro/reuniao](https://calendly.com/analisemacro/reuniao)**
+
+5. **Continue evoluindo.** Explore as demais formações e cursos de especialização da Análise Macro para aprofundar exatamente a área que mais despertou seu interesse ao longo da trilha.
+
+# Compartilhe seu certificado no LinkedIn
+
+Depois de gerar o certificado, publique essa conquista — é um sinal forte para recrutadores e para a sua rede de que você investiu em uma formação completa e prática. Sugerimos dois passos, e os dois valem a pena fazer:
+
+1. **Publique no feed.** Faça um post contando o que você aprendeu, os blocos que percorreu e o que pretende fazer com esse conhecimento. Marque a Análise Macro para ampliar o alcance.
+2. **Adicione na aba de Certificações do seu perfil.** No LinkedIn, vá até a seção "Licenças e certificados" e inclua o certificado da formação, anexando o **PDF** do certificado diretamente (nosso sistema não gera um link de verificação externo, então o campo de link pode ficar em branco — insira apenas o arquivo PDF).
+
+::: {.callout-tip}
+## Combinação recomendada
+
+Publicar no feed dá visibilidade imediata na sua rede. Adicionar na aba de certificações deixa a conquista permanente no seu perfil, visível para quem visitar seu LinkedIn depois. Vale fazer os dois.
+:::
+
+# Obrigado por confiar na Análise Macro
+
+Foi um prazer acompanhar sua jornada até aqui. Você investiu tempo real em construir uma base sólida em dados, e esse é o tipo de investimento que se paga ao longo de toda uma carreira. Estamos por perto para o que vier a seguir — conte com a gente.

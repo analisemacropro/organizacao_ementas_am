@@ -1,0 +1,132 @@
+---
+title: '<a href="https://analisemacro.com.br/" target="_blank"><img src="https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png" alt="Logotipo Análise Macro" width="150"></a>  <br>  **Bem-vindo(a) à Formação em Análise Macroeconômica**'
+subtitle: "Seu ponto de partida na trilha"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+theme:
+  light: flatly
+---
+
+# Seja muito bem-vindo(a)!
+
+Parabéns por dar esse passo. Você está prestes a percorrer a trilha mais completa da Análise Macro para quem quer pensar como economista, agir como cientista de dados e enxergar como estrategista. Não importa o seu ponto de partida técnico: esta formação foi desenhada para te levar, bloco a bloco, do nivelamento em programação até a condução, sozinho(a), de uma análise macroeconômica completa — da coleta de dados à previsão e à comunicação dos resultados.
+
+Ao final dos seis blocos, você vai unir o rigor da teoria econômica ao poder dos dados: vai dominar políticas monetária e fiscal, ciclos de crescimento, inflação e mercado de trabalho, e vai saber aplicar modelos econométricos, machine learning e Inteligência Artificial à análise macroeconômica real, em Python e R. É exatamente essa combinação — teoria econômica mais ferramental quantitativo — que abre as portas para posições como:
+
+- **Economista / Analista de Research Macroeconômico**
+- **Analista de Mercado Financeiro (asset, banco ou corretora)**
+- **Economista de Consultoria ou Órgão Público**
+- **Analista de Conjuntura**
+- **Pesquisador(a) ou Professor(a) de Economia aplicada**
+- **Cientista de Dados com foco em macroeconomia**
+
+Guarde essa lista. Vamos voltar a ela — com mais detalhes sobre o que cada posição espera de você — na página de conclusão da formação, depois que você tiver percorrido os seis blocos.
+
+# Como a formação está organizada
+
+A trilha é dividida em **seis blocos**, percorridos em sequência: cada bloco reúne os cursos, atividades práticas, workshops, imersões e mentorias que o compõem, e usa o que você aprendeu no bloco anterior. Cada curso concluído gera **certificado individual**, e ao final você também recebe o **certificado da formação**.
+
+| Item | Descrição |
+|---|---|
+| **Blocos** | 6 |
+| **Carga horária total** | 250 horas |
+| **Horas de vídeo** | 120 horas |
+| **Número de aulas** | 145 aulas |
+| **Certificado** | Certificados individuais por curso + certificado final da formação |
+| **Acesso** | 48 meses |
+
+::: {.callout-note}
+## Como funciona cada bloco
+
+Dentro de cada bloco você encontra **aulas teóricas** (os conceitos e o raciocínio por trás de cada ferramenta) combinadas com **aulas hands-on**, em que você coloca a mão no código e reproduz cada etapa junto com o professor.
+
+Além das aulas, os cursos trazem **exercícios de fixação** e **projetos práticos**, incluindo blocos de "Prática" dedicados a consolidar o que foi visto. Os projetos vêm com **gabarito**, mas não são entregáveis — a ideia não é que você envie uma tarefa para correção, e sim que você refaça o projeto por conta própria, comparando com o gabarito ao final, para consolidar de verdade a sua capacidade analítica. Quanto mais você praticar antes de olhar a resposta, mais essa etapa vai render.
+
+Alguns blocos também reúnem **mentorias com o Cientista-Chefe** e **workshops/imersões ao vivo** — atividades que complementam os cursos com um formato mais direto e aplicado.
+:::
+
+# Os 6 blocos da formação
+
+## Bloco 1 — Boas-Vindas e Nivelamento
+
+Apresentação da plataforma, da metodologia AM e da estrutura da formação, com um encontro inicial para definir o seu plano de estudos. A parte prática ensina a coletar, organizar e analisar dados econômicos reais com SQL, R e Python.
+
+- Boas-Vindas à Plataforma
+- Boas-Vindas à Formação
+- Mentoria inicial com o Cientista-Chefe
+- Como Pensar com Dados
+- SQL para Negócios e Tomada de Decisão
+- Programação em R para Análise de Dados
+- Programação em Python para Análise de Dados
+- SQL para Economia e Finanças
+- Prática: Como Analisar Dados usando SQL, R e Python?
+
+## Bloco 2 — Fundamentos da Análise Macroeconômica
+
+Construção de análises macroeconômicas completas, transformando dados brutos em gráficos, tabelas e relatórios interpretativos. Você trabalha indicadores como IPCA, IPCA-15, PIB, PIM-PF, PMS, PMC, IBC-Br e PNAD Contínua trimestral, explorando variações, sazonalidade e tendências.
+
+- Teoria Macroeconômica
+- Análise de Conjuntura
+- Prática: Como Construir Análises Macroeconômicas?
+
+## Bloco 3 — Métodos Quantitativos
+
+Uso de Python e R para desenvolver análises quantitativas macroeconômicas completas: retropolação da taxa de desocupação, NAIRU para o Brasil, sensibilidade do desemprego ao crescimento, impulso de crédito, ancoragem de expectativas, hiato do produto e mensuração de riscos inflacionários com regressão quantílica.
+
+- Estatística para Análise de Dados usando R
+- Estatística para Análise de Dados usando Python
+- Econometria Aplicada em Python
+- Econometria Aplicada em R
+- Modelagem e Previsão usando R
+- Modelagem e Previsão usando Python
+- Prática: Métodos Quantitativos Aplicados à Macroeconomia
+
+## Bloco 4 — Modelagem e Previsão Macroeconômica
+
+Desenvolvimento de previsões econômicas e modelos macroeconométricos avançados com Python e R: nowcasting do PIB, previsão econométrica e com machine learning, modelos de Markov Switching, espaço-estado para inflação, análise de causalidades, decomposição de erros de previsão e modelos de inflação, dívida pública e resultado primário.
+
+- Análise de Séries Temporais usando R
+- Análise de Séries Temporais usando Python
+- Macroeconometria usando R
+- Macroeconometria usando Python
+- Modelos Preditivos de Machine Learning
+- Previsão Macroeconômica usando Python e IA
+- Prática: Previsão e Macroeconometria
+
+## Bloco 5 — Inteligência Artificial Aplicada à Macroeconomia
+
+Extração de valor de dados textuais e aplicação de IA a variáveis macroeconômicas com Python e R: pré-processamento de textos, análise de sentimentos, similaridade, text mining, uso de machine learning e LLMs para interpretar comunicados do FED e do Copom, e topic modeling (LDA) para descobrir os temas dos comunicados.
+
+- Inteligência Artificial para Economistas
+- Workshop: Como Criar um Agente de IA Econometrista
+- Imersão: Econometria vs IA na Previsão Macro
+- Prática: Análise Macroeconômica com NLP e IA
+
+## Bloco 6 — Projeto Final
+
+Automação da produção de relatórios e apresentações de conjuntura com IA, R e Python, da criação de relatórios interativos e painéis dinâmicos à geração automática de textos e gráficos. O bloco encerra a formação com a construção do seu portfólio e uma mentoria final.
+
+- Construção de Portfólio Macroeconômico
+- Mentoria Final
+- Prática: Criando Relatórios Macroeconômicos
+
+# Antes de começar
+
+Não há pré-requisitos formais para começar pelo Bloco 1, que faz o nivelamento técnico. Os blocos seguintes pressupõem o conteúdo do nivelamento — programação em Python e R, além de noções de estatística, econometria e séries temporais —, então siga a ordem apresentada.
+
+Você tem 48 meses de acesso à plataforma, então não tenha pressa. O objetivo aqui não é passar pelo conteúdo — é aprender de verdade, praticando cada projeto por conta própria antes de olhar o gabarito.
+
+::: {.callout-warning}
+## Marque cada aula como concluída
+
+Para a plataforma registrar sua progressão em cada curso — e, no fim, liberar seus certificados — é essencial que você **marque cada aula como concluída** conforme avança. Sem essa marcação, o sistema não reconhece o curso como finalizado, mesmo que você já tenha assistido a todo o conteúdo. Crie o hábito de marcar a aula assim que terminar, bloco a bloco.
+:::
+
+Bons estudos, e conte com a gente ao longo de toda a jornada!

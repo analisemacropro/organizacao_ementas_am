@@ -1,0 +1,94 @@
+---
+title: '<a href="https://analisemacro.com.br/" target="_blank"><img src="https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png" alt="Logotipo Análise Macro" width="150"></a>  <br>  **Conclusão da Formação Python e Automação para o Mercado Financeiro**'
+subtitle: "Você chegou até aqui — e agora?"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+theme:
+  light: flatly
+---
+
+# Parabéns por chegar até aqui!
+
+Se você está lendo esta página, é porque percorreu os cinco blocos da Formação Python e Automação para o Mercado Financeiro — e isso não é pouco. Você saiu de um ponto de partida e construiu, aula após aula, o seu próprio ecossistema de análise financeira automatizada: da coleta de dados em tempo real à modelagem, ao backtesting e à entrega de relatórios que se atualizam sozinhos.
+
+Vale reconhecer o caminho: você se **integrou à plataforma e definiu seu plano de estudos** (Bloco 1), construiu a **base de Python e análise de dados** (Bloco 2), aprendeu a **coletar e automatizar dados financeiros** direto de fontes públicas e APIs (Bloco 3), avançou para a **modelagem de dados financeiros** com machine learning e econometria (Bloco 4), e fechou tudo isso automatizando **relatórios e dashboards em tempo real** com IA (Bloco 5).
+
+## O que ainda vale a pena aprofundar
+
+A formação te deu uma base sólida de automação financeira — mas ela é só o começo da sua trajetória no mercado quantitativo. Alguns caminhos naturais para continuar evoluindo:
+
+- **Modelos financeiros mais avançados**, aprofundando precificação de derivativos, otimização de portfólio e gestão de risco.
+- **Engenharia de dados**, para levar seus pipelines financeiros a um nível de produção ainda mais robusto.
+- **Análise macroeconômica**, para conectar sua leitura de mercado ao cenário macro que move os preços dos ativos.
+- **IA generativa e agentes aplicados a finanças**, expandindo o que você viu no Bloco 5 para automações mais sofisticadas.
+
+Continue praticando com dados reais de mercado, revisitando os projetos dos cinco blocos sempre que quiser refrescar um conceito, e testando suas automações contra o pregão do dia a dia.
+
+# Onde você pode atuar com essa formação
+
+Lá na página de boas-vindas, listamos os cargos e áreas que essa formação te prepara para buscar. Agora que você concluiu a trilha, veja o que aprendeu em cada bloco se traduz, na prática, para cada uma dessas posições:
+
+**Analista Quantitativo (Quant) Jr.** — A modelagem de dados financeiros com machine learning e econometria (Bloco 4) — precificação de opções, previsão de volatilidade, VaR — é a porta de entrada clássica para funções quant júnior.
+
+**Analista de Mercado Financeiro com foco em automação** — A coleta e automação de dados via APIs e web scraping (Bloco 3) elimina o trabalho manual que ainda trava boa parte das áreas de mercado, te tornando a pessoa que substitui planilhas por processos escaláveis.
+
+**Assessor(a) de Investimentos orientado(a) a dados** — Com Python aplicado a dados financeiros (Blocos 2 e 3), você sustenta recomendações com análise quantitativa própria, em vez de depender só de relatórios de terceiros.
+
+**Analista de Gestora, Corretora ou Banco** — A trilha inteira — coleta, modelagem e automação de relatórios (Blocos 3 a 5) — espelha o fluxo de trabalho de mesas de operação e áreas de research dessas instituições.
+
+**Desenvolvedor(a) de soluções financeiras em Python** — Os dashboards e relatórios automatizados com Python, Quarto e GitHub Actions (Bloco 5) te dão a base técnica para construir e manter ferramentas internas de análise financeira.
+
+**Consultor(a) financeiro(a) quantitativo(a)** — Dominar o ciclo completo — da coleta à automação inteligente com IA (Blocos 1 a 5) — te credencia a montar soluções sob medida para diferentes clientes do mercado financeiro.
+
+# Seus certificados
+
+Cada curso da trilha gera **um certificado individual**, emitido na própria página do curso correspondente dentro da plataforma. Já a **Formação Python e Automação para o Mercado Financeiro** completa tem seu próprio certificado consolidado, gerado em um local específico:
+
+::: {.callout-important}
+## Certificado da formação
+
+🔗 **[https://aluno.analisemacro.com.br/grupos/formacao-python-e-automacao-para-o-mercado-financeiro/](https://aluno.analisemacro.com.br/grupos/formacao-python-e-automacao-para-o-mercado-financeiro/)**
+
+É nesse endereço que o certificado da formação completa é emitido — não na página de um curso isolado. Para o certificado ficar disponível, **é necessário concluir pelo menos 1 curso da formação e marcá-lo como concluído** na plataforma. Sem marcar a conclusão, o sistema não gera o certificado, então não esqueça desse passo em cada bloco que você finalizar.
+:::
+
+::: {.callout-warning}
+## Marcar como concluído é o que registra sua progressão
+
+Vale reforçar: a plataforma só reconhece um curso como finalizado — e libera o certificado correspondente — quando você **marca cada aula como concluída** ao longo do curso. Se você chegou até esta página sem ter feito essa marcação em algum bloco, volte e confirme antes de seguir para os próximos passos abaixo.
+:::
+
+# Seus próximos passos
+
+1. **Confira se marcou cada curso da trilha como concluído** na plataforma. Sem essa marcação, o certificado não é emitido — mesmo que você já tenha assistido a todas as aulas.
+2. **Acesse a página de grupo da formação** ([link acima](https://aluno.analisemacro.com.br/grupos/formacao-python-e-automacao-para-o-mercado-financeiro/)) e gere o seu certificado consolidado.
+3. **Compartilhe sua conquista.** Veja como logo abaixo — é uma forma simples de mostrar ao mercado (e à sua rede) o que você construiu.
+4. **Agende uma conversa com o Vitor Wilher.** Se você quer discutir carreira, tirar dúvidas sobre os próximos passos ou entender como aplicar o que aprendeu na sua situação específica, marque um horário:
+
+   🔗 **[https://calendly.com/analisemacro/reuniao](https://calendly.com/analisemacro/reuniao)**
+
+5. **Continue evoluindo.** Explore as demais formações e cursos de especialização da Análise Macro para aprofundar exatamente a área que mais despertou seu interesse ao longo da trilha.
+
+# Compartilhe seu certificado no LinkedIn
+
+Depois de gerar o certificado, publique essa conquista — é um sinal forte para recrutadores e para a sua rede de que você investiu em uma formação completa e aplicada ao mercado financeiro. Sugerimos dois passos, e os dois valem a pena fazer:
+
+1. **Publique no feed.** Faça um post contando o que você aprendeu, os blocos que percorreu e o que pretende fazer com esse conhecimento. Marque a Análise Macro para ampliar o alcance.
+2. **Adicione na aba de Certificações do seu perfil.** No LinkedIn, vá até a seção "Licenças e certificados" e inclua o certificado da formação, anexando o **PDF** do certificado diretamente (nosso sistema não gera um link de verificação externo, então o campo de link pode ficar em branco — insira apenas o arquivo PDF).
+
+::: {.callout-tip}
+## Combinação recomendada
+
+Publicar no feed dá visibilidade imediata na sua rede. Adicionar na aba de certificações deixa a conquista permanente no seu perfil, visível para quem visitar seu LinkedIn depois. Vale fazer os dois.
+:::
+
+# Obrigado por confiar na Análise Macro
+
+Foi um prazer acompanhar sua jornada até aqui. Você investiu tempo real em construir o seu próprio ecossistema de análise financeira automatizada, e esse é o tipo de investimento que se paga ao longo de toda uma carreira. Estamos por perto para o que vier a seguir — conte com a gente.
