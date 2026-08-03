@@ -1,0 +1,120 @@
+---
+title: '<a href="https://analisemacro.com.br/" target="_blank"><img src="https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png" alt="Logotipo Análise Macro" width="150"></a>  <br>  **Bem-vindo(a) à Formação Do Zero à Análise de Dados Econômicos e Financeiros usando Python e Inteligência Artificial**'
+subtitle: "Seu ponto de partida na trilha"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+theme:
+  light: flatly
+---
+
+# Seja muito bem-vindo(a)!
+
+Parabéns por dar esse passo. Você está prestes a percorrer a trilha mais completa da Análise Macro em Python: uma jornada que leva você do zero ao domínio do ciclo completo de análise de dados econômicos e financeiros — identificar o problema, coletar, tratar, modelar e apresentar resultados — combinando modelos clássicos de estatística e econometria com machine learning e inteligência artificial.
+
+Não importa se você nunca escreveu uma linha de código. A formação foi desenhada para começar do início, montando os fundamentos da ciência de dados e da programação em Python antes de avançar para temas de fronteira.
+
+Ao final dos seis blocos, você vai dominar o Python aplicado a economia e finanças, sabendo coletar dados das principais bases do país e do mundo, construir e interpretar modelos, integrar IA ao seu fluxo de trabalho e automatizar todo esse processo em relatórios e dashboards que rodam sozinhos. É essa combinação — amplitude de ferramentas mais rigor metodológico — que abre portas para posições como:
+
+- **Analista de Dados** (com foco em economia e finanças)
+- **Cientista de Dados**
+- **Economista com foco em modelagem e previsão**
+- **Analista de Research** (mercado financeiro ou consultorias)
+- **Analista de Risco e de Investimentos**
+- **Profissional que aplica IA no dia a dia**
+- **Consultor(a) quantitativo(a)**
+
+Guarde essa lista. Vamos voltar a ela — com mais detalhes sobre o que cada posição espera de você — na página de conclusão da formação, depois que você tiver percorrido os seis blocos.
+
+# Como a formação está organizada
+
+A trilha é dividida em **seis blocos**, percorridos em sequência: cada bloco usa o que você construiu no anterior. Cada curso concluído gera **certificado individual**, e ao final você também recebe o **certificado da formação**.
+
+| Item | Descrição |
+|---|---|
+| **Blocos** | 6 |
+| **Carga horária total** | 658 horas |
+| **Horas de vídeo** | 214,5 horas |
+| **Número de aulas** | 366 aulas |
+| **Certificado** | Certificados individuais de cada curso + 1 certificado final da formação |
+| **Acesso** | 48 meses |
+
+::: {.callout-note}
+## Como funciona cada curso
+
+Dentro de cada curso você encontra **aulas teóricas** (os conceitos e o raciocínio por trás de cada ferramenta) combinadas com **aulas hands-on**, em que você coloca a mão no código e reproduz cada etapa junto com o professor.
+
+Além das aulas, os cursos trazem **exercícios de fixação** e **projetos práticos**. Os projetos vêm com **gabarito**, mas não são entregáveis — a ideia não é que você envie uma tarefa para correção, e sim que você refaça o projeto por conta própria, comparando com o gabarito ao final, para consolidar de verdade a sua capacidade analítica. Quanto mais você praticar antes de olhar a resposta, mais essa etapa vai render.
+:::
+
+# Os 6 blocos da formação
+
+## Bloco 1 — Cursos Básicos
+
+Os fundamentos do ciclo de análise de dados, da identificação do problema à coleta, tratamento, modelagem e apresentação. Aqui você também aprende as duas ferramentas centrais da trilha: o Python e a linguagem SQL.
+
+- Como Pensar com Dados
+- SQL para Negócios e Tomada de Decisão
+- Programação em Python para Análise de Dados
+- SQL para Economia e Finanças
+
+## Bloco 2 — Formação Prática com Dados Econômicos e Financeiros
+
+Você aprende a coletar e tratar dados econômicos e financeiros das principais bases do país e do mundo. São exemplos práticos e mão na massa sobre como coletar inflação, taxa de juros, PIB, produção industrial e mais de 40 indicadores, por meio de APIs e bibliotecas específicas de Python.
+
+- Teoria Macroeconômica com Python
+- Análise de Conjuntura usando Python
+
+## Bloco 3 — Modelagem e Previsão
+
+Aprofundamento em métodos quantitativos aplicando Python: estatística descritiva, inferência estatística e modelagem. Você entende o que é um modelo e as simplificações envolvidas, aprende a interpretar modelos descritivos e preditivos e a construir métricas de avaliação para comparar diferentes tipos de modelos.
+
+- Estatística para Análise de Dados usando Python
+- Econometria Aplicada usando Python
+- Modelagem e Previsão usando o Python
+
+## Bloco 4 — Data Storytelling
+
+Depois de coletar, tratar e modelar, chega a hora de apresentar. Aqui você aprende a construir relatórios e dashboards e a automatizar todo o processo usando Python e ferramentas como o GitHub Actions — uma habilidade rara no mercado de análise de dados econômicos e financeiros.
+
+- Produção de Dashboards Automáticos usando Python
+- Produção de Relatórios Automáticos usando Python
+
+## Bloco 5 — Cursos de Especialização
+
+Com o ciclo básico dominado, você parte para a especialização em cursos diretos ao ponto nas áreas de mercado financeiro, macroeconomia aplicada, avaliação de impacto e inteligência artificial, aprendendo a construir modelos de fronteira com dados econômicos e financeiros.
+
+- Python para Investimentos
+- Mercado Financeiro e Gestão de Portfólios usando Python
+- Análise de Demonstrativos Financeiros usando Python
+- Modelos Financeiros usando Python
+- Macroeconometria usando Python
+- Avaliação de Políticas Públicas usando Python
+- Inteligência Artificial para Análise de Dados usando Python
+- Previsão Macroeconômica usando Python e Inteligência Artificial
+
+## Bloco 6 — Mão na Massa: portfólio de dados com o Clube AM
+
+O fechamento da trilha. Você conta com acesso ao Clube AM, o repositório com mais de 520 exercícios de análise de dados — sendo mais de 300 deles feitos exclusivamente em Python. Cada exercício traz videoaula explicativa, scripts e material de apoio para você se inspirar e construir um portfólio de dados com exemplos reais do dia a dia.
+
+- Acesso ao Clube AM (mais de 520 exercícios de análise de dados)
+
+# Antes de começar
+
+Não há pré-requisitos para iniciar a formação — o começo é pensado para quem está partindo do zero, sem experiência prévia em programação, estatística ou econometria. À medida que a trilha avança, os cursos passam a assumir o que foi construído nos blocos anteriores, então siga a ordem apresentada.
+
+Você tem 48 meses de acesso à plataforma, então não tenha pressa. O objetivo aqui não é passar pelo conteúdo — é aprender de verdade, praticando cada projeto por conta própria antes de olhar o gabarito.
+
+::: {.callout-warning}
+## Marque cada aula como concluída
+
+Para a plataforma registrar sua progressão em cada curso — e, no fim, liberar seus certificados — é essencial que você **marque cada aula como concluída** conforme avança. Sem essa marcação, o sistema não reconhece o curso como finalizado, mesmo que você já tenha assistido a todo o conteúdo. Crie o hábito de marcar a aula assim que terminar, curso a curso.
+:::
+
+Bons estudos, e conte com a gente ao longo de toda a jornada!
