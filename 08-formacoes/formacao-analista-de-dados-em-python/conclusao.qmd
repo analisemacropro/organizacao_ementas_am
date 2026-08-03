@@ -49,29 +49,46 @@ Lá na página de boas-vindas, listamos os cargos e áreas que essa formação t
 
 # Seus certificados
 
-Cada curso da trilha gera **um certificado individual**, emitido na própria página do curso correspondente dentro da plataforma. Já a **Formação Analista de Dados em Python** completa tem seu próprio certificado consolidado, gerado em um local específico:
+Esta formação emite **dois tipos de certificado**, e eles são obtidos em lugares diferentes. Vale entender a diferença antes de seguir:
+
+| | Certificado do curso | Certificado da formação |
+|---|---|---|
+| **O que cobre** | Um curso isolado da trilha | A trilha completa |
+| **Quantos** | Um para cada curso concluído | Um único, consolidado |
+| **Onde emitir** | Na própria página do curso | Na página de grupo da formação |
+| **Requisito** | Todas as aulas e seções daquele curso marcadas como concluídas | **Todos os cursos da formação** concluídos |
+
+## Certificado de cada curso
+
+Conforme você finaliza cada curso da trilha, o certificado individual correspondente fica disponível **na própria página daquele curso**, dentro da plataforma. São eles que comprovam cada etapa percorrida.
+
+## Certificado da formação
+
+Este é o certificado consolidado da trilha inteira, e ele **não fica na página de nenhum curso**. É emitido em um endereço próprio, a página de grupo da formação:
 
 ::: {.callout-important}
-## Certificado da formação
+## Onde acessar o certificado da formação
 
 🔗 **[Acessar a página da formação e gerar meu certificado](https://aluno.analisemacro.com.br/grupos/do-zero-a-analise-de-dados-usando-python/){target="_blank"}**
 
-É nesse endereço que o certificado da formação completa é emitido — não na página de um curso isolado. Para o certificado ficar disponível, **é necessário concluir pelo menos 1 curso da formação e marcá-lo como concluído** na plataforma. Sem marcar a conclusão, o sistema não gera o certificado, então não esqueça desse passo em cada bloco que você finalizar.
+Guarde este endereço. É nele — e somente nele — que o certificado da formação completa é emitido. Procurar pelo certificado da formação dentro da página de um curso não vai funcionar, porque são coisas distintas.
 
 O link abre em uma nova aba, para você não perder esta página.
 :::
 
 ::: {.callout-warning}
-## Marque esta aula como concluída antes de clicar no link
+## Para liberar o certificado da formação, conclua tudo
 
-Antes de acessar o link acima, **marque esta aula como concluída** no botão da plataforma, logo abaixo desta página. A plataforma só reconhece um curso como finalizado — e libera o certificado correspondente — quando cada aula está marcada como concluída.
+O certificado da formação só é gerado quando **todos os cursos da trilha estiverem concluídos** — e um curso só conta como concluído quando **todas as suas aulas e seções estão marcadas como concluídas** na plataforma.
 
-Se você clicar no link do certificado sem ter feito essa marcação, a página da formação vai abrir, mas o certificado ainda não estará disponível para emissão. O mesmo vale para os cursos anteriores: se ficou alguma aula sem marcar em algum deles, volte e confirme antes de seguir.
+Não basta assistir ao conteúdo: a marcação é o que registra sua progressão no sistema. Se faltar uma única aula ou seção sem marcar, em qualquer curso da trilha, a formação continua constando como incompleta e o certificado consolidado não fica disponível.
+
+Antes de clicar no link acima, **marque esta aula como concluída** no botão da plataforma, logo abaixo desta página, e confira se não ficou nenhuma pendência nos cursos anteriores.
 :::
 
 # Seus próximos passos
 
-1. **Marque esta aula e cada curso da trilha como concluídos** na plataforma. Sem essa marcação, o certificado não é emitido — mesmo que você já tenha assistido a todas as aulas.
+1. **Marque como concluídos esta aula e todos os cursos da trilha** — todas as aulas e seções de cada um. Sem isso, o certificado da formação não é emitido, mesmo que você já tenha assistido a tudo.
 2. **Acesse a página de grupo da formação** ([link acima](https://aluno.analisemacro.com.br/grupos/do-zero-a-analise-de-dados-usando-python/){target="_blank"}) e gere o seu certificado consolidado.
 3. **Compartilhe sua conquista.** Veja como logo abaixo — é uma forma simples de mostrar ao mercado (e à sua rede) o que você construiu.
 4. **Agende uma conversa com o Vitor Wilher.** Se você quer discutir carreira, tirar dúvidas sobre os próximos passos ou entender como aplicar o que aprendeu na sua situação específica, marque um horário:
@@ -82,15 +99,38 @@ Se você clicar no link do certificado sem ter feito essa marcação, a página 
 
 # Compartilhe seu certificado no LinkedIn
 
-Depois de gerar o certificado, publique essa conquista — é um sinal forte para recrutadores e para a sua rede de que você investiu em uma formação completa e prática. Sugerimos dois passos, e os dois valem a pena fazer:
+Um certificado guardado não abre portas. Um certificado **visível** no seu perfil mostra a quem procura talento que você não só estudou — você concluiu uma trilha inteira. Depois de emitido, o passo mais importante é salvá-lo no seu LinkedIn.
 
-1. **Publique no feed.** Faça um post contando o que você aprendeu, os blocos que percorreu e o que pretende fazer com esse conhecimento. Marque a Análise Macro para ampliar o alcance.
-2. **Adicione na aba de Certificações do seu perfil.** No LinkedIn, vá até a seção "Licenças e certificados" e inclua o certificado da formação, anexando o **PDF** do certificado diretamente (nosso sistema não gera um link de verificação externo, então o campo de link pode ficar em branco — insira apenas o arquivo PDF).
+## Como adicionar o certificado no LinkedIn — passo a passo
+
+**1. Abra a seção de licenças e certificados.** No seu perfil do LinkedIn, vá até **"Licenças e certificados"** e clique no **+** para adicionar um novo. Preencha:
+
+- **Nome:** o nome da formação.
+- **Organização emissora:** *Análise Macro*.
+- **Data de emissão:** o mês e o ano em que você concluiu.
+- **Código** e **URL da credencial:** pode deixar em branco — nosso sistema não gera um link de verificação externo.
+
+![Preenchendo o nome, a organização emissora e a data de emissão](imgs/linkedin-cert-01-formulario-topo.png){fig-alt="Formulário do LinkedIn 'Adicionar licença ou certificado' com Nome, Organização emissora e Data de emissão preenchidos" width="560"}
+
+**2. Associe competências e anexe o certificado.** Ainda no formulário, role para baixo:
+
+- Em **Competências**, adicione as habilidades que você desenvolveu na trilha. Elas também aparecem na sua seção de Competências, o que ajuda recrutadores a te encontrarem.
+- Em **Mídia**, clique em **Adicionar conteúdo de mídia** e **anexe o arquivo do certificado** (o PDF que você baixou). É isso que deixa o certificado visível e clicável no perfil.
+
+![Adicionando competências e anexando o arquivo do certificado em Mídia](imgs/linkedin-cert-02-formulario-competencias-midia.png){fig-alt="Parte inferior do formulário do LinkedIn com as competências associadas e o certificado anexado em Mídia, com o botão Salvar" width="560"}
+
+**3. Salve e confira o resultado.** Clique em **Salvar**. O certificado passa a aparecer no seu perfil, com a imagem, as competências e a data.
+
+![O certificado publicado na seção 'Licenças e certificados' do perfil](imgs/linkedin-cert-03-resultado-perfil.png){fig-alt="Seção 'Licenças e certificados' do perfil do LinkedIn exibindo o certificado, com competências e o arquivo anexado" width="560"}
+
+## Publique também no feed
+
+Além de adicionar ao perfil, faça um post contando o que você aprendeu, os blocos que percorreu e o que pretende fazer com esse conhecimento. Marque a **Análise Macro** para ampliar o alcance, e use uma imagem — posts com imagem engajam mais.
 
 ::: {.callout-tip}
-## Combinação recomendada
+## Vale fazer os dois
 
-Publicar no feed dá visibilidade imediata na sua rede. Adicionar na aba de certificações deixa a conquista permanente no seu perfil, visível para quem visitar seu LinkedIn depois. Vale fazer os dois.
+Publicar no feed dá visibilidade imediata na sua rede, mas o post some no fluxo depois de alguns dias. Adicionar na aba de certificações deixa a conquista permanente no seu perfil, visível para quem visitar seu LinkedIn meses depois.
 :::
 
 # Obrigado por confiar na Análise Macro
