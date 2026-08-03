@@ -40,14 +40,13 @@ A trilha é dividida em **seis blocos**, percorridos em sequência: cada bloco r
 | **Horas de vídeo** | 110 horas |
 | **Número de aulas** | 145 aulas |
 | **Certificado** | 16 certificados individuais + 1 certificado final da formação |
-| **Acesso** | 48 meses |
 
 ::: {.callout-note}
 ## Como funciona cada bloco
 
 Dentro de cada bloco você encontra **aulas teóricas** (os conceitos e o raciocínio por trás de cada ferramenta) combinadas com **aulas hands-on**, em que você coloca a mão no código e reproduz cada etapa junto com o professor.
 
-Além das aulas, os cursos trazem **exercícios de fixação** e **projetos práticos**. Os projetos vêm com **gabarito**, mas não são entregáveis — a ideia não é que você envie uma tarefa para correção, e sim que você refaça o projeto por conta própria, comparando com o gabarito ao final, para consolidar de verdade a sua capacidade analítica. Quanto mais você praticar antes de olhar a resposta, mais essa etapa vai render.
+Além das aulas, os cursos trazem **exercícios de fixação** e **projetos práticos**. Quanto mais você praticar antes de olhar a resposta, mais essa etapa vai render.
 
 Alguns blocos também reúnem **mentorias, workshops ao vivo e o acesso ao Clube AM** (repositório de códigos da AM) — atividades que complementam os cursos, mas não têm carga horária de vídeo contabilizada da mesma forma que uma aula gravada.
 :::
@@ -104,8 +103,6 @@ O fechamento da trilha: construção do seu portfólio de Data Science e acesso 
 # Antes de começar
 
 Não há pré-requisitos para iniciar a formação — o começo é pensado para quem está partindo do zero. À medida que a trilha avança, os cursos passam a assumir o que foi construído nos blocos anteriores (programação em Python e R, estatística, econometria e séries temporais), então siga a ordem apresentada.
-
-Você tem 48 meses de acesso à plataforma, então não tenha pressa. O objetivo aqui não é passar pelo conteúdo — é aprender de verdade, praticando cada projeto por conta própria antes de olhar o gabarito.
 
 ::: {.callout-warning}
 ## Marque cada aula como concluída

@@ -43,14 +43,13 @@ A trilha é dividida em **cinco blocos**, percorridos em sequência: cada bloco 
 | **Horas de vídeo** | 70 horas |
 | **Número de aulas** | 139 aulas |
 | **Certificado** | Certificados individuais dos cursos + certificado final da formação |
-| **Acesso** | 48 meses |
 
 ::: {.callout-note}
 ## Como funciona cada bloco
 
 Dentro de cada bloco você encontra **aulas teóricas** (os conceitos e o raciocínio por trás de cada ferramenta) combinadas com **aulas hands-on**, em que você coloca a mão no código e reproduz cada etapa junto com o professor.
 
-Além das aulas, os cursos trazem **exercícios de fixação** e **projetos práticos**, incluindo blocos de "Prática" dedicados a consolidar o que foi visto com dados financeiros reais. Os projetos vêm com **gabarito**, mas não são entregáveis — a ideia não é que você envie uma tarefa para correção, e sim que você refaça o projeto por conta própria, comparando com o gabarito ao final, para consolidar de verdade a sua capacidade analítica. Quanto mais você praticar antes de olhar a resposta, mais essa etapa vai render.
+Além das aulas, os cursos trazem **exercícios de fixação** e **projetos práticos**, incluindo blocos de "Prática" dedicados a consolidar o que foi visto com dados financeiros reais. Quanto mais você praticar antes de olhar a resposta, mais essa etapa vai render.
 
 Alguns blocos também reúnem **mentorias com o Cientista-Chefe** e **workshops ao vivo** — atividades que complementam os cursos com um formato mais direto e aplicado ao mercado financeiro.
 :::
@@ -102,8 +101,6 @@ O bloco final: automação da criação de relatórios contábeis, econômicos e
 # Antes de começar
 
 Não há pré-requisitos para iniciar a formação — a trilha parte dos fundamentos de Python e avança de forma progressiva. Vale observar que a emissão de alguns certificados pode exigir conhecimento prévio em Python, estatística, econometria e séries temporais — conteúdos que também são trabalhados ao longo do programa. Siga a ordem dos blocos apresentada: a sequência foi pensada para que cada etapa aproveite o que você aprendeu na anterior.
-
-Você tem 48 meses de acesso à plataforma, então não tenha pressa. O objetivo aqui não é passar pelo conteúdo — é aprender de verdade, praticando cada projeto por conta própria antes de olhar o gabarito.
 
 ::: {.callout-warning}
 ## Marque cada aula como concluída

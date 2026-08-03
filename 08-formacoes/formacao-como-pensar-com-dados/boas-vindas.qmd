@@ -48,7 +48,7 @@ A trilha é dividida em **cinco blocos**, cada um equivalente a um curso complet
 
 Dentro de cada bloco você encontra **aulas teóricas** (os conceitos e o raciocínio por trás de cada ferramenta) combinadas com **aulas hands-on**, em que você coloca a mão no código e reproduz cada etapa junto com o professor.
 
-Além das aulas, cada bloco traz **exercícios de fixação** e **projetos práticos**. Os projetos vêm com **gabarito**, mas não são entregáveis — a ideia não é que você envie uma tarefa para correção, e sim que você refaça o projeto por conta própria, comparando com o gabarito ao final, para consolidar de verdade a sua capacidade analítica. Quanto mais você praticar antes de olhar a resposta, mais essa etapa vai render.
+Além das aulas, cada bloco traz **exercícios de fixação** e **projetos práticos**. Quanto mais você praticar antes de olhar a resposta, mais essa etapa vai render.
 :::
 
 # Os 5 blocos da formação
