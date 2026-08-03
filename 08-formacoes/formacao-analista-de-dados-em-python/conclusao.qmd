@@ -16,47 +16,40 @@ theme:
 
 # Parabéns por chegar até aqui!
 
-Se você está lendo esta página, é porque percorreu os quatro blocos da Formação Analista de Dados em Python — e isso não é pouco. Você saiu de um ponto de partida (talvez fosse a dependência total de planilhas manuais) e construiu, aula após aula, projeto após projeto, um ecossistema completo de análise de dados automatizada. Isso é resultado de disciplina e prática real, e o mercado valoriza exatamente esse tipo de trajetória.
+Você percorreu os quatro blocos da Formação Analista de Dados em Python. Saiu talvez da dependência total de planilhas manuais e construiu um ecossistema completo de análise automatizada.
 
-Vale reconhecer o caminho: você aprendeu os **fundamentos de análise de dados e Python** (Bloco 1), avançou para **estatística e modelagem preditiva** (Bloco 2), aprendeu a **comunicar resultados** com dashboards e relatórios automáticos (Bloco 3), e fechou a trilha aplicando tudo isso em **projetos reais**, incluindo IA aplicada a economia e mercado financeiro (Bloco 4).
+O caminho, em resumo:
+
+- **Bloco 1** — fundamentos de análise de dados e Python
+- **Bloco 2** — estatística e modelagem preditiva
+- **Bloco 3** — dashboards e relatórios automáticos
+- **Bloco 4** — projetos reais, com IA aplicada a economia e mercado financeiro
 
 ## O que ainda vale a pena aprofundar
 
-A formação te deu uma base sólida e automatizada — mas ela é só o começo da sua trajetória em dados. Alguns caminhos naturais para continuar evoluindo:
+A base está pronta. Caminhos naturais para seguir:
 
 - **Engenharia de dados**, para levar suas automações a um nível de produção mais robusto e escalável.
 - **Econometria e séries temporais mais avançadas**, para sofisticar seus modelos de previsão.
 - **Especializações setoriais** (mercado financeiro, macroeconomia, demonstrativos financeiros), para aplicar tudo o que você aprendeu num domínio específico.
 - **IA generativa aplicada**, incorporando agentes e automações mais sofisticadas ao seu fluxo de trabalho.
 
-Continue praticando com dados reais, revisitando os projetos dos quatro blocos sempre que quiser refrescar um conceito, e buscando aplicar o que aprendeu no seu trabalho ou nos seus estudos desde já.
+Continue praticando com dados reais e aplique o que aprendeu no seu trabalho desde já.
 
 # Onde você pode atuar com essa formação
 
-Lá na página de boas-vindas, listamos os cargos e áreas que essa formação te prepara para buscar. Agora que você concluiu a trilha, veja o que aprendeu em cada bloco se traduz, na prática, para cada uma dessas posições:
+Os cargos que listamos nas boas-vindas, agora com o que da trilha sustenta cada um:
 
-**Analista de Dados em Python** — Os fundamentos de análise de dados e Python (Bloco 1) somados à modelagem e previsão (Bloco 2) são exatamente o dia a dia de um analista de dados: transformar uma pergunta de negócio em uma resposta baseada em evidência, automatizando o caminho todo.
-
-**Analista de Data Science / Cientista de Dados Jr.** — A combinação de estatística, modelagem preditiva (Bloco 2) e projetos reais de portfólio (Bloco 4) é a porta de entrada clássica para posições júnior de ciência de dados.
-
-**Analista de Automação e BI** — Os dashboards e relatórios automáticos que você construiu no Bloco 3 substituem, na prática, boa parte do trabalho manual que hoje trava times de BI — você já sai sabendo entregar isso de forma automatizada.
-
-**Analista Financeiro ou de Operações orientado a dados** — Com Python e automação (Blocos 1 e 3), você elimina retrabalho de planilhas e ganha velocidade na apuração de indicadores — habilidade cada vez mais exigida em áreas financeiras e operacionais.
-
-**Consultor(a) de dados** — A trilha completa — fundamentos, modelagem, comunicação e projetos aplicados de IA — é a caixa de ferramentas de quem presta consultoria analítica para terceiros.
-
-**Referência em análise de dados na própria organização** — Ao dominar o ciclo inteiro, da coleta à automação de relatórios com IA (Bloco 4), você se torna a pessoa que o time recorre quando o assunto é dados — mesmo sem mudar de cargo.
+- **Analista de Dados em Python** — fundamentos e Python (Bloco 1) com modelagem e previsão (Bloco 2): transformar uma pergunta de negócio em resposta baseada em evidência.
+- **Cientista de Dados Jr.** — estatística e modelagem preditiva (Bloco 2) mais os projetos de portfólio (Bloco 4), a porta de entrada clássica da área.
+- **Analista de Automação e BI** — os dashboards e relatórios automáticos do Bloco 3 substituem boa parte do trabalho manual que trava times de BI.
+- **Analista Financeiro ou de Operações** — Python e automação (Blocos 1 e 3) eliminam retrabalho de planilhas na apuração de indicadores.
+- **Consultor(a) de dados** — a trilha completa é a caixa de ferramentas de quem presta consultoria analítica.
+- **Referência em dados na própria organização** — dominando o ciclo inteiro, você vira a pessoa que o time procura. Sem precisar mudar de cargo.
 
 # Seus certificados
 
-Esta formação emite **dois tipos de certificado**, e eles são obtidos em lugares diferentes. Vale entender a diferença antes de seguir:
-
-| | Certificado do curso | Certificado da formação |
-|---|---|---|
-| **O que cobre** | Um curso isolado da trilha | A trilha completa |
-| **Quantos** | Um para cada curso concluído | Um único, consolidado |
-| **Onde emitir** | Na própria página do curso | Na página de grupo da formação |
-| **Requisito** | Todas as aulas e seções daquele curso marcadas como concluídas | **Todos os cursos da formação** concluídos |
+Esta formação emite **dois tipos de certificado**, obtidos em lugares diferentes.
 
 ## Certificado de cada curso
 

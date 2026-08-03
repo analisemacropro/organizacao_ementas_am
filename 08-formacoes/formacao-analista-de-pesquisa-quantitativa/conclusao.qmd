@@ -16,47 +16,42 @@ theme:
 
 # Parabéns por chegar até aqui!
 
-Se você está lendo esta página, é porque percorreu os seis blocos da Formação Analista de Pesquisa Quantitativa — e isso é uma conquista e tanto. Você saiu de um ponto de partida e construiu, aula após aula, projeto após projeto, o domínio de três linguagens completas — Python, R e SQL — integradas a estatística, econometria, séries temporais, machine learning e IA generativa. Poucas trilhas de formação em dados são tão amplas quanto essa, e isso é resultado de disciplina e prática real.
+Você percorreu os seis blocos da Formação Analista de Pesquisa Quantitativa e domina hoje três linguagens completas — Python, R e SQL — integradas a estatística, econometria, séries temporais, machine learning e IA generativa. Poucas trilhas de formação em dados são tão amplas.
 
-Vale reconhecer o caminho: você se **integrou à plataforma** (Bloco 1), construiu a **base de programação e análise de dados** em três linguagens (Bloco 2), dominou **estatística e econometria aplicada** (Bloco 3), avançou para **modelagem e previsão** (Bloco 4), aprendeu a aplicar **Inteligência Artificial** à pesquisa quantitativa (Bloco 5), e fechou tudo isso construindo o seu **portfólio de Data Science** (Bloco 6).
+O caminho, em resumo:
+
+- **Bloco 1** — integração à plataforma
+- **Bloco 2** — programação e análise de dados nas três linguagens
+- **Bloco 3** — estatística e econometria aplicada
+- **Bloco 4** — modelagem e previsão
+- **Bloco 5** — Inteligência Artificial na pesquisa quantitativa
+- **Bloco 6** — construção do portfólio de Data Science
 
 ## O que ainda vale a pena aprofundar
 
-A formação te deu uma base ampla e rigorosa — mas ela é só o começo da sua trajetória como pesquisador(a) quantitativo(a). Alguns caminhos naturais para continuar evoluindo:
+A base está pronta. Caminhos naturais para seguir:
 
 - **Especializações setoriais** (mercado financeiro, macroeconomia, demonstrativos financeiros), para aplicar tudo o que você aprendeu num domínio específico.
 - **Engenharia de dados**, para levar seus pipelines de pesquisa a um nível de produção mais robusto.
 - **Visualização e comunicação de dados**, para apresentar resultados complexos de forma cada vez mais clara.
 - **Aprofundamento em IA aplicada**, incorporando LLMs e agentes mais sofisticados ao seu fluxo de pesquisa.
 
-Continue praticando com dados reais, revisitando os projetos dos seis blocos sempre que quiser refrescar um conceito, e aproveitando o Clube AM para se manter atualizado com novos códigos e aplicações.
+Continue praticando com dados reais e aproveite o Clube AM para se manter atualizado.
 
 # Onde você pode atuar com essa formação
 
-Lá na página de boas-vindas, listamos os cargos e áreas que essa formação te prepara para buscar. Agora que você concluiu a trilha, veja o que aprendeu em cada bloco se traduz, na prática, para cada uma dessas posições:
+Os cargos que listamos nas boas-vindas, agora com o que da trilha sustenta cada um:
 
-**Analista de Pesquisa Quantitativa** — A combinação de estatística, econometria (Bloco 3) e modelagem em três linguagens (Blocos 2 e 4) é exatamente o perfil buscado para conduzir pesquisas quantitativas do início ao fim, da hipótese à evidência.
-
-**Analista/Cientista de Dados** — Python, R e SQL dominados lado a lado (Bloco 2), somados a machine learning e IA (Bloco 5), formam a base técnica completa que esse cargo exige — independente da linguagem que a empresa usar.
-
-**Economista com foco em modelagem e previsão** — Os blocos de modelagem e séries temporais (Bloco 4) te dão as ferramentas para transformar teoria econômica em previsões quantitativas defensáveis.
-
-**Analista de Research (mercado financeiro ou consultorias)** — A trilha inteira — da coleta de dados à comunicação de resultados — espelha o dia a dia de quem produz research: hipótese, modelo, evidência, relatório.
-
-**Pesquisador(a) acadêmico(a) aplicado(a)** — A profundidade metodológica de estatística e econometria (Bloco 3), somada ao rigor de conduzir uma pesquisa do zero, é diretamente aplicável a projetos acadêmicos e científicos.
-
-**Consultor(a) quantitativo(a)** — Dominar três linguagens e o ciclo completo de pesquisa (Blocos 1 a 6) te credencia a atender projetos variados, adaptando a ferramenta certa a cada cliente.
+- **Analista de Pesquisa Quantitativa** — estatística e econometria (Bloco 3) com modelagem em três linguagens (Blocos 2 e 4): conduzir a pesquisa da hipótese à evidência.
+- **Analista/Cientista de Dados** — Python, R e SQL lado a lado (Bloco 2) mais machine learning e IA (Bloco 5), independente da linguagem que a empresa usar.
+- **Economista com foco em modelagem** — modelagem e séries temporais (Bloco 4) transformam teoria econômica em previsões defensáveis.
+- **Analista de Research** — a trilha inteira espelha o fluxo de quem produz research: hipótese, modelo, evidência, relatório.
+- **Pesquisador(a) acadêmico(a) aplicado(a)** — o rigor metodológico do Bloco 3 é diretamente aplicável a projetos científicos.
+- **Consultor(a) quantitativo(a)** — três linguagens e o ciclo completo te permitem adaptar a ferramenta certa a cada cliente.
 
 # Seus certificados
 
-Esta formação emite **dois tipos de certificado**, e eles são obtidos em lugares diferentes. Vale entender a diferença antes de seguir:
-
-| | Certificado do curso | Certificado da formação |
-|---|---|---|
-| **O que cobre** | Um curso isolado da trilha | A trilha completa |
-| **Quantos** | Um para cada curso concluído | Um único, consolidado |
-| **Onde emitir** | Na própria página do curso | Na página de grupo da formação |
-| **Requisito** | Todas as aulas e seções daquele curso marcadas como concluídas | **Todos os cursos da formação** concluídos |
+Esta formação emite **dois tipos de certificado**, obtidos em lugares diferentes.
 
 ## Certificado de cada curso
 

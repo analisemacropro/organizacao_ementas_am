@@ -16,47 +16,42 @@ theme:
 
 # Parabéns por chegar até aqui!
 
-Se você está lendo esta página, é porque percorreu os seis blocos da Formação em Análise Macroeconômica — e isso é uma conquista e tanto. Você saiu do nivelamento técnico e construiu, bloco após bloco, a capacidade de conduzir uma análise macroeconômica completa: da coleta de dados brutos à previsão de indicadores e à comunicação de resultados, unindo o rigor da teoria econômica ao poder da análise quantitativa.
+Você percorreu os seis blocos da Formação em Análise Macroeconômica e hoje conduz uma análise completa: da coleta de dados brutos à previsão de indicadores e à comunicação de resultados, unindo teoria econômica e análise quantitativa.
 
-Vale reconhecer o caminho: você fez o **nivelamento técnico** em SQL, R e Python (Bloco 1), aprendeu os **fundamentos da análise macroeconômica** (Bloco 2), dominou **métodos quantitativos** aplicados (Bloco 3), avançou para **modelagem e previsão macroeconômica** (Bloco 4), aplicou **IA a dados textuais e macroeconômicos** (Bloco 5), e fechou tudo isso automatizando relatórios de conjuntura no seu **projeto final** (Bloco 6).
+O caminho, em resumo:
+
+- **Bloco 1** — nivelamento técnico em SQL, R e Python
+- **Bloco 2** — fundamentos da análise macroeconômica
+- **Bloco 3** — métodos quantitativos aplicados
+- **Bloco 4** — modelagem e previsão macroeconômica
+- **Bloco 5** — IA aplicada a dados textuais e macroeconômicos
+- **Bloco 6** — projeto final automatizando relatórios de conjuntura
 
 ## O que ainda vale a pena aprofundar
 
-A formação te deu uma base completa entre teoria econômica e ferramental quantitativo — mas ela é só o começo da sua trajetória como economista de dados. Alguns caminhos naturais para continuar evoluindo:
+A base está pronta. Caminhos naturais para seguir:
 
 - **Mercado financeiro aplicado**, para conectar sua leitura macro a decisões de investimento e gestão de risco.
 - **Engenharia de dados**, para automatizar a coleta e o armazenamento das suas séries com ainda mais robustez.
 - **Modelos macroeconométricos mais avançados**, aprofundando DSGE, VAR estruturais e outras técnicas de fronteira.
 - **IA generativa e agentes aplicados à economia**, expandindo o que você viu no Bloco 5 para automações mais sofisticadas.
 
-Continue praticando com dados reais, revisitando os projetos dos seis blocos sempre que quiser refrescar um conceito, e acompanhando divulgações de indicadores para testar suas análises contra a realidade.
+Continue praticando com dados reais e acompanhe as divulgações de indicadores para testar suas análises contra a realidade.
 
 # Onde você pode atuar com essa formação
 
-Lá na página de boas-vindas, listamos os cargos e áreas que essa formação te prepara para buscar. Agora que você concluiu a trilha, veja o que aprendeu em cada bloco se traduz, na prática, para cada uma dessas posições:
+Os cargos que listamos nas boas-vindas, agora com o que da trilha sustenta cada um:
 
-**Economista / Analista de Research Macroeconômico** — Os fundamentos de análise de conjuntura (Bloco 2) somados à modelagem e previsão (Bloco 4) são exatamente o dia a dia de quem produz research macro: ler indicadores, construir cenários e defender uma visão com evidência.
-
-**Analista de Mercado Financeiro (asset, banco ou corretora)** — A leitura de indicadores como IPCA, PIB e mercado de trabalho (Bloco 2), combinada a modelos de previsão em Python e R (Bloco 4), é a base que sustenta decisões de alocação e gestão de risco no mercado financeiro.
-
-**Economista de Consultoria ou Órgão Público** — O bloco de métodos quantitativos (Bloco 3) e a automação de relatórios de conjuntura (Bloco 6) preparam você para produzir análises técnicas recorrentes, no ritmo que consultorias e órgãos públicos exigem.
-
-**Analista de Conjuntura** — Você já sai da formação sabendo transformar dados brutos em análises interpretativas (Bloco 2), com sazonalidade, tendências e comparações — o núcleo do trabalho de quem acompanha conjuntura no dia a dia.
-
-**Pesquisador(a) ou Professor(a) de Economia aplicada** — A profundidade de econometria, séries temporais e macroeconometria (Blocos 3 e 4) dá o rigor metodológico necessário para projetos de pesquisa e para ensinar economia aplicada com ferramentas modernas.
-
-**Cientista de Dados com foco em macroeconomia** — A combinação de machine learning, NLP e IA aplicados a comunicados do FED e do Copom (Bloco 5) é um diferencial raro: poucos cientistas de dados dominam o contexto macroeconômico, e poucos economistas dominam essas técnicas — você sai com os dois.
+- **Economista / Analista de Research Macro** — conjuntura (Bloco 2) com modelagem e previsão (Bloco 4): ler indicadores, construir cenários e defender uma visão com evidência.
+- **Analista de Mercado Financeiro** — a leitura de IPCA, PIB e mercado de trabalho (Bloco 2) com modelos de previsão (Bloco 4) sustenta decisões de alocação e risco.
+- **Economista de Consultoria ou Órgão Público** — métodos quantitativos (Bloco 3) e relatórios automatizados (Bloco 6) para análises técnicas recorrentes.
+- **Analista de Conjuntura** — transformar dados brutos em análise interpretativa (Bloco 2), com sazonalidade, tendências e comparações.
+- **Pesquisador(a) ou Professor(a)** — econometria, séries temporais e macroeconometria (Blocos 3 e 4) dão o rigor metodológico para pesquisa e docência.
+- **Cientista de Dados com foco macro** — machine learning e NLP aplicados a comunicados do FED e do Copom (Bloco 5). Poucos cientistas de dados dominam o contexto macro, e poucos economistas dominam essas técnicas.
 
 # Seus certificados
 
-Esta formação emite **dois tipos de certificado**, e eles são obtidos em lugares diferentes. Vale entender a diferença antes de seguir:
-
-| | Certificado do curso | Certificado da formação |
-|---|---|---|
-| **O que cobre** | Um curso isolado da trilha | A trilha completa |
-| **Quantos** | Um para cada curso concluído | Um único, consolidado |
-| **Onde emitir** | Na própria página do curso | Na página de grupo da formação |
-| **Requisito** | Todas as aulas e seções daquele curso marcadas como concluídas | **Todos os cursos da formação** concluídos |
+Esta formação emite **dois tipos de certificado**, obtidos em lugares diferentes.
 
 ## Certificado de cada curso
 
