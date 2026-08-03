@@ -42,6 +42,9 @@ Continue praticando com dados reais de mercado e teste suas automações contra 
 Os cargos que listamos nas boas-vindas, agora com o que da trilha sustenta cada um:
 
 - **Analista Quantitativo (Quant) Jr.** — modelagem com machine learning e econometria (Bloco 4): precificação de opções, previsão de volatilidade, VaR.
+- **Cientista de Dados (mercado financeiro)** — a base de Python e análise de dados (Bloco 2) com a modelagem do Bloco 4 é o instrumental de quem constrói modelos e avalia erros num domínio de alto valor.
+- **Engenheiro(a) de Machine Learning** — os modelos do Bloco 4 somados aos pipelines automatizados do Bloco 5, que é o que mantém um modelo rodando em produção.
+- **Especialista em IA aplicada a finanças** — os relatórios e dashboards com IA do Bloco 5 aplicam LLMs a um domínio específico, combinação que poucos dominam.
 - **Analista de Mercado com foco em automação** — coleta via APIs e web scraping (Bloco 3) substitui planilhas por processos escaláveis.
 - **Assessor(a) de Investimentos** — Python aplicado a dados financeiros (Blocos 2 e 3) sustenta recomendações com análise própria, sem depender de relatórios de terceiros.
 - **Analista de Gestora, Corretora ou Banco** — coleta, modelagem e automação (Blocos 3 a 5) espelham o fluxo de mesas de operação e research.

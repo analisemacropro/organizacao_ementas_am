@@ -23,6 +23,8 @@ Não importa se você nunca escreveu uma linha de código. A formação foi dese
 Ao final dos seis blocos, você vai dominar o R aplicado a economia e finanças, sabendo coletar dados das principais bases do país e do mundo, construir e interpretar modelos estatísticos e econométricos, e automatizar todo esse processo em relatórios e dashboards que rodam sozinhos. É essa combinação — amplitude de ferramentas mais rigor metodológico — que abre portas para posições como:
 
 - **Analista de Dados** (com foco em economia e finanças)
+- **Cientista de Dados**
+- **Engenheiro(a) de Machine Learning**
 - **Economista com foco em modelagem e previsão**
 - **Analista de Research** (mercado financeiro ou consultorias)
 - **Analista de Risco e de Investimentos**

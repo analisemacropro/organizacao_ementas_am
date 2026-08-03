@@ -48,6 +48,8 @@ Os cargos que listamos nas boas-vindas, agora com o que da trilha sustenta cada 
 - **Analista de Conjuntura** — transformar dados brutos em análise interpretativa (Bloco 2), com sazonalidade, tendências e comparações.
 - **Pesquisador(a) ou Professor(a)** — econometria, séries temporais e macroeconometria (Blocos 3 e 4) dão o rigor metodológico para pesquisa e docência.
 - **Cientista de Dados com foco macro** — machine learning e NLP aplicados a comunicados do FED e do Copom (Bloco 5). Poucos cientistas de dados dominam o contexto macro, e poucos economistas dominam essas técnicas.
+- **Engenheiro(a) de Machine Learning** — os modelos do Bloco 4 com a automação de relatórios do Bloco 6: o que faz um modelo rodar sozinho, e não só no notebook.
+- **Especialista em IA aplicada a economia** — o Bloco 5 traz IA sobre dados textuais e macroeconômicos, aplicável a qualquer área que precise extrair sinal de documentos e séries.
 
 # Seus certificados
 

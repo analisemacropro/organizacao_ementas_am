@@ -43,6 +43,8 @@ Continue praticando com dados reais e aplique o que aprendeu no seu trabalho des
 Os cargos que listamos nas boas-vindas, agora com o que da trilha sustenta cada um:
 
 - **Analista de Dados (economia e finanças)** — o ciclo completo (Bloco 1) com coleta, tratamento e apresentação em R (Blocos 2 e 4).
+- **Cientista de Dados** — estatística e modelagem (Bloco 3) com Modelos Preditivos de Machine Learning (Bloco 5): construir modelos, avaliar erros e iterar até a previsão confiável.
+- **Engenheiro(a) de Machine Learning** — machine learning (Bloco 5) somado à automação de pipelines com GitHub Actions (Bloco 4), que é o que leva um modelo do notebook para produção.
 - **Economista com foco em modelagem** — estatística, econometria e séries temporais (Blocos 3 e 5): construir um modelo, interpretar resultados e avaliar erros.
 - **Analista de Research** — coleta automatizada (Bloco 2), modelagem (Bloco 3) e relatórios recorrentes (Bloco 4), sem refazer tudo à mão a cada rodada.
 - **Analista de Risco e de Investimentos** — Mercado Financeiro, Econometria Financeira e Demonstrativos Financeiros (Bloco 5) para precificação, risco e avaliação de ativos.

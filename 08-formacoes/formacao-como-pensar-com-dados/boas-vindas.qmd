@@ -21,6 +21,7 @@ Parabéns por dar esse passo. Você está prestes a percorrer uma trilha complet
 Ao final dos cinco blocos, você não vai apenas conhecer ferramentas isoladas. Você vai pensar como um analista de dados: saber formular a pergunta certa, buscar e organizar a informação, tratar e transformar dados brutos em evidência, e transformar essa evidência em decisão. É exatamente essa combinação — raciocínio analítico mais domínio técnico — que abre as portas para posições como:
 
 - **Analista de Dados**
+- **Cientista de Dados Jr.**
 - **Analista de Business Intelligence (BI)**
 - **Analista Financeiro orientado a dados**
 - **Analista de Operações, Marketing ou FP&A**

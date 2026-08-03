@@ -21,6 +21,9 @@ Parabéns por dar esse passo. Você está prestes a percorrer uma trilha complet
 Ao final dos cinco blocos, você vai dominar Python para coletar, tratar, modelar e visualizar dados financeiros em tempo real, conectando programação, finanças e Inteligência Artificial em um mesmo conjunto de habilidades. É exatamente essa combinação — automação mais modelagem financeira — que abre as portas para posições como:
 
 - **Analista Quantitativo (Quant) Jr.**
+- **Cientista de Dados** (com foco no mercado financeiro)
+- **Engenheiro(a) de Machine Learning**
+- **Especialista em IA aplicada** a finanças
 - **Analista de Mercado Financeiro com foco em automação**
 - **Assessor(a) de Investimentos orientado(a) a dados**
 - **Analista de Gestora, Corretora ou Banco**
