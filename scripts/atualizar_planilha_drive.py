@@ -26,6 +26,7 @@ import gspread
 from google_auth_oauthlib.flow import InstalledAppFlow
 from google.oauth2.credentials import Credentials
 from google.auth.transport.requests import Request
+from google.auth.exceptions import RefreshError
 
 # ---------------------------------------------------------------------------
 # Configuração
@@ -44,14 +45,28 @@ SCOPES = ["https://www.googleapis.com/auth/spreadsheets"]
 
 
 def _autenticar() -> Credentials:
-    """OAuth de usuário: usa token.json se existir/for válido; senão, abre o navegador."""
+    """OAuth de usuário: usa token.json se existir/for válido; senão, abre o navegador.
+
+    Se a renovação do token falhar (o Google invalida o refresh token a cada 7 dias
+    enquanto a tela de consentimento estiver em modo "Teste"), refaz o login no
+    navegador em vez de quebrar.
+    """
     creds = None
     if TOKEN.exists():
         creds = Credentials.from_authorized_user_file(str(TOKEN), SCOPES)
     if not creds or not creds.valid:
+        renovou = False
         if creds and creds.expired and creds.refresh_token:
-            creds.refresh(Request())
-        else:
+            try:
+                creds.refresh(Request())
+                renovou = True
+            except RefreshError:
+                # Com a tela de consentimento OAuth em modo "Teste", o Google
+                # invalida o refresh token a cada 7 dias. Refaz o login em vez
+                # de quebrar. Para parar de repetir, publique a tela de
+                # consentimento como "Em producao" no Google Cloud Console.
+                print("Token expirado ou revogado pelo Google - refazendo o login...")
+        if not renovou:
             if not CRED.exists():
                 sys.exit(
                     f"ERRO: falta o arquivo de credenciais OAuth em {CRED}\n"

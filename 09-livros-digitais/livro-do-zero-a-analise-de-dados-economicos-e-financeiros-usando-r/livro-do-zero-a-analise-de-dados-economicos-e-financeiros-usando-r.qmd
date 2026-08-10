@@ -1,0 +1,130 @@
+---
+title: '<a href="https://analisemacro.com.br/" target="_blank"><img src="https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png" alt="Logotipo Análise Macro" width="150"></a>  <br>  **Livro Digital: Do Zero à Análise de Dados Econômicos e Financeiros usando R**'
+subtitle: "Conteúdo e informações gerais do livro"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+theme:
+  light: flatly
+---
+
+# Resumo
+
+Este livro digital leva o leitor do zero ao nível avançado em análise de dados para economia e finanças usando a linguagem R. É a versão em R do roteiro da Análise Macro: quais ferramentas dominar, em que ordem estudar e como transformar teoria em código que roda em casos reais com dados brasileiros.
+
+O conteúdo segue o ciclo da análise de dados — objetivo, coleta, exploração, modelagem, validação e implantação — organizado em cinco partes. A programação começa no Google Colab, sem instalar nada no computador, passa pelo tidyverse e termina em um projeto aplicado de previsão do IPCA com modelos SARIMA.
+
+Acompanham o livro um workshop gravado com uma análise de dados completa comentada linha a linha e dez mini-cursos com vídeo e código para praticar em bases reais da economia brasileira.
+
+| | |
+|---|---|
+| **Categoria** | Livros Digitais |
+| **Formato** | Livro digital em PDF |
+| **Autores** | Fernando da Silva e Vítor Wilher |
+| **Linguagem** | R (no Google Colab) |
+| **Nível** | Iniciante (sem pré-requisitos) |
+| **Complementos** | Workshop gravado + 10 mini-cursos com código |
+| **Garantia** | 30 dias incondicional |
+
+# Para quem é
+
+- Quem quer entrar no mercado de análise de dados econômicos e financeiros e procura um roteiro de estudo em vez de conteúdo solto.
+- Economistas, administradores, contadores e estudantes sem experiência prévia com programação.
+- Analistas que trabalham com dados no Excel e querem migrar para o R.
+- Quem já tentou aprender por vídeos avulsos e travou na hora de reproduzir código.
+
+# O que você vai aprender
+
+- Sair do zero em R e implementar rotinas de análise de dados.
+- Usar o R sem instalar nenhum programa no computador.
+- Criar scripts de análise, instalar pacotes e interpretar mensagens de erro.
+- Montar o processo completo de análise: coleta, tratamento, modelagem e apresentação dos dados.
+- Explorar dados de acordo com o tipo de variável, diferenciando análise univariada de multivariada.
+- Escolher o gráfico apropriado para cada situação e ler o que ele mostra.
+- Entender o que são séries temporais, suas vantagens e suas limitações.
+- Dominar o fluxo de modelagem e previsão e avaliar se um modelo é bom ou ruim.
+- Construir uma mentalidade de resolução de problemas baseada em dados.
+- Identificar o que é necessário para automatizar um processo de análise.
+
+# Sumário do livro
+
+## Parte I — O ciclo da análise de dados
+
+- Introdução
+- O roteiro — objetivo, dados, exploração, modelagem, validação e implantação
+
+## Parte II — Programação: R e Colab
+
+- Por que usar o R?
+- Google Colab e Olá, Mundo!
+- Pacotes
+- Introdução ao Tidyverse
+- Criando scripts
+- Lidando com objetos
+- Estruturas de dados
+- Operadores
+
+## Parte III — Exploração de dados
+
+- Tipos de variáveis
+- Processo gerador dos dados
+- Estatísticas descritivas
+- Gráfico de dispersão
+- Gráfico de histograma
+- Gráfico de boxplot
+- Gráfico de linha
+- Análise de correlação
+- Análise de autocorrelação
+- Análise de estacionariedade
+- Análise de séries temporais
+
+## Parte IV — Modelagem e previsão
+
+- Fluxo de trabalho
+- Exemplo aplicado
+
+## Parte V — Projeto: previsão do IPCA
+
+- Modelos SARIMA
+- Previsão do IPCA
+- Conclusão
+
+# Materiais que acompanham o livro
+
+## Workshop gravado
+
+**Como Construir uma Análise de Dados Econômicos e Financeiros Completa** — uma análise do começo ao fim com as ferramentas apresentadas no livro, comentando cada linha de código aplicada.
+
+## Dez mini-cursos com código para praticar
+
+Exercícios práticos com tutorial em vídeo e código pronto, para reproduzir análises completas:
+
+- Como criar tabelas de dados econômicos.
+- Como criar uma análise de dados financeiros.
+- Análise de dados regionais do CAGED.
+- Análise de dados regionais do IPCA.
+- Análise de dados do PIB.
+- Análise de grupos do IPCA.
+- Análise de séries temporais.
+- Como automatizar o tratamento de dados feito no Excel.
+- Como coletar dados do Banco Central Europeu (ECB) pela API.
+- Análise da DRE de empresas de capital aberto.
+
+# Autores
+
+**Fernando da Silva** — bacharel em Economia e cientista de dados, especializado em economia e finanças. Trabalha com modelagem e previsão de séries temporais, análise e visualização de dados e automatização de relatórios e dashboards.
+
+**Vítor Wilher** — mestre em Economia e Cientista-Chefe da Análise Macro. Dá aulas e presta consultoria na área de dados, tendo ajudado milhares de alunos no Brasil a dar o primeiro passo em análise de dados com R e Python.
+
+# Compra
+
+A compra dá acesso ao livro digital em PDF, ao workshop gravado e aos dez mini-cursos com código, com garantia incondicional de 30 dias.
+
+- 📄 **Página do livro:** <https://analisemacro.com.br/conteudo/livros/livro-digital-do-zero-a-analise-de-dados-economicos-e-financeiros-usando-r/>
+- 🛒 **Compra:** <https://aluno.analisemacro.com.br/carrinho/?add-to-cart=66206>

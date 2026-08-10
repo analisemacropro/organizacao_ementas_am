@@ -1,0 +1,130 @@
+---
+title: '<a href="https://analisemacro.com.br/" target="_blank"><img src="https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png" alt="Logotipo Análise Macro" width="150"></a>  <br>  **Livro Digital: Do Zero à Análise de Dados Econômicos e Financeiros com Python**'
+subtitle: "Conteúdo e informações gerais do livro"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+theme:
+  light: flatly
+---
+
+# Resumo
+
+Este livro digital percorre o caminho completo da análise de dados aplicada à economia e às finanças, do primeiro contato com o Python até a construção de um modelo de previsão. A proposta é dar um roteiro claro para quem quer entrar nessa área e não sabe por onde começar: quais ferramentas dominar, em que ordem estudar e como sair da teoria para o código que roda.
+
+O conteúdo é organizado em cinco partes que seguem o ciclo da análise de dados — objetivo, coleta, exploração, modelagem, validação e implantação. Você programa desde o começo no Google Colab, sem precisar instalar nada no computador, e termina com um projeto aplicado de previsão do IPCA usando modelos SARIMA.
+
+Junto com o livro vêm dois materiais complementares: um workshop gravado com uma análise de dados completa, comentada linha a linha, e dez mini-cursos com vídeo e código para praticar em bases reais da economia brasileira.
+
+| | |
+|---|---|
+| **Categoria** | Livros Digitais |
+| **Formato** | Livro digital em PDF |
+| **Autores** | Fernando da Silva e Vítor Wilher |
+| **Linguagem** | Python (no Google Colab) |
+| **Nível** | Iniciante (sem pré-requisitos) |
+| **Complementos** | Workshop gravado + 10 mini-cursos com código |
+| **Garantia** | 30 dias incondicional |
+
+# Para quem é
+
+- Quem quer entrar no mercado de análise de dados econômicos e financeiros e procura um roteiro de estudo em vez de conteúdo solto.
+- Economistas, administradores, contadores e estudantes sem experiência prévia com programação.
+- Analistas que já trabalham com dados no Excel e querem migrar para o Python.
+- Quem já tentou aprender por vídeos avulsos e travou na hora de reproduzir código.
+
+# O que você vai aprender
+
+- Sair do zero em Python e implementar rotinas de análise de dados.
+- Usar o Python sem instalar nenhum programa no computador.
+- Criar scripts de análise, instalar bibliotecas e interpretar mensagens de erro.
+- Montar o processo completo de análise: coleta, tratamento, modelagem e apresentação dos dados.
+- Explorar dados de acordo com o tipo de variável, diferenciando análise univariada de multivariada.
+- Escolher o gráfico apropriado para cada situação e ler o que ele mostra.
+- Entender o que são séries temporais, suas vantagens e suas limitações.
+- Dominar o fluxo de modelagem e previsão e avaliar se um modelo é bom ou ruim.
+- Construir uma mentalidade de resolução de problemas baseada em dados.
+- Identificar o que é necessário para automatizar um processo de análise.
+
+# Sumário do livro
+
+## Parte I — O ciclo da análise de dados
+
+- 1. Introdução
+- 2. O roteiro — objetivo, dados, exploração, modelagem, validação e implantação
+
+## Parte II — Programação: Python e Colab
+
+- 3. Por que usar o Python?
+- 4. Google Colab e Olá, Mundo!
+- 5. Bibliotecas
+- 6. Introdução ao Pandas
+- 7. Criando scripts
+- 8. Lidando com objetos
+- 9. Estruturas de dados
+- 10. Operadores
+
+## Parte III — Exploração de dados
+
+- 11. Tipos de variáveis
+- 12. Processo gerador dos dados
+- 13. Estatísticas descritivas
+- 14. Gráfico de dispersão
+- 15. Gráfico de histograma
+- 16. Gráfico de boxplot
+- 17. Gráfico de linha
+- 18. Análise de correlação
+- 19. Análise de autocorrelação
+- 20. Análise de estacionariedade
+- 21. Análise de séries temporais
+
+## Parte IV — Modelagem e previsão
+
+- 22. Fluxo de trabalho
+- 23. Exemplo aplicado
+
+## Parte V — Projeto: previsão do IPCA
+
+- 24. Modelos SARIMA
+- 25. Previsão do IPCA
+- 26. Conclusão
+
+# Materiais que acompanham o livro
+
+## Workshop gravado
+
+**Como Construir uma Análise de Dados Econômicos e Financeiros Completa** — uma análise do começo ao fim com as ferramentas apresentadas no livro, comentando cada linha de código aplicada.
+
+## Dez mini-cursos com código para praticar
+
+Exercícios práticos com tutorial em vídeo e código pronto, para reproduzir análises completas:
+
+- Como criar tabelas de dados econômicos no Python.
+- Como criar uma análise de dados financeiros usando o Python.
+- Análise de dados regionais do CAGED.
+- Análise de dados regionais do IPCA.
+- Análise de dados do PIB.
+- Análise de grupos do IPCA.
+- Análise de séries temporais.
+- Como automatizar no Python o tratamento de dados feito no Excel.
+- Como coletar dados do Banco Central Europeu (ECB) pela API.
+- Análise da DRE de empresas de capital aberto.
+
+# Autores
+
+**Fernando da Silva** — bacharel em Economia e cientista de dados, especializado em economia e finanças. Trabalha com modelagem e previsão de séries temporais, análise e visualização de dados e automatização de relatórios e dashboards.
+
+**Vítor Wilher** — mestre em Economia e Cientista-Chefe da Análise Macro. Dá aulas e presta consultoria na área de dados, tendo ajudado milhares de alunos no Brasil a dar o primeiro passo em análise de dados com R e Python.
+
+# Compra
+
+A compra dá acesso ao livro digital em PDF, ao workshop gravado e aos dez mini-cursos com código, com garantia incondicional de 30 dias.
+
+- 📄 **Página do livro:** <https://analisemacro.com.br/conteudo/livros/livro-digital-do-zero-a-analise-de-dados-economicos-e-financeiros-com-python/>
+- 🛒 **Compra:** <https://aluno.analisemacro.com.br/carrinho/?add-to-cart=57826>

@@ -14,7 +14,17 @@ python scripts/atualizar_planilha_drive.py
 
 Na 1ª execução abre o navegador para você autorizar com a conta
 `analisemacro.cloud@gmail.com`. Depois disso, o `token.json` é reaproveitado e não
-pede mais login.
+pede mais login — até ele expirar (ver abaixo).
+
+## Se pedir login de novo ("Token expirado ou revogado")
+
+Enquanto a tela de consentimento OAuth estiver em modo **"Teste"**, o Google invalida o
+*refresh token* a cada **7 dias**. Quando isso acontece, o script avisa e reabre o
+navegador sozinho: basta autorizar de novo e ele segue.
+
+Para parar de repetir esse login, publique o app no Google Cloud Console:
+**APIs e Serviços → Tela de permissão OAuth → Publicar app** ("Em produção"). Como o app
+é de uso interno e usa escopo do Sheets, a publicação não exige verificação do Google.
 
 ## Configuração inicial (uma vez) — credencial OAuth
 

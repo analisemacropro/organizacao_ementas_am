@@ -1,0 +1,173 @@
+---
+title: '<a href="https://analisemacro.com.br/" target="_blank"><img src="https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png" alt="Logotipo Análise Macro" width="150"></a>  <br>  **Introdução aos Modelos DSGE**'
+subtitle: "Programa e informações gerais do curso"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+theme:
+  light: flatly
+---
+
+# Resumo
+
+Os modelos DSGE (*Dynamic Stochastic General Equilibrium*) são a principal ferramenta de análise macroeconômica usada na academia, nos bancos centrais e no mercado financeiro. Este curso oferece uma introdução rigorosa e aplicada a esse arcabouço, ligando teoria, modelagem e evidência empírica.
+
+O caminho vai do modelo Novo-Keynesiano básico — derivação da Curva de Phillips, da Curva IS intertemporal e da regra de Taylor — até o modelo CHORINHO, calibrado para a economia brasileira. Cada bloco teórico é seguido de implementação computacional no DYNARE, com escrita de arquivos `.mod`, cálculo do steady state, log-linearização, diagnóstico de indeterminação e análise de funções de resposta a impulso.
+
+As aulas são remotas e síncronas, com gravação disponível para revisão. O curso termina simulando a resposta da economia brasileira aos principais choques macroeconômicos.
+
+| | |
+|---|---|
+| **Categoria** | Bancos Centrais |
+| **Carga horária total** | 22 horas |
+| **Número de encontros** | 11 encontros ao vivo |
+| **Duração de cada encontro** | 2 horas |
+| **Formato** | Ao vivo e online, com gravações disponíveis |
+| **Professor** | Luciano Vereda Oliveira (Doutor em Economia, PUC-Rio) |
+| **Software** | DYNARE |
+| **Nível** | Intermediário a avançado |
+
+# Pré-requisitos e Objetivos
+
+## Pré-requisitos
+
+Formação em macroeconomia de nível intermediário. O curso é voltado a economistas, analistas e profissionais que querem compreender e aplicar modelos DSGE de forma rigorosa.
+
+## O que você será capaz de fazer
+
+- Entender o que é um modelo DSGE e por que bancos centrais e mercado o utilizam.
+- Derivar as equações do modelo Novo-Keynesiano básico e interpretar seus parâmetros.
+- Escrever, rodar e depurar modelos no DYNARE do zero.
+- Verificar as condições de unicidade da solução e diagnosticar indeterminação.
+- Gerar e interpretar funções de resposta a impulso, confrontando-as com evidência empírica de modelos VAR.
+- Implementar e calibrar o modelo CHORINHO para a economia brasileira.
+- Simular a resposta da economia brasileira aos principais choques macroeconômicos.
+
+## Habilidades e ferramentas
+
+**Habilidades:** derivação e fechamento de modelos de equilíbrio geral, log-linearização e cálculo de steady state, solução sob expectativas racionais pelo método de Blanchard-Kahn, calibração de parâmetros, análise de IRFs e leitura crítica dos resultados à luz da conjuntura.
+
+**Ferramentas:** DYNARE como software principal de implementação. Referências teóricas: Woodford (2003), Galí (2015), Clarida et al. (1999), Smets & Wouters (2003, 2007), Blanchard & Kahn (1980), Kanczuk (2015) e a documentação oficial do DYNARE.
+
+# Programa Detalhado
+
+São onze encontros ao vivo de duas horas cada, com gravação disponível.
+
+## Encontro 1 — Fundamentos dos modelos DSGE
+
+Apresentação da abordagem de equilíbrio geral dinâmico e estocástico e por que ela se tornou central na análise macroeconômica.
+
+- O que é um modelo DSGE e por que bancos centrais e mercado o utilizam.
+- Decisões ótimas de famílias, firmas e autoridades sob restrições.
+- Estrutura geral do modelo básico e visão do caminho do curso.
+- Primeiro contato com o DYNARE: instalação e ambiente de trabalho.
+
+## Encontro 2 — Equilíbrio com preços flexíveis e a Curva de Phillips
+
+Derivação do bloco de oferta do modelo básico.
+
+- Determinação do equilíbrio com preços flexíveis.
+- Produto potencial e taxa de juros natural.
+- Hipótese de Calvo e derivação da Curva de Phillips Novo-Keynesiana.
+- Interpretação econômica dos parâmetros.
+
+## Encontro 3 — Curva IS intertemporal e regra de política monetária
+
+Derivação do bloco de demanda e do comportamento do Banco Central.
+
+- Derivação da Curva IS intertemporal.
+- Regra de Taylor e a resposta do BC à inflação.
+- Fechamento do modelo básico (sistema de equações).
+- Preparação para a implementação computacional.
+
+## Encontro 4 — Implementação do modelo básico no DYNARE
+
+Mão na massa: escrevendo o código do modelo do zero.
+
+- Estrutura de um arquivo `.mod` no DYNARE.
+- Declaração de variáveis, parâmetros, equações e choques.
+- Steady state e log-linearização.
+- Rodando o modelo e lendo as saídas.
+
+## Encontro 5 — Unicidade da solução e o princípio de Taylor
+
+Condições para que o equilíbrio seja único e bem definido.
+
+- Solução de modelos lineares sob expectativas racionais (Blanchard-Kahn).
+- Condições de determinação e unicidade do equilíbrio.
+- Justificativa formal do princípio de Taylor.
+- Diagnóstico de indeterminação no DYNARE.
+
+## Encontro 6 — Respostas impulsionais: DSGE e mundo real
+
+Confronto entre as respostas teóricas e as observadas na economia.
+
+- Funções de resposta a impulso (IRFs) do modelo básico.
+- Choques monetários, fiscais e de produtividade.
+- Respostas da vida real via modelos VAR identificados.
+- Onde o modelo básico acerta e onde ele falha.
+
+## Encontro 7 — Enriquecendo o modelo básico
+
+Extensões que aproximam o modelo dos dados.
+
+- Formação de hábito no consumo.
+- Custos de ajustamento do investimento em capital.
+- Motivação para um modelo voltado ao Brasil.
+- Do SAMBA ao CHORINHO: por que escolher o modelo menor.
+
+## Encontro 8 — A economia brasileira no modelo
+
+Peculiaridades da economia aberta brasileira.
+
+- Economia relativamente aberta e o setor externo.
+- Exportação de commodities.
+- Prêmio de risco e captação nos mercados internacionais.
+- Referência: Galí & Monacelli (economia aberta pequena).
+
+## Encontro 9 — CHORINHO: estrutura e derivação
+
+Apresentação detalhada do modelo de Kanczuk (2015).
+
+- Blocos do modelo: famílias, firmas, setor externo e política.
+- Equações de equilíbrio e calibração.
+- Interpretação econômica dos mecanismos.
+- Comparação com o modelo básico.
+
+## Encontro 10 — CHORINHO no DYNARE
+
+Implementação computacional completa.
+
+- Codificação do CHORINHO no DYNARE.
+- Steady state e calibração dos parâmetros.
+- Depuração e verificação do modelo.
+- Boas práticas de organização do código.
+
+## Encontro 11 — Simulação e comportamento da economia brasileira
+
+Uso do modelo para análise aplicada e encerramento.
+
+- Simulação do CHORINHO.
+- Respostas da economia brasileira aos principais choques macroeconômicos.
+- Interpretação dos resultados à luz da conjuntura.
+
+# Bônus
+
+Curso gravado **Modelo de Pequeno Porte (MPP) do Banco Central do Brasil**, também com o professor Luciano Vereda Oliveira, com 16 horas de conteúdo.
+
+# Professor
+
+**Luciano Vereda Oliveira** — doutor em Economia pela PUC-Rio e professor associado da Universidade Federal Fluminense (UFF), com ampla experiência em macroeconomia aplicada, modelos DSGE e curva de juros. Atuou como consultor e instrutor para instituições financeiras, empresas e órgãos públicos.
+
+# Inscrição
+
+A matrícula dá acesso aos onze encontros ao vivo, às gravações e ao material do curso, além do curso gravado do MPP como bônus. Garantia de reembolso incondicional em até 7 dias.
+
+- 📄 **Página do curso:** <https://analisemacro.com.br/curso-ao-vivo/introducao-aos-modelos-dsge/>
+- 🛒 **Matrícula:** <https://aluno.analisemacro.com.br/produto/introducao-aos-modelos-dsge/>

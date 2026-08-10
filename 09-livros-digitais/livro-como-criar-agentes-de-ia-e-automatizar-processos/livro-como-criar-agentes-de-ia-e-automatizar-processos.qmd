@@ -1,0 +1,73 @@
+---
+title: '<a href="https://analisemacro.com.br/" target="_blank"><img src="https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png" alt="Logotipo Análise Macro" width="150"></a>  <br>  **Livro Digital: Como Criar Agentes de IA e Automatizar Processos**'
+subtitle: "Conteúdo e informações gerais do livro"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+theme:
+  light: flatly
+---
+
+# Resumo
+
+Este livro digital ensina a construir agentes de inteligência artificial e a automatizar tarefas com dados econômicos, mesmo para quem nunca programou. O foco é aplicado: entender como um agente funciona por dentro e montar o seu, capaz de responder perguntas sobre a economia brasileira a partir de dados públicos.
+
+O caminho começa nos LLMs — o que são e como usá-los com Python — e chega ao ciclo de automação que define um agente: pensamento, ação e observação. Na prática, o livro integra fontes como o Boletim Focus, os documentos do COPOM e APIs públicas, usando ferramentas como LangChain, Gemini e OpenAI.
+
+Todo o código vem pronto para rodar no Google Colab, o que dispensa instalação e permite reproduzir os exemplos desde a primeira leitura.
+
+| | |
+|---|---|
+| **Categoria** | Livros Digitais |
+| **Formato** | Livro digital em PDF |
+| **Autor** | Vítor Wilher |
+| **Linguagem** | Python (no Google Colab) |
+| **Nível** | Iniciante (sem pré-requisitos de programação) |
+| **Complementos** | Códigos prontos para o Colab + orientação de carreira |
+
+# Para quem é
+
+- Economistas e analistas de dados que querem aplicar IA no trabalho do dia a dia.
+- Estudantes e concurseiros em busca de um diferencial técnico imediato.
+- Profissionais de finanças, consultorias e política econômica.
+- Quem quer aprender a criar agentes de IA partindo do zero.
+
+# O que você vai aprender
+
+- Como funcionam os agentes de IA e por que eles mudam a forma de fazer análise.
+- O que são LLMs (como o ChatGPT) e como usá-los com Python.
+- O ciclo completo de automação com IA: pensamento → ação → observação.
+- Como integrar IA a dados do Boletim Focus, do COPOM e de APIs públicas.
+- Como construir um agente inteligente que responde perguntas econômicas.
+- Como usar LangChain, Gemini e OpenAI na prática.
+- Como automatizar processos recorrentes de análise.
+
+# Ferramentas
+
+- **Python** — linguagem usada em todos os exemplos.
+- **Google Colab** — ambiente de execução, sem instalação local.
+- **LangChain** — orquestração do agente e das ferramentas.
+- **Gemini e OpenAI** — modelos de linguagem usados nos exemplos.
+- **APIs públicas** — Boletim Focus, COPOM e outras fontes de dados econômicos.
+
+# Materiais que acompanham o livro
+
+- **Códigos prontos para o Google Colab** — os exemplos do livro em notebooks reproduzíveis.
+- **Orientação de carreira** — conversa com Vítor Wilher, Cientista-Chefe da Análise Macro, agendável após a compra, voltada a quem quer traçar um plano de crescimento com IA e dados ou migrar do Excel para o Python.
+
+# Autor
+
+**Vítor Wilher** — mestre em Economia e Cientista-Chefe da Análise Macro, especialista em ciência de dados. Nas palavras dele sobre o livro: *"Criei este livro com o desejo de encurtar o tempo de aprendizado dos meus alunos para o que há de mais avançado em análise de dados envolvendo IA e Python."*
+
+# Compra
+
+A compra dá acesso imediato ao livro digital e aos códigos prontos para uso no Google Colab.
+
+- 📄 **Página do livro:** <https://analisemacro.com.br/conteudo/livros/livro-digital-como-criar-agentes-de-ia-e-automatizar-processos/>
+- 🛒 **Compra:** <https://aluno.analisemacro.com.br/carrinho/?add-to-cart=67226>

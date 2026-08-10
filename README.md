@@ -19,15 +19,17 @@ O ponto de partida foi simples: o catálogo da Análise Macro cresceu ao longo d
 ├── 01-basicos-fundamentais/      ┐
 ├── 02-basicos-de-r/              │
 ├── 03-especializacao-em-r/       │  ementas (.qmd + .html) organizadas
-├── 04-basicos-de-python/         │  pelas 8 categorias do catálogo
+├── 04-basicos-de-python/         │  pelas 10 categorias do catálogo
 ├── 05-especializacao-em-python/  │
 ├── 06-especializacao-em-inteligencia-artificial/
 ├── 07-workshops-e-cursos-ao-vivo/
-├── 08-formacoes/                 ┘
+├── 08-formacoes/                 │
+├── 09-livros-digitais/           │
+├── 10-bancos-centrais/           ┘
 └── dashboard/                    → app de inscritos (Shiny for Python)
 ```
 
-Cada curso fica em sua própria pasta, com a ementa em Quarto (`.qmd`) e a versão renderizada (`.html`). São **56 ementas** no total (46 cursos e formações + 10 workshops), distribuídas em 8 categorias.
+Cada curso fica em sua própria pasta, com a ementa em Quarto (`.qmd`) e a versão renderizada (`.html`). São **61 ementas** no total (46 cursos e formações + 10 workshops + 3 livros digitais + 2 cursos de bancos centrais), distribuídas em 10 categorias.
 
 ## As ementas
 
@@ -101,6 +103,15 @@ Cada ementa segue o mesmo padrão: cabeçalho com a identidade da Análise Macro
 - [workshop-modelo-de-pequeno-porte-do-banco-central](https://analisemacropro.github.io/organizacao_ementas_am/07-workshops-e-cursos-ao-vivo/workshop-modelo-de-pequeno-porte-do-banco-central/workshop-modelo-de-pequeno-porte-do-banco-central.html)
 - [workshop-como-construir-sua-propria-bloomberg](https://analisemacropro.github.io/organizacao_ementas_am/07-workshops-e-cursos-ao-vivo/workshop-como-construir-sua-propria-bloomberg/workshop-como-construir-sua-propria-bloomberg.html)
 - [workshop-como-tratar-a-sazonalidade-no-brasil](https://analisemacropro.github.io/organizacao_ementas_am/07-workshops-e-cursos-ao-vivo/workshop-como-tratar-a-sazonalidade-no-brasil/workshop-como-tratar-a-sazonalidade-no-brasil.html)
+
+#### Livros Digitais
+- [livro-do-zero-a-analise-de-dados-economicos-e-financeiros-com-python](https://analisemacropro.github.io/organizacao_ementas_am/09-livros-digitais/livro-do-zero-a-analise-de-dados-economicos-e-financeiros-com-python/livro-do-zero-a-analise-de-dados-economicos-e-financeiros-com-python.html)
+- [livro-do-zero-a-analise-de-dados-economicos-e-financeiros-usando-r](https://analisemacropro.github.io/organizacao_ementas_am/09-livros-digitais/livro-do-zero-a-analise-de-dados-economicos-e-financeiros-usando-r/livro-do-zero-a-analise-de-dados-economicos-e-financeiros-usando-r.html)
+- [livro-como-criar-agentes-de-ia-e-automatizar-processos](https://analisemacropro.github.io/organizacao_ementas_am/09-livros-digitais/livro-como-criar-agentes-de-ia-e-automatizar-processos/livro-como-criar-agentes-de-ia-e-automatizar-processos.html)
+
+#### Bancos Centrais
+- [modelo-de-pequeno-porte-do-banco-central-bcb](https://analisemacropro.github.io/organizacao_ementas_am/10-bancos-centrais/modelo-de-pequeno-porte-do-banco-central-bcb/modelo-de-pequeno-porte-do-banco-central-bcb.html)
+- [introducao-aos-modelos-dsge](https://analisemacropro.github.io/organizacao_ementas_am/10-bancos-centrais/introducao-aos-modelos-dsge/introducao-aos-modelos-dsge.html)
 
 #### Formações
 - [formacao-como-pensar-com-dados](https://analisemacropro.github.io/organizacao_ementas_am/08-formacoes/formacao-como-pensar-com-dados/formacao-como-pensar-com-dados.html)

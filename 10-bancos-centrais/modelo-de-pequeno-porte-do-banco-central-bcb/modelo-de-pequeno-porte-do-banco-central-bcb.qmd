@@ -1,0 +1,104 @@
+---
+title: '<a href="https://analisemacro.com.br/" target="_blank"><img src="https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png" alt="Logotipo Análise Macro" width="150"></a>  <br>  **O Modelo de Pequeno Porte (MPP) do Banco Central do Brasil**'
+subtitle: "Programa e informações gerais do curso"
+author: "[Análise Macro](https://analisemacro.com.br/)"
+lang: pt
+format:
+  html:
+    page-layout: full
+    number-sections: true
+    number-depth: 1
+    toc: true
+    toc-title: "Nesta página"
+theme:
+  light: flatly
+---
+
+# Resumo
+
+O curso apresenta, estima e implementa versões dos modelos semiestruturais de pequeno porte usados nas discussões do Comitê de Política Monetária (COPOM). Introduzido por Bogdanski, Tombini e Werlang (2000), o MPP evoluiu bastante desde então e segue como a principal ferramenta de apoio à decisão do Banco Central do Brasil.
+
+A implementação é feita por meio de programas que automatizam procedimentos, aumentam a eficiência e reduzem o risco operacional. Todas as estimações e implementações acontecem no EViews, com uso do *Model Object* e, depois, da operacionalização por código. O curso encerra comparando os resultados obtidos com os divulgados pelo BCB e analisando as funções de resposta ao impulso.
+
+As aulas são remotas e síncronas, e as gravações ficam disponíveis para quem não conseguir acompanhar ao vivo.
+
+| | |
+|---|---|
+| **Categoria** | Bancos Centrais |
+| **Carga horária total** | 16 horas |
+| **Número de encontros** | 8 encontros ao vivo |
+| **Duração de cada encontro** | 2 horas |
+| **Formato** | Ao vivo e online, com gravações disponíveis |
+| **Professor** | Luciano Vereda Oliveira (Doutor em Economia, PUC-Rio) |
+| **Software** | EViews |
+| **Nível** | Avançado |
+
+# Pré-requisitos e Objetivos
+
+## Pré-requisitos
+
+O curso pressupõe familiaridade prévia com:
+
+- O modelo de pequeno porte (MPP) e a literatura de modelos semiestruturais.
+- O software EViews.
+- As técnicas usadas na estimação desse tipo de modelo.
+
+## O que você será capaz de fazer
+
+- Entender os modelos de projeção utilizados pelo Banco Central do Brasil.
+- Estimar os principais componentes do MPP no EViews.
+- Usar o *Model Object* do EViews para montar e simular o modelo completo.
+- Operacionalizar o modelo por meio de código, automatizando os procedimentos.
+- Comparar os resultados obtidos com os divulgados pelo BCB.
+- Analisar as funções de resposta ao impulso do modelo.
+
+## Habilidades e ferramentas
+
+**Habilidades:** estimação de modelos semiestruturais, montagem e simulação de sistemas de equações, automação de rotinas de projeção, leitura crítica dos resultados frente aos números oficiais do BCB e análise de funções de resposta ao impulso.
+
+**Ferramentas:** EViews, com destaque para o *Model Object* e para a programação de rotinas que reduzem o trabalho manual e o risco operacional.
+
+# Programa Detalhado
+
+O curso tem oito encontros ao vivo de duas horas cada, organizados em quatro blocos temáticos de quatro horas.
+
+## Bloco 1 — Os modelos de projeção do BCB e o MPP (4h)
+
+Ponto de partida do curso: onde o MPP se encaixa no conjunto de modelos usados pelo Banco Central e como estimar suas peças principais.
+
+- Os modelos de projeção utilizados pelo BCB.
+- Apresentação do modelo de pequeno porte (MPP).
+- Estimação de seus principais componentes no EViews.
+
+## Bloco 2 — O *Model Object* do EViews (4h)
+
+Apresentação da estrutura do EViews que permite tratar um conjunto de equações como um modelo único, passo necessário para simular e projetar.
+
+- Apresentação do *Model Object* do EViews.
+
+## Bloco 3 — Implementação do MPP (4h)
+
+O modelo sai do papel: as equações estimadas são reunidas e o MPP passa a rodar de ponta a ponta.
+
+- Implementação do MPP usando o *Model Object* do EViews.
+
+## Bloco 4 — Operacionalização por código e resultados (4h)
+
+Automação dos procedimentos e confronto com o mundo real.
+
+- Operacionalização por meio de códigos.
+- Comparação com resultados do BCB.
+- Análise das funções de resposta ao impulso.
+
+# Professor
+
+**Luciano Vereda Oliveira** — graduado em Engenharia Elétrica pela PUC-Rio (1990) e doutor em Economia pela PUC-Rio (2004). Foi professor do Instituto de Gestão de Riscos Financeiros e Atuariais da PUC-Rio entre 2005 e 2010. É professor associado da Universidade Federal Fluminense (UFF) e membro do programa de Pós-Graduação em Economia da instituição, com experiência em Finanças (com ênfase em modelos para a curva de juros) e em Macroeconomia (em especial modelos DSGE).
+
+Já prestou serviços de treinamento e consultoria para BB Asset Management, Banco do Brasil, Petrobras, PREVI, FAPES/BNDES, CNseg, Escola Nacional de Seguros (FUNENSEG), Bradesco Vida e Previdência e Itaú-Unibanco.
+
+# Inscrição
+
+A matrícula dá acesso aos oito encontros ao vivo e às gravações, com garantia de reembolso em até 7 dias.
+
+- 📄 **Página do curso:** <https://analisemacro.com.br/o-modelo-de-pequeno-porte-mpp-do-banco-central-do-brasil-bcb/>
+- 🛒 **Matrícula:** <https://aluno.analisemacro.com.br/carrinho/?add-to-cart=66416>

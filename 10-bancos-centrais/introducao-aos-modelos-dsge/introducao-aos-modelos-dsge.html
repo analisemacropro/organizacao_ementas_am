@@ -8,7 +8,7 @@
 
 <meta name="author" content="Análise Macro">
 
-<title>   Imersão Claude Code para Economistas, Administradores e Contadores</title>
+<title>   Introdução aos Modelos DSGE</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -27,17 +27,17 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="imersao-claude-code_files/libs/clipboard/clipboard.min.js"></script>
-<script src="imersao-claude-code_files/libs/quarto-html/quarto.js" type="module"></script>
-<script src="imersao-claude-code_files/libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="imersao-claude-code_files/libs/quarto-html/popper.min.js"></script>
-<script src="imersao-claude-code_files/libs/quarto-html/tippy.umd.min.js"></script>
-<script src="imersao-claude-code_files/libs/quarto-html/anchor.min.js"></script>
-<link href="imersao-claude-code_files/libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="imersao-claude-code_files/libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="imersao-claude-code_files/libs/bootstrap/bootstrap.min.js"></script>
-<link href="imersao-claude-code_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="imersao-claude-code_files/libs/bootstrap/bootstrap-293cc809d15782442e9b1098eedb6797.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="introducao-aos-modelos-dsge_files/libs/clipboard/clipboard.min.js"></script>
+<script src="introducao-aos-modelos-dsge_files/libs/quarto-html/quarto.js" type="module"></script>
+<script src="introducao-aos-modelos-dsge_files/libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="introducao-aos-modelos-dsge_files/libs/quarto-html/popper.min.js"></script>
+<script src="introducao-aos-modelos-dsge_files/libs/quarto-html/tippy.umd.min.js"></script>
+<script src="introducao-aos-modelos-dsge_files/libs/quarto-html/anchor.min.js"></script>
+<link href="introducao-aos-modelos-dsge_files/libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="introducao-aos-modelos-dsge_files/libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="introducao-aos-modelos-dsge_files/libs/bootstrap/bootstrap.min.js"></script>
+<link href="introducao-aos-modelos-dsge_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="introducao-aos-modelos-dsge_files/libs/bootstrap/bootstrap-293cc809d15782442e9b1098eedb6797.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 
 
 </head>
@@ -59,14 +59,21 @@ ul.task-list li input[type="checkbox"] {
   </ul></li>
   <li><a href="#programa-detalhado" id="toc-programa-detalhado" class="nav-link" data-scroll-target="#programa-detalhado"><span class="header-section-number">3</span> Programa Detalhado</a>
   <ul class="collapse">
-  <li><a href="#dia-1-claude-code-na-prática" id="toc-dia-1-claude-code-na-prática" class="nav-link" data-scroll-target="#dia-1-claude-code-na-prática">Dia 1 — Claude Code na prática</a></li>
-  <li><a href="#dia-2-dados-econômicos-ia" id="toc-dia-2-dados-econômicos-ia" class="nav-link" data-scroll-target="#dia-2-dados-econômicos-ia">Dia 2 — Dados Econômicos + IA</a></li>
-  <li><a href="#dia-3-como-construir-agentes" id="toc-dia-3-como-construir-agentes" class="nav-link" data-scroll-target="#dia-3-como-construir-agentes">Dia 3 — Como construir Agentes</a></li>
-  <li><a href="#dia-4-automação-e-pipelines" id="toc-dia-4-automação-e-pipelines" class="nav-link" data-scroll-target="#dia-4-automação-e-pipelines">Dia 4 — Automação e pipelines</a></li>
-  <li><a href="#dia-5-projetos-reais" id="toc-dia-5-projetos-reais" class="nav-link" data-scroll-target="#dia-5-projetos-reais">Dia 5 — Projetos Reais</a></li>
+  <li><a href="#encontro-1-fundamentos-dos-modelos-dsge" id="toc-encontro-1-fundamentos-dos-modelos-dsge" class="nav-link" data-scroll-target="#encontro-1-fundamentos-dos-modelos-dsge">Encontro 1 — Fundamentos dos modelos DSGE</a></li>
+  <li><a href="#encontro-2-equilíbrio-com-preços-flexíveis-e-a-curva-de-phillips" id="toc-encontro-2-equilíbrio-com-preços-flexíveis-e-a-curva-de-phillips" class="nav-link" data-scroll-target="#encontro-2-equilíbrio-com-preços-flexíveis-e-a-curva-de-phillips">Encontro 2 — Equilíbrio com preços flexíveis e a Curva de Phillips</a></li>
+  <li><a href="#encontro-3-curva-is-intertemporal-e-regra-de-política-monetária" id="toc-encontro-3-curva-is-intertemporal-e-regra-de-política-monetária" class="nav-link" data-scroll-target="#encontro-3-curva-is-intertemporal-e-regra-de-política-monetária">Encontro 3 — Curva IS intertemporal e regra de política monetária</a></li>
+  <li><a href="#encontro-4-implementação-do-modelo-básico-no-dynare" id="toc-encontro-4-implementação-do-modelo-básico-no-dynare" class="nav-link" data-scroll-target="#encontro-4-implementação-do-modelo-básico-no-dynare">Encontro 4 — Implementação do modelo básico no DYNARE</a></li>
+  <li><a href="#encontro-5-unicidade-da-solução-e-o-princípio-de-taylor" id="toc-encontro-5-unicidade-da-solução-e-o-princípio-de-taylor" class="nav-link" data-scroll-target="#encontro-5-unicidade-da-solução-e-o-princípio-de-taylor">Encontro 5 — Unicidade da solução e o princípio de Taylor</a></li>
+  <li><a href="#encontro-6-respostas-impulsionais-dsge-e-mundo-real" id="toc-encontro-6-respostas-impulsionais-dsge-e-mundo-real" class="nav-link" data-scroll-target="#encontro-6-respostas-impulsionais-dsge-e-mundo-real">Encontro 6 — Respostas impulsionais: DSGE e mundo real</a></li>
+  <li><a href="#encontro-7-enriquecendo-o-modelo-básico" id="toc-encontro-7-enriquecendo-o-modelo-básico" class="nav-link" data-scroll-target="#encontro-7-enriquecendo-o-modelo-básico">Encontro 7 — Enriquecendo o modelo básico</a></li>
+  <li><a href="#encontro-8-a-economia-brasileira-no-modelo" id="toc-encontro-8-a-economia-brasileira-no-modelo" class="nav-link" data-scroll-target="#encontro-8-a-economia-brasileira-no-modelo">Encontro 8 — A economia brasileira no modelo</a></li>
+  <li><a href="#encontro-9-chorinho-estrutura-e-derivação" id="toc-encontro-9-chorinho-estrutura-e-derivação" class="nav-link" data-scroll-target="#encontro-9-chorinho-estrutura-e-derivação">Encontro 9 — CHORINHO: estrutura e derivação</a></li>
+  <li><a href="#encontro-10-chorinho-no-dynare" id="toc-encontro-10-chorinho-no-dynare" class="nav-link" data-scroll-target="#encontro-10-chorinho-no-dynare">Encontro 10 — CHORINHO no DYNARE</a></li>
+  <li><a href="#encontro-11-simulação-e-comportamento-da-economia-brasileira" id="toc-encontro-11-simulação-e-comportamento-da-economia-brasileira" class="nav-link" data-scroll-target="#encontro-11-simulação-e-comportamento-da-economia-brasileira">Encontro 11 — Simulação e comportamento da economia brasileira</a></li>
   </ul></li>
   <li><a href="#bônus" id="toc-bônus" class="nav-link" data-scroll-target="#bônus"><span class="header-section-number">4</span> Bônus</a></li>
-  <li><a href="#inscrição" id="toc-inscrição" class="nav-link" data-scroll-target="#inscrição"><span class="header-section-number">5</span> Inscrição</a></li>
+  <li><a href="#professor" id="toc-professor" class="nav-link" data-scroll-target="#professor"><span class="header-section-number">5</span> Professor</a></li>
+  <li><a href="#inscrição" id="toc-inscrição" class="nav-link" data-scroll-target="#inscrição"><span class="header-section-number">6</span> Inscrição</a></li>
   </ul>
 </nav>
 </div>
@@ -74,7 +81,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title"><a href="https://analisemacro.com.br/" target="_blank"><img src="https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png" alt="Logotipo Análise Macro" width="150"></a> <br> <strong>Imersão Claude Code para Economistas, Administradores e Contadores</strong></h1>
+<h1 class="title"><a href="https://analisemacro.com.br/" target="_blank"><img src="https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png" alt="Logotipo Análise Macro" width="150"></a> <br> <strong>Introdução aos Modelos DSGE</strong></h1>
 <p class="subtitle lead">Programa e informações gerais do curso</p>
 </div>
 
@@ -100,22 +107,26 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="resumo" class="level1" data-number="1">
 <h1 data-number="1"><span class="header-section-number">1</span> Resumo</h1>
-<p>A Imersão Claude Code é um curso ao vivo voltado para quem trabalha com economia e finanças e quer usar inteligência artificial de forma prática no dia a dia. A proposta não é estudar IA na teoria, e sim construir com ela: criar agentes, automatizar análises de dados econômicos e montar pipelines que rodam sozinhos.</p>
-<p>São cinco encontros ao vivo de duas horas cada, 10 horas no total, partindo do zero até o uso completo do Claude Code aplicado a problemas reais de análise econômica e financeira. Ao longo dos encontros você configura o ambiente, escreve e depura código com apoio da IA, coleta dados por APIs e scraping, constrói agentes que geram insights e leva projetos do notebook à produção.</p>
-<p>O público inclui economistas que querem sair da teoria, analistas que querem automatizar tarefas, profissionais de mercado financeiro, cientistas de dados com foco em economia e também contadores e administradores que desejam aplicar IA na sua operação. Todos os encontros ficam gravados para revisão por 12 meses.</p>
+<p>Os modelos DSGE (<em>Dynamic Stochastic General Equilibrium</em>) são a principal ferramenta de análise macroeconômica usada na academia, nos bancos centrais e no mercado financeiro. Este curso oferece uma introdução rigorosa e aplicada a esse arcabouço, ligando teoria, modelagem e evidência empírica.</p>
+<p>O caminho vai do modelo Novo-Keynesiano básico — derivação da Curva de Phillips, da Curva IS intertemporal e da regra de Taylor — até o modelo CHORINHO, calibrado para a economia brasileira. Cada bloco teórico é seguido de implementação computacional no DYNARE, com escrita de arquivos <code>.mod</code>, cálculo do steady state, log-linearização, diagnóstico de indeterminação e análise de funções de resposta a impulso.</p>
+<p>As aulas são remotas e síncronas, com gravação disponível para revisão. O curso termina simulando a resposta da economia brasileira aos principais choques macroeconômicos.</p>
 <table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
 <tbody>
 <tr class="odd">
 <td><strong>Categoria</strong></td>
-<td>Especialização em Inteligência Artificial</td>
+<td>Bancos Centrais</td>
 </tr>
 <tr class="even">
 <td><strong>Carga horária total</strong></td>
-<td>10 horas</td>
+<td>22 horas</td>
 </tr>
 <tr class="odd">
 <td><strong>Número de encontros</strong></td>
-<td>5 encontros ao vivo</td>
+<td>11 encontros ao vivo</td>
 </tr>
 <tr class="even">
 <td><strong>Duração de cada encontro</strong></td>
@@ -123,19 +134,19 @@ ul.task-list li input[type="checkbox"] {
 </tr>
 <tr class="odd">
 <td><strong>Formato</strong></td>
-<td>Ao vivo e online, com gravações por 12 meses</td>
+<td>Ao vivo e online, com gravações disponíveis</td>
 </tr>
 <tr class="even">
 <td><strong>Professor</strong></td>
-<td>Vítor Wilher</td>
+<td>Luciano Vereda Oliveira (Doutor em Economia, PUC-Rio)</td>
 </tr>
 <tr class="odd">
-<td><strong>Nível</strong></td>
-<td>Iniciante a intermediário</td>
+<td><strong>Software</strong></td>
+<td>DYNARE</td>
 </tr>
 <tr class="even">
-<td><strong>Certificado</strong></td>
-<td>Sim</td>
+<td><strong>Nível</strong></td>
+<td>Intermediário a avançado</td>
 </tr>
 </tbody>
 </table>
@@ -144,115 +155,153 @@ ul.task-list li input[type="checkbox"] {
 <h1 data-number="2"><span class="header-section-number">2</span> Pré-requisitos e Objetivos</h1>
 <section id="pré-requisitos" class="level2">
 <h2 class="anchored" data-anchor-id="pré-requisitos">Pré-requisitos</h2>
-<p>Você não precisa ser especialista em programação ou inteligência artificial para participar.</p>
-<ul>
-<li>Familiaridade com computador e ambiente digital</li>
-<li>Ter o Python instalado (há orientação para isso)</li>
-<li>Conta em ferramentas de IA (também há orientação para isso)</li>
-</ul>
+<p>Formação em macroeconomia de nível intermediário. O curso é voltado a economistas, analistas e profissionais que querem compreender e aplicar modelos DSGE de forma rigorosa.</p>
 </section>
 <section id="o-que-você-será-capaz-de-fazer" class="level2">
 <h2 class="anchored" data-anchor-id="o-que-você-será-capaz-de-fazer">O que você será capaz de fazer</h2>
 <ul>
-<li>Criar agentes inteligentes com IA aplicados à análise econômica e financeira</li>
-<li>Automatizar análises econômicas que hoje são feitas manualmente</li>
-<li>Construir pipelines de dados que coletam, organizam e processam informações</li>
-<li>Gerar relatórios automaticamente</li>
-<li>Integrar Python, IA e dados reais em um fluxo de trabalho único</li>
+<li>Entender o que é um modelo DSGE e por que bancos centrais e mercado o utilizam.</li>
+<li>Derivar as equações do modelo Novo-Keynesiano básico e interpretar seus parâmetros.</li>
+<li>Escrever, rodar e depurar modelos no DYNARE do zero.</li>
+<li>Verificar as condições de unicidade da solução e diagnosticar indeterminação.</li>
+<li>Gerar e interpretar funções de resposta a impulso, confrontando-as com evidência empírica de modelos VAR.</li>
+<li>Implementar e calibrar o modelo CHORINHO para a economia brasileira.</li>
+<li>Simular a resposta da economia brasileira aos principais choques macroeconômicos.</li>
 </ul>
 </section>
 <section id="habilidades-e-ferramentas" class="level2">
 <h2 class="anchored" data-anchor-id="habilidades-e-ferramentas">Habilidades e ferramentas</h2>
-<ul>
-<li>Claude Code e o conceito de loop agêntico (como o agente pensa, planeja e executa)</li>
-<li>LLMs na prática e comparação entre Claude, GPT e Gemini</li>
-<li>Prompting como linguagem de programação</li>
-<li>Tools do Claude Code: Bash, Read, Write e WebFetch</li>
-<li>Context window: como funciona e como preservá-la</li>
-<li>Python para coleta de dados (APIs e scraping), organização de datasets e análise exploratória</li>
-<li>Debug com apoio de IA</li>
-<li>Automação de tarefas, pipelines de dados e introdução à orquestração</li>
-</ul>
+<p><strong>Habilidades:</strong> derivação e fechamento de modelos de equilíbrio geral, log-linearização e cálculo de steady state, solução sob expectativas racionais pelo método de Blanchard-Kahn, calibração de parâmetros, análise de IRFs e leitura crítica dos resultados à luz da conjuntura.</p>
+<p><strong>Ferramentas:</strong> DYNARE como software principal de implementação. Referências teóricas: Woodford (2003), Galí (2015), Clarida et al.&nbsp;(1999), Smets &amp; Wouters (2003, 2007), Blanchard &amp; Kahn (1980), Kanczuk (2015) e a documentação oficial do DYNARE.</p>
 </section>
 </section>
 <section id="programa-detalhado" class="level1" data-number="3">
 <h1 data-number="3"><span class="header-section-number">3</span> Programa Detalhado</h1>
-<p>A imersão tem cinco encontros ao vivo de duas horas cada, com gravação disponível por 12 meses.</p>
-<section id="dia-1-claude-code-na-prática" class="level2">
-<h2 class="anchored" data-anchor-id="dia-1-claude-code-na-prática">Dia 1 — Claude Code na prática</h2>
-<p>Boas-vindas, visão geral da imersão e montagem do ambiente necessário para rodar os códigos com o Claude Code. Você sai do zero e já começa a praticar.</p>
+<p>São onze encontros ao vivo de duas horas cada, com gravação disponível.</p>
+<section id="encontro-1-fundamentos-dos-modelos-dsge" class="level2">
+<h2 class="anchored" data-anchor-id="encontro-1-fundamentos-dos-modelos-dsge">Encontro 1 — Fundamentos dos modelos DSGE</h2>
+<p>Apresentação da abordagem de equilíbrio geral dinâmico e estocástico e por que ela se tornou central na análise macroeconômica.</p>
 <ul>
-<li>O que são LLMs na prática</li>
-<li>Claude vs GPT vs Gemini</li>
-<li>Prompting como linguagem de programação</li>
-<li>Limitações reais</li>
-<li>Por que usar o Claude Code</li>
-<li>Definindo o loop agêntico: como o agente pensa, planeja e executa</li>
-<li>Tools: Bash, Read, Write, WebFetch</li>
-<li>Como a context window funciona e como preservá-la</li>
-<li>Modelos disponíveis e quando usar cada um</li>
-<li>Setup completo: Mac, Linux e Windows</li>
+<li>O que é um modelo DSGE e por que bancos centrais e mercado o utilizam.</li>
+<li>Decisões ótimas de famílias, firmas e autoridades sob restrições.</li>
+<li>Estrutura geral do modelo básico e visão do caminho do curso.</li>
+<li>Primeiro contato com o DYNARE: instalação e ambiente de trabalho.</li>
 </ul>
 </section>
-<section id="dia-2-dados-econômicos-ia" class="level2">
-<h2 class="anchored" data-anchor-id="dia-2-dados-econômicos-ia">Dia 2 — Dados Econômicos + IA</h2>
-<p>A imersão entra no contexto de dados econômicos.</p>
+<section id="encontro-2-equilíbrio-com-preços-flexíveis-e-a-curva-de-phillips" class="level2">
+<h2 class="anchored" data-anchor-id="encontro-2-equilíbrio-com-preços-flexíveis-e-a-curva-de-phillips">Encontro 2 — Equilíbrio com preços flexíveis e a Curva de Phillips</h2>
+<p>Derivação do bloco de oferta do modelo básico.</p>
 <ul>
-<li>Estrutura de projetos com IA</li>
-<li>Geração de código</li>
-<li>Debug com IA</li>
-<li>Scripts econômicos</li>
-<li>Coleta de dados (APIs e scraping)</li>
-<li>Organização de datasets</li>
-<li>Integração com Python</li>
-<li>Análise exploratória automatizada</li>
+<li>Determinação do equilíbrio com preços flexíveis.</li>
+<li>Produto potencial e taxa de juros natural.</li>
+<li>Hipótese de Calvo e derivação da Curva de Phillips Novo-Keynesiana.</li>
+<li>Interpretação econômica dos parâmetros.</li>
 </ul>
 </section>
-<section id="dia-3-como-construir-agentes" class="level2">
-<h2 class="anchored" data-anchor-id="dia-3-como-construir-agentes">Dia 3 — Como construir Agentes</h2>
-<p>Com a base pronta, o foco passa a ser construir agentes que interagem com o ambiente e geram insights para problemas de análise de dados.</p>
+<section id="encontro-3-curva-is-intertemporal-e-regra-de-política-monetária" class="level2">
+<h2 class="anchored" data-anchor-id="encontro-3-curva-is-intertemporal-e-regra-de-política-monetária">Encontro 3 — Curva IS intertemporal e regra de política monetária</h2>
+<p>Derivação do bloco de demanda e do comportamento do Banco Central.</p>
 <ul>
-<li>O que é um agente</li>
-<li>Arquitetura (tools, memória, contexto)</li>
-<li>Agentes para análise econômica e financeira</li>
-<li>Geração de insights</li>
+<li>Derivação da Curva IS intertemporal.</li>
+<li>Regra de Taylor e a resposta do BC à inflação.</li>
+<li>Fechamento do modelo básico (sistema de equações).</li>
+<li>Preparação para a implementação computacional.</li>
 </ul>
 </section>
-<section id="dia-4-automação-e-pipelines" class="level2">
-<h2 class="anchored" data-anchor-id="dia-4-automação-e-pipelines">Dia 4 — Automação e pipelines</h2>
-<p>Momento de colocar em produção, criando pipelines de dados que trabalham por você.</p>
+<section id="encontro-4-implementação-do-modelo-básico-no-dynare" class="level2">
+<h2 class="anchored" data-anchor-id="encontro-4-implementação-do-modelo-básico-no-dynare">Encontro 4 — Implementação do modelo básico no DYNARE</h2>
+<p>Mão na massa: escrevendo o código do modelo do zero.</p>
 <ul>
-<li>Do notebook à produção</li>
-<li>Automação de tarefas</li>
-<li>Pipelines de dados</li>
-<li>Introdução à orquestração</li>
+<li>Estrutura de um arquivo <code>.mod</code> no DYNARE.</li>
+<li>Declaração de variáveis, parâmetros, equações e choques.</li>
+<li>Steady state e log-linearização.</li>
+<li>Rodando o modelo e lendo as saídas.</li>
 </ul>
 </section>
-<section id="dia-5-projetos-reais" class="level2">
-<h2 class="anchored" data-anchor-id="dia-5-projetos-reais">Dia 5 — Projetos Reais</h2>
-<p>Construção de projetos reais e 100% práticos para o portfólio.</p>
+<section id="encontro-5-unicidade-da-solução-e-o-princípio-de-taylor" class="level2">
+<h2 class="anchored" data-anchor-id="encontro-5-unicidade-da-solução-e-o-princípio-de-taylor">Encontro 5 — Unicidade da solução e o princípio de Taylor</h2>
+<p>Condições para que o equilíbrio seja único e bem definido.</p>
 <ul>
-<li>Agente que analisa a inflação brasileira</li>
-<li>Sistema de criação de relatórios automáticos</li>
-<li>Pipeline para criação de painel macroeconômico</li>
+<li>Solução de modelos lineares sob expectativas racionais (Blanchard-Kahn).</li>
+<li>Condições de determinação e unicidade do equilíbrio.</li>
+<li>Justificativa formal do princípio de Taylor.</li>
+<li>Diagnóstico de indeterminação no DYNARE.</li>
+</ul>
+</section>
+<section id="encontro-6-respostas-impulsionais-dsge-e-mundo-real" class="level2">
+<h2 class="anchored" data-anchor-id="encontro-6-respostas-impulsionais-dsge-e-mundo-real">Encontro 6 — Respostas impulsionais: DSGE e mundo real</h2>
+<p>Confronto entre as respostas teóricas e as observadas na economia.</p>
+<ul>
+<li>Funções de resposta a impulso (IRFs) do modelo básico.</li>
+<li>Choques monetários, fiscais e de produtividade.</li>
+<li>Respostas da vida real via modelos VAR identificados.</li>
+<li>Onde o modelo básico acerta e onde ele falha.</li>
+</ul>
+</section>
+<section id="encontro-7-enriquecendo-o-modelo-básico" class="level2">
+<h2 class="anchored" data-anchor-id="encontro-7-enriquecendo-o-modelo-básico">Encontro 7 — Enriquecendo o modelo básico</h2>
+<p>Extensões que aproximam o modelo dos dados.</p>
+<ul>
+<li>Formação de hábito no consumo.</li>
+<li>Custos de ajustamento do investimento em capital.</li>
+<li>Motivação para um modelo voltado ao Brasil.</li>
+<li>Do SAMBA ao CHORINHO: por que escolher o modelo menor.</li>
+</ul>
+</section>
+<section id="encontro-8-a-economia-brasileira-no-modelo" class="level2">
+<h2 class="anchored" data-anchor-id="encontro-8-a-economia-brasileira-no-modelo">Encontro 8 — A economia brasileira no modelo</h2>
+<p>Peculiaridades da economia aberta brasileira.</p>
+<ul>
+<li>Economia relativamente aberta e o setor externo.</li>
+<li>Exportação de commodities.</li>
+<li>Prêmio de risco e captação nos mercados internacionais.</li>
+<li>Referência: Galí &amp; Monacelli (economia aberta pequena).</li>
+</ul>
+</section>
+<section id="encontro-9-chorinho-estrutura-e-derivação" class="level2">
+<h2 class="anchored" data-anchor-id="encontro-9-chorinho-estrutura-e-derivação">Encontro 9 — CHORINHO: estrutura e derivação</h2>
+<p>Apresentação detalhada do modelo de Kanczuk (2015).</p>
+<ul>
+<li>Blocos do modelo: famílias, firmas, setor externo e política.</li>
+<li>Equações de equilíbrio e calibração.</li>
+<li>Interpretação econômica dos mecanismos.</li>
+<li>Comparação com o modelo básico.</li>
+</ul>
+</section>
+<section id="encontro-10-chorinho-no-dynare" class="level2">
+<h2 class="anchored" data-anchor-id="encontro-10-chorinho-no-dynare">Encontro 10 — CHORINHO no DYNARE</h2>
+<p>Implementação computacional completa.</p>
+<ul>
+<li>Codificação do CHORINHO no DYNARE.</li>
+<li>Steady state e calibração dos parâmetros.</li>
+<li>Depuração e verificação do modelo.</li>
+<li>Boas práticas de organização do código.</li>
+</ul>
+</section>
+<section id="encontro-11-simulação-e-comportamento-da-economia-brasileira" class="level2">
+<h2 class="anchored" data-anchor-id="encontro-11-simulação-e-comportamento-da-economia-brasileira">Encontro 11 — Simulação e comportamento da economia brasileira</h2>
+<p>Uso do modelo para análise aplicada e encerramento.</p>
+<ul>
+<li>Simulação do CHORINHO.</li>
+<li>Respostas da economia brasileira aos principais choques macroeconômicos.</li>
+<li>Interpretação dos resultados à luz da conjuntura.</li>
 </ul>
 </section>
 </section>
 <section id="bônus" class="level1" data-number="4">
 <h1 data-number="4"><span class="header-section-number">4</span> Bônus</h1>
-<p>A matrícula inclui três cursos gravados do catálogo da Análise Macro:</p>
-<ul>
-<li><strong>Programação em Python para Análise de Dados</strong> — 120 horas.</li>
-<li><strong>Inteligência Artificial para Economistas</strong> — 30 horas.</li>
-<li><strong>Inteligência Artificial para Contadores e Administradores</strong> — 30 horas.</li>
-</ul>
+<p>Curso gravado <strong>Modelo de Pequeno Porte (MPP) do Banco Central do Brasil</strong>, também com o professor Luciano Vereda Oliveira, com 16 horas de conteúdo.</p>
 </section>
-<section id="inscrição" class="level1" data-number="5">
-<h1 data-number="5"><span class="header-section-number">5</span> Inscrição</h1>
-<p>A matrícula dá acesso aos cinco encontros ao vivo, às gravações e ao material por 12 meses, além do código disponível para reaproveitar. A imersão é 100% prática, com espaço para tirar dúvidas ao longo dos encontros, e inclui certificado.</p>
+<section id="professor" class="level1" data-number="5">
+<h1 data-number="5"><span class="header-section-number">5</span> Professor</h1>
+<p><strong>Luciano Vereda Oliveira</strong> — doutor em Economia pela PUC-Rio e professor associado da Universidade Federal Fluminense (UFF), com ampla experiência em macroeconomia aplicada, modelos DSGE e curva de juros. Atuou como consultor e instrutor para instituições financeiras, empresas e órgãos públicos.</p>
+</section>
+<section id="inscrição" class="level1" data-number="6">
+<h1 data-number="6"><span class="header-section-number">6</span> Inscrição</h1>
+<p>A matrícula dá acesso aos onze encontros ao vivo, às gravações e ao material do curso, além do curso gravado do MPP como bônus. Garantia de reembolso incondicional em até 7 dias.</p>
 <ul>
-<li>📄 <strong>Página do curso:</strong> <a href="https://analisemacro.com.br/imersao/claude-code-para-economistas/" class="uri">https://analisemacro.com.br/imersao/claude-code-para-economistas/</a></li>
-<li>🛒 <strong>Matrícula:</strong> <a href="https://aluno.analisemacro.com.br/carrinho/?add-to-cart=70813" class="uri">https://aluno.analisemacro.com.br/carrinho/?add-to-cart=70813</a></li>
+<li>📄 <strong>Página do curso:</strong> <a href="https://analisemacro.com.br/curso-ao-vivo/introducao-aos-modelos-dsge/" class="uri">https://analisemacro.com.br/curso-ao-vivo/introducao-aos-modelos-dsge/</a></li>
+<li>🛒 <strong>Matrícula:</strong> <a href="https://aluno.analisemacro.com.br/produto/introducao-aos-modelos-dsge/" class="uri">https://aluno.analisemacro.com.br/produto/introducao-aos-modelos-dsge/</a></li>
 </ul>
 </section>
 

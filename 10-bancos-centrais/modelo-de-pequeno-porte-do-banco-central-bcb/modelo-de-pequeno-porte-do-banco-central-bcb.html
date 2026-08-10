@@ -8,7 +8,7 @@
 
 <meta name="author" content="Análise Macro">
 
-<title>   Imersão Claude Code para Economistas, Administradores e Contadores</title>
+<title>   O Modelo de Pequeno Porte (MPP) do Banco Central do Brasil</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -27,17 +27,17 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="imersao-claude-code_files/libs/clipboard/clipboard.min.js"></script>
-<script src="imersao-claude-code_files/libs/quarto-html/quarto.js" type="module"></script>
-<script src="imersao-claude-code_files/libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="imersao-claude-code_files/libs/quarto-html/popper.min.js"></script>
-<script src="imersao-claude-code_files/libs/quarto-html/tippy.umd.min.js"></script>
-<script src="imersao-claude-code_files/libs/quarto-html/anchor.min.js"></script>
-<link href="imersao-claude-code_files/libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="imersao-claude-code_files/libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="imersao-claude-code_files/libs/bootstrap/bootstrap.min.js"></script>
-<link href="imersao-claude-code_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="imersao-claude-code_files/libs/bootstrap/bootstrap-293cc809d15782442e9b1098eedb6797.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="modelo-de-pequeno-porte-do-banco-central-bcb_files/libs/clipboard/clipboard.min.js"></script>
+<script src="modelo-de-pequeno-porte-do-banco-central-bcb_files/libs/quarto-html/quarto.js" type="module"></script>
+<script src="modelo-de-pequeno-porte-do-banco-central-bcb_files/libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="modelo-de-pequeno-porte-do-banco-central-bcb_files/libs/quarto-html/popper.min.js"></script>
+<script src="modelo-de-pequeno-porte-do-banco-central-bcb_files/libs/quarto-html/tippy.umd.min.js"></script>
+<script src="modelo-de-pequeno-porte-do-banco-central-bcb_files/libs/quarto-html/anchor.min.js"></script>
+<link href="modelo-de-pequeno-porte-do-banco-central-bcb_files/libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="modelo-de-pequeno-porte-do-banco-central-bcb_files/libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="modelo-de-pequeno-porte-do-banco-central-bcb_files/libs/bootstrap/bootstrap.min.js"></script>
+<link href="modelo-de-pequeno-porte-do-banco-central-bcb_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="modelo-de-pequeno-porte-do-banco-central-bcb_files/libs/bootstrap/bootstrap-293cc809d15782442e9b1098eedb6797.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 
 
 </head>
@@ -59,13 +59,12 @@ ul.task-list li input[type="checkbox"] {
   </ul></li>
   <li><a href="#programa-detalhado" id="toc-programa-detalhado" class="nav-link" data-scroll-target="#programa-detalhado"><span class="header-section-number">3</span> Programa Detalhado</a>
   <ul class="collapse">
-  <li><a href="#dia-1-claude-code-na-prática" id="toc-dia-1-claude-code-na-prática" class="nav-link" data-scroll-target="#dia-1-claude-code-na-prática">Dia 1 — Claude Code na prática</a></li>
-  <li><a href="#dia-2-dados-econômicos-ia" id="toc-dia-2-dados-econômicos-ia" class="nav-link" data-scroll-target="#dia-2-dados-econômicos-ia">Dia 2 — Dados Econômicos + IA</a></li>
-  <li><a href="#dia-3-como-construir-agentes" id="toc-dia-3-como-construir-agentes" class="nav-link" data-scroll-target="#dia-3-como-construir-agentes">Dia 3 — Como construir Agentes</a></li>
-  <li><a href="#dia-4-automação-e-pipelines" id="toc-dia-4-automação-e-pipelines" class="nav-link" data-scroll-target="#dia-4-automação-e-pipelines">Dia 4 — Automação e pipelines</a></li>
-  <li><a href="#dia-5-projetos-reais" id="toc-dia-5-projetos-reais" class="nav-link" data-scroll-target="#dia-5-projetos-reais">Dia 5 — Projetos Reais</a></li>
+  <li><a href="#bloco-1-os-modelos-de-projeção-do-bcb-e-o-mpp-4h" id="toc-bloco-1-os-modelos-de-projeção-do-bcb-e-o-mpp-4h" class="nav-link" data-scroll-target="#bloco-1-os-modelos-de-projeção-do-bcb-e-o-mpp-4h">Bloco 1 — Os modelos de projeção do BCB e o MPP (4h)</a></li>
+  <li><a href="#bloco-2-o-model-object-do-eviews-4h" id="toc-bloco-2-o-model-object-do-eviews-4h" class="nav-link" data-scroll-target="#bloco-2-o-model-object-do-eviews-4h">Bloco 2 — O <em>Model Object</em> do EViews (4h)</a></li>
+  <li><a href="#bloco-3-implementação-do-mpp-4h" id="toc-bloco-3-implementação-do-mpp-4h" class="nav-link" data-scroll-target="#bloco-3-implementação-do-mpp-4h">Bloco 3 — Implementação do MPP (4h)</a></li>
+  <li><a href="#bloco-4-operacionalização-por-código-e-resultados-4h" id="toc-bloco-4-operacionalização-por-código-e-resultados-4h" class="nav-link" data-scroll-target="#bloco-4-operacionalização-por-código-e-resultados-4h">Bloco 4 — Operacionalização por código e resultados (4h)</a></li>
   </ul></li>
-  <li><a href="#bônus" id="toc-bônus" class="nav-link" data-scroll-target="#bônus"><span class="header-section-number">4</span> Bônus</a></li>
+  <li><a href="#professor" id="toc-professor" class="nav-link" data-scroll-target="#professor"><span class="header-section-number">4</span> Professor</a></li>
   <li><a href="#inscrição" id="toc-inscrição" class="nav-link" data-scroll-target="#inscrição"><span class="header-section-number">5</span> Inscrição</a></li>
   </ul>
 </nav>
@@ -74,7 +73,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title"><a href="https://analisemacro.com.br/" target="_blank"><img src="https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png" alt="Logotipo Análise Macro" width="150"></a> <br> <strong>Imersão Claude Code para Economistas, Administradores e Contadores</strong></h1>
+<h1 class="title"><a href="https://analisemacro.com.br/" target="_blank"><img src="https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png" alt="Logotipo Análise Macro" width="150"></a> <br> <strong>O Modelo de Pequeno Porte (MPP) do Banco Central do Brasil</strong></h1>
 <p class="subtitle lead">Programa e informações gerais do curso</p>
 </div>
 
@@ -100,22 +99,26 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="resumo" class="level1" data-number="1">
 <h1 data-number="1"><span class="header-section-number">1</span> Resumo</h1>
-<p>A Imersão Claude Code é um curso ao vivo voltado para quem trabalha com economia e finanças e quer usar inteligência artificial de forma prática no dia a dia. A proposta não é estudar IA na teoria, e sim construir com ela: criar agentes, automatizar análises de dados econômicos e montar pipelines que rodam sozinhos.</p>
-<p>São cinco encontros ao vivo de duas horas cada, 10 horas no total, partindo do zero até o uso completo do Claude Code aplicado a problemas reais de análise econômica e financeira. Ao longo dos encontros você configura o ambiente, escreve e depura código com apoio da IA, coleta dados por APIs e scraping, constrói agentes que geram insights e leva projetos do notebook à produção.</p>
-<p>O público inclui economistas que querem sair da teoria, analistas que querem automatizar tarefas, profissionais de mercado financeiro, cientistas de dados com foco em economia e também contadores e administradores que desejam aplicar IA na sua operação. Todos os encontros ficam gravados para revisão por 12 meses.</p>
+<p>O curso apresenta, estima e implementa versões dos modelos semiestruturais de pequeno porte usados nas discussões do Comitê de Política Monetária (COPOM). Introduzido por Bogdanski, Tombini e Werlang (2000), o MPP evoluiu bastante desde então e segue como a principal ferramenta de apoio à decisão do Banco Central do Brasil.</p>
+<p>A implementação é feita por meio de programas que automatizam procedimentos, aumentam a eficiência e reduzem o risco operacional. Todas as estimações e implementações acontecem no EViews, com uso do <em>Model Object</em> e, depois, da operacionalização por código. O curso encerra comparando os resultados obtidos com os divulgados pelo BCB e analisando as funções de resposta ao impulso.</p>
+<p>As aulas são remotas e síncronas, e as gravações ficam disponíveis para quem não conseguir acompanhar ao vivo.</p>
 <table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
 <tbody>
 <tr class="odd">
 <td><strong>Categoria</strong></td>
-<td>Especialização em Inteligência Artificial</td>
+<td>Bancos Centrais</td>
 </tr>
 <tr class="even">
 <td><strong>Carga horária total</strong></td>
-<td>10 horas</td>
+<td>16 horas</td>
 </tr>
 <tr class="odd">
 <td><strong>Número de encontros</strong></td>
-<td>5 encontros ao vivo</td>
+<td>8 encontros ao vivo</td>
 </tr>
 <tr class="even">
 <td><strong>Duração de cada encontro</strong></td>
@@ -123,19 +126,19 @@ ul.task-list li input[type="checkbox"] {
 </tr>
 <tr class="odd">
 <td><strong>Formato</strong></td>
-<td>Ao vivo e online, com gravações por 12 meses</td>
+<td>Ao vivo e online, com gravações disponíveis</td>
 </tr>
 <tr class="even">
 <td><strong>Professor</strong></td>
-<td>Vítor Wilher</td>
+<td>Luciano Vereda Oliveira (Doutor em Economia, PUC-Rio)</td>
 </tr>
 <tr class="odd">
-<td><strong>Nível</strong></td>
-<td>Iniciante a intermediário</td>
+<td><strong>Software</strong></td>
+<td>EViews</td>
 </tr>
 <tr class="even">
-<td><strong>Certificado</strong></td>
-<td>Sim</td>
+<td><strong>Nível</strong></td>
+<td>Avançado</td>
 </tr>
 </tbody>
 </table>
@@ -144,115 +147,77 @@ ul.task-list li input[type="checkbox"] {
 <h1 data-number="2"><span class="header-section-number">2</span> Pré-requisitos e Objetivos</h1>
 <section id="pré-requisitos" class="level2">
 <h2 class="anchored" data-anchor-id="pré-requisitos">Pré-requisitos</h2>
-<p>Você não precisa ser especialista em programação ou inteligência artificial para participar.</p>
+<p>O curso pressupõe familiaridade prévia com:</p>
 <ul>
-<li>Familiaridade com computador e ambiente digital</li>
-<li>Ter o Python instalado (há orientação para isso)</li>
-<li>Conta em ferramentas de IA (também há orientação para isso)</li>
+<li>O modelo de pequeno porte (MPP) e a literatura de modelos semiestruturais.</li>
+<li>O software EViews.</li>
+<li>As técnicas usadas na estimação desse tipo de modelo.</li>
 </ul>
 </section>
 <section id="o-que-você-será-capaz-de-fazer" class="level2">
 <h2 class="anchored" data-anchor-id="o-que-você-será-capaz-de-fazer">O que você será capaz de fazer</h2>
 <ul>
-<li>Criar agentes inteligentes com IA aplicados à análise econômica e financeira</li>
-<li>Automatizar análises econômicas que hoje são feitas manualmente</li>
-<li>Construir pipelines de dados que coletam, organizam e processam informações</li>
-<li>Gerar relatórios automaticamente</li>
-<li>Integrar Python, IA e dados reais em um fluxo de trabalho único</li>
+<li>Entender os modelos de projeção utilizados pelo Banco Central do Brasil.</li>
+<li>Estimar os principais componentes do MPP no EViews.</li>
+<li>Usar o <em>Model Object</em> do EViews para montar e simular o modelo completo.</li>
+<li>Operacionalizar o modelo por meio de código, automatizando os procedimentos.</li>
+<li>Comparar os resultados obtidos com os divulgados pelo BCB.</li>
+<li>Analisar as funções de resposta ao impulso do modelo.</li>
 </ul>
 </section>
 <section id="habilidades-e-ferramentas" class="level2">
 <h2 class="anchored" data-anchor-id="habilidades-e-ferramentas">Habilidades e ferramentas</h2>
-<ul>
-<li>Claude Code e o conceito de loop agêntico (como o agente pensa, planeja e executa)</li>
-<li>LLMs na prática e comparação entre Claude, GPT e Gemini</li>
-<li>Prompting como linguagem de programação</li>
-<li>Tools do Claude Code: Bash, Read, Write e WebFetch</li>
-<li>Context window: como funciona e como preservá-la</li>
-<li>Python para coleta de dados (APIs e scraping), organização de datasets e análise exploratória</li>
-<li>Debug com apoio de IA</li>
-<li>Automação de tarefas, pipelines de dados e introdução à orquestração</li>
-</ul>
+<p><strong>Habilidades:</strong> estimação de modelos semiestruturais, montagem e simulação de sistemas de equações, automação de rotinas de projeção, leitura crítica dos resultados frente aos números oficiais do BCB e análise de funções de resposta ao impulso.</p>
+<p><strong>Ferramentas:</strong> EViews, com destaque para o <em>Model Object</em> e para a programação de rotinas que reduzem o trabalho manual e o risco operacional.</p>
 </section>
 </section>
 <section id="programa-detalhado" class="level1" data-number="3">
 <h1 data-number="3"><span class="header-section-number">3</span> Programa Detalhado</h1>
-<p>A imersão tem cinco encontros ao vivo de duas horas cada, com gravação disponível por 12 meses.</p>
-<section id="dia-1-claude-code-na-prática" class="level2">
-<h2 class="anchored" data-anchor-id="dia-1-claude-code-na-prática">Dia 1 — Claude Code na prática</h2>
-<p>Boas-vindas, visão geral da imersão e montagem do ambiente necessário para rodar os códigos com o Claude Code. Você sai do zero e já começa a praticar.</p>
+<p>O curso tem oito encontros ao vivo de duas horas cada, organizados em quatro blocos temáticos de quatro horas.</p>
+<section id="bloco-1-os-modelos-de-projeção-do-bcb-e-o-mpp-4h" class="level2">
+<h2 class="anchored" data-anchor-id="bloco-1-os-modelos-de-projeção-do-bcb-e-o-mpp-4h">Bloco 1 — Os modelos de projeção do BCB e o MPP (4h)</h2>
+<p>Ponto de partida do curso: onde o MPP se encaixa no conjunto de modelos usados pelo Banco Central e como estimar suas peças principais.</p>
 <ul>
-<li>O que são LLMs na prática</li>
-<li>Claude vs GPT vs Gemini</li>
-<li>Prompting como linguagem de programação</li>
-<li>Limitações reais</li>
-<li>Por que usar o Claude Code</li>
-<li>Definindo o loop agêntico: como o agente pensa, planeja e executa</li>
-<li>Tools: Bash, Read, Write, WebFetch</li>
-<li>Como a context window funciona e como preservá-la</li>
-<li>Modelos disponíveis e quando usar cada um</li>
-<li>Setup completo: Mac, Linux e Windows</li>
+<li>Os modelos de projeção utilizados pelo BCB.</li>
+<li>Apresentação do modelo de pequeno porte (MPP).</li>
+<li>Estimação de seus principais componentes no EViews.</li>
 </ul>
 </section>
-<section id="dia-2-dados-econômicos-ia" class="level2">
-<h2 class="anchored" data-anchor-id="dia-2-dados-econômicos-ia">Dia 2 — Dados Econômicos + IA</h2>
-<p>A imersão entra no contexto de dados econômicos.</p>
+<section id="bloco-2-o-model-object-do-eviews-4h" class="level2">
+<h2 class="anchored" data-anchor-id="bloco-2-o-model-object-do-eviews-4h">Bloco 2 — O <em>Model Object</em> do EViews (4h)</h2>
+<p>Apresentação da estrutura do EViews que permite tratar um conjunto de equações como um modelo único, passo necessário para simular e projetar.</p>
 <ul>
-<li>Estrutura de projetos com IA</li>
-<li>Geração de código</li>
-<li>Debug com IA</li>
-<li>Scripts econômicos</li>
-<li>Coleta de dados (APIs e scraping)</li>
-<li>Organização de datasets</li>
-<li>Integração com Python</li>
-<li>Análise exploratória automatizada</li>
+<li>Apresentação do <em>Model Object</em> do EViews.</li>
 </ul>
 </section>
-<section id="dia-3-como-construir-agentes" class="level2">
-<h2 class="anchored" data-anchor-id="dia-3-como-construir-agentes">Dia 3 — Como construir Agentes</h2>
-<p>Com a base pronta, o foco passa a ser construir agentes que interagem com o ambiente e geram insights para problemas de análise de dados.</p>
+<section id="bloco-3-implementação-do-mpp-4h" class="level2">
+<h2 class="anchored" data-anchor-id="bloco-3-implementação-do-mpp-4h">Bloco 3 — Implementação do MPP (4h)</h2>
+<p>O modelo sai do papel: as equações estimadas são reunidas e o MPP passa a rodar de ponta a ponta.</p>
 <ul>
-<li>O que é um agente</li>
-<li>Arquitetura (tools, memória, contexto)</li>
-<li>Agentes para análise econômica e financeira</li>
-<li>Geração de insights</li>
+<li>Implementação do MPP usando o <em>Model Object</em> do EViews.</li>
 </ul>
 </section>
-<section id="dia-4-automação-e-pipelines" class="level2">
-<h2 class="anchored" data-anchor-id="dia-4-automação-e-pipelines">Dia 4 — Automação e pipelines</h2>
-<p>Momento de colocar em produção, criando pipelines de dados que trabalham por você.</p>
+<section id="bloco-4-operacionalização-por-código-e-resultados-4h" class="level2">
+<h2 class="anchored" data-anchor-id="bloco-4-operacionalização-por-código-e-resultados-4h">Bloco 4 — Operacionalização por código e resultados (4h)</h2>
+<p>Automação dos procedimentos e confronto com o mundo real.</p>
 <ul>
-<li>Do notebook à produção</li>
-<li>Automação de tarefas</li>
-<li>Pipelines de dados</li>
-<li>Introdução à orquestração</li>
-</ul>
-</section>
-<section id="dia-5-projetos-reais" class="level2">
-<h2 class="anchored" data-anchor-id="dia-5-projetos-reais">Dia 5 — Projetos Reais</h2>
-<p>Construção de projetos reais e 100% práticos para o portfólio.</p>
-<ul>
-<li>Agente que analisa a inflação brasileira</li>
-<li>Sistema de criação de relatórios automáticos</li>
-<li>Pipeline para criação de painel macroeconômico</li>
+<li>Operacionalização por meio de códigos.</li>
+<li>Comparação com resultados do BCB.</li>
+<li>Análise das funções de resposta ao impulso.</li>
 </ul>
 </section>
 </section>
-<section id="bônus" class="level1" data-number="4">
-<h1 data-number="4"><span class="header-section-number">4</span> Bônus</h1>
-<p>A matrícula inclui três cursos gravados do catálogo da Análise Macro:</p>
-<ul>
-<li><strong>Programação em Python para Análise de Dados</strong> — 120 horas.</li>
-<li><strong>Inteligência Artificial para Economistas</strong> — 30 horas.</li>
-<li><strong>Inteligência Artificial para Contadores e Administradores</strong> — 30 horas.</li>
-</ul>
+<section id="professor" class="level1" data-number="4">
+<h1 data-number="4"><span class="header-section-number">4</span> Professor</h1>
+<p><strong>Luciano Vereda Oliveira</strong> — graduado em Engenharia Elétrica pela PUC-Rio (1990) e doutor em Economia pela PUC-Rio (2004). Foi professor do Instituto de Gestão de Riscos Financeiros e Atuariais da PUC-Rio entre 2005 e 2010. É professor associado da Universidade Federal Fluminense (UFF) e membro do programa de Pós-Graduação em Economia da instituição, com experiência em Finanças (com ênfase em modelos para a curva de juros) e em Macroeconomia (em especial modelos DSGE).</p>
+<p>Já prestou serviços de treinamento e consultoria para BB Asset Management, Banco do Brasil, Petrobras, PREVI, FAPES/BNDES, CNseg, Escola Nacional de Seguros (FUNENSEG), Bradesco Vida e Previdência e Itaú-Unibanco.</p>
 </section>
 <section id="inscrição" class="level1" data-number="5">
 <h1 data-number="5"><span class="header-section-number">5</span> Inscrição</h1>
-<p>A matrícula dá acesso aos cinco encontros ao vivo, às gravações e ao material por 12 meses, além do código disponível para reaproveitar. A imersão é 100% prática, com espaço para tirar dúvidas ao longo dos encontros, e inclui certificado.</p>
+<p>A matrícula dá acesso aos oito encontros ao vivo e às gravações, com garantia de reembolso em até 7 dias.</p>
 <ul>
-<li>📄 <strong>Página do curso:</strong> <a href="https://analisemacro.com.br/imersao/claude-code-para-economistas/" class="uri">https://analisemacro.com.br/imersao/claude-code-para-economistas/</a></li>
-<li>🛒 <strong>Matrícula:</strong> <a href="https://aluno.analisemacro.com.br/carrinho/?add-to-cart=70813" class="uri">https://aluno.analisemacro.com.br/carrinho/?add-to-cart=70813</a></li>
+<li>📄 <strong>Página do curso:</strong> <a href="https://analisemacro.com.br/o-modelo-de-pequeno-porte-mpp-do-banco-central-do-brasil-bcb/" class="uri">https://analisemacro.com.br/o-modelo-de-pequeno-porte-mpp-do-banco-central-do-brasil-bcb/</a></li>
+<li>🛒 <strong>Matrícula:</strong> <a href="https://aluno.analisemacro.com.br/carrinho/?add-to-cart=66416" class="uri">https://aluno.analisemacro.com.br/carrinho/?add-to-cart=66416</a></li>
 </ul>
 </section>
 

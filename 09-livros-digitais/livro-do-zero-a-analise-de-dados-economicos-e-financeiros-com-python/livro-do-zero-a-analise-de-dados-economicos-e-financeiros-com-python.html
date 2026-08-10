@@ -8,7 +8,7 @@
 
 <meta name="author" content="Análise Macro">
 
-<title>   Imersão Claude Code para Economistas, Administradores e Contadores</title>
+<title>   Livro Digital: Do Zero à Análise de Dados Econômicos e Financeiros com Python</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -27,17 +27,17 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="imersao-claude-code_files/libs/clipboard/clipboard.min.js"></script>
-<script src="imersao-claude-code_files/libs/quarto-html/quarto.js" type="module"></script>
-<script src="imersao-claude-code_files/libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="imersao-claude-code_files/libs/quarto-html/popper.min.js"></script>
-<script src="imersao-claude-code_files/libs/quarto-html/tippy.umd.min.js"></script>
-<script src="imersao-claude-code_files/libs/quarto-html/anchor.min.js"></script>
-<link href="imersao-claude-code_files/libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="imersao-claude-code_files/libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="imersao-claude-code_files/libs/bootstrap/bootstrap.min.js"></script>
-<link href="imersao-claude-code_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="imersao-claude-code_files/libs/bootstrap/bootstrap-293cc809d15782442e9b1098eedb6797.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="livro-do-zero-a-analise-de-dados-economicos-e-financeiros-com-python_files/libs/clipboard/clipboard.min.js"></script>
+<script src="livro-do-zero-a-analise-de-dados-economicos-e-financeiros-com-python_files/libs/quarto-html/quarto.js" type="module"></script>
+<script src="livro-do-zero-a-analise-de-dados-economicos-e-financeiros-com-python_files/libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="livro-do-zero-a-analise-de-dados-economicos-e-financeiros-com-python_files/libs/quarto-html/popper.min.js"></script>
+<script src="livro-do-zero-a-analise-de-dados-economicos-e-financeiros-com-python_files/libs/quarto-html/tippy.umd.min.js"></script>
+<script src="livro-do-zero-a-analise-de-dados-economicos-e-financeiros-com-python_files/libs/quarto-html/anchor.min.js"></script>
+<link href="livro-do-zero-a-analise-de-dados-economicos-e-financeiros-com-python_files/libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="livro-do-zero-a-analise-de-dados-economicos-e-financeiros-com-python_files/libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="livro-do-zero-a-analise-de-dados-economicos-e-financeiros-com-python_files/libs/bootstrap/bootstrap.min.js"></script>
+<link href="livro-do-zero-a-analise-de-dados-economicos-e-financeiros-com-python_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="livro-do-zero-a-analise-de-dados-economicos-e-financeiros-com-python_files/libs/bootstrap/bootstrap-293cc809d15782442e9b1098eedb6797.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 
 
 </head>
@@ -51,22 +51,23 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#resumo" id="toc-resumo" class="nav-link active" data-scroll-target="#resumo"><span class="header-section-number">1</span> Resumo</a></li>
-  <li><a href="#pré-requisitos-e-objetivos" id="toc-pré-requisitos-e-objetivos" class="nav-link" data-scroll-target="#pré-requisitos-e-objetivos"><span class="header-section-number">2</span> Pré-requisitos e Objetivos</a>
+  <li><a href="#para-quem-é" id="toc-para-quem-é" class="nav-link" data-scroll-target="#para-quem-é"><span class="header-section-number">2</span> Para quem é</a></li>
+  <li><a href="#o-que-você-vai-aprender" id="toc-o-que-você-vai-aprender" class="nav-link" data-scroll-target="#o-que-você-vai-aprender"><span class="header-section-number">3</span> O que você vai aprender</a></li>
+  <li><a href="#sumário-do-livro" id="toc-sumário-do-livro" class="nav-link" data-scroll-target="#sumário-do-livro"><span class="header-section-number">4</span> Sumário do livro</a>
   <ul class="collapse">
-  <li><a href="#pré-requisitos" id="toc-pré-requisitos" class="nav-link" data-scroll-target="#pré-requisitos">Pré-requisitos</a></li>
-  <li><a href="#o-que-você-será-capaz-de-fazer" id="toc-o-que-você-será-capaz-de-fazer" class="nav-link" data-scroll-target="#o-que-você-será-capaz-de-fazer">O que você será capaz de fazer</a></li>
-  <li><a href="#habilidades-e-ferramentas" id="toc-habilidades-e-ferramentas" class="nav-link" data-scroll-target="#habilidades-e-ferramentas">Habilidades e ferramentas</a></li>
+  <li><a href="#parte-i-o-ciclo-da-análise-de-dados" id="toc-parte-i-o-ciclo-da-análise-de-dados" class="nav-link" data-scroll-target="#parte-i-o-ciclo-da-análise-de-dados">Parte I — O ciclo da análise de dados</a></li>
+  <li><a href="#parte-ii-programação-python-e-colab" id="toc-parte-ii-programação-python-e-colab" class="nav-link" data-scroll-target="#parte-ii-programação-python-e-colab">Parte II — Programação: Python e Colab</a></li>
+  <li><a href="#parte-iii-exploração-de-dados" id="toc-parte-iii-exploração-de-dados" class="nav-link" data-scroll-target="#parte-iii-exploração-de-dados">Parte III — Exploração de dados</a></li>
+  <li><a href="#parte-iv-modelagem-e-previsão" id="toc-parte-iv-modelagem-e-previsão" class="nav-link" data-scroll-target="#parte-iv-modelagem-e-previsão">Parte IV — Modelagem e previsão</a></li>
+  <li><a href="#parte-v-projeto-previsão-do-ipca" id="toc-parte-v-projeto-previsão-do-ipca" class="nav-link" data-scroll-target="#parte-v-projeto-previsão-do-ipca">Parte V — Projeto: previsão do IPCA</a></li>
   </ul></li>
-  <li><a href="#programa-detalhado" id="toc-programa-detalhado" class="nav-link" data-scroll-target="#programa-detalhado"><span class="header-section-number">3</span> Programa Detalhado</a>
+  <li><a href="#materiais-que-acompanham-o-livro" id="toc-materiais-que-acompanham-o-livro" class="nav-link" data-scroll-target="#materiais-que-acompanham-o-livro"><span class="header-section-number">5</span> Materiais que acompanham o livro</a>
   <ul class="collapse">
-  <li><a href="#dia-1-claude-code-na-prática" id="toc-dia-1-claude-code-na-prática" class="nav-link" data-scroll-target="#dia-1-claude-code-na-prática">Dia 1 — Claude Code na prática</a></li>
-  <li><a href="#dia-2-dados-econômicos-ia" id="toc-dia-2-dados-econômicos-ia" class="nav-link" data-scroll-target="#dia-2-dados-econômicos-ia">Dia 2 — Dados Econômicos + IA</a></li>
-  <li><a href="#dia-3-como-construir-agentes" id="toc-dia-3-como-construir-agentes" class="nav-link" data-scroll-target="#dia-3-como-construir-agentes">Dia 3 — Como construir Agentes</a></li>
-  <li><a href="#dia-4-automação-e-pipelines" id="toc-dia-4-automação-e-pipelines" class="nav-link" data-scroll-target="#dia-4-automação-e-pipelines">Dia 4 — Automação e pipelines</a></li>
-  <li><a href="#dia-5-projetos-reais" id="toc-dia-5-projetos-reais" class="nav-link" data-scroll-target="#dia-5-projetos-reais">Dia 5 — Projetos Reais</a></li>
+  <li><a href="#workshop-gravado" id="toc-workshop-gravado" class="nav-link" data-scroll-target="#workshop-gravado">Workshop gravado</a></li>
+  <li><a href="#dez-mini-cursos-com-código-para-praticar" id="toc-dez-mini-cursos-com-código-para-praticar" class="nav-link" data-scroll-target="#dez-mini-cursos-com-código-para-praticar">Dez mini-cursos com código para praticar</a></li>
   </ul></li>
-  <li><a href="#bônus" id="toc-bônus" class="nav-link" data-scroll-target="#bônus"><span class="header-section-number">4</span> Bônus</a></li>
-  <li><a href="#inscrição" id="toc-inscrição" class="nav-link" data-scroll-target="#inscrição"><span class="header-section-number">5</span> Inscrição</a></li>
+  <li><a href="#autores" id="toc-autores" class="nav-link" data-scroll-target="#autores"><span class="header-section-number">6</span> Autores</a></li>
+  <li><a href="#compra" id="toc-compra" class="nav-link" data-scroll-target="#compra"><span class="header-section-number">7</span> Compra</a></li>
   </ul>
 </nav>
 </div>
@@ -74,8 +75,8 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title"><a href="https://analisemacro.com.br/" target="_blank"><img src="https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png" alt="Logotipo Análise Macro" width="150"></a> <br> <strong>Imersão Claude Code para Economistas, Administradores e Contadores</strong></h1>
-<p class="subtitle lead">Programa e informações gerais do curso</p>
+<h1 class="title"><a href="https://analisemacro.com.br/" target="_blank"><img src="https://analisemacro.com.br/wp-content/uploads/dlm_uploads/2021/10/logo_am.png" alt="Logotipo Análise Macro" width="150"></a> <br> <strong>Livro Digital: Do Zero à Análise de Dados Econômicos e Financeiros com Python</strong></h1>
+<p class="subtitle lead">Conteúdo e informações gerais do livro</p>
 </div>
 
 
@@ -100,159 +101,206 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="resumo" class="level1" data-number="1">
 <h1 data-number="1"><span class="header-section-number">1</span> Resumo</h1>
-<p>A Imersão Claude Code é um curso ao vivo voltado para quem trabalha com economia e finanças e quer usar inteligência artificial de forma prática no dia a dia. A proposta não é estudar IA na teoria, e sim construir com ela: criar agentes, automatizar análises de dados econômicos e montar pipelines que rodam sozinhos.</p>
-<p>São cinco encontros ao vivo de duas horas cada, 10 horas no total, partindo do zero até o uso completo do Claude Code aplicado a problemas reais de análise econômica e financeira. Ao longo dos encontros você configura o ambiente, escreve e depura código com apoio da IA, coleta dados por APIs e scraping, constrói agentes que geram insights e leva projetos do notebook à produção.</p>
-<p>O público inclui economistas que querem sair da teoria, analistas que querem automatizar tarefas, profissionais de mercado financeiro, cientistas de dados com foco em economia e também contadores e administradores que desejam aplicar IA na sua operação. Todos os encontros ficam gravados para revisão por 12 meses.</p>
+<p>Este livro digital percorre o caminho completo da análise de dados aplicada à economia e às finanças, do primeiro contato com o Python até a construção de um modelo de previsão. A proposta é dar um roteiro claro para quem quer entrar nessa área e não sabe por onde começar: quais ferramentas dominar, em que ordem estudar e como sair da teoria para o código que roda.</p>
+<p>O conteúdo é organizado em cinco partes que seguem o ciclo da análise de dados — objetivo, coleta, exploração, modelagem, validação e implantação. Você programa desde o começo no Google Colab, sem precisar instalar nada no computador, e termina com um projeto aplicado de previsão do IPCA usando modelos SARIMA.</p>
+<p>Junto com o livro vêm dois materiais complementares: um workshop gravado com uma análise de dados completa, comentada linha a linha, e dez mini-cursos com vídeo e código para praticar em bases reais da economia brasileira.</p>
 <table class="caption-top table">
 <tbody>
 <tr class="odd">
 <td><strong>Categoria</strong></td>
-<td>Especialização em Inteligência Artificial</td>
+<td>Livros Digitais</td>
 </tr>
 <tr class="even">
-<td><strong>Carga horária total</strong></td>
-<td>10 horas</td>
-</tr>
-<tr class="odd">
-<td><strong>Número de encontros</strong></td>
-<td>5 encontros ao vivo</td>
-</tr>
-<tr class="even">
-<td><strong>Duração de cada encontro</strong></td>
-<td>2 horas</td>
-</tr>
-<tr class="odd">
 <td><strong>Formato</strong></td>
-<td>Ao vivo e online, com gravações por 12 meses</td>
+<td>Livro digital em PDF</td>
+</tr>
+<tr class="odd">
+<td><strong>Autores</strong></td>
+<td>Fernando da Silva e Vítor Wilher</td>
 </tr>
 <tr class="even">
-<td><strong>Professor</strong></td>
-<td>Vítor Wilher</td>
+<td><strong>Linguagem</strong></td>
+<td>Python (no Google Colab)</td>
 </tr>
 <tr class="odd">
 <td><strong>Nível</strong></td>
-<td>Iniciante a intermediário</td>
+<td>Iniciante (sem pré-requisitos)</td>
 </tr>
 <tr class="even">
-<td><strong>Certificado</strong></td>
-<td>Sim</td>
+<td><strong>Complementos</strong></td>
+<td>Workshop gravado + 10 mini-cursos com código</td>
+</tr>
+<tr class="odd">
+<td><strong>Garantia</strong></td>
+<td>30 dias incondicional</td>
 </tr>
 </tbody>
 </table>
 </section>
-<section id="pré-requisitos-e-objetivos" class="level1" data-number="2">
-<h1 data-number="2"><span class="header-section-number">2</span> Pré-requisitos e Objetivos</h1>
-<section id="pré-requisitos" class="level2">
-<h2 class="anchored" data-anchor-id="pré-requisitos">Pré-requisitos</h2>
-<p>Você não precisa ser especialista em programação ou inteligência artificial para participar.</p>
+<section id="para-quem-é" class="level1" data-number="2">
+<h1 data-number="2"><span class="header-section-number">2</span> Para quem é</h1>
 <ul>
-<li>Familiaridade com computador e ambiente digital</li>
-<li>Ter o Python instalado (há orientação para isso)</li>
-<li>Conta em ferramentas de IA (também há orientação para isso)</li>
+<li>Quem quer entrar no mercado de análise de dados econômicos e financeiros e procura um roteiro de estudo em vez de conteúdo solto.</li>
+<li>Economistas, administradores, contadores e estudantes sem experiência prévia com programação.</li>
+<li>Analistas que já trabalham com dados no Excel e querem migrar para o Python.</li>
+<li>Quem já tentou aprender por vídeos avulsos e travou na hora de reproduzir código.</li>
 </ul>
 </section>
-<section id="o-que-você-será-capaz-de-fazer" class="level2">
-<h2 class="anchored" data-anchor-id="o-que-você-será-capaz-de-fazer">O que você será capaz de fazer</h2>
+<section id="o-que-você-vai-aprender" class="level1" data-number="3">
+<h1 data-number="3"><span class="header-section-number">3</span> O que você vai aprender</h1>
 <ul>
-<li>Criar agentes inteligentes com IA aplicados à análise econômica e financeira</li>
-<li>Automatizar análises econômicas que hoje são feitas manualmente</li>
-<li>Construir pipelines de dados que coletam, organizam e processam informações</li>
-<li>Gerar relatórios automaticamente</li>
-<li>Integrar Python, IA e dados reais em um fluxo de trabalho único</li>
+<li>Sair do zero em Python e implementar rotinas de análise de dados.</li>
+<li>Usar o Python sem instalar nenhum programa no computador.</li>
+<li>Criar scripts de análise, instalar bibliotecas e interpretar mensagens de erro.</li>
+<li>Montar o processo completo de análise: coleta, tratamento, modelagem e apresentação dos dados.</li>
+<li>Explorar dados de acordo com o tipo de variável, diferenciando análise univariada de multivariada.</li>
+<li>Escolher o gráfico apropriado para cada situação e ler o que ele mostra.</li>
+<li>Entender o que são séries temporais, suas vantagens e suas limitações.</li>
+<li>Dominar o fluxo de modelagem e previsão e avaliar se um modelo é bom ou ruim.</li>
+<li>Construir uma mentalidade de resolução de problemas baseada em dados.</li>
+<li>Identificar o que é necessário para automatizar um processo de análise.</li>
 </ul>
 </section>
-<section id="habilidades-e-ferramentas" class="level2">
-<h2 class="anchored" data-anchor-id="habilidades-e-ferramentas">Habilidades e ferramentas</h2>
+<section id="sumário-do-livro" class="level1" data-number="4">
+<h1 data-number="4"><span class="header-section-number">4</span> Sumário do livro</h1>
+<section id="parte-i-o-ciclo-da-análise-de-dados" class="level2">
+<h2 class="anchored" data-anchor-id="parte-i-o-ciclo-da-análise-de-dados">Parte I — O ciclo da análise de dados</h2>
 <ul>
-<li>Claude Code e o conceito de loop agêntico (como o agente pensa, planeja e executa)</li>
-<li>LLMs na prática e comparação entre Claude, GPT e Gemini</li>
-<li>Prompting como linguagem de programação</li>
-<li>Tools do Claude Code: Bash, Read, Write e WebFetch</li>
-<li>Context window: como funciona e como preservá-la</li>
-<li>Python para coleta de dados (APIs e scraping), organização de datasets e análise exploratória</li>
-<li>Debug com apoio de IA</li>
-<li>Automação de tarefas, pipelines de dados e introdução à orquestração</li>
+<li><ol type="1">
+<li>Introdução</li>
+</ol></li>
+<li><ol start="2" type="1">
+<li>O roteiro — objetivo, dados, exploração, modelagem, validação e implantação</li>
+</ol></li>
+</ul>
+</section>
+<section id="parte-ii-programação-python-e-colab" class="level2">
+<h2 class="anchored" data-anchor-id="parte-ii-programação-python-e-colab">Parte II — Programação: Python e Colab</h2>
+<ul>
+<li><ol start="3" type="1">
+<li>Por que usar o Python?</li>
+</ol></li>
+<li><ol start="4" type="1">
+<li>Google Colab e Olá, Mundo!</li>
+</ol></li>
+<li><ol start="5" type="1">
+<li>Bibliotecas</li>
+</ol></li>
+<li><ol start="6" type="1">
+<li>Introdução ao Pandas</li>
+</ol></li>
+<li><ol start="7" type="1">
+<li>Criando scripts</li>
+</ol></li>
+<li><ol start="8" type="1">
+<li>Lidando com objetos</li>
+</ol></li>
+<li><ol start="9" type="1">
+<li>Estruturas de dados</li>
+</ol></li>
+<li><ol start="10" type="1">
+<li>Operadores</li>
+</ol></li>
+</ul>
+</section>
+<section id="parte-iii-exploração-de-dados" class="level2">
+<h2 class="anchored" data-anchor-id="parte-iii-exploração-de-dados">Parte III — Exploração de dados</h2>
+<ul>
+<li><ol start="11" type="1">
+<li>Tipos de variáveis</li>
+</ol></li>
+<li><ol start="12" type="1">
+<li>Processo gerador dos dados</li>
+</ol></li>
+<li><ol start="13" type="1">
+<li>Estatísticas descritivas</li>
+</ol></li>
+<li><ol start="14" type="1">
+<li>Gráfico de dispersão</li>
+</ol></li>
+<li><ol start="15" type="1">
+<li>Gráfico de histograma</li>
+</ol></li>
+<li><ol start="16" type="1">
+<li>Gráfico de boxplot</li>
+</ol></li>
+<li><ol start="17" type="1">
+<li>Gráfico de linha</li>
+</ol></li>
+<li><ol start="18" type="1">
+<li>Análise de correlação</li>
+</ol></li>
+<li><ol start="19" type="1">
+<li>Análise de autocorrelação</li>
+</ol></li>
+<li><ol start="20" type="1">
+<li>Análise de estacionariedade</li>
+</ol></li>
+<li><ol start="21" type="1">
+<li>Análise de séries temporais</li>
+</ol></li>
+</ul>
+</section>
+<section id="parte-iv-modelagem-e-previsão" class="level2">
+<h2 class="anchored" data-anchor-id="parte-iv-modelagem-e-previsão">Parte IV — Modelagem e previsão</h2>
+<ul>
+<li><ol start="22" type="1">
+<li>Fluxo de trabalho</li>
+</ol></li>
+<li><ol start="23" type="1">
+<li>Exemplo aplicado</li>
+</ol></li>
+</ul>
+</section>
+<section id="parte-v-projeto-previsão-do-ipca" class="level2">
+<h2 class="anchored" data-anchor-id="parte-v-projeto-previsão-do-ipca">Parte V — Projeto: previsão do IPCA</h2>
+<ul>
+<li><ol start="24" type="1">
+<li>Modelos SARIMA</li>
+</ol></li>
+<li><ol start="25" type="1">
+<li>Previsão do IPCA</li>
+</ol></li>
+<li><ol start="26" type="1">
+<li>Conclusão</li>
+</ol></li>
 </ul>
 </section>
 </section>
-<section id="programa-detalhado" class="level1" data-number="3">
-<h1 data-number="3"><span class="header-section-number">3</span> Programa Detalhado</h1>
-<p>A imersão tem cinco encontros ao vivo de duas horas cada, com gravação disponível por 12 meses.</p>
-<section id="dia-1-claude-code-na-prática" class="level2">
-<h2 class="anchored" data-anchor-id="dia-1-claude-code-na-prática">Dia 1 — Claude Code na prática</h2>
-<p>Boas-vindas, visão geral da imersão e montagem do ambiente necessário para rodar os códigos com o Claude Code. Você sai do zero e já começa a praticar.</p>
-<ul>
-<li>O que são LLMs na prática</li>
-<li>Claude vs GPT vs Gemini</li>
-<li>Prompting como linguagem de programação</li>
-<li>Limitações reais</li>
-<li>Por que usar o Claude Code</li>
-<li>Definindo o loop agêntico: como o agente pensa, planeja e executa</li>
-<li>Tools: Bash, Read, Write, WebFetch</li>
-<li>Como a context window funciona e como preservá-la</li>
-<li>Modelos disponíveis e quando usar cada um</li>
-<li>Setup completo: Mac, Linux e Windows</li>
-</ul>
+<section id="materiais-que-acompanham-o-livro" class="level1" data-number="5">
+<h1 data-number="5"><span class="header-section-number">5</span> Materiais que acompanham o livro</h1>
+<section id="workshop-gravado" class="level2">
+<h2 class="anchored" data-anchor-id="workshop-gravado">Workshop gravado</h2>
+<p><strong>Como Construir uma Análise de Dados Econômicos e Financeiros Completa</strong> — uma análise do começo ao fim com as ferramentas apresentadas no livro, comentando cada linha de código aplicada.</p>
 </section>
-<section id="dia-2-dados-econômicos-ia" class="level2">
-<h2 class="anchored" data-anchor-id="dia-2-dados-econômicos-ia">Dia 2 — Dados Econômicos + IA</h2>
-<p>A imersão entra no contexto de dados econômicos.</p>
+<section id="dez-mini-cursos-com-código-para-praticar" class="level2">
+<h2 class="anchored" data-anchor-id="dez-mini-cursos-com-código-para-praticar">Dez mini-cursos com código para praticar</h2>
+<p>Exercícios práticos com tutorial em vídeo e código pronto, para reproduzir análises completas:</p>
 <ul>
-<li>Estrutura de projetos com IA</li>
-<li>Geração de código</li>
-<li>Debug com IA</li>
-<li>Scripts econômicos</li>
-<li>Coleta de dados (APIs e scraping)</li>
-<li>Organização de datasets</li>
-<li>Integração com Python</li>
-<li>Análise exploratória automatizada</li>
-</ul>
-</section>
-<section id="dia-3-como-construir-agentes" class="level2">
-<h2 class="anchored" data-anchor-id="dia-3-como-construir-agentes">Dia 3 — Como construir Agentes</h2>
-<p>Com a base pronta, o foco passa a ser construir agentes que interagem com o ambiente e geram insights para problemas de análise de dados.</p>
-<ul>
-<li>O que é um agente</li>
-<li>Arquitetura (tools, memória, contexto)</li>
-<li>Agentes para análise econômica e financeira</li>
-<li>Geração de insights</li>
-</ul>
-</section>
-<section id="dia-4-automação-e-pipelines" class="level2">
-<h2 class="anchored" data-anchor-id="dia-4-automação-e-pipelines">Dia 4 — Automação e pipelines</h2>
-<p>Momento de colocar em produção, criando pipelines de dados que trabalham por você.</p>
-<ul>
-<li>Do notebook à produção</li>
-<li>Automação de tarefas</li>
-<li>Pipelines de dados</li>
-<li>Introdução à orquestração</li>
-</ul>
-</section>
-<section id="dia-5-projetos-reais" class="level2">
-<h2 class="anchored" data-anchor-id="dia-5-projetos-reais">Dia 5 — Projetos Reais</h2>
-<p>Construção de projetos reais e 100% práticos para o portfólio.</p>
-<ul>
-<li>Agente que analisa a inflação brasileira</li>
-<li>Sistema de criação de relatórios automáticos</li>
-<li>Pipeline para criação de painel macroeconômico</li>
+<li>Como criar tabelas de dados econômicos no Python.</li>
+<li>Como criar uma análise de dados financeiros usando o Python.</li>
+<li>Análise de dados regionais do CAGED.</li>
+<li>Análise de dados regionais do IPCA.</li>
+<li>Análise de dados do PIB.</li>
+<li>Análise de grupos do IPCA.</li>
+<li>Análise de séries temporais.</li>
+<li>Como automatizar no Python o tratamento de dados feito no Excel.</li>
+<li>Como coletar dados do Banco Central Europeu (ECB) pela API.</li>
+<li>Análise da DRE de empresas de capital aberto.</li>
 </ul>
 </section>
 </section>
-<section id="bônus" class="level1" data-number="4">
-<h1 data-number="4"><span class="header-section-number">4</span> Bônus</h1>
-<p>A matrícula inclui três cursos gravados do catálogo da Análise Macro:</p>
-<ul>
-<li><strong>Programação em Python para Análise de Dados</strong> — 120 horas.</li>
-<li><strong>Inteligência Artificial para Economistas</strong> — 30 horas.</li>
-<li><strong>Inteligência Artificial para Contadores e Administradores</strong> — 30 horas.</li>
-</ul>
+<section id="autores" class="level1" data-number="6">
+<h1 data-number="6"><span class="header-section-number">6</span> Autores</h1>
+<p><strong>Fernando da Silva</strong> — bacharel em Economia e cientista de dados, especializado em economia e finanças. Trabalha com modelagem e previsão de séries temporais, análise e visualização de dados e automatização de relatórios e dashboards.</p>
+<p><strong>Vítor Wilher</strong> — mestre em Economia e Cientista-Chefe da Análise Macro. Dá aulas e presta consultoria na área de dados, tendo ajudado milhares de alunos no Brasil a dar o primeiro passo em análise de dados com R e Python.</p>
 </section>
-<section id="inscrição" class="level1" data-number="5">
-<h1 data-number="5"><span class="header-section-number">5</span> Inscrição</h1>
-<p>A matrícula dá acesso aos cinco encontros ao vivo, às gravações e ao material por 12 meses, além do código disponível para reaproveitar. A imersão é 100% prática, com espaço para tirar dúvidas ao longo dos encontros, e inclui certificado.</p>
+<section id="compra" class="level1" data-number="7">
+<h1 data-number="7"><span class="header-section-number">7</span> Compra</h1>
+<p>A compra dá acesso ao livro digital em PDF, ao workshop gravado e aos dez mini-cursos com código, com garantia incondicional de 30 dias.</p>
 <ul>
-<li>📄 <strong>Página do curso:</strong> <a href="https://analisemacro.com.br/imersao/claude-code-para-economistas/" class="uri">https://analisemacro.com.br/imersao/claude-code-para-economistas/</a></li>
-<li>🛒 <strong>Matrícula:</strong> <a href="https://aluno.analisemacro.com.br/carrinho/?add-to-cart=70813" class="uri">https://aluno.analisemacro.com.br/carrinho/?add-to-cart=70813</a></li>
+<li>📄 <strong>Página do livro:</strong> <a href="https://analisemacro.com.br/conteudo/livros/livro-digital-do-zero-a-analise-de-dados-economicos-e-financeiros-com-python/" class="uri">https://analisemacro.com.br/conteudo/livros/livro-digital-do-zero-a-analise-de-dados-economicos-e-financeiros-com-python/</a></li>
+<li>🛒 <strong>Compra:</strong> <a href="https://aluno.analisemacro.com.br/carrinho/?add-to-cart=57826" class="uri">https://aluno.analisemacro.com.br/carrinho/?add-to-cart=57826</a></li>
 </ul>
 </section>
 
