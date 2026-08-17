@@ -59,10 +59,10 @@ ul.task-list li input[type="checkbox"] {
   </ul></li>
   <li><a href="#programa-detalhado" id="toc-programa-detalhado" class="nav-link" data-scroll-target="#programa-detalhado"><span class="header-section-number">3</span> Programa Detalhado</a>
   <ul class="collapse">
-  <li><a href="#bloco-1-os-modelos-de-projeção-do-bcb-e-o-mpp-4h" id="toc-bloco-1-os-modelos-de-projeção-do-bcb-e-o-mpp-4h" class="nav-link" data-scroll-target="#bloco-1-os-modelos-de-projeção-do-bcb-e-o-mpp-4h">Bloco 1 — Os modelos de projeção do BCB e o MPP (4h)</a></li>
-  <li><a href="#bloco-2-o-model-object-do-eviews-4h" id="toc-bloco-2-o-model-object-do-eviews-4h" class="nav-link" data-scroll-target="#bloco-2-o-model-object-do-eviews-4h">Bloco 2 — O <em>Model Object</em> do EViews (4h)</a></li>
-  <li><a href="#bloco-3-implementação-do-mpp-4h" id="toc-bloco-3-implementação-do-mpp-4h" class="nav-link" data-scroll-target="#bloco-3-implementação-do-mpp-4h">Bloco 3 — Implementação do MPP (4h)</a></li>
-  <li><a href="#bloco-4-operacionalização-por-código-e-resultados-4h" id="toc-bloco-4-operacionalização-por-código-e-resultados-4h" class="nav-link" data-scroll-target="#bloco-4-operacionalização-por-código-e-resultados-4h">Bloco 4 — Operacionalização por código e resultados (4h)</a></li>
+  <li><a href="#módulo-1-os-modelos-de-projeção-do-bcb-e-o-mpp-4h" id="toc-módulo-1-os-modelos-de-projeção-do-bcb-e-o-mpp-4h" class="nav-link" data-scroll-target="#módulo-1-os-modelos-de-projeção-do-bcb-e-o-mpp-4h">Módulo 1 — Os modelos de projeção do BCB e o MPP (4h)</a></li>
+  <li><a href="#módulo-2-o-model-object-do-eviews-4h" id="toc-módulo-2-o-model-object-do-eviews-4h" class="nav-link" data-scroll-target="#módulo-2-o-model-object-do-eviews-4h">Módulo 2 — O <em>Model Object</em> do EViews (4h)</a></li>
+  <li><a href="#módulo-3-implementação-do-mpp-4h" id="toc-módulo-3-implementação-do-mpp-4h" class="nav-link" data-scroll-target="#módulo-3-implementação-do-mpp-4h">Módulo 3 — Implementação do MPP (4h)</a></li>
+  <li><a href="#módulo-4-operacionalização-por-código-e-resultados-4h" id="toc-módulo-4-operacionalização-por-código-e-resultados-4h" class="nav-link" data-scroll-target="#módulo-4-operacionalização-por-código-e-resultados-4h">Módulo 4 — Operacionalização por código e resultados (4h)</a></li>
   </ul></li>
   <li><a href="#professor" id="toc-professor" class="nav-link" data-scroll-target="#professor"><span class="header-section-number">4</span> Professor</a></li>
   <li><a href="#inscrição" id="toc-inscrição" class="nav-link" data-scroll-target="#inscrição"><span class="header-section-number">5</span> Inscrição</a></li>
@@ -99,9 +99,11 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="resumo" class="level1" data-number="1">
 <h1 data-number="1"><span class="header-section-number">1</span> Resumo</h1>
-<p>O curso apresenta, estima e implementa versões dos modelos semiestruturais de pequeno porte usados nas discussões do Comitê de Política Monetária (COPOM). Introduzido por Bogdanski, Tombini e Werlang (2000), o MPP evoluiu bastante desde então e segue como a principal ferramenta de apoio à decisão do Banco Central do Brasil.</p>
-<p>A implementação é feita por meio de programas que automatizam procedimentos, aumentam a eficiência e reduzem o risco operacional. Todas as estimações e implementações acontecem no EViews, com uso do <em>Model Object</em> e, depois, da operacionalização por código. O curso encerra comparando os resultados obtidos com os divulgados pelo BCB e analisando as funções de resposta ao impulso.</p>
-<p>As aulas são remotas e síncronas, e as gravações ficam disponíveis para quem não conseguir acompanhar ao vivo.</p>
+<p>O curso apresenta, estima e implementa versões dos modelos semiestruturais de pequeno porte usados nas discussões do Comitê de Política Monetária (COPOM). Introduzido por Bogdanski, Tombini e Werlang (2000) junto com o regime de metas para a inflação, o MPP evoluiu bastante desde então e segue como a principal ferramenta de apoio à decisão do Banco Central do Brasil.</p>
+<p>“Pequeno porte” descreve a escolha de método: poucas equações, cada uma com contrapartida direta na teoria econômica — a formação de preços, a demanda agregada, a reação da autoridade monetária e as expectativas. Essa parcimônia é o que torna o modelo transparente o bastante para embasar uma decisão de política monetária e discutir seus resultados equação a equação.</p>
+<p>O percurso é aplicado do início ao fim. Primeiro as equações do modelo são estimadas separadamente no EViews; depois elas são reunidas no <em>Model Object</em>, a estrutura que trata o conjunto como um sistema único e permite simular e projetar. Na etapa final, todo o procedimento é reescrito em código: rotinas que automatizam o trabalho manual, aumentam a eficiência e reduzem o risco operacional de uma reestimação recorrente.</p>
+<p>O curso encerra com a validação dos resultados. As projeções obtidas são comparadas com as divulgadas pelo próprio Banco Central, e as funções de resposta ao impulso mostram como cada choque se propaga pelo sistema — o teste de que o modelo reproduz os mecanismos que se espera dele.</p>
+<p>É um curso voltado a quem já conhece o terreno: pressupõe familiaridade prévia com o MPP, com o EViews e com as técnicas de estimação envolvidas.</p>
 <table class="caption-top table">
 <colgroup>
 <col style="width: 50%">
@@ -114,19 +116,19 @@ ul.task-list li input[type="checkbox"] {
 </tr>
 <tr class="even">
 <td><strong>Carga horária total</strong></td>
-<td>16 horas</td>
+<td>32 horas</td>
 </tr>
 <tr class="odd">
-<td><strong>Número de encontros</strong></td>
-<td>8 encontros ao vivo</td>
+<td><strong>Horas de vídeo</strong></td>
+<td>16 horas</td>
 </tr>
 <tr class="even">
-<td><strong>Duração de cada encontro</strong></td>
-<td>2 horas</td>
+<td><strong>Número de módulos</strong></td>
+<td>4 módulos de 4 horas</td>
 </tr>
 <tr class="odd">
 <td><strong>Formato</strong></td>
-<td>Ao vivo e online, com gravações disponíveis</td>
+<td>Curso online, com material e vídeos disponíveis para assistir quando quiser</td>
 </tr>
 <tr class="even">
 <td><strong>Professor</strong></td>
@@ -147,59 +149,62 @@ ul.task-list li input[type="checkbox"] {
 <h1 data-number="2"><span class="header-section-number">2</span> Pré-requisitos e Objetivos</h1>
 <section id="pré-requisitos" class="level2">
 <h2 class="anchored" data-anchor-id="pré-requisitos">Pré-requisitos</h2>
-<p>O curso pressupõe familiaridade prévia com:</p>
+<p>Este é um curso avançado, que começa de onde a teoria já foi vista. Ele pressupõe familiaridade prévia com:</p>
 <ul>
 <li>O modelo de pequeno porte (MPP) e a literatura de modelos semiestruturais.</li>
 <li>O software EViews.</li>
 <li>As técnicas usadas na estimação desse tipo de modelo.</li>
 </ul>
+<p>Quem procura a base conceitual dos modelos de equilíbrio geral antes de partir para a implementação encontra esse caminho no curso <a href="../introducao-aos-modelos-dsge/introducao-aos-modelos-dsge.html">Introdução aos Modelos DSGE</a>, do mesmo professor.</p>
 </section>
 <section id="o-que-você-será-capaz-de-fazer" class="level2">
 <h2 class="anchored" data-anchor-id="o-que-você-será-capaz-de-fazer">O que você será capaz de fazer</h2>
 <ul>
-<li>Entender os modelos de projeção utilizados pelo Banco Central do Brasil.</li>
-<li>Estimar os principais componentes do MPP no EViews.</li>
-<li>Usar o <em>Model Object</em> do EViews para montar e simular o modelo completo.</li>
-<li>Operacionalizar o modelo por meio de código, automatizando os procedimentos.</li>
-<li>Comparar os resultados obtidos com os divulgados pelo BCB.</li>
-<li>Analisar as funções de resposta ao impulso do modelo.</li>
+<li>Situar o MPP no conjunto de modelos de projeção utilizados pelo Banco Central do Brasil e entender por que ele continua central nas discussões do COPOM.</li>
+<li>Estimar os principais componentes do modelo no EViews, com as escolhas econométricas que cada equação exige.</li>
+<li>Usar o <em>Model Object</em> do EViews para reunir as equações num sistema único e resolvê-lo de forma simultânea.</li>
+<li>Montar e rodar o MPP de ponta a ponta, gerando projeções a partir de um cenário.</li>
+<li>Operacionalizar o modelo por meio de código, transformando o procedimento manual numa rotina reproduzível a cada nova rodada de dados.</li>
+<li>Comparar as projeções obtidas com os resultados divulgados pelo BCB e avaliar as diferenças.</li>
+<li>Analisar as funções de resposta ao impulso, medindo como cada choque se propaga e por quanto tempo afeta a inflação.</li>
 </ul>
 </section>
 <section id="habilidades-e-ferramentas" class="level2">
 <h2 class="anchored" data-anchor-id="habilidades-e-ferramentas">Habilidades e ferramentas</h2>
-<p><strong>Habilidades:</strong> estimação de modelos semiestruturais, montagem e simulação de sistemas de equações, automação de rotinas de projeção, leitura crítica dos resultados frente aos números oficiais do BCB e análise de funções de resposta ao impulso.</p>
-<p><strong>Ferramentas:</strong> EViews, com destaque para o <em>Model Object</em> e para a programação de rotinas que reduzem o trabalho manual e o risco operacional.</p>
+<p><strong>Habilidades:</strong> estimação de modelos semiestruturais, montagem e simulação de sistemas de equações simultâneas, construção de cenários e projeções, automação de rotinas recorrentes, leitura crítica dos resultados frente aos números oficiais do BCB e análise de funções de resposta ao impulso.</p>
+<p><strong>Ferramentas:</strong> EViews, com destaque para o <em>Model Object</em> — a estrutura que trata um conjunto de equações como um modelo único — e para a programação de rotinas que reduzem o trabalho manual e o risco operacional.</p>
+<p><strong>Referência:</strong> Bogdanski, Tombini e Werlang (2000), o trabalho que introduziu o modelo junto com o regime de metas para a inflação, e as versões posteriores publicadas pelo Banco Central.</p>
 </section>
 </section>
 <section id="programa-detalhado" class="level1" data-number="3">
 <h1 data-number="3"><span class="header-section-number">3</span> Programa Detalhado</h1>
-<p>O curso tem oito encontros ao vivo de duas horas cada, organizados em quatro blocos temáticos de quatro horas.</p>
-<section id="bloco-1-os-modelos-de-projeção-do-bcb-e-o-mpp-4h" class="level2">
-<h2 class="anchored" data-anchor-id="bloco-1-os-modelos-de-projeção-do-bcb-e-o-mpp-4h">Bloco 1 — Os modelos de projeção do BCB e o MPP (4h)</h2>
-<p>Ponto de partida do curso: onde o MPP se encaixa no conjunto de modelos usados pelo Banco Central e como estimar suas peças principais.</p>
+<p>As 16 horas de vídeo do curso estão organizadas em quatro módulos de quatro horas, em sequência: entender e estimar as peças, aprender a ferramenta que as une, montar o modelo completo e, por fim, automatizar e validar.</p>
+<section id="módulo-1-os-modelos-de-projeção-do-bcb-e-o-mpp-4h" class="level2">
+<h2 class="anchored" data-anchor-id="módulo-1-os-modelos-de-projeção-do-bcb-e-o-mpp-4h">Módulo 1 — Os modelos de projeção do BCB e o MPP (4h)</h2>
+<p>Ponto de partida do curso: onde o MPP se encaixa no conjunto de modelos que o Banco Central usa para projetar a inflação, e o que distingue um modelo semiestrutural de alternativas puramente estatísticas. Apresentada a estrutura do modelo, o trabalho passa para o EViews, com a estimação de seus principais componentes e a discussão das escolhas econométricas que cada equação exige.</p>
 <ul>
 <li>Os modelos de projeção utilizados pelo BCB.</li>
 <li>Apresentação do modelo de pequeno porte (MPP).</li>
 <li>Estimação de seus principais componentes no EViews.</li>
 </ul>
 </section>
-<section id="bloco-2-o-model-object-do-eviews-4h" class="level2">
-<h2 class="anchored" data-anchor-id="bloco-2-o-model-object-do-eviews-4h">Bloco 2 — O <em>Model Object</em> do EViews (4h)</h2>
-<p>Apresentação da estrutura do EViews que permite tratar um conjunto de equações como um modelo único, passo necessário para simular e projetar.</p>
+<section id="módulo-2-o-model-object-do-eviews-4h" class="level2">
+<h2 class="anchored" data-anchor-id="módulo-2-o-model-object-do-eviews-4h">Módulo 2 — O <em>Model Object</em> do EViews (4h)</h2>
+<p>Equações estimadas isoladamente ainda não formam um modelo. O <em>Model Object</em> é a estrutura do EViews que reúne esse conjunto num sistema resolvido de forma simultânea, com as interdependências entre juros, atividade, câmbio e preços tratadas de uma vez. É a peça que viabiliza simulação e projeção, e o módulo é dedicado a dominá-la antes de aplicá-la ao MPP.</p>
 <ul>
 <li>Apresentação do <em>Model Object</em> do EViews.</li>
 </ul>
 </section>
-<section id="bloco-3-implementação-do-mpp-4h" class="level2">
-<h2 class="anchored" data-anchor-id="bloco-3-implementação-do-mpp-4h">Bloco 3 — Implementação do MPP (4h)</h2>
-<p>O modelo sai do papel: as equações estimadas são reunidas e o MPP passa a rodar de ponta a ponta.</p>
+<section id="módulo-3-implementação-do-mpp-4h" class="level2">
+<h2 class="anchored" data-anchor-id="módulo-3-implementação-do-mpp-4h">Módulo 3 — Implementação do MPP (4h)</h2>
+<p>O modelo sai do papel. As equações estimadas no primeiro módulo são reunidas no <em>Model Object</em> e o MPP passa a rodar de ponta a ponta, gerando projeções a partir de um cenário. É aqui que aparecem as questões práticas de quem implementa um modelo de projeção: consistência entre as equações, tratamento das variáveis exógenas e verificação de que o sistema resolve como esperado.</p>
 <ul>
 <li>Implementação do MPP usando o <em>Model Object</em> do EViews.</li>
 </ul>
 </section>
-<section id="bloco-4-operacionalização-por-código-e-resultados-4h" class="level2">
-<h2 class="anchored" data-anchor-id="bloco-4-operacionalização-por-código-e-resultados-4h">Bloco 4 — Operacionalização por código e resultados (4h)</h2>
-<p>Automação dos procedimentos e confronto com o mundo real.</p>
+<section id="módulo-4-operacionalização-por-código-e-resultados-4h" class="level2">
+<h2 class="anchored" data-anchor-id="módulo-4-operacionalização-por-código-e-resultados-4h">Módulo 4 — Operacionalização por código e resultados (4h)</h2>
+<p>Encerramento em duas frentes. Na primeira, todo o procedimento é reescrito em código, o que transforma um trabalho manual e sujeito a erro numa rotina reproduzível — decisiva para quem precisa reestimar e reprojetar a cada rodada de dados. Na segunda, os resultados são confrontados com os divulgados pelo BCB e as funções de resposta ao impulso são analisadas, mostrando a magnitude e a duração do efeito de cada choque sobre a inflação.</p>
 <ul>
 <li>Operacionalização por meio de códigos.</li>
 <li>Comparação com resultados do BCB.</li>
@@ -214,7 +219,7 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="inscrição" class="level1" data-number="5">
 <h1 data-number="5"><span class="header-section-number">5</span> Inscrição</h1>
-<p>A matrícula dá acesso aos oito encontros ao vivo e às gravações, com garantia de reembolso em até 7 dias.</p>
+<p>A matrícula dá acesso aos quatro módulos do curso e ao material de apoio, com garantia de reembolso em até 7 dias.</p>
 <ul>
 <li>📄 <strong>Página do curso:</strong> <a href="https://analisemacro.com.br/o-modelo-de-pequeno-porte-mpp-do-banco-central-do-brasil-bcb/" class="uri">https://analisemacro.com.br/o-modelo-de-pequeno-porte-mpp-do-banco-central-do-brasil-bcb/</a></li>
 <li>🛒 <strong>Matrícula:</strong> <a href="https://aluno.analisemacro.com.br/carrinho/?add-to-cart=66416" class="uri">https://aluno.analisemacro.com.br/carrinho/?add-to-cart=66416</a></li>

@@ -16,19 +16,23 @@ theme:
 
 # Resumo
 
-O curso apresenta, estima e implementa versões dos modelos semiestruturais de pequeno porte usados nas discussões do Comitê de Política Monetária (COPOM). Introduzido por Bogdanski, Tombini e Werlang (2000), o MPP evoluiu bastante desde então e segue como a principal ferramenta de apoio à decisão do Banco Central do Brasil.
+O curso apresenta, estima e implementa versões dos modelos semiestruturais de pequeno porte usados nas discussões do Comitê de Política Monetária (COPOM). Introduzido por Bogdanski, Tombini e Werlang (2000) junto com o regime de metas para a inflação, o MPP evoluiu bastante desde então e segue como a principal ferramenta de apoio à decisão do Banco Central do Brasil.
 
-A implementação é feita por meio de programas que automatizam procedimentos, aumentam a eficiência e reduzem o risco operacional. Todas as estimações e implementações acontecem no EViews, com uso do *Model Object* e, depois, da operacionalização por código. O curso encerra comparando os resultados obtidos com os divulgados pelo BCB e analisando as funções de resposta ao impulso.
+"Pequeno porte" descreve a escolha de método: poucas equações, cada uma com contrapartida direta na teoria econômica — a formação de preços, a demanda agregada, a reação da autoridade monetária e as expectativas. Essa parcimônia é o que torna o modelo transparente o bastante para embasar uma decisão de política monetária e discutir seus resultados equação a equação.
 
-As aulas são remotas e síncronas, e as gravações ficam disponíveis para quem não conseguir acompanhar ao vivo.
+O percurso é aplicado do início ao fim. Primeiro as equações do modelo são estimadas separadamente no EViews; depois elas são reunidas no *Model Object*, a estrutura que trata o conjunto como um sistema único e permite simular e projetar. Na etapa final, todo o procedimento é reescrito em código: rotinas que automatizam o trabalho manual, aumentam a eficiência e reduzem o risco operacional de uma reestimação recorrente.
+
+O curso encerra com a validação dos resultados. As projeções obtidas são comparadas com as divulgadas pelo próprio Banco Central, e as funções de resposta ao impulso mostram como cada choque se propaga pelo sistema — o teste de que o modelo reproduz os mecanismos que se espera dele.
+
+É um curso voltado a quem já conhece o terreno: pressupõe familiaridade prévia com o MPP, com o EViews e com as técnicas de estimação envolvidas.
 
 | | |
 |---|---|
 | **Categoria** | Bancos Centrais |
-| **Carga horária total** | 16 horas |
-| **Número de encontros** | 8 encontros ao vivo |
-| **Duração de cada encontro** | 2 horas |
-| **Formato** | Ao vivo e online, com gravações disponíveis |
+| **Carga horária total** | 32 horas |
+| **Horas de vídeo** | 16 horas |
+| **Número de módulos** | 4 módulos de 4 horas |
+| **Formato** | Curso online, com material e vídeos disponíveis para assistir quando quiser |
 | **Professor** | Luciano Vereda Oliveira (Doutor em Economia, PUC-Rio) |
 | **Software** | EViews |
 | **Nível** | Avançado |
@@ -37,54 +41,59 @@ As aulas são remotas e síncronas, e as gravações ficam disponíveis para que
 
 ## Pré-requisitos
 
-O curso pressupõe familiaridade prévia com:
+Este é um curso avançado, que começa de onde a teoria já foi vista. Ele pressupõe familiaridade prévia com:
 
 - O modelo de pequeno porte (MPP) e a literatura de modelos semiestruturais.
 - O software EViews.
 - As técnicas usadas na estimação desse tipo de modelo.
 
+Quem procura a base conceitual dos modelos de equilíbrio geral antes de partir para a implementação encontra esse caminho no curso [Introdução aos Modelos DSGE](../introducao-aos-modelos-dsge/introducao-aos-modelos-dsge.html), do mesmo professor.
+
 ## O que você será capaz de fazer
 
-- Entender os modelos de projeção utilizados pelo Banco Central do Brasil.
-- Estimar os principais componentes do MPP no EViews.
-- Usar o *Model Object* do EViews para montar e simular o modelo completo.
-- Operacionalizar o modelo por meio de código, automatizando os procedimentos.
-- Comparar os resultados obtidos com os divulgados pelo BCB.
-- Analisar as funções de resposta ao impulso do modelo.
+- Situar o MPP no conjunto de modelos de projeção utilizados pelo Banco Central do Brasil e entender por que ele continua central nas discussões do COPOM.
+- Estimar os principais componentes do modelo no EViews, com as escolhas econométricas que cada equação exige.
+- Usar o *Model Object* do EViews para reunir as equações num sistema único e resolvê-lo de forma simultânea.
+- Montar e rodar o MPP de ponta a ponta, gerando projeções a partir de um cenário.
+- Operacionalizar o modelo por meio de código, transformando o procedimento manual numa rotina reproduzível a cada nova rodada de dados.
+- Comparar as projeções obtidas com os resultados divulgados pelo BCB e avaliar as diferenças.
+- Analisar as funções de resposta ao impulso, medindo como cada choque se propaga e por quanto tempo afeta a inflação.
 
 ## Habilidades e ferramentas
 
-**Habilidades:** estimação de modelos semiestruturais, montagem e simulação de sistemas de equações, automação de rotinas de projeção, leitura crítica dos resultados frente aos números oficiais do BCB e análise de funções de resposta ao impulso.
+**Habilidades:** estimação de modelos semiestruturais, montagem e simulação de sistemas de equações simultâneas, construção de cenários e projeções, automação de rotinas recorrentes, leitura crítica dos resultados frente aos números oficiais do BCB e análise de funções de resposta ao impulso.
 
-**Ferramentas:** EViews, com destaque para o *Model Object* e para a programação de rotinas que reduzem o trabalho manual e o risco operacional.
+**Ferramentas:** EViews, com destaque para o *Model Object* — a estrutura que trata um conjunto de equações como um modelo único — e para a programação de rotinas que reduzem o trabalho manual e o risco operacional.
+
+**Referência:** Bogdanski, Tombini e Werlang (2000), o trabalho que introduziu o modelo junto com o regime de metas para a inflação, e as versões posteriores publicadas pelo Banco Central.
 
 # Programa Detalhado
 
-O curso tem oito encontros ao vivo de duas horas cada, organizados em quatro blocos temáticos de quatro horas.
+As 16 horas de vídeo do curso estão organizadas em quatro módulos de quatro horas, em sequência: entender e estimar as peças, aprender a ferramenta que as une, montar o modelo completo e, por fim, automatizar e validar.
 
-## Bloco 1 — Os modelos de projeção do BCB e o MPP (4h)
+## Módulo 1 — Os modelos de projeção do BCB e o MPP (4h)
 
-Ponto de partida do curso: onde o MPP se encaixa no conjunto de modelos usados pelo Banco Central e como estimar suas peças principais.
+Ponto de partida do curso: onde o MPP se encaixa no conjunto de modelos que o Banco Central usa para projetar a inflação, e o que distingue um modelo semiestrutural de alternativas puramente estatísticas. Apresentada a estrutura do modelo, o trabalho passa para o EViews, com a estimação de seus principais componentes e a discussão das escolhas econométricas que cada equação exige.
 
 - Os modelos de projeção utilizados pelo BCB.
 - Apresentação do modelo de pequeno porte (MPP).
 - Estimação de seus principais componentes no EViews.
 
-## Bloco 2 — O *Model Object* do EViews (4h)
+## Módulo 2 — O *Model Object* do EViews (4h)
 
-Apresentação da estrutura do EViews que permite tratar um conjunto de equações como um modelo único, passo necessário para simular e projetar.
+Equações estimadas isoladamente ainda não formam um modelo. O *Model Object* é a estrutura do EViews que reúne esse conjunto num sistema resolvido de forma simultânea, com as interdependências entre juros, atividade, câmbio e preços tratadas de uma vez. É a peça que viabiliza simulação e projeção, e o módulo é dedicado a dominá-la antes de aplicá-la ao MPP.
 
 - Apresentação do *Model Object* do EViews.
 
-## Bloco 3 — Implementação do MPP (4h)
+## Módulo 3 — Implementação do MPP (4h)
 
-O modelo sai do papel: as equações estimadas são reunidas e o MPP passa a rodar de ponta a ponta.
+O modelo sai do papel. As equações estimadas no primeiro módulo são reunidas no *Model Object* e o MPP passa a rodar de ponta a ponta, gerando projeções a partir de um cenário. É aqui que aparecem as questões práticas de quem implementa um modelo de projeção: consistência entre as equações, tratamento das variáveis exógenas e verificação de que o sistema resolve como esperado.
 
 - Implementação do MPP usando o *Model Object* do EViews.
 
-## Bloco 4 — Operacionalização por código e resultados (4h)
+## Módulo 4 — Operacionalização por código e resultados (4h)
 
-Automação dos procedimentos e confronto com o mundo real.
+Encerramento em duas frentes. Na primeira, todo o procedimento é reescrito em código, o que transforma um trabalho manual e sujeito a erro numa rotina reproduzível — decisiva para quem precisa reestimar e reprojetar a cada rodada de dados. Na segunda, os resultados são confrontados com os divulgados pelo BCB e as funções de resposta ao impulso são analisadas, mostrando a magnitude e a duração do efeito de cada choque sobre a inflação.
 
 - Operacionalização por meio de códigos.
 - Comparação com resultados do BCB.
@@ -98,7 +107,7 @@ Já prestou serviços de treinamento e consultoria para BB Asset Management, Ban
 
 # Inscrição
 
-A matrícula dá acesso aos oito encontros ao vivo e às gravações, com garantia de reembolso em até 7 dias.
+A matrícula dá acesso aos quatro módulos do curso e ao material de apoio, com garantia de reembolso em até 7 dias.
 
 - 📄 **Página do curso:** <https://analisemacro.com.br/o-modelo-de-pequeno-porte-mpp-do-banco-central-do-brasil-bcb/>
 - 🛒 **Matrícula:** <https://aluno.analisemacro.com.br/carrinho/?add-to-cart=66416>
