@@ -18,7 +18,7 @@ theme:
 
 Os modelos DSGE (*Dynamic Stochastic General Equilibrium*) são a principal ferramenta de análise macroeconômica usada na academia, nos bancos centrais e no mercado financeiro. Eles descrevem a economia a partir das decisões ótimas de famílias, firmas e autoridades sujeitas a restrições, o que permite avaliar política monetária e responder a perguntas contrafactuais com disciplina teórica. Este curso oferece uma introdução rigorosa e aplicada a esse arcabouço, ligando teoria, modelagem e evidência empírica.
 
-O caminho vai do modelo Novo-Keynesiano básico — derivação da Curva de Phillips, da Curva IS intertemporal e da regra de Taylor — até o modelo CHORINHO, calibrado para a economia brasileira. Nada fica só no papel: cada bloco teórico é seguido de implementação computacional no DYNARE, com escrita de arquivos `.mod`, cálculo do steady state, log-linearização, diagnóstico de indeterminação e análise de funções de resposta a impulso.
+O caminho vai do modelo Novo-Keynesiano básico — derivação da Curva de Phillips, da Curva IS intertemporal e da regra de Taylor — até o modelo CHORINHO, calibrado para a economia brasileira. Nada fica só no papel: cada bloco teórico é seguido de implementação computacional no DYNARE, com cálculo do steady state, log-linearização, diagnóstico de indeterminação e análise de funções de resposta a impulso.
 
 O curso também confronta o modelo com os dados. As respostas teóricas a choques monetários, fiscais e de produtividade são comparadas com as estimadas por modelos VAR identificados, o que expõe onde o modelo básico acerta, onde ele falha e por que extensões como formação de hábito e custos de ajustamento do investimento se tornaram padrão na literatura.
 
@@ -35,7 +35,20 @@ O trecho final é dedicado ao Brasil: economia aberta, exportação de commoditi
 | **Software** | DYNARE |
 | **Nível** | Intermediário a avançado |
 
-# Pré-requisitos e Objetivos
+# Objetivo do curso
+
+Introduzir os principais conceitos da modelagem DSGE, partindo de um modelo básico até a aplicação do modelo CHORINHO para a economia brasileira, com implementação prática no software DYNARE.
+
+O curso é construído sobre um princípio: cada equação é derivada antes de ser codificada. Em vez de rodar modelos prontos, você entende de onde vem cada termo, o que cada parâmetro significa e por que o modelo se comporta como se comporta — para então escrever, depurar e simular o código por conta própria.
+
+# Para quem é
+
+- Economistas e analistas com formação em macroeconomia intermediária que querem compreender e aplicar modelos DSGE de forma rigorosa.
+- Profissionais de bancos centrais, instituições financeiras e órgãos públicos que precisam ler, avaliar ou produzir análises baseadas nesse arcabouço.
+- Pesquisadores e estudantes de pós-graduação que vão usar DSGE em dissertações, teses ou trabalhos aplicados.
+- Quem já conhece a teoria macroeconômica e quer dar o passo que costuma faltar: transformá-la em um modelo que roda e produz resultados.
+
+# Pré-requisitos e Habilidades
 
 ## Pré-requisitos
 

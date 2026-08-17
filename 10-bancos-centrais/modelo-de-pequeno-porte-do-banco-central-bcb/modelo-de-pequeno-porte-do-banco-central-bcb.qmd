@@ -37,7 +37,20 @@ O curso encerra com a validação dos resultados. As projeções obtidas são co
 | **Software** | EViews |
 | **Nível** | Avançado |
 
-# Pré-requisitos e Objetivos
+# Objetivo do curso
+
+Apresentar, estimar e implementar versões do modelo de pequeno porte usado nas discussões do COPOM, do primeiro componente estimado até um sistema completo que gera projeções, roda por código e é validado contra os resultados publicados pelo Banco Central.
+
+A ênfase é operacional. O objetivo não se encerra em entender o modelo: é ser capaz de reproduzi-lo, reestimá-lo a cada nova rodada de dados e defender os números que ele produz.
+
+# Para quem é
+
+- Economistas e analistas que acompanham as decisões do COPOM e querem reproduzir o instrumental por trás delas.
+- Profissionais de bancos centrais, tesourarias, gestoras e consultorias que produzem projeções de inflação e precisam de um modelo defensável.
+- Pesquisadores e estudantes de pós-graduação que trabalham com modelos semiestruturais aplicados à economia brasileira.
+- Usuários de EViews que querem sair da estimação de equações isoladas para a construção e simulação de um sistema completo.
+
+# Pré-requisitos e Habilidades
 
 ## Pré-requisitos
 
