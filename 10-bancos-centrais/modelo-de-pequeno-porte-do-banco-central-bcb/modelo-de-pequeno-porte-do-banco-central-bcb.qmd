@@ -31,7 +31,7 @@ O curso encerra com a validação dos resultados. As projeções obtidas são co
 | **Categoria** | Bancos Centrais |
 | **Carga horária total** | 32 horas |
 | **Horas de vídeo** | 16 horas |
-| **Número de módulos** | 4 módulos de 4 horas |
+| **Número de seções** | 4 seções de 4 horas |
 | **Formato** | Curso online, com material e vídeos disponíveis para assistir quando quiser |
 | **Professor** | Luciano Vereda Oliveira (Doutor em Economia, PUC-Rio) |
 | **Software** | EViews |
@@ -67,9 +67,9 @@ Este é um curso avançado, que começa de onde a teoria já foi vista. Ele pres
 
 # Programa Detalhado
 
-As 16 horas de vídeo do curso estão organizadas em quatro módulos de quatro horas, em sequência: entender e estimar as peças, aprender a ferramenta que as une, montar o modelo completo e, por fim, automatizar e validar.
+As 16 horas de vídeo do curso estão organizadas em quatro seções de quatro horas, em sequência: entender e estimar as peças, aprender a ferramenta que as une, montar o modelo completo e, por fim, automatizar e validar.
 
-## Módulo 1 — Os modelos de projeção do BCB e o MPP (4h)
+## Seção 1 — Os modelos de projeção do BCB e o MPP
 
 Ponto de partida do curso: onde o MPP se encaixa no conjunto de modelos que o Banco Central usa para projetar a inflação, e o que distingue um modelo semiestrutural de alternativas puramente estatísticas. Apresentada a estrutura do modelo, o trabalho passa para o EViews, com a estimação de seus principais componentes e a discussão das escolhas econométricas que cada equação exige.
 
@@ -77,19 +77,19 @@ Ponto de partida do curso: onde o MPP se encaixa no conjunto de modelos que o Ba
 - Apresentação do modelo de pequeno porte (MPP).
 - Estimação de seus principais componentes no EViews.
 
-## Módulo 2 — O *Model Object* do EViews (4h)
+## Seção 2 — O *Model Object* do EViews
 
-Equações estimadas isoladamente ainda não formam um modelo. O *Model Object* é a estrutura do EViews que reúne esse conjunto num sistema resolvido de forma simultânea, com as interdependências entre juros, atividade, câmbio e preços tratadas de uma vez. É a peça que viabiliza simulação e projeção, e o módulo é dedicado a dominá-la antes de aplicá-la ao MPP.
+Equações estimadas isoladamente ainda não formam um modelo. O *Model Object* é a estrutura do EViews que reúne esse conjunto num sistema resolvido de forma simultânea, com as interdependências entre juros, atividade, câmbio e preços tratadas de uma vez. É a peça que viabiliza simulação e projeção, e a seção é dedicada a dominá-la antes de aplicá-la ao MPP.
 
 - Apresentação do *Model Object* do EViews.
 
-## Módulo 3 — Implementação do MPP (4h)
+## Seção 3 — Implementação do MPP
 
-O modelo sai do papel. As equações estimadas no primeiro módulo são reunidas no *Model Object* e o MPP passa a rodar de ponta a ponta, gerando projeções a partir de um cenário. É aqui que aparecem as questões práticas de quem implementa um modelo de projeção: consistência entre as equações, tratamento das variáveis exógenas e verificação de que o sistema resolve como esperado.
+O modelo sai do papel. As equações estimadas na primeira seção são reunidas no *Model Object* e o MPP passa a rodar de ponta a ponta, gerando projeções a partir de um cenário. É aqui que aparecem as questões práticas de quem implementa um modelo de projeção: consistência entre as equações, tratamento das variáveis exógenas e verificação de que o sistema resolve como esperado.
 
 - Implementação do MPP usando o *Model Object* do EViews.
 
-## Módulo 4 — Operacionalização por código e resultados (4h)
+## Seção 4 — Operacionalização por código e resultados
 
 Encerramento em duas frentes. Na primeira, todo o procedimento é reescrito em código, o que transforma um trabalho manual e sujeito a erro numa rotina reproduzível — decisiva para quem precisa reestimar e reprojetar a cada rodada de dados. Na segunda, os resultados são confrontados com os divulgados pelo BCB e as funções de resposta ao impulso são analisadas, mostrando a magnitude e a duração do efeito de cada choque sobre a inflação.
 
@@ -105,7 +105,7 @@ Já prestou serviços de treinamento e consultoria para BB Asset Management, Ban
 
 # Inscrição
 
-A matrícula dá acesso aos quatro módulos do curso e ao material de apoio, com garantia de reembolso em até 7 dias.
+A matrícula dá acesso às quatro seções do curso e ao material de apoio, com garantia de reembolso em até 7 dias.
 
 - 📄 **Página do curso:** <https://analisemacro.com.br/o-modelo-de-pequeno-porte-mpp-do-banco-central-do-brasil-bcb/>
 - 🛒 **Matrícula:** <https://aluno.analisemacro.com.br/carrinho/?add-to-cart=66416>
