@@ -47,8 +47,6 @@ Este é um curso avançado, que começa de onde a teoria já foi vista. Ele pres
 - O software EViews.
 - As técnicas usadas na estimação desse tipo de modelo.
 
-Quem procura a base conceitual dos modelos de equilíbrio geral antes de partir para a implementação encontra esse caminho no curso [Introdução aos Modelos DSGE](../introducao-aos-modelos-dsge/introducao-aos-modelos-dsge.html), do mesmo professor.
-
 ## O que você será capaz de fazer
 
 - Situar o MPP no conjunto de modelos de projeção utilizados pelo Banco Central do Brasil e entender por que ele continua central nas discussões do COPOM.
