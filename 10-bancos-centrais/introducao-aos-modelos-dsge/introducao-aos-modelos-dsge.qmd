@@ -159,17 +159,13 @@ Uso do modelo para análise aplicada e encerramento. Com o modelo rodando, ele p
 - Respostas da economia brasileira aos principais choques macroeconômicos.
 - Interpretação dos resultados à luz da conjuntura.
 
-# Bônus
-
-Curso completo **O Modelo de Pequeno Porte (MPP) do Banco Central do Brasil**, também com o professor Luciano Vereda Oliveira, com 16 horas de vídeo. O MPP é o modelo semiestrutural que apoia as decisões do COPOM — um complemento direto ao arcabouço DSGE visto aqui.
-
 # Professor
 
 **Luciano Vereda Oliveira** — doutor em Economia pela PUC-Rio e professor associado da Universidade Federal Fluminense (UFF), com ampla experiência em macroeconomia aplicada, modelos DSGE e curva de juros. Atuou como consultor e instrutor para instituições financeiras, empresas e órgãos públicos.
 
 # Inscrição
 
-A matrícula dá acesso às onze seções do curso e a todo o material de apoio, incluindo os arquivos `.mod` do DYNARE, além do curso do MPP como bônus. Garantia de reembolso incondicional em até 7 dias.
+A matrícula dá acesso às onze seções do curso e a todo o material de apoio, incluindo os arquivos `.mod` do DYNARE. Garantia de reembolso incondicional em até 7 dias.
 
 - 📄 **Página do curso:** <https://analisemacro.com.br/curso-ao-vivo/introducao-aos-modelos-dsge/>
 - 🛒 **Matrícula:** <https://aluno.analisemacro.com.br/produto/introducao-aos-modelos-dsge/>
